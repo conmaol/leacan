@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="bronze">
+  <h>common nouns</h>
+  <p>Common nouns are <a href="?xx=nouns/nouns">nouns</a> which describe a <u>class</u> of
+    entity and may be used to identify specific instances of that class, eg. <ul>
+      <li><m>bean</m> [fem.] <en>woman</en></li>
+      <li><m>cànan</m> [masc.] <en>language</en></li>
+      <li><m>uisge</m> [masc.] <en>water</en></li>
+    </ul>
+  </p>
+  <p lang="gd">...</p>
+  <p lang="en">Common nouns contrast with <a href="?xx=nouns/proper_nouns">proper nouns</a>, which
+    refer to particular, specific entities.</p>
+  <p lang="gd">...</p>
+  <p lang="en">cf. <a href="?xx=nouns/generic_quantity_nouns">generic quantity nouns</a>.</p>
+  <p lang="gd">...</p>
+  <module id="derivation">
+    <h lang="en">derivation</h>
+    <h lang="gd">...</h>
+    <p lang="en">Commons nouns can be divided into three groups, depending on how they are formed – <ol>
+        <li><a href="?xx=nouns/derived_common_nouns">Derived common nouns</a> are formed from other
+          nouns, adjectives or verbs, typically by addition of a <u>suffix</u> eg. <m>bàrd</m>
+          [masc.] <en>poet</en> → <m>bàrd<u>achd</u></m> [fem.] <en>poetry</en>, <m>Leòdhas</m>
+          [masc.] <en>Lewis</en> → <m>Leòdhas<u>ach</u></m> [masc.] <en>man from Lewis</en>,
+            <m>ceart</m> [adj.] <en>correct</en> → <m>ceart<u>as</u></m> [masc.] <en>justice</en>,
+            <m>seall</m> [vb.] <en>look</en> → <m>seall<u>adh</u></m> [masc.] <en>view</en>.</li>
+        <li><a href="?xx=nouns/compound_common_nouns">Compound common nouns</a> are formed from
+          other common nouns, typically by addition of a <u>prefix</u> eg. <m>mùtaire</m> [masc.]
+            <en>person engaged in an illegal activity</en>, <m>cùl</m> [masc.] <en>back, behind</en>
+          → <m>cùl-mhùtaire</m> [masc.] <en>smuggler</en>; <m>aithris</m> [fem.] <en>report,
+            recital</en>, <m>beul</m> [masc.] <en>mouth</en> → <m>beul-aithris</m> [fem.]
+            <en>folklore</en>.</li>
+        <li><a href="?xx=nouns/simple_common_nouns">Simple common nouns</a> are not formed from
+          other words eg. <m>taigh</m> [masc.] <en>house</en>, <m>deoch</m> [fem.] <en>drink</en>,
+            <m>cù</m> [masc.] <en>dog</en>.</li>
+      </ol>
+    </p>
+    <p lang="gd">...</p>
+  </module>
+  <module id="forms">
+    <h lang="en">forms</h>
+    <h lang="gd">...</h>
+    <p lang="en">Like all nouns, common noun forms have <u>number</u> (singular or plural),
+        <u>gender</u> (feminine or masculine) and <u>case</u> (nominative or dative or genitive),
+      eg. <ul>
+        <li><b>Leugh <u>bean</u> a’ <u>mhinisteir</u>
+            <u>leabhraichean</u> anns an <u>eaglais</u></b>
+          <en>The <u>minister</u>’s <u>wife</u> read <u>books</u> in the <u>church</u></en>
+          <ul>
+            <li><m>bean</m>
+              <en>woman, wife</en> – singular, feminine, nominative</li>
+            <li><m>m(h)inisteir</m>
+              <en>minister’s</en> – singular, masculine, genitive</li>
+            <li><m>leabhraichean</m>
+              <en>books</en> – plural, nominative</li>
+            <li><m>eaglais</m>
+              <en>church</en> – singular, feminine, dative</li>
+          </ul>
+        </li>
+      </ul>
+    </p>
+    <p lang="gd">...</p>
+    <p lang="en">The rules for declining common noun forms are as follows –</p>
+    <p lang="gd">...</p>
+    <module id="dative_singular">
+      <h lang="en">dative singular forms</h>
+      <h lang="gd">...</h>
+      <p lang="en">The dative singular form of a common noun is almost always <u>identical</u> to
+        the corresponding nominative singular form eg. <ul>
+          <li><b>taigh</b> [masc.] <en>house</en> → <m>taigh</m></li>
+          <li><b>balach</b> [masc.] <en>boy</en> → <m>balach</m></li>
+          <li><b>sùil</b> [fem.] <en>eye</en> → <m>sùil</m></li>
+        </ul>
+      </p>
+      <p lang="gd">...</p>
+      <p lang="en">However, feminine nouns ending in a broad consonant are often <u>slenderised</u>
+        in the dative, particularly if they are preceed by the definite article eg. <ul>
+          <li><b>làmh</b> [fem.] <en>hand</en> → <m>làimh</m></li>
+          <li><b>bròg</b> [fem.] <en>shoe</en> → <m>bròig</m></li>
+          <li><b>cailleach</b> [fem.] <en>old woman</en> → <m>caillich</m></li>
+        </ul>
+      </p>
+      <p lang="gd">...</p>
+      <p lang="en">Notes – <ol>
+          <li>Slenderisation is sometimes accompanied by <u>raising</u> of the root vowel eg. <ul>
+              <li><b>clach</b> [fem.] <en>stone</en> → <m>cloich</m></li>
+              <li><b>grian</b> [fem.] <en>sun</en> → <m>grèin</m></li>
+            </ul></li>
+          <li>A few feminine common nouns have <u>idiosyncratic</u> traditional dative singular
+            forms eg. <ul>
+              <li><b>bean</b> [fem.] <en>woman</en> → <m>mnaoi</m></li>
+              <li><b>bò</b> [fem.] <en>cow</en> → <m>boin</m></li>
+              <li><b>brù</b> [fem.] <en>belly</en> → <m>broinn</m></li>
+              <li><b>sgian</b> [fem.] <en>knife</en> → <m>sgithinn</m></li>
+            </ul></li>
+          <li>Nouns ending in <b>-(e)achd</b> are never slenderised eg. <m>naidheachd</m> [fem.]
+              <en>news</en>, <m>naomhachd</m> [fem.] <en>holiness</en>. </li>
+          <li>In contemporary Gaelic usage, feminine dative common nouns are generally <u>not
+              slenderised</u> unless they are preceded by the definite article eg. <m>anns a’
+              chraoibh</m>
+            <en>in the tree</en> versus <m>ann an craobh</m>
+            <en>in a tree</en> (cf. the traditional <b>ann an craoibh</b>).</li>
+          <li>External sources – <ax href="https://www.gramar-g.scot/pdfs/section-2.pdf"
+              >gràmar-g</ax></li>
+        </ol>
+      </p>
+      <p lang="gd">...</p>
+    </module>
+    <module id="genitive_singular">
+      <h lang="en">genitive singular forms</h>
+      <h lang="gd">ainmearan gnàthach</h>
+      <p lang="en">The genitive singular of most feminine common nouns is formed by
+          <u>slenderising</u> the corresponding nominative singular (if possible) and adding the
+        suffix <b>-e</b> eg. <ul>
+          <li><b>craobh</b> [fem.] <en>tree</en> → <m>craoibhe</m></li>
+          <li><b>làmh</b> [fem.] <en>hand</en> → <m>làimhe</m></li>
+          <li><b>sgoil</b> [fem.] <en>school</en> → <m>sgoile</m></li>
+        </ul>
+      </p>
+      <p lang="gd">...</p>
+      <p lang="en">The genitive singular of most masculine common nouns is formed by
+          <u>slenderising</u> the corresponding nominative singular (if possible) eg. <ul>
+          <li><b>balach</b> [masc.] <en>boy</en> → <m>balaich</m></li>
+          <li><b>cat</b> [masc.] <en>cat</en> → <m>cait</m></li>
+        </ul>
+      </p>
+      <p lang="gd">...</p>
+      <p lang="en">However, some common nouns form their genitive singular by <u>deslenderising</u>
+        the nominative singular (if possible) and adding the suffix <b>-a</b> eg. <ul>
+          <li><b>sùil</b> [fem.] <en>eye</en> → <m>sùla</m></li>
+          <li><b>fiodh</b> [masc.] <en>wood</en> → <m>fiodha</m></li>
+        </ul>
+      </p>
+      <p lang="gd">...</p>
+      <p lang="en">Finally, bisyllabic feminine common nouns ending in <b>-(a)ir</b> usually form
+        their genitive singulars in <b>-r(e)ach</b> eg. <ul>
+          <li><b>obair</b> [fem.] <en>work</en> → <m>obrach</m></li>
+          <li><b>cathair</b> [fem.] <en>chair, city</en> → <m>cathrach</m></li>
+          <li><b>litir</b> [fem.] <en>letter</en> → <m>litreach</m></li>
+        </ul>
+      </p>
+      <p lang="gd">...</p>
+      <p lang="en">Notes – <ol>
+          <li>Slenderisation is often accompanied by <u>raising</u> of the root vowel eg. <ul>
+              <li><b>clach</b> [fem.] <en>stone</en> → <m>cloiche</m></li>
+              <li><b>bòrd</b> [masc.] <en>table</en> → <m>bùird</m>.</li>
+            </ul></li>
+          <li>Similarly, deslenderisation is often accompanied by <u>lowering</u> of the root vowel eg.<ul>
+              <li><b>fuil</b> [fem.] <en>blood</en> → <m>fala</m></li>
+              <li><b>muir</b> [masc.] <en>sea</en> → <m>mara</m>.</li>
+            </ul></li>
+          <li>Common nouns ending in a vowel are usually unchanged in the genitive singular eg. <ul>
+              <li><b>baile</b> [masc.] <en>town</en> → <m>baile</m></li>
+              <li><b>colaiste</b> [fem.] <en>college</en> → <m>colaiste</m></li>
+              <li><b>balla</b> [masc.] <en>wall</en> → <m>balla</m>.</li>
+            </ul></li>
+          <li>Nouns ending in <b>-(e)achd</b> are unchanged in the genitive eg. <ul>
+              <li><b>naidheachd</b> [fem.] <en>news</en> → <m>naidheachd</m></li>
+              <li><b>beachd</b> [masc.] <en>opinion</en> → <m>beachd</m>.</li>
+            </ul></li>
+          <li>Recent loanwords from English are typically unchanged in the genitive eg. <b>bus</b>
+            [masc.] <en>bus</en> → <m>bus</m>.</li>
+          <li>There are a few idiosyncratic genitive singular forms of common nouns – <ul>
+              <li><b>athair</b> [masc.] <en>father</en> → <m>athar</m></li>
+              <li><b>bean</b> [fem.] <en>woman</en> → <m>mnatha</m> (or <m>mnà</m>)</li>
+              <li><b>bò</b> [fem.] <en>cow</en> → <m>bà</m></li>
+              <li><b>bràthair</b> [masc.] <en>brother</en> → <m>bràthar</m></li>
+              <li><b>cù</b> [masc.] <en>dog</en> → <m>coin</m></li>
+              <li><b>leabaidh</b> [fem.] <en>bed</en> → <m>leapa</m></li>
+              <li><b>màthair</b> [fem.] <en>mother</en> → <m>màthar</m></li>
+              <li><b>piuthar</b> [fem.] <en>sister</en> → <m>peathar</m></li>
+              <li><b>taigh</b> [masc.] <en>house</en> → <m>taighe</m>.</li>
+            </ul></li>
+          <li>In contemporary Gaelic usage, <u>polysyllabic</u> feminine genitive common nouns are
+            generally <u>not augmented</u> with <b>-e</b> eg. <ul>
+              <li><b>uinneag</b> [fem.] <en>window</en> → <m>uinneig</m> (cf. †<b>uinneige</b>)</li>
+              <li><b>aibideil</b> [fem.] <en>alphabet</en> → <m>aibideil</m> (cf.
+                †<b>aibideile</b>)</li>
+            </ul></li>
+        </ol>
+      </p>
+      <p lang="gd">...</p>
+    </module>
+    <module id="plural">
+      <h lang="en">nominative and dative plural</h>
+      <h lang="gd">ainmearan gnàthach</h>
+      <p lang="en">The nominative plural form of a common noun is <ed>coming soon</ed>.</p>
+      <p lang="gd">...</p>
+    </module>
+    <module id="genitive_plural">
+      <h lang="en">genitive plural forms</h>
+      <h lang="gd">ainmearan gnàthach</h>
+      <p lang="en">The genitive plural form of a common noun is <ed>coming soon</ed>.</p>
+      <p lang="gd">...</p>
+    </module>
+  </module>
+  <module id="relations">
+    <h lang="en">relations</h>
+    <h lang="gd">...</h>
+    <module id="specifiers">
+      <h lang="en">specifiers</h>
+      <h lang="gd">...</h>
+      <p lang="en">Like all nouns, a common noun can have a <u>specifier</u>, which is either – <ol>
+          <li>a <a href="?xx=nouns/determiners">determiner</a> as <i>pre</i>-specifier eg.
+                <m><u>an</u> taigh</m>
+            <en>the house</en>, <m><u>ar</u> cù</m>
+            <en>our dog</en></li>
+          <li>a (usually genitive) noun as <i>post</i>-specifier eg. <m>taigh <u>Sheumais</u></m>
+            <en>James’ house</en>, <m>cù mo <u>mhàthar</u></m>
+            <en>my mother’s dog</en></li>
+        </ol>
+      </p>
+      <p lang="gd">...</p>
+      <p lang="en">A common noun which is a (post-)specifier of another noun is usually in the
+          <u>genitive</u> case eg. <ul>
+          <li><m>taigh a’ <u>choin</u></m>
+            <en>the dog’s house</en></li>
+          <li><m>taighean nan <u>con</u></m>
+            <en>the dogs’ houses</en></li>
+        </ul>
+      </p>
+      <p lang="gd">...</p>
+      <p lang="en">However, if it has a post-specifier itself, it is <u>nominative</u> eg. <ul>
+          <li><m>taigh <u>cù</u> a’ mhinisteir</m>
+            <en>the minister’s dog’s house</en></li>
+          <li><m>taighean <u>coin</u> a’ mhinisteir</m>
+            <en>the minister’s dogs’ houses</en> (cf. <bad>taighean c[h]on a’ mhinisteir</bad>)</li>
+          <li><m>taigh <u>cù</u>
+              <u>ministear</u> a’ chlachain</m>
+            <en>the village’s minister’s dog’s house</en></li>
+          <li><m>taighean <u>coin</u>
+              <u>ministear</u> a’ chlachain</m>
+            <en>the village’s minister’s dogs’ houses</en> (cf. <bad>taighean c[h]on ministeir a’
+              chlachain</bad>)</li>
+        </ul>
+      </p>
+      <p lang="gd">...</p>
+      <p lang="en">A plural common noun which is the (post-)specifier of another common noun, but
+        has no specifier itself, is <u>lenited</u> eg. <ul>
+          <li><m>taighean <u>bhan</u></m><en>women’s houses</en></li>
+        </ul>
+      </p>
+      <p lang="gd">...</p>
+    </module>
+    <module id="modifiers">
+      <h lang="en">modifiers</h>
+      <h lang="gd">...</h>
+      <p lang="en">Like all nouns, a common noun can have one or more (post-)modifiers, which are
+        either – <ol>
+          <li>an <a href="?xx=adjectives/adjectives">adjective</a> eg. <m>taigh <u>geal</u></m>
+            <en>a white house</en>, <m>coin <u>ruadha</u>
+              <u>bheaga</u></m>
+            <en>little ginger dogs</en></li>
+          <li>a genitive common noun eg. <m>cù <u>taighe</u></m>
+            <en>a house dog</en>, <m>taigh <u>chon</u></m>
+            <en>a kennel (ie. dog house)</en></li>
+          <li>a <a href="?xx=prepositions/prepositions">prepositional</a> phrase eg. <m>caileag
+                <u>le</u> falt fada</m>
+            <en>a girl with long hair</en>, <m>na taighean <u>agam</u></m>
+            <en>my houses</en></li>
+          <li>a relative clause eg. <ul>
+              <li><m>leabhar <u>a</u> sgrìobh mi</m>
+                <en>a book which I wrote</en></li>
+              <li><m>uinneag <u>nach</u> do bhris iad</m>
+                <en>a window which they did not break</en></li>
+              <li><m>balach <u>leis an</u> deach i dhan sgoil</m>
+                <en>a boy who she went to school with</en>.</li>
+            </ul>
+          </li>
+        </ol>
+      </p>
+      <p lang="gd">...</p>
+    </module>
+    <module id="apposition">
+      <h lang="en">apposition</h>
+      <h lang="gd">...</h>
+      <p lang="en">A specified common noun can stand in apposition to a proper noun, agreeing for
+        case (and number) eg. <b><u>Dòmhnall</u> an <u>sagart</u></b>
+        <en>Donald the priest</en> [nominative case], <b>le <u>Dòmhnall</u> an t-<u>sagart</u></b>
+        <en>with Donald the priest</en> [dative case], <b>taigh <u>Dhòmhnaill</u> an
+            t-<u>sagairt</u></b>
+        <en>Donald the priest’s house</en> [genitive case]. </p>
+      <p lang="gd">...</p>
+    </module>
+  </module>
+  <module id="senses">
+    <h lang="en">senses</h>
+    <h lang="gd">seaghan</h>
+    <module id="concrete">
+      <h lang="en">concrete vs. abstract</h>
+      <h lang="gd">...</h>
+      <p lang="en">Some common nouns are inherently <u>concrete</u>, being normally associated with
+        a material (tangible) sense, eg. <ul>
+          <li><m>Tha <u>taigh</u> aig a’ <u>mhinisteir</u></m>
+            <en>The <u>minister</u> has a <u>house</u></en></li>
+          <li><m>Dh’ith na <u>coin</u> an <u>fheòil</u> air a’ <u>bhòrd</u></m>
+            <en>The <u>dogs</u> ate the <u>meat</u> on the <u>table</u></en></li>
+        </ul>
+      </p>
+      <p lang="gd">...</p>
+      <p lang="en">Other common nouns are inherently abstract, being normally associated with a
+        non-material (intangible) sense, eg. <ul>
+          <li><m>Is e <u>cànanan</u> clasaigeach a tha ann an Laideann agus anns a’ Ghreugais</m>
+            <en>Latin and Greek are classical <u>languages</u></en></li>
+          <li><m>Dh’ionnsaich Màiri <u>eachdraidh</u> anns an sgoil</m>
+            <en>Mary learned <u>history</u> at school</en></li>
+        </ul>
+      </p>
+      <p lang="gd">...</p>
+      <p lang="en">However some common nouns can be either concrete or abstract depending on
+        context, eg. <ul>
+          <li><m>Tha Dòmhnall a’ sgrìobhadh <u>leabhair</u></m>
+            <en>Donald is writing <u>a book</u></en> – abstract</li>
+          <li><m>Tha Dòmhnall a’ sgrìobhadh ann an <u>leabhar</u></m>
+            <en>Donald is writing in <u>a book</u></en> – concrete</li>
+        </ul>
+      </p>
+      <p lang="gd">...</p>
+    </module>
+    <module id="countable">
+      <h lang="en">countable vs. uncountable</h>
+      <h lang="gd">...</h>
+      <p lang="en">Some singular common noun forms are inherently <u>countable</u>, being associated
+        with a bounded sense, eg. <ul>
+          <li><m>Tha <u>cù</u> aig Raonaid</m>
+            <en>Rachel has <u>a dog</u></en> – a (simple, bounded) individual</li>
+          <li><m>Tha <u>treud</u> air a’ mhonadh</m>
+            <en>There is <u>a herd</u> on the moor</en> – a (complex, bounded) group</li>
+        </ul>
+      </p>
+      <p lang="gd">...</p>
+      <p lang="en">Other singular common noun forms are inherently <u>uncountable</u>, being
+        associated with a non-bounded sense, eg. <ul>
+          <li><m>Tha Raonaid ag òl <u>fìona</u></m>
+            <en>Rachel is drinking <u>wine</u></en> – a (simple, non-bounded) substance (ie. a
+            ‘mass’ noun)</li>
+          <li><m>Bha <u>crodh</u> air a’ mhonadh</m>
+            <en>There were <u>cattle</u> on the moor</en> – a (complex, non-bounded) aggregate (ie.
+            a ‘collective’, noun)</li>
+        </ul>
+      </p>
+      <p lang="gd">...</p>
+      <p lang="en">However, some singular common nouns can be either countable or uncountable,
+        depending on context, eg. <ul>
+          <li><m>Tha <u>ugh</u> air an làr</m>
+            <en>There is <u>an egg</u> on the floor</en></li>
+          <li><m>Tha <u>ugh</u> air feadh an làir</m>
+            <en>There is <u>egg</u> all over the floor</en></li>
+        </ul>
+      </p>
+      <p lang="gd">...</p>
+      <p lang="en">Plural common nouns are usually associated with non-bounded, aggregate senses,
+        eg. <ul>
+          <li><m>Tha <u>coin</u> aig Mairead</m>
+            <en>Margaret has <u>dogs</u></en></li>
+          <li><m>Tha <u>uighean</u> air feadh an làir</m>
+            <en>There are <u>eggs</u> all over the floor</en></li>
+        </ul>
+      </p>
+      <p lang="gd">...</p>
+      <p lang="en">However, as in English, there are some <i>plurale tantum</i> uses, where a plural
+        noun is associated with a (simple, bounded) individual, eg. <ul>
+          <li><m>Càite a bheil mo <u>speuclairean</u>?</m>
+            <en>Where are my <u>spectacles</u>?</en></li>
+        </ul>
+      </p>
+      <p lang="gd">...</p>
+      <p lang="en">Note that some <i>plurale tantum</i> English nouns correspond to normal singular
+        countable Gaelic nouns, eg. <m>briogais</m> (feminine singular) ~ <en>trousers</en>
+        (plural).</p>
+      <p lang="gd">...</p>
+    </module>
+    <module>
+      <h>other</h>
+      <p>cf. <a href="?xx=nouns/anthropic_common_nouns">anthropic common nouns</a>, <a
+          href="?xx=nouns/toponymic_common_nouns">toponymic common nouns</a>, <a
+          href="?xx=nouns/faunal_common_nouns">faunal common nouns</a></p>
+    </module>
+  </module>
+
+
+
+
+
+
+
+
+  <!--
+  <p>Common nouns can be classified into different <u>semantic</u> types, depending on the kind of entity they describe –</p>
+  <ul>
+    <li><u>Anthropic</u> common nouns refer to categories of human being –
+      <ul>
+        <li><a href="?xx=nouns/ethnonymic_common_nouns">Ethnonymic common nouns</a> classify people according to ethno-cultural heritage or lineage 
+          eg. <m>Gàidheal</m> <en>Gael</en>, <m>Leòdhasach</m> <en>person from Lewis</en>, <m>Caimbeulach</m> <en>a Campbell</en>.</li>
+        <li>Professional common nouns classify people according to their job or social status
+          eg. <m>saor</m> <en>carpenter</en>, <m>sagart</m> <en>priest</en>, 
+          <m>rìgh</m> <en>king</en>. <boxlink ref="#professional"/></li>
+        <li>Other anthropic common classify people according to their sex and/or age, 
+          eg. <m>cailleach</m> <en>old woman</en>, <m>bodach</m> <en>old man</en>, <m>bean</m> <en>woman</en>, 
+          <m>fear</m> <en>man</en>, <m>caileag</m> <en>girl</en>, <m>balach</m> <en>boy</en>, <m>paiste</m> <en>child</en>, <m>leanabh</m> <en>baby</en>.</li>
+        <li>Anthropic aggregate common nouns refer to non-bounded pluralities of people 
+          eg. <m>clann</m> <en>children</en>, <m>muinntir</m> <en>people</en>, <m>luchd</m> <en>people</en>.</li>
+        <li>Anthropic collective common nouns refer to bounded groups of people
+          eg. <m>sgioba</m> <en>team</en>, <m>buidheann</m> <en>group</en>, <m>comataidh</m> <en>committee</en>.</li>
+      </ul>
+    </li>
+    <li><u>Zoological</u> common nouns refer to categories of animal, eg. <m>cù</m> <en>dog</en>, <m>seillean</m> <en>bee</en>, <m>sgarbh</m> <en>cormorant</en>.</li>
+  </ul>
+  <box id="professional">
+    <title>professional common nouns</title>
+    <p>Crafts, trades, jobs – <toggle href="crafts"/></p>
+    <ctable id="crafts">
+      <tbody>
+        <tr><td><m>baillidh</m></td><td><en>bailiff, factor, magistrate</en></td><td></td></tr>
+        <tr><td><m>breabadair</m></td><td><en>weaver</en></td><td></td></tr>
+        <tr><td><m>dotair</m></td><td><en>medical doctor</en></td><td></td></tr>
+        <tr><td><m>gobha</m></td><td><en>metalsmith</en></td><td></td></tr>
+        <tr><td><m>poileas</m></td><td><en>policeman</en></td><td></td></tr>
+        <tr><td><m>post</m></td><td><en>postman</en></td><td></td></tr>
+        <tr><td><m>saighdear</m></td><td><en>soldier</en></td><td></td></tr>
+        <tr><td><m>saor</m></td><td><en>carpenter</en></td><td></td></tr>
+        <tr><td><m>tàillear</m></td><td><en>tailor</en></td><td></td></tr>
+        <tr><td><m>tidsear</m></td><td><en>teacher</en></td><td></td></tr>
+      </tbody>
+    </ctable>
+  </box>
+  -->
+
+</module>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <title lang="en">Should nouns governed by a progressive verbal noun be in the genitive or nominative case?</title>
+    <title lang="gd">Am bu chòir ainmean a bhith air an sèimheachadh anns an tuiseal
+        ghinideach?</title>
+    <p>In traditional Gaelic, the object of a transitive verb in the progressive was generally in the genitive case eg.</p>
+    <ul>
+        <li><m>a’ faicinn balaich bhig</m> <en>seeing a little boy</en></li>
+        <li><m>a’ sgrìobhadh na litreach</m> <en>writing the letter</en></li>
+        <li><m>a’ ceannach bhrògan</m> <en>buying shoes</en></li>
+        <li><m>a’ biadhachadh nan con</m> <en>feeding the dogs</en></li>
+    </ul>
+    <p>However, nowadays there is a noticable tendency to use the nominative for at least some of these uses eg.</p>
+    <ul>
+        <li><strong>a’ faicinn balach beag</strong></li>
+        <li><strong>a’ sgrìobhadh an litir</strong></li>
+        <li><strong>a’ ceannach brògan</strong></li>
+        <li><strong>a’ biadhachadh na coin</strong></li>
+    </ul>
+    <p>The recommended <u>neutral</u> usage in contemporary Gaelic is to use the nominative with an indefinite singular noun and the genitive otherwise ie.</p>
+    <ul>
+        <li><m>a’ faicinn balach beag</m></li>
+        <li><m>a’ sgrìobhadh na litreach</m></li>
+        <li><m>a’ ceannach bhrògan</m></li>
+        <li><m>a’ biadhachadh nan con</m></li>
+    </ul>
+    <p>However, the following usages may be appropriate if you are aiming for a more <u>informal</u>, <u>conversational</u> or <u>modern</u> style –</p>
+    <ul>
+        <li><strong>a’ sgrìobhadh an litir</strong></li>
+        <li><strong>a’ ceannach brògan</strong></li>
+        <li><strong>a’ biadhachadh na coin</strong></li>
+    </ul>
+    <p>And the following may be appropriate if you are aiming for a more <u>formal</u>, <u>literary</u> or <u>traditional</u> style –</p>
+    <ul>
+        <li><strong>a’ faicinn balaich bhig</strong></li>
+        <li><strong>a’ sgrìobhadh litreach</strong></li>
+    </ul>
+    <p>See also – <a href="?xx=nouns/verbal_nouns&amp;box=noun-objects">verbal nouns</a>, <a href="?gd=ag">ag</a></p>
+    
+</module>
+

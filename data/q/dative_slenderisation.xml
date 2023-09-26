@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module>
+    <title lang="en">Should feminine nouns and their adjectives be slenderised after
+        prepositions?</title>
+    <title lang="gd">Am bu chòir ainmean a bhith air an sèimheachadh anns an tuiseal
+        ghinideach?</title>
+    <p>The following prepositions govern a noun in the <u>dative</u> case –</p>
+    <ul>
+        <li><strong>à</strong>
+            <en>out of</en>, <strong>aig</strong>
+            <en>at</en>, <strong>air</strong>
+            <en>on</en>, <strong>ann an</strong>
+            <en>in</en>, <strong>bho</strong>
+            <en>from</en>, <strong>de</strong>
+            <en>of</en>, <strong>do</strong>
+            <en>to</en>, <strong>fo</strong>
+            <en>under</en>, <strong>gu</strong>
+            <en>to</en>, <strong>le</strong>
+            <en>with</en>, <strong>mu</strong>
+            <en>about</en>, <strong>ri</strong>
+            <en>to</en>, <strong>ro</strong>
+            <en>before</en>, <strong>tro</strong>
+            <en>through</en></li>
+    </ul>
+    <p>In <u>traditional</u> Gaelic, a feminine singular noun governed by one of these prepositions
+        was <u>slenderised</u> (where possible) eg.</p>
+    <ul>
+        <li><strong>uinneag</strong>
+            <en>a window</en> → <m>tro uinn<u>eig</u></m>
+            <en>through a window</en>, <m>tron uinn<u>eig</u></m>
+            <en>through the window</en></li>
+        <li><strong>coinneamh</strong>
+            <en>a meeting</en> → <m>aig coinn<u>eimh</u></m>
+            <en>at a meeting</en>, <m>aig a’ choinn<u>eimh</u></m>
+            <en>at the meeting</en></li>
+    </ul>
+    <p>In addition, any <u>adjectives</u> following these nouns were slenderised in sympathy eg.</p>
+    <ul>
+        <li><strong>uinneag mhòr ghorm</strong>
+            <en>a big blue window</en> → <m>tro uinn<u>eig</u> mh<u>òir</u> gh<u>uirm</u></m>
+            <en>through a big blue window</en>, <m>tron uinn<u>eig</u> mh<u>òir</u>
+                gh<u>uirm</u></m>
+            <en>through the big blue window</en></li>
+        <li><strong>coinneamh cudromach</strong>
+            <en>an important meeting</en> → <m>aig coinn<u>eimh</u> chudrom<u>aich</u></m>
+            <en>at an important meeting</en>, <m>aig a’ choinn<u>eimh</u> chudrom<u>aich</u></m>
+            <en>at the important meeting</en></li>
+    </ul>
+    <p>However, in <u>contemporary vernacular</u> Gaelic, there is a tendency to avoid this kind of
+        slenderisation, especially in the absence of an article eg.</p>
+    <ul>
+        <li><m>tro uinneag (mhòr) (ghorm)</m></li>
+        <li><m>tron uinneag (mhòr) (ghorm)</m></li>
+        <li><m>aig coinneamh (chudromach)</m></li>
+        <li><m>aig a’ choinneamh (chudromach)</m></li>
+    </ul>
+    <p>Neither of these usages should be considered ungrammatical at this time –</p>
+    <ul>
+        <li>If you are aiming for a more <u>informal</u>, <u>conversational</u> or <u>modern</u>
+            style, <strong>avoid slenderisation</strong> of feminine nouns and their adjectives after
+            prepositions.</li>
+        <li>If you are aiming for a more <u>formal</u>, <u>literary</u> or <u>traditional</u> style,
+            <strong>embrace slenderisation</strong> of feminine nouns and their adjectives after
+            prepositions.</li>
+    </ul>
+    <p>See also – <a href="?xx=nouns/common_nouns&amp;box=dative-singular">dative singular forms of
+            common nouns</a></p>
+    <p>Note finally that the following prepositions do <u>not</u> govern nouns in the dative case, so rules
+        regarding slenderisation are different –</p>
+    <ul>
+        <li><strong>gun</strong>
+            <en>without</en>, <strong>mar</strong>
+            <en>like</en> (nominative)</li>
+        <li><strong>chun</strong>
+            <en>to</en>, <strong>far</strong>
+            <en>off</en>, <strong>rè</strong>
+            <en>during</en>, <strong>tarsainn</strong>
+            <en>across</en>, <strong>fad</strong>
+            <en>throughout</en> (genitive)</li>
+    </ul>
+</module>
