@@ -21,7 +21,8 @@ echo <<<HTML
   <style>ul { margin-left: -15px;}</style>
 </head>
 <body>
-  <header style="background: #202050; color: #ffffff; margin-top: 1.0rem; margin-bottom: 1.0rem; border-top: solid 1.0rem #d0c9b0; border-bottom: solid 1.0rem #d0c9b0;">
+  <!--<header style="background: #202050; color: #ffffff; margin-top: 1.0rem; margin-bottom: 1.0rem; border-top: solid 1.0rem #d0c9b0; border-bottom: solid 1.0rem #d0c9b0;"> -->
+  <header style="background: #202050; color: #ffffff; margin-bottom: 1.0rem;">
     <div class="container-fluid">
       <nav class="navbar navbar-expand-lg navbar-dark">
         <!-- <a class="navbar-brand" href="index.php" style="color: inherit; font-size: 18pt;">𓁢 Ri·chèile</a> -->
