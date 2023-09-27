@@ -251,6 +251,17 @@ HTML;
   <li>What are the <a href="?q=goc">Gaelic Orthographic Conventions</a>?</li>
   <li>Linguistic resources database – <a href="?q=banca">Banca na Gàidhlig</a></li>
 </ul>
+<p>Older modules are as follows –
+<ul>
+  <li>What are the irregular verbs in Gaelic? –
+  <ul>
+    <li><a href="?gd=abair"><strong>abair</strong></a> ‘say’, <a href="?gd=cluinn"><strong>cluinn</strong></a> ‘hear’, <a href="?gd=faic"><strong>faic</strong></a> ‘see’, </li>
+  </ul>
+  </li>
+</ul>
+</p>
+
+
 <!--<p>You can read the prolegomenon <a href="prolegomenon/index.html">here</a>.</p>-->
 <hr/>
 <p class="small text-muted">LEACAN is being developed by <a href="https://dasg.ac.uk" target="_new">DASG</a> and 

@@ -391,6 +391,11 @@
                         window</tr>
                       <ref text="601">td. 14 | 34 | 39 | 62 | 196 | 69</ref>
                     </li>
+                    <li>
+                      <gd>Chunnaic mi cù aig an dorus.</gd>
+                      <tr>I saw a dog at the door.</tr>
+                      <ref text="617">td. 6</ref>
+                    </li>
                   </xl>
                 </li>
               </ul>
@@ -848,6 +853,14 @@
             </xl>
           </li>
         </ul>
+      </p>
+      <p>Some examples as a verbal complement – <xl id="uses-obj-verb-xs">
+          <li>
+            <gd>Chunnaic mi cù aig an dorus.</gd>
+            <tr>I saw a dog at the door.</tr>
+            <ref text="617">td. 6</ref>
+          </li>
+        </xl>
       </p>
     </section>
     <section id="uses-modifier">

@@ -1,266 +1,275 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
 <module status="bronze">
-  <h lang="en">abair</h>
-  <h lang="gd">abair</h>
-  <p lang="en"><b>abair</b>
+  <h>abair</h>
+  <p><g>abair</g>
     <en>say</en> is an irregular <a href="?xx=verbs/verbs">verb</a>.</p>
-  <p lang="gd">Is e <a href="?xx=verbs/verbs">gnìomhair neo-riaghailteach</a> a tha ann an
-      <b>abair</b>.</p>
   <section id="forms">
-    <h lang="en">forms</h>
-    <h lang="gd">...</h>
-    <p lang="en">The principal parts of <b>abair</b> are – <ul>
+    <h>forms</h>
+    <p>The principal parts of <g>abair</g> are – <ul>
         <li><m>their</m> – future independent ie. <en>will say</en></li>
         <li><m>thuirt</m> – past independent ie. <en>said</en></li>
         <li><m>ràdh</m> – verbal noun ie. <en>saying</en></li>
       </ul>
     </p>
-    <p lang="gd">Seo na prìomh-mhìrean de dh’<b>abair</b> –</p>
-    <p lang="en">The full forms of <b>abair</b> are – <ul>
-        <li>past <ul id="past">
-            <li>active <ul>
-                <li>independent – <m>thuirt</m></li>
-                <li>relative – a <m>thuirt</m></li>
-                <li>dependent – cha/an/nach <m>tuirt</m></li>
-              </ul>
-            </li>
-            <li>passive <ul>
-                <li>independent – <m>thuirteadh</m></li>
-                <li>relative – a <m>thuirteadh</m></li>
-                <li>dependent – cha/an/nach <m>tuirteadh</m></li>
-              </ul>
-            </li>
-          </ul>
-        </li>
-        <li>future <ul id="future">
-            <li>active <ul>
-                <li>independent – <m>their</m></li>
-                <li>relative – a <m>their</m></li>
-                <li>dependent – chan/an/nach <m>abair</m></li>
-              </ul>
-            </li>
-            <li>passive <ul>
-                <li>independent – <m>theirear</m></li>
-                <li>relative – a <m>theirear</m></li>
-                <li>dependent – chan/an/nach <m>abrar</m></li>
-              </ul>
-            </li>
-          </ul>
-        </li>
-        <li>conditional <ul id="conditional">
-            <li>active <ul>
-                <li>first person singular <ul>
-                    <li>independent – <m>theirinn</m></li>
-                    <li>relative – a <m>theirinn</m></li>
-                    <li>dependent – chan/an/nach <m>abrainn</m></li>
-                  </ul>
-                </li>
-                <li>first person plural <ul>
-                    <li>independent – <m>theireamaid</m></li>
-                    <li>relative – a <m>theireamaid</m></li>
-                    <li>dependent – chan/an/nach <m>abramaid</m></li>
-                  </ul>
-                </li>
-                <li>second/third persons <ul>
-                    <li>independent – <m>theireadh</m></li>
-                    <li>relative – a <m>theireadh</m></li>
-                    <li>dependent – chan/an/nach <m>abradh</m></li>
-                  </ul>
-                </li>
-              </ul>
-            </li>
-            <li>passive <ul>
-                <li>independent – <m>theirte</m></li>
-                <li>relative – a <m>theirte</m></li>
-                <li>dependent – chan/an/nach <m>abairte</m></li>
-              </ul>
-            </li>
-          </ul>
-        </li>
-        <hr/>
-        <li>independent <ul id="independent">
-            <li>past <ul>
-                <li>active – <m>thuirt</m></li>
-                <li>passive – <m>thuirteadh</m></li>
-              </ul>
-            </li>
-            <li>future <ul>
-                <li>active – <m>their</m></li>
-                <li>passive – <m>theirear</m></li>
-              </ul>
-            </li>
-            <li>conditional <ul>
-                <li>active <ul>
-                    <li>first person singular – <m>theirinn</m></li>
-                    <li>first person plural – <m>theireamaid</m></li>
-                    <li>second/third persons – <m>theireadh</m></li>
-                  </ul>
-                </li>
-                <li>passive – <m>theirte</m></li>
-              </ul>
-            </li>
-          </ul>
-        </li>
-        <li>relative <ul id="relative">
-            <li>past <ul>
-                <li>active – a <m>thuirt</m></li>
-                <li>passive – a <m>thuirteadh</m></li>
-              </ul>
-            </li>
-            <li>future <ul>
-                <li>active – a <m>their</m></li>
-                <li>passive – a <m>theirear</m></li>
-              </ul>
-            </li>
-            <li>conditional <ul>
-                <li>active <ul>
-                    <li>first person singular – a <m>theirinn</m></li>
-                    <li>first person plural – a <m>theireamaid</m></li>
-                    <li>second/third persons – a <m>theireadh</m></li>
-                  </ul>
-                </li>
-                <li>passive – a <m>theirte</m></li>
-              </ul>
-            </li>
-          </ul>
-        </li>
-        <li>dependent <ul id="dependent">
-            <li>past <ul>
-                <li>active – cha/an/nach <m>tuirt</m></li>
-                <li>passive – cha/an/nach <m>tuirteadh</m></li>
-              </ul>
-            </li>
-            <li>future <ul>
-                <li>active – chan/an/nach <m>abair</m></li>
-                <li>passive – chan/an/nach <m>abrar</m></li>
-              </ul>
-            </li>
-            <li>conditional <ul>
-                <li>active <ul>
-                    <li>first person singular – chan/an/nach <m>abrainn</m></li>
-                    <li>first person plural – chan/an/nach <m>abramaid</m></li>
-                    <li>second/third persons – chan/an/nach <m>abradh</m></li>
-                  </ul>
-                </li>
-                <li>passive – chan/an/nach <m>abairte</m></li>
-              </ul>
-            </li>
-          </ul>
-        </li>
-        <hr/>
-        <li>active <ul id="active">
-            <li>past <ul>
-                <li>independent – <m>thuirt</m></li>
-                <li>relative – a <m>thuirt</m></li>
-                <li>dependent – cha/an/nach <m>tuirt</m></li>
-              </ul>
-            </li>
-            <li>future <ul>
-                <li>independent – <m>their</m></li>
-                <li>relative – a <m>their</m></li>
-                <li>dependent – chan/an/nach <m>abair</m></li>
-              </ul>
-            </li>
-            <li>conditional <ul>
-                <li>independent <ul>
-                    <li>first person singular – <m>theirinn</m></li>
-                    <li>first person plural – <m>theireamaid</m></li>
-                    <li>second/third persons – <m>theireadh</m></li>
-                  </ul>
-                </li>
-                <li>relative <ul>
-                    <li>first person singular – a <m>theirinn</m></li>
-                    <li>first person plural – a <m>theireamaid</m></li>
-                    <li>second/third persons – a <m>theireadh</m></li>
-                  </ul>
-                </li>
-                <li>dependent <ul>
-                    <li>first person singular – chan/an/nach <m>abrainn</m></li>
-                    <li>first person plural – chan/an/nach <m>abramaid</m></li>
-                    <li>second/third persons – chan/an/nach <m>abradh</m></li>
-                  </ul>
-                </li>
-              </ul>
-            </li>
-          </ul>
-        </li>
-        <li>passive <ul id="passive">
-            <li>past <ul>
-                <li>independent – <m>thuirteadh</m></li>
-                <li>relative – a <m>thuirteadh</m></li>
-                <li>dependent – cha/an/nach <m>tuirteadh</m></li>
-              </ul>
-            </li>
-            <li>future <ul>
-                <li>independent – <m>theirear</m></li>
-                <li>relative – a <m>theirear</m></li>
-                <li>dependent – chan/an/nach <m>abrar</m></li>
-              </ul>
-            </li>
-            <li>conditional <ul>
-                <li>independent – <m>theirte</m></li>
-                <li>relative – a <m>theirte</m></li>
-                <li>dependent – chan/an/nach <m>abairte</m></li>
-              </ul>
-            </li>
-          </ul>
-        </li>
-        <hr/>
-        <li>imperative <ul id="imperative">
-            <li>independent <ul>
-                <li>first person singular – <m>abram</m>!</li>
-                <li>second person singular – <m>abair</m>!</li>
-                <li>first person plural – <m>abramaid</m>!</li>
-                <li>second person plural – <m>abraibh</m>!</li>
-                <li>third person – <m>abradh</m>!</li>
-                <li>passive – <m>abrar</m>!</li>
-              </ul>
-            </li>
-            <li>dependent <ul>
-                <li>first person singular – na h-<m>abram</m>!</li>
-                <li>second person singular – na h-<m>abair</m>!</li>
-                <li>first person plural – na h-<m>abramaid</m>!</li>
-                <li>second person plural – na h-<m>abraibh</m>!</li>
-                <li>third person – na h-<m>abradh</m>!</li>
-                <li>passive – na h-<m>abrar</m>!</li>
-              </ul>
-            </li>
-          </ul>
-        </li>
-        <hr/>
-        <li>verbal noun – <m>ràdh</m></li>
-      </ul>
+    <section>
+      <h>tense</h>
+      <p><ul>
+          <li>past <ul id="past">
+              <li>active <ul>
+                  <li>independent – <m>thuirt</m></li>
+                  <li>relative – a <m>thuirt</m></li>
+                  <li>dependent – cha/an/nach <m>tuirt</m></li>
+                </ul>
+              </li>
+              <li>passive <ul>
+                  <li>independent – <m>thuirteadh</m></li>
+                  <li>relative – a <m>thuirteadh</m></li>
+                  <li>dependent – cha/an/nach <m>tuirteadh</m></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li>future <ul id="future">
+              <li>active <ul>
+                  <li>independent – <m>their</m></li>
+                  <li>relative – a <m>their</m></li>
+                  <li>dependent – chan/an/nach <m>abair</m></li>
+                </ul>
+              </li>
+              <li>passive <ul>
+                  <li>independent – <m>theirear</m></li>
+                  <li>relative – a <m>theirear</m></li>
+                  <li>dependent – chan/an/nach <m>abrar</m></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li>conditional <ul id="conditional">
+              <li>active <ul>
+                  <li>first person singular <ul>
+                      <li>independent – <m>theirinn</m></li>
+                      <li>relative – a <m>theirinn</m></li>
+                      <li>dependent – chan/an/nach <m>abrainn</m></li>
+                    </ul>
+                  </li>
+                  <li>first person plural <ul>
+                      <li>independent – <m>theireamaid</m></li>
+                      <li>relative – a <m>theireamaid</m></li>
+                      <li>dependent – chan/an/nach <m>abramaid</m></li>
+                    </ul>
+                  </li>
+                  <li>second/third persons <ul>
+                      <li>independent – <m>theireadh</m></li>
+                      <li>relative – a <m>theireadh</m></li>
+                      <li>dependent – chan/an/nach <m>abradh</m></li>
+                    </ul>
+                  </li>
+                </ul>
+              </li>
+              <li>passive <ul>
+                  <li>independent – <m>theirte</m></li>
+                  <li>relative – a <m>theirte</m></li>
+                  <li>dependent – chan/an/nach <m>abairte</m></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </p>
+    </section>
+    <section>
+      <h>status</h>
+      <p>
+        <ul>
+          <li>independent <ul id="independent">
+              <li>past <ul>
+                  <li>active – <m>thuirt</m></li>
+                  <li>passive – <m>thuirteadh</m></li>
+                </ul>
+              </li>
+              <li>future <ul>
+                  <li>active – <m>their</m></li>
+                  <li>passive – <m>theirear</m></li>
+                </ul>
+              </li>
+              <li>conditional <ul>
+                  <li>active <ul>
+                      <li>first person singular – <m>theirinn</m></li>
+                      <li>first person plural – <m>theireamaid</m></li>
+                      <li>second/third persons – <m>theireadh</m></li>
+                    </ul>
+                  </li>
+                  <li>passive – <m>theirte</m></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li>relative <ul id="relative">
+              <li>past <ul>
+                  <li>active – a <m>thuirt</m></li>
+                  <li>passive – a <m>thuirteadh</m></li>
+                </ul>
+              </li>
+              <li>future <ul>
+                  <li>active – a <m>their</m></li>
+                  <li>passive – a <m>theirear</m></li>
+                </ul>
+              </li>
+              <li>conditional <ul>
+                  <li>active <ul>
+                      <li>first person singular – a <m>theirinn</m></li>
+                      <li>first person plural – a <m>theireamaid</m></li>
+                      <li>second/third persons – a <m>theireadh</m></li>
+                    </ul>
+                  </li>
+                  <li>passive – a <m>theirte</m></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li>dependent <ul id="dependent">
+              <li>past <ul>
+                  <li>active – cha/an/nach <m>tuirt</m></li>
+                  <li>passive – cha/an/nach <m>tuirteadh</m></li>
+                </ul>
+              </li>
+              <li>future <ul>
+                  <li>active – chan/an/nach <m>abair</m></li>
+                  <li>passive – chan/an/nach <m>abrar</m></li>
+                </ul>
+              </li>
+              <li>conditional <ul>
+                  <li>active <ul>
+                      <li>first person singular – chan/an/nach <m>abrainn</m></li>
+                      <li>first person plural – chan/an/nach <m>abramaid</m></li>
+                      <li>second/third persons – chan/an/nach <m>abradh</m></li>
+                    </ul>
+                  </li>
+                  <li>passive – chan/an/nach <m>abairte</m></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </p>
+    </section>
+    <section>
+      <h>voice</h>
+      <p>
+        <ul>
+          <li>active <ul id="active">
+              <li>past <ul>
+                  <li>independent – <m>thuirt</m></li>
+                  <li>relative – a <m>thuirt</m></li>
+                  <li>dependent – cha/an/nach <m>tuirt</m></li>
+                </ul>
+              </li>
+              <li>future <ul>
+                  <li>independent – <m>their</m></li>
+                  <li>relative – a <m>their</m></li>
+                  <li>dependent – chan/an/nach <m>abair</m></li>
+                </ul>
+              </li>
+              <li>conditional <ul>
+                  <li>independent <ul>
+                      <li>first person singular – <m>theirinn</m></li>
+                      <li>first person plural – <m>theireamaid</m></li>
+                      <li>second/third persons – <m>theireadh</m></li>
+                    </ul>
+                  </li>
+                  <li>relative <ul>
+                      <li>first person singular – a <m>theirinn</m></li>
+                      <li>first person plural – a <m>theireamaid</m></li>
+                      <li>second/third persons – a <m>theireadh</m></li>
+                    </ul>
+                  </li>
+                  <li>dependent <ul>
+                      <li>first person singular – chan/an/nach <m>abrainn</m></li>
+                      <li>first person plural – chan/an/nach <m>abramaid</m></li>
+                      <li>second/third persons – chan/an/nach <m>abradh</m></li>
+                    </ul>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li>passive <ul id="passive">
+              <li>past <ul>
+                  <li>independent – <m>thuirteadh</m></li>
+                  <li>relative – a <m>thuirteadh</m></li>
+                  <li>dependent – cha/an/nach <m>tuirteadh</m></li>
+                </ul>
+              </li>
+              <li>future <ul>
+                  <li>independent – <m>theirear</m></li>
+                  <li>relative – a <m>theirear</m></li>
+                  <li>dependent – chan/an/nach <m>abrar</m></li>
+                </ul>
+              </li>
+              <li>conditional <ul>
+                  <li>independent – <m>theirte</m></li>
+                  <li>relative – a <m>theirte</m></li>
+                  <li>dependent – chan/an/nach <m>abairte</m></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </p>
+    </section>
+    <section>
+      <h>imperative</h>
+      <p>
+        <ul>
+          <li>independent <ul id="forms-imp-ind">
+              <li>first person singular – <m>abram</m>!</li>
+              <li>second person singular – <m>abair</m>!</li>
+              <li>first person plural – <m>abramaid</m>!</li>
+              <li>second person plural – <m>abraibh</m>!</li>
+              <li>third person – <m>abradh</m>!</li>
+              <li>passive – <m>abrar</m>!</li>
+            </ul>
+          </li>
+          <li>dependent <ul id="forms-imp-dep">
+              <li>first person singular – na h-<m>abram</m>!</li>
+              <li>second person singular – na h-<m>abair</m>!</li>
+              <li>first person plural – na h-<m>abramaid</m>!</li>
+              <li>second person plural – na h-<m>abraibh</m>!</li>
+              <li>third person – na h-<m>abradh</m>!</li>
+              <li>passive – na h-<m>abrar</m>!</li>
+            </ul>
+          </li>
+        </ul>
+      </p>
+    </section>
+    <p>Notes – <ol>
+        <li>The past tense stem <g>t(h)uirt–</g> has the archaic alternative <g>t(h)ubhairt–</g>.
+          This disyllabic form is also used emphatically, eg. as the answer to a yes/no
+          question.</li>
+        <li>The past dependent forms in <g>tuirt-</g> are pronounced as if they were spelled
+            <g>duirt-</g>. </li>
+        <li>There are various dialectal verbal noun alternatives – <g>ràdha</g>, <g>ràdhainn</g>,
+            <g>ràitinn</g>.</li>
+      </ol>
     </p>
-    <p lang="gd">...</p>
-    <p lang="en"><note>Notes – <ol>
-          <li>The past tense stem <b>t(h)uirt–</b> has the archaic alternative <b>t(h)ubhairt–</b>.
-            This disyllabic form is also used emphatically, eg. as the answer to a yes/no
-            question.</li>
-          <li>The past dependent forms in <b>tuirt-</b> are pronounced as if they were spelled
-              <b>duirt-</b>. </li>
-          <li>There are various dialectal verbal noun alternatives – <b>ràdha</b>, <b>ràdhainn</b>,
-              <b>ràitinn</b>.</li>
-        </ol></note>
-    </p>
-    <p lang="gd">...</p>
   </section>
 
   <!--
   <module id="relations">
-    <h lang="en">relations</h>
+    <h>relations</h>
     <h lang="gd"/>
   </module>
   <module id="uses">
-    <h lang="en">uses</h>
+    <h>uses</h>
     <h lang="gd"/>
   </module>
   <module id="senses">
-    <h lang="en">senses</h>
+    <h>senses</h>
     <h lang="gd"/>
   </module>
   -->
 
-  <section>
+  <section id="deps">
     <h>dependents</h>
     <section id="subject">
       <h>subject</h>
@@ -291,7 +300,7 @@
     </section>
     <section>
       <h>complements</h>
-      <module>
+      <module status="bronze">
         <h>abair “...”</h>
         <p>Older pedagogical examples – <xl id="quote-older-pedag">
             <li>
@@ -305,7 +314,7 @@
           </xl>
         </p>
       </module>
-      <module>
+      <module status="bronze">
         <h>abair gun</h>
         <p>Other examples from modern usage – <xl id="gun-other">
             <li>
@@ -327,15 +336,14 @@
   </section>
 
   <section id="examples">
-    <h lang="en">examples</h>
-    <h lang="gd">examples</h>
-    <p lang="en"><xl id="ex">
+    <h>examples</h>
+    <p><xl id="ex">
         <li>
           <gd>Is fhada bhon a <m>bha daoine ag ràdh gum biodh</m> àite cruinneachaidh do
             luchd-labhairt na Gàidhlig na leas do chor a’ chànain, na ghoireas don fheadhainn a bha
             an-sàs ann an gnìomhan Gàidhlig mar-thà agus na mheadhan air aire agus ùidh sa Ghàidhlig
             a thogail.</gd>
-          <tr>For a long time <u>people were saying that</u> a gathering place for Gaelic speakers
+          <tr>For a long time people were saying that a gathering place for Gaelic speakers
             would be a benefit to the state of the language, an amenity for those who were involved
             in Gaelic activities already and a means of raising awareness and interest in
             Gaelic.</tr>
@@ -343,7 +351,6 @@
         </li>
       </xl>
     </p>
-    <p lang="gd">...</p>
   </section>
 
 
