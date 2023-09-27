@@ -255,7 +255,7 @@ HTML;
 <ul>
   <li>What are the irregular verbs in Gaelic? –
   <ul>
-    <li><a href="?gd=abair"><strong>abair</strong></a> ‘say’, <a href="?gd=cluinn"><strong>cluinn</strong></a> ‘hear’, <a href="?gd=faic"><strong>faic</strong></a> ‘see’, </li>
+    <li><a href="?gd=abair"><strong>abair</strong></a> ‘say’, <a href="?gd=cluinn"><strong>cluinn</strong></a> ‘hear’, <a href="?gd=faic"><strong>faic</strong></a> ‘see’, <a href="?gd=rach"><strong>rach</strong></a> ‘go’,</li>
   </ul>
   </li>
 </ul>
