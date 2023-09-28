@@ -240,7 +240,7 @@ HTML;
 
   private function _blurb() { // display the default homepage
      $this->_html = <<<HTML
-<p>LEACAN aims to provide a comprehensive, online, modular grammar of traditional Scottish Gaelic on modern, scientific principles.</p>
+<p>LEACAN is the second stage of a project which aims to provide a comprehensive, online, modular grammar of traditional Scottish Gaelic.</p>
 <p>The LeaCaG grammar guidance (2019) is available <a href="LeaCaG-2019.pdf" target="_new">here</a>.</p>
 <p>The current phase of the project is focused on the following topics –</p>
 <ul>
