@@ -241,7 +241,6 @@ HTML;
   private function _blurb() { // display the default homepage
      $this->_html = <<<HTML
 <p>LEACAN is the second stage of a project which aims to provide a comprehensive, online, modular grammar of traditional Scottish Gaelic.</p>
-<p>The LeaCaG grammar guidance (2019) is available <a href="LeaCaG-2019.pdf" target="_new">here</a>.</p>
 <p>The current phase of the project is focused on the following topics –</p>
 <ul>
   <li>How are <a href="?xx=nouns/quantity_expressions">quantities</a> expressed in Gaelic?</li>
@@ -253,6 +252,7 @@ HTML;
 </ul>
 <p>Older modules are as follows –
 <ul>
+   <li>LeaCaG <a href="LeaCaG-2019.pdf" target="_new">grammar guidance</a> (2019)</li>
   <li>What are the irregular verbs in Gaelic? –
   <ul>
     <li><a href="?gd=abair"><strong>abair</strong></a> ‘say’, <a href="?gd=beir"><strong>beir</strong></a> ‘bear’, <a href="?gd=cluinn"><strong>cluinn</strong></a> ‘hear’, 
@@ -269,9 +269,10 @@ HTML;
   <li>Should intransitive verbal nouns (<a href="?xx=verbs/infinitivals">infinitivals</a>) be lenited?</li>
   <li>How should <a href="?q=progressive_pronouns">object pronouns</a> be expressed in the progressive?</li>
   <li>How should English <a href="?en=if"><strong>if</strong></a> be translated into Gaelic?</li>
+  <li>How do relative clauses work with <a href="?xx=prepositions/prepositions">prepositions</a>?</li>
+  <li>How do <a href="?xx=nouns/numeric_quantity_expressions">numeric quantity expressions</a> work in Gaelic?</li>
 </ul>
 </p>
-
 
 <!--<p>You can read the prolegomenon <a href="prolegomenon/index.html">here</a>.</p>-->
 <hr/>

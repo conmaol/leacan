@@ -39,41 +39,46 @@
   </p>
   <p>When <emph>if</emph> is used in a conditional-hypothetical sense, it corresponds to one of the
     following Gaelic subordinating conjunctions: <ul>
-      <li><g><a href="../gd/conjunctions/ma.php">ma</a></g> ‘if’</li>
-      <li><g><a href="../gd/conjunctions/mura.php">mura</a></g> ‘if not’, ‘unless’</li>
-      <li><g><a href="../gd/conjunctions/nan.php">nan</a></g> ‘if’</li>
+      <li><g>ma</g> ‘if’</li>
+      <li><g>mura</g> ‘if not’, ‘unless’</li>
+      <li><g>nan</g> ‘if’</li>
     </ul>
   </p>
-  <p>For example: <ul>
-      <li><strong>“Cha toir mi gu lagh thu <mark>ma</mark> nì thu car obrach dhòmhsa.”</strong><br/>
-        <small class="text-muted">“I won’t take you to the police if you do a bit of work for me.”
-          [#2 29]</small></li>
-      <li><strong>“<mark>Nan</mark> sguireadh tu a phàigheadh sin, thigeadh e gu chiall.”</strong><br/>
-        <small class="text-muted">“If you stopped paying that, he would come to his senses.” [#2
-          7]</small></li>
-      <li><strong>“<mark>Mura</mark> dèan thu sin, chan e mise a thig a choimhead ort
-          idir.”</strong><br/>
-        <small class="text-muted">“If you don't do that, it certainly won’t be me who comes to see
-          you.” [#2: 55]</small></li>
+  <p>For example – <xl id="conditional-xs">
+      <li>
+        <gd>“Cha toir mi gu lagh thu <m>ma</m> nì thu car obrach dhòmhsa.”</gd>
+        <tr>“I won’t take you to the police if you do a bit of work for me.”</tr>
+        <ref text="2">td. 29</ref>
+      </li>
+      <li>
+        <gd>“<m>Nan</m> sguireadh tu a phàigheadh sin, thigeadh e gu chiall.”</gd>
+        <tr>“If you stopped paying that, he would come to his senses.”</tr>
+        <ref text="2">td. 7</ref>
+      </li>
+      <li>
+        <gd>“<m>Mura</m> dèan thu sin, chan e mise a thig a choimhead ort idir.”</gd>
+        <tr>“If you don't do that, it certainly won’t be me who comes to see you.”</tr>
+        <ref text="2">td. 55</ref>
+      </li>
+    </xl>
+  </p>
+  <p>When <emph>if</emph> is used to introduce an embedded question, it corresponds to embedded uses
+    of the Gaelic interrogative verb particles: <ul>
+      <li><g>an</g></li>
+      <li><g>nach</g></li>
     </ul>
   </p>
-  <p>When <strong>if</strong> is used to introduce an embedded question, it corresponds to embedded
-    uses of the Gaelic interrogative verb particles: <ul>
-      <li><strong><a href="../gd/particles/an.php">an</a></strong></li>
-      <li><strong><a href="../gd/particles/nach.php">nach</a></strong></li>
-    </ul>
+  <p>For example: <xl id="interr-xs">
+      <li>
+        <gd>Dh’fhaighnich e <m>an</m> robh Magaidh a-staigh.</gd>
+        <tr>He asked if Maggie was in.</tr>
+        <ref text="2">124</ref>
+      </li>
+    </xl>
   </p>
-  <p>For example: <ul>
-      <li><strong>Dh’fhaighnich e <mark>an</mark> robh Magaidh a-staigh.</strong><br/>
-        <small class="text-muted">‘He asked if Maggie was in.’ [#2 124]</small></li>
-      <li><strong>Dh’fhaighnich e <mark>nach</mark> robh Magaidh a-staigh.</strong><br/>
-        <small class="text-muted">‘He asked if Maggie wasn’t in.’</small></li>
-    </ul>
-  </p>
-  <p>Note that using <strong>ma</strong> or <strong>nan</strong> to introduce an embedded question
-    is ☠️ <span class="badge badge-danger">Beurlachas</span> ☠️: <ul>
-      <li>☠️ Dh’fhaighnich e <mark>ma</mark> bha Magaidh a-staigh. ☠️</li>
-      <li>☠️ Dh’fhaighnich e <mark>nan</mark> robh Magaidh a-staigh. ☠️</li>
+  <p>Note that using <g>ma</g> or <g>nan</g> to introduce an embedded question is not Gaelic: <ul>
+      <li><bad>Dh’fhaighnich e ma bha Magaidh a-staigh.</bad></li>
+      <li><bad>Dh’fhaighnich e nan robh Magaidh a-staigh.</bad></li>
     </ul>
   </p>
 </module>
