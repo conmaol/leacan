@@ -42,11 +42,11 @@
                 </ul>
             </p>
             <p>Manner of motion verbs (deictically neutral) – <ul>
-                    <li><a href="?gd=coisich"><g>coisich</g></a>
-                        <en>walk</en>, <a href="?gd=leum"><g>leum</g></a>
-                        <en>jump</en>, <a href="?gd=ruith"><g>ruith</g></a>
-                        <en>run</en>, <a href="?gd=seòl"><g>seòl</g></a>
-                        <en>sail</en>, <a href="?gd=snàmh"><g>snàmh</g></a>
+                    <li><!--<a href="?gd=coisich">--><g>coisich</g><!--</a>-->
+                        <en>walk</en>, <!--<a href="?gd=leum">--><g>leum</g><!--</a>-->
+                        <en>jump</en>, <!--<a href="?gd=ruith">--><g>ruith</g><!--</a>-->
+                        <en>run</en>, <!--<a href="?gd=seòl">--><g>seòl</g><!--</a>-->
+                        <en>sail</en>, <!--<a href="?gd=snàmh">--><g>snàmh</g><!--</a>-->
                         <en>swim</en>, ...</li>
                 </ul>
             </p>
@@ -65,8 +65,7 @@
                     <li><a href="?gd=tro"><g>tro</g></a>
                         <en>through</en> (perlative)</li>
                     <li><a href="?gd=air"><g>air</g></a>
-                        <en>onto</en> (sublative) <ed>I’m not 100% happy with categorising air as a
-                            sublative trajectory preposition. What am I missing?</ed></li>
+                        <en>onto</en> (sublative)</li>
                 </ul>
             </p>
             <p>Trajectory pseudo-prepositions – <ul>

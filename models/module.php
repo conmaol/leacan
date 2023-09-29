@@ -247,6 +247,7 @@ HTML;
   <li>How is <a href="?q=verbal_aspect">verbal aspect</a> expressed in Gaelic?</li>
   <li>How do <a href="?xx=nouns/names">names</a> and <a href="?xx=nouns/proper_nouns">proper nouns</a> work in Gaelic?</li>
   <li>How is <a href="?q=motion">motion along a trajectory</a> expressed in Gaelic?</li>
+  <li>How do <a href="?xx=nouns/nouns">nouns</a> and <a href="?xx=adjectives/adjectives">adjectives</a> decline in the dative and genitive?</li>
   <li>What are the <a href="?q=goc">Gaelic Orthographic Conventions</a>?</li>
   <li>Linguistic resources database – <a href="?q=banca">Banca na Gàidhlig</a></li>
 </ul>
