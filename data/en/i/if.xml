@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="silver">
+  <h>if</h>
+  <p>The English word <emph>if</emph> has two main uses: <ol>
+      <li>introducing a conditional-hypothetical subordinate clause</li>
+      <li>introducing an embedded question.</li>
+    </ol>
+  </p>
+  <p>Here are some examples of <emph>if</emph> being used to introduce a conditional-hypothetical
+    clause: <ul>
+      <li>“I won’t take you to the police <m>if</m> you do a bit of work for me.”</li>
+      <li>“<m>If</m> you stopped paying that, he would come to his senses.”</li>
+      <li>“<m>If</m> you don't do that, it certainly won’t be me who comes to see you.”</li>
+    </ul>
+  </p>
+  <p>Note that the word <emph>if</emph> can be (somewhat clumsily) rephrased using ‘assuming that’
+    in these examples: <ul>
+      <li>“I won’t take you to the police <m>assuming that</m> you do a bit of work for me.”</li>
+      <li>“<m>Assuming that</m> you stopped paying that, he would come to his senses.”</li>
+      <li>“<m>Assuming that</m> you don't do that, it certainly won’t be me who comes to see
+        you.”</li>
+    </ul>
+  </p>
+  <p>Here are some examples of the second use of the word <emph>if</emph>, introducing an embedded
+    question: <ul>
+      <li>He asked <m>if</m> Maggie was in.</li>
+      <li>He asked <m>if</m> Maggie wasn’t in.</li>
+    </ul>
+  </p>
+  <p>The word <emph>if</emph> can be easily replaced by ‘whether’ in these examples: <ul>
+      <li>He asked <m>whether</m> Maggie was in.</li>
+      <li>He asked <m>whether</m> Maggie wasn’t in.</li>
+    </ul>
+  </p>
+  <p>Or the whole embedded question could be turned into reported speech: <ul>
+      <li>He asked, “Is Maggie in?”</li>
+      <li>He asked, “Is Maggie not in?”</li>
+    </ul>
+  </p>
+  <p>When <emph>if</emph> is used in a conditional-hypothetical sense, it corresponds to one of the
+    following Gaelic subordinating conjunctions: <ul>
+      <li><g><a href="../gd/conjunctions/ma.php">ma</a></g> ‘if’</li>
+      <li><g><a href="../gd/conjunctions/mura.php">mura</a></g> ‘if not’, ‘unless’</li>
+      <li><g><a href="../gd/conjunctions/nan.php">nan</a></g> ‘if’</li>
+    </ul>
+  </p>
+  <p>For example: <ul>
+      <li><strong>“Cha toir mi gu lagh thu <mark>ma</mark> nì thu car obrach dhòmhsa.”</strong><br/>
+        <small class="text-muted">“I won’t take you to the police if you do a bit of work for me.”
+          [#2 29]</small></li>
+      <li><strong>“<mark>Nan</mark> sguireadh tu a phàigheadh sin, thigeadh e gu chiall.”</strong><br/>
+        <small class="text-muted">“If you stopped paying that, he would come to his senses.” [#2
+          7]</small></li>
+      <li><strong>“<mark>Mura</mark> dèan thu sin, chan e mise a thig a choimhead ort
+          idir.”</strong><br/>
+        <small class="text-muted">“If you don't do that, it certainly won’t be me who comes to see
+          you.” [#2: 55]</small></li>
+    </ul>
+  </p>
+  <p>When <strong>if</strong> is used to introduce an embedded question, it corresponds to embedded
+    uses of the Gaelic interrogative verb particles: <ul>
+      <li><strong><a href="../gd/particles/an.php">an</a></strong></li>
+      <li><strong><a href="../gd/particles/nach.php">nach</a></strong></li>
+    </ul>
+  </p>
+  <p>For example: <ul>
+      <li><strong>Dh’fhaighnich e <mark>an</mark> robh Magaidh a-staigh.</strong><br/>
+        <small class="text-muted">‘He asked if Maggie was in.’ [#2 124]</small></li>
+      <li><strong>Dh’fhaighnich e <mark>nach</mark> robh Magaidh a-staigh.</strong><br/>
+        <small class="text-muted">‘He asked if Maggie wasn’t in.’</small></li>
+    </ul>
+  </p>
+  <p>Note that using <strong>ma</strong> or <strong>nan</strong> to introduce an embedded question
+    is ☠️ <span class="badge badge-danger">Beurlachas</span> ☠️: <ul>
+      <li>☠️ Dh’fhaighnich e <mark>ma</mark> bha Magaidh a-staigh. ☠️</li>
+      <li>☠️ Dh’fhaighnich e <mark>nan</mark> robh Magaidh a-staigh. ☠️</li>
+    </ul>
+  </p>
+</module>

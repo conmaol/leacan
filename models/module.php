@@ -255,9 +255,20 @@ HTML;
 <ul>
   <li>What are the irregular verbs in Gaelic? –
   <ul>
-    <li><a href="?gd=abair"><strong>abair</strong></a> ‘say’, <a href="?gd=cluinn"><strong>cluinn</strong></a> ‘hear’, <a href="?gd=faic"><strong>faic</strong></a> ‘see’, <a href="?gd=rach"><strong>rach</strong></a> ‘go’, <a href="?gd=thig"><strong>thig</strong></a> ‘come’,</li>
+    <li><a href="?gd=abair"><strong>abair</strong></a> ‘say’, <a href="?gd=beir"><strong>beir</strong></a> ‘bear’, <a href="?gd=cluinn"><strong>cluinn</strong></a> ‘hear’, 
+    <a href="?gd=faic"><strong>faic</strong></a> ‘see’, <a href="?gd=faigh"><strong>faigh</strong></a> ‘get’, 
+    <a href="?gd=rach"><strong>rach</strong></a> ‘go’, <a href="?gd=ruig"><strong>ruig</strong></a> ‘reach’, <a href="?gd=thig"><strong>thig</strong></a> ‘come’,
+    <a href="?gd=thoir"><strong>thoir</strong></a> ‘give,take’,
+    </li>
   </ul>
   </li>
+  <li>Should nouns governed by a progressive verbal noun be in the <a href="?q=progressive_case">genitive or nominative case?</a></li>
+  <li>Should feminine nouns and their adjectives be <a href="?q=dative_slenderisation">slenderised</a> after prepositions?</li>
+  <li>When should the object <a href="?xx=verbs/infinitivals">precede</a> the verb(al noun)?</li>
+  <li>How does the <a href="?gd=rach"><strong>rach</strong></a>-passive construction work?</a></li>
+  <li>Should intransitive verbal nouns (<a href="?xx=verbs/infinitivals">infinitivals</a>) be lenited?</li>
+  <li>How should <a href="?q=progressive_pronouns">object pronouns</a> be expressed in the progressive?</li>
+  <li>How should English <a href="?en=if"><strong>if</strong></a> be translated into Gaelic?</li>
 </ul>
 </p>
 

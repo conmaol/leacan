@@ -1,268 +1,293 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
-<module status="bronze" id="top">
-  <h lang="en">faigh</h>
-  <h lang="gd">faigh</h>
-  <p lang="en"><b>faigh</b>
-    <en>get</en> is an irregular <a href="?xx=verbs/verbs">verb</a>.</p>
-  <p lang="gd">Is e <a href="?xx=verbs/irregular_verbs">gnìomhair neo-riaghailteach</a> a tha ann am <b>faigh</b>.</p>
-  <module id="forms">
-    <h lang="en">forms</h>
-    <h lang="gd">...</h>
-    <p lang="en">The principal parts of <b>faigh</b> are – <ul>
+<module status="bronze">
+  <h>faigh</h>
+  <p><g>faigh</g>
+    <en>get</en> is an irregular verb.</p>
+  <section id="forms">
+    <h>forms</h>
+    <p>The principal parts of <g>faigh</g> are – <ul>
         <li><m>gheibh</m> – future independent ie. <en>will get</en></li>
         <li><m>fhuair</m> – past independent ie. <en>got</en></li>
         <li><m>faighinn</m> – verbal noun ie. <en>getting</en></li>
       </ul>
     </p>
-    <p lang="gd">Seo na prìomh-mhìrean de <b>faigh</b> –</p>
-    <p lang="en">The full forms of <b>faigh</b> are – <ul>
-        <li>past <ul id="past">
-            <li>active <ul>
-                <li>independent – <m>fhuair</m></li>
-                <li>relative – a <m>fhuair</m></li>
-                <li>dependent – cha/an/nach <m>do fhuair</m></li>
-              </ul>
-            </li>
-            <li>passive <ul>
-                <li>independent – <m>fhuaras</m></li>
-                <li>relative – a <m>fhuaras</m></li>
-                <li>dependent – cha/an/nach <m>do fhuaras</m></li>
-              </ul>
-            </li>
-          </ul>
-        </li>
-        <li>future <ul id="future">
-            <li>active <ul>
-                <li>independent – <m>gheibh</m></li>
-                <li>relative – a <m>gheibh</m></li>
-                <li>dependent – chan/nach <m>fhaigh</m>, am <m>faigh</m></li>
-              </ul>
-            </li>
-            <li>passive <ul>
-                <li>independent – <m>gheibhear</m></li>
-                <li>relative – a <m>gheibhear</m></li>
-                <li>dependent – chan/nach <m>fhaighear</m>, am <m>faighear</m></li>
-              </ul>
-            </li>
-          </ul>
-        </li>
-        <li>conditional <ul id="conditional">
-            <li>active <ul>
-                <li>first person singular <ul>
-                    <li>independent – <m>gheibhinn</m></li>
-                    <li>relative – a <m>gheibhinn</m></li>
-                    <li>dependent – chan/nach <m>fhaighinn</m>, am <m>faighinn</m></li>
-                  </ul>
-                </li>
-                <li>first person plural <ul>
-                    <li>independent – <m>gheibheamaid</m></li>
-                    <li>relative – a <m>gheibheamaid</m></li>
-                    <li>dependent – chan/nach <m>fhaigheamaid</m>, am <m>faigheamaid</m></li>
-                  </ul>
-                </li>
-                <li>second/third persons <ul>
-                    <li>independent – <m>gheibheadh</m></li>
-                    <li>relative – a <m>gheibheadh</m></li>
-                    <li>dependent – chan/nach <m>fhaigheadh</m>, am <m>faigheadh</m></li>
-                  </ul>
-                </li>
-              </ul>
-            </li>
-            <li>passive <ul>
-                <li>independent – <m>gheibhte</m></li>
-                <li>relative – a <m>gheibhte</m></li>
-                <li>dependent – chan/nach <m>fhaighte</m>, am <m>faighte</m></li>
-              </ul>
-            </li>
-          </ul>
-        </li>
-        <hr/>
-        <li>independent <ul id="independent">
-            <li>past <ul>
-                <li>active – <m>fhuair</m></li>
-                <li>passive – <m>fhuaras</m></li>
-              </ul>
-            </li>
-            <li>future <ul>
-                <li>active – <m>gheibh</m></li>
-                <li>passive – <m>gheibhear</m></li>
-              </ul>
-            </li>
-            <li>conditional <ul>
-                <li>active <ul>
-                    <li>first person singular – <m>gheibhinn</m></li>
-                    <li>first person plural – <m>gheibheamaid</m></li>
-                    <li>second/third persons – <m>gheibheadh</m></li>
-                  </ul>
-                </li>
-                <li>passive – <m>gheibhte</m></li>
-              </ul>
-            </li>
-          </ul>
-        </li>
-        <li>relative <ul id="relative">
-            <li>past <ul>
-                <li>active – a <m>fhuair</m></li>
-                <li>passive – a <m>fhuaras</m></li>
-              </ul>
-            </li>
-            <li>future <ul>
-                <li>active – a <m>gheibh</m></li>
-                <li>passive – a <m>gheibhear</m></li>
-              </ul>
-            </li>
-            <li>conditional <ul>
-                <li>active <ul>
-                    <li>first person singular – a <m>gheibhinn</m></li>
-                    <li>first person plural – a <m>gheibheamaid</m></li>
-                    <li>second/third persons – a <m>gheibheadh</m></li>
-                  </ul>
-                </li>
-                <li>passive – a <m>gheibhte</m></li>
-              </ul>
-            </li>
-          </ul>
-        </li>
-        <li>dependent <ul id="dependent">
-            <li>past <ul>
-                <li>active – cha/nach/an <m>do fhuair</m></li>
-                <li>passive – cha/nach/an <m>do fhuaras</m></li>
-              </ul>
-            </li>
-            <li>future <ul>
-                <li>active – chan/nach <m>fhaigh</m>, am <m>faigh</m></li>
-                <li>passive – chan/nach <m>fhaighear</m>, am <m>faighear</m></li>
-              </ul>
-            </li>
-            <li>conditional <ul>
-                <li>active <ul>
-                    <li>first person singular – chan/nach <m>fhaighinn</m>, am <m>faighinn</m></li>
-                    <li>first person plural – chan/nach <m>fhaigheamaid</m>, am <m>faigheamaid</m></li>
-                    <li>second/third persons – chan/nach <m>fhaigheadh</m>, am <m>faigheadh</m></li>
-                  </ul>
-                </li>
-                <li>passive – chan/nach <m>fhaighte</m>, am <m>faighte</m></li>
-              </ul>
-            </li>
-          </ul>
-        </li>
-        <hr/>
-        <li>active <ul id="active">
-            <li>past <ul>
-                <li>independent – <m>fhuair</m></li>
-                <li>relative – a <m>fhuair</m></li>
-                <li>dependent – cha/an/nach <m>do fhuair</m></li>
-              </ul>
-            </li>
-            <li>future <ul>
-                <li>independent – <m>gheibh</m></li>
-                <li>relative – a <m>gheibh</m></li>
-                <li>dependent – chan/nach <m>fhaigh</m>, am <m>faigh</m></li>
-              </ul>
-            </li>
-            <li>conditional <ul>
-                <li>independent <ul>
-                    <li>first person singular – <m>gheibhinn</m></li>
-                    <li>first person plural – <m>gheibheamaid</m></li>
-                    <li>second/third persons – <m>gheibheadh</m></li>
-                  </ul>
-                </li>
-                <li>relative <ul>
-                    <li>first person singular – a <m>gheibhinn</m></li>
-                    <li>first person plural – a <m>gheibheamaid</m></li>
-                    <li>second/third persons – a <m>gheibheadh</m></li>
-                  </ul>
-                </li>
-                <li>dependent <ul>
-                    <li>first person singular – chan/nach <m>fhaighinn</m>, am <m>faighinn</m></li>
-                    <li>first person plural – chan/nach <m>fhaigheamaid</m>, am <m>faigheamaid</m></li>
-                    <li>second/third persons – chan/nach <m>fhaigheadh</m>, am <m>faigheadh</m></li>
-                  </ul>
-                </li>
-              </ul>
-            </li>
-          </ul>
-        </li>
-        <li>passive <ul id="passive">
-            <li>past <ul>
-                <li>independent – <m>fhuaras</m></li>
-                <li>relative – a <m>fhuaras</m></li>
-                <li>dependent – cha/an/nach <m>do fhuaras</m></li>
-              </ul>
-            </li>
-            <li>future <ul>
-                <li>independent – <m>gheibhear</m></li>
-                <li>relative – a <m>gheibhear</m></li>
-                <li>dependent – chan/nach <m>fhaighear</m>, am <m>faighear</m></li>
-              </ul>
-            </li>
-            <li>conditional <ul>
-                <li>independent – <m>gheibhte</m></li>
-                <li>relative – a <m>gheibhte</m></li>
-                <li>dependent – chan/nach <m>fhaighte</m>, am <m>faighte</m></li>
-              </ul>
-            </li>
-          </ul>
-        </li>
-        <hr/>
-        <li>imperative <ul id="imperative">
-            <li>independent <ul>
-                <li>first person singular – <m>faigheam</m>!</li>
-                <li>second person singular – <m>faigh</m>!</li>
-                <li>first person plural – <m>faigheamaid</m>!</li>
-                <li>second person plural – <m>faighibh</m>!</li>
-                <li>third person – <m>faigheadh</m>!</li>
-                <li>passive – <m>faigh(t)ear</m>!</li>
-              </ul>
-            </li>
-            <li>dependent <ul>
-                <li>first person singular – na <m>faigheam</m>!</li>
-                <li>second person singular – na <m>faigh</m>!</li>
-                <li>first person plural – na <m>faigheamaid</m>!</li>
-                <li>second person plural – na <m>faighibh</m>!</li>
-                <li>third person – na <m>faigheadh</m>!</li>
-                <li>passive – na <m>faigh(t)ear</m>!</li>
-              </ul>
-            </li>
-          </ul>
-        </li>
-        <hr/>
-        <li>verbal noun – <m>faighinn</m></li>
-      </ul>
+    <section>
+      <h>tense</h>
+      <p><ul>
+          <li>past <ul id="past">
+              <li>active <ul>
+                  <li>independent – <m>fhuair</m></li>
+                  <li>relative – a <m>fhuair</m></li>
+                  <li>dependent – cha/an/nach <m>do fhuair</m></li>
+                </ul>
+              </li>
+              <li>passive <ul>
+                  <li>independent – <m>fhuaras</m></li>
+                  <li>relative – a <m>fhuaras</m></li>
+                  <li>dependent – cha/an/nach <m>do fhuaras</m></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li>future <ul id="future">
+              <li>active <ul>
+                  <li>independent – <m>gheibh</m></li>
+                  <li>relative – a <m>gheibh</m></li>
+                  <li>dependent – chan/nach <m>fhaigh</m>, am <m>faigh</m></li>
+                </ul>
+              </li>
+              <li>passive <ul>
+                  <li>independent – <m>gheibhear</m></li>
+                  <li>relative – a <m>gheibhear</m></li>
+                  <li>dependent – chan/nach <m>fhaighear</m>, am <m>faighear</m></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li>conditional <ul id="conditional">
+              <li>active <ul>
+                  <li>first person singular <ul>
+                      <li>independent – <m>gheibhinn</m></li>
+                      <li>relative – a <m>gheibhinn</m></li>
+                      <li>dependent – chan/nach <m>fhaighinn</m>, am <m>faighinn</m></li>
+                    </ul>
+                  </li>
+                  <li>first person plural <ul>
+                      <li>independent – <m>gheibheamaid</m></li>
+                      <li>relative – a <m>gheibheamaid</m></li>
+                      <li>dependent – chan/nach <m>fhaigheamaid</m>, am <m>faigheamaid</m></li>
+                    </ul>
+                  </li>
+                  <li>second/third persons <ul>
+                      <li>independent – <m>gheibheadh</m></li>
+                      <li>relative – a <m>gheibheadh</m></li>
+                      <li>dependent – chan/nach <m>fhaigheadh</m>, am <m>faigheadh</m></li>
+                    </ul>
+                  </li>
+                </ul>
+              </li>
+              <li>passive <ul>
+                  <li>independent – <m>gheibhte</m></li>
+                  <li>relative – a <m>gheibhte</m></li>
+                  <li>dependent – chan/nach <m>fhaighte</m>, am <m>faighte</m></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </p>
+    </section>
+    <section>
+      <h>status</h>
+      <p><ul>
+          <li>independent <ul id="independent">
+              <li>past <ul>
+                  <li>active – <m>fhuair</m></li>
+                  <li>passive – <m>fhuaras</m></li>
+                </ul>
+              </li>
+              <li>future <ul>
+                  <li>active – <m>gheibh</m></li>
+                  <li>passive – <m>gheibhear</m></li>
+                </ul>
+              </li>
+              <li>conditional <ul>
+                  <li>active <ul>
+                      <li>first person singular – <m>gheibhinn</m></li>
+                      <li>first person plural – <m>gheibheamaid</m></li>
+                      <li>second/third persons – <m>gheibheadh</m></li>
+                    </ul>
+                  </li>
+                  <li>passive – <m>gheibhte</m></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li>relative <ul id="relative">
+              <li>past <ul>
+                  <li>active – a <m>fhuair</m></li>
+                  <li>passive – a <m>fhuaras</m></li>
+                </ul>
+              </li>
+              <li>future <ul>
+                  <li>active – a <m>gheibh</m></li>
+                  <li>passive – a <m>gheibhear</m></li>
+                </ul>
+              </li>
+              <li>conditional <ul>
+                  <li>active <ul>
+                      <li>first person singular – a <m>gheibhinn</m></li>
+                      <li>first person plural – a <m>gheibheamaid</m></li>
+                      <li>second/third persons – a <m>gheibheadh</m></li>
+                    </ul>
+                  </li>
+                  <li>passive – a <m>gheibhte</m></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li>dependent <ul id="dependent">
+              <li>past <ul>
+                  <li>active – cha/nach/an <m>do fhuair</m></li>
+                  <li>passive – cha/nach/an <m>do fhuaras</m></li>
+                </ul>
+              </li>
+              <li>future <ul>
+                  <li>active – chan/nach <m>fhaigh</m>, am <m>faigh</m></li>
+                  <li>passive – chan/nach <m>fhaighear</m>, am <m>faighear</m></li>
+                </ul>
+              </li>
+              <li>conditional <ul>
+                  <li>active <ul>
+                      <li>first person singular – chan/nach <m>fhaighinn</m>, am
+                        <m>faighinn</m></li>
+                      <li>first person plural – chan/nach <m>fhaigheamaid</m>, am
+                        <m>faigheamaid</m></li>
+                      <li>second/third persons – chan/nach <m>fhaigheadh</m>, am
+                        <m>faigheadh</m></li>
+                    </ul>
+                  </li>
+                  <li>passive – chan/nach <m>fhaighte</m>, am <m>faighte</m></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </p>
+    </section>
+    <section>
+      <h>voice</h>
+      <p><ul>
+          <li>active <ul id="active">
+              <li>past <ul>
+                  <li>independent – <m>fhuair</m></li>
+                  <li>relative – a <m>fhuair</m></li>
+                  <li>dependent – cha/an/nach <m>do fhuair</m></li>
+                </ul>
+              </li>
+              <li>future <ul>
+                  <li>independent – <m>gheibh</m></li>
+                  <li>relative – a <m>gheibh</m></li>
+                  <li>dependent – chan/nach <m>fhaigh</m>, am <m>faigh</m></li>
+                </ul>
+              </li>
+              <li>conditional <ul>
+                  <li>independent <ul>
+                      <li>first person singular – <m>gheibhinn</m></li>
+                      <li>first person plural – <m>gheibheamaid</m></li>
+                      <li>second/third persons – <m>gheibheadh</m></li>
+                    </ul>
+                  </li>
+                  <li>relative <ul>
+                      <li>first person singular – a <m>gheibhinn</m></li>
+                      <li>first person plural – a <m>gheibheamaid</m></li>
+                      <li>second/third persons – a <m>gheibheadh</m></li>
+                    </ul>
+                  </li>
+                  <li>dependent <ul>
+                      <li>first person singular – chan/nach <m>fhaighinn</m>, am
+                        <m>faighinn</m></li>
+                      <li>first person plural – chan/nach <m>fhaigheamaid</m>, am
+                        <m>faigheamaid</m></li>
+                      <li>second/third persons – chan/nach <m>fhaigheadh</m>, am
+                        <m>faigheadh</m></li>
+                    </ul>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li>passive <ul id="passive">
+              <li>past <ul>
+                  <li>independent – <m>fhuaras</m></li>
+                  <li>relative – a <m>fhuaras</m></li>
+                  <li>dependent – cha/an/nach <m>do fhuaras</m></li>
+                </ul>
+              </li>
+              <li>future <ul>
+                  <li>independent – <m>gheibhear</m></li>
+                  <li>relative – a <m>gheibhear</m></li>
+                  <li>dependent – chan/nach <m>fhaighear</m>, am <m>faighear</m></li>
+                </ul>
+              </li>
+              <li>conditional <ul>
+                  <li>independent – <m>gheibhte</m></li>
+                  <li>relative – a <m>gheibhte</m></li>
+                  <li>dependent – chan/nach <m>fhaighte</m>, am <m>faighte</m></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </p>
+    </section>
+    <section>
+      <h>imperative</h>
+      <p><ul>
+          <li><ul id="imperative">
+              <li>independent <ul id="imp-ind">
+                  <li>first person singular – <m>faigheam</m>!</li>
+                  <li>second person singular – <m>faigh</m>!</li>
+                  <li>first person plural – <m>faigheamaid</m>!</li>
+                  <li>second person plural – <m>faighibh</m>!</li>
+                  <li>third person – <m>faigheadh</m>!</li>
+                  <li>passive – <m>faigh(t)ear</m>!</li>
+                </ul>
+              </li>
+              <li>dependent <ul id="imp-dep">
+                  <li>first person singular – na <m>faigheam</m>!</li>
+                  <li>second person singular – na <m>faigh</m>!</li>
+                  <li>first person plural – na <m>faigheamaid</m>!</li>
+                  <li>second person plural – na <m>faighibh</m>!</li>
+                  <li>third person – na <m>faigheadh</m>!</li>
+                  <li>passive – na <m>faigh(t)ear</m>!</li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </p>
+    </section>
+    <p>Notes – <ol>
+          <li>The past independent forms <g>fhuair</g> and <g>fhuaras</g> are pronounced as if they
+            were spelled <g>thuair</g> and <g>thuaras</g>.</li>
+          <li>The past dependent forms <g>do fhuair</g> and <g>do fhuaras</g> are pronounced as if
+            they were spelled <g>duair</g> and <g>duaras</g>. They are commonly written as <g>d’
+              fhuair</g> and <g>d’ fhuaras</g>.</li>
+          <li>There is an alternative dialectal verbal noun – <g>faotainn</g>.</li>
+        </ol>
     </p>
-    <p lang="gd">...</p>
-    <p lang="en"><note>Notes – <ol>
-          <li>The past independent forms <b>fhuair</b> and <b>fhuaras</b> are pronounced as if they were spelled <b>thuair</b> and <b>thuaras</b>.</li>
-          <li>The past dependent forms <b>do fhuair</b> and <b>do fhuaras</b> are pronounced as if they were spelled <b>duair</b> and <b>duaras</b>. They are commonly written as <b>d’ fhuair</b> and
-              <b>d’ fhuaras</b>.</li>
-          <li>There is an alternative dialectal verbal noun – <b>faotainn</b>.</li>
-        </ol></note>
-    </p>
-    <p lang="gd">...</p>
-  </module>
+  </section>
+  
+  <!--
   <module id="relations">
-    <h lang="en">relations</h>
+    <h>relations</h>
     <h lang="gd"/>
   </module>
   <module id="uses">
-    <h lang="en">uses</h>
+    <h>uses</h>
     <h lang="gd"/>
-    <p lang="en">The main uses of faigh are – <ul>
-        <li>the passive construction <b>faigh</b> + <a href="?xx=verbs/infinitivals">infinitival</a> eg. <m>bha iad an dùil gum faigheadh na claisean an lìonadh trì uairean mum biodh am mìos
+    <p>The main uses of faigh are – <ul>
+        <li>the passive construction <b>faigh</b> + <a href="?xx=verbs/infinitivals">infinitival</a>
+          eg. <m>bha iad an dùil gum faigheadh na claisean an lìonadh trì uairean mum biodh am mìos
             thairis</m>
-          <en>they expected that the furrows would be filled three times before the month was over</en></li>
+          <en>they expected that the furrows would be filled three times before the month was
+            over</en></li>
         <li><b>faigh air</b> + <a href="?xx=verbs/infinitivals">infinitival</a>
-          <en>be able to, manage to</en> eg. <m>chan fhaighinn air càil a ràdh ach nach robh mi ga chreidsinn</m>
-          <en>I couldn’t say anything except that I didn’t believe it</en>, <m>an do fhuair thu air a dhèanamh?</m>
+          <en>be able to, manage to</en> eg. <m>chan fhaighinn air càil a ràdh ach nach robh mi ga
+            chreidsinn</m>
+          <en>I couldn’t say anything except that I didn’t believe it</en>, <m>an do fhuair thu air
+            a dhèanamh?</m>
           <en>did you manage to do it?</en></li>
       </ul>
     </p>
     <p lang="gd">...</p>
   </module>
   <module id="senses">
-    <h lang="en">senses</h>
+    <h>senses</h>
     <h lang="gd"/>
   </module>
+  -->
 
   <!--
   <h3>Intransitive uses of <em>faigh</em></h3>
