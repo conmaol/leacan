@@ -3,19 +3,20 @@
   <h>mòran</h>
   <p><g>mòran</g>
     <en>lot, many, much</en> is a masculine <a href="?xx=nouns/generic_quantity_nouns">generic
-      quantity noun</a>, expressing a <emph>large</emph> quantity. It is <a
-      href="?xx=nouns/derived_common_nouns">derived</a> from the adjective <a href="?gd=mòr"
-        ><g>mòr</g></a>
-    <en>big, large</en> using the suffix <a href="?gd=_an"><g>-an</g></a>, and has the genitive
-    singular form <g>mòrain</g>.</p>
+      quantity noun</a>, expressing a <emph>large</emph> quantity. It is <!--<a
+      href="?xx=nouns/derived_common_nouns">-->derived<!--</a>--> from the adjective
+      <!--<a href="?gd=mòr"
+        >--><g>mòr</g><!--</a>-->
+    <en>big, large</en> using the suffix <!--<a href="?gd=_an">--><g>-an</g><!--</a>-->, and has the
+    genitive singular form <g>mòrain</g>.</p>
   <!--<p>cf. <a href="?gd=beagan">beagan</a>
     <en>small quantity</en>, <a href="?gd=mòran_a_bharrachd">mòran a bharrachd</a>
     <en>many more</en>.</p>
   -->
   <section>
     <h>dependents</h>
-    <p>Like other generic quantity nouns, <g>mòran</g> characteristically occurs in three different kinds of
-      grammatical construction.</p>
+    <p>Like other generic quantity nouns, <g>mòran</g> characteristically occurs in three different
+      kinds of grammatical construction.</p>
     <section id="indefinite">
       <h>indefinite</h>
       <p>On its own – <ul>
@@ -47,8 +48,9 @@
         </xl>
       </p>
       <p>With a genitive modifier – <ul>
-          <li>Dh’òl Raonaid <m>mòran <u>uisge</u></m>. <en>Rachel drank a lot of water.</en></li>
-          <li>Tha <m>mòran <u>chon</u></m> aig Màiri. <en>Mary has a lot of dogs.</en></li>
+          <li>Dh’òl Raonaid <m>mòran <emph>uisge</emph></m>. <en>Rachel drank a lot of
+            water.</en></li>
+          <li>Tha <m>mòran <emph>chon</emph></m> aig Màiri. <en>Mary has a lot of dogs.</en></li>
         </ul>
         <xl id="moran_specifier">
           <li>
@@ -78,7 +80,7 @@
             <tr>He was exceptionally polite, addressing me as ‘Sir’ frequently. There are not many
               young people who pay respect to age today.</tr>
             <ref text="2">td. 48</ref>
-            <note>Note the use of the preposition <b>de</b> here, rather than a simple
+            <note>Note the use of the preposition <g>de</g> here, rather than a simple
               genitive.</note>
           </li>
           <li>
@@ -88,7 +90,7 @@
               Gàidhlig ga bhacadh gu mòr air sgàth dìth shuidheachaidhean far an cluinnear an cànan
               ga bruidhinn gu nàdarra.</gd>
             <tr>In Edinburgh in the 90s there were more and more people wanting to learn Gaelic and
-              although <u>a lot of Gaelic classes and courses</u> sprang up to respond to the
+              although <emph>a lot of Gaelic classes and courses</emph> sprang up to respond to the
               demands of those people, Gaelic learning was largely inhibited because of lack of
               situations where one could hear the language spoken naturally.</tr>
             <ref text="610">td. 85</ref>
@@ -98,17 +100,16 @@
     </section>
     <section id="partitive">
       <h>partitive</h>
-      <h lang="gd">...</h>
-      <p>The preposition <a href="?gd=de"><g>de</g></a> with a definite noun – <ul>
-          <li>Chleachd Iain <m>mòran <u>den ìm</u></m>. <en>John used a lot [too much?] of the
+      <p>The preposition <a href="?gd=dhe"><g>de</g></a> with a definite noun – <ul>
+          <li>Chleachd Iain <m>mòran <emph>den ìm</emph></m>. <en>John used a lot [too much?] of the
               butter.</en></li>
-          <li>Leugh Mairead <m>mòran <u>de mo leabhraichean</u></m>. <en>Margaret read a lot of my
-              books.</en></li>
+          <li>Leugh Mairead <m>mòran <emph>de mo leabhraichean</emph></m>. <en>Margaret read a lot
+              of my books.</en></li>
         </ul>
         <xl id="moran_de">
           <li>
-            <gd>Bha e ’na sheòladair uair mar a bha móran <m>do’n</m> fheadhainn a th’ anns a’ bhaile
-              [...]</gd>
+            <gd>Bha e ’na sheòladair uair mar a bha móran <m>do’n</m> fheadhainn a th’ anns a’
+              bhaile [...]</gd>
             <tr>He had been a sailor at one time as had many of those who were in the village
               [...]</tr>
             <ref text="2">td. 100</ref>
@@ -128,8 +129,8 @@
         </xl>
       </p>
       <p>With a prepositional pronoun – <ul>
-          <li>Dh’òl Raonaid <m>mòran <u>dheth</u></m>. <en>Rachel drank a lot of it.</en></li>
-          <li>Tha <m>mòran <u>dhiubh</u></m> aig Màiri. <en>Mary has a lot of them.</en></li>
+          <li>Dh’òl Raonaid <m>mòran <emph>dheth</emph></m>. <en>Rachel drank a lot of it.</en></li>
+          <li>Tha <m>mòran <emph>dhiubh</emph></m> aig Màiri. <en>Mary has a lot of them.</en></li>
         </ul>
         <xl id="moran_de_prep">
           <li>
@@ -145,8 +146,8 @@
             <gd>mòran <m>aca</m></gd>
             <tr>many of them</tr>
             <ref text="605">td. 273</ref>
-            <note>Note the use of <b>aca</b>
-              <en>at them</en> rather than <b>dhiubh</b>
+            <note>Note the use of <g>aca</g>
+              <en>at them</en> rather than <g>dhiubh</g>
               <en>of them</en> here.</note>
           </li>
         </xl>
@@ -154,10 +155,10 @@
     </section>
     <section id="idiomatic">
       <h>idiomatic</h>
-      <p><b>mòran mu</b>
+      <p><g>mòran mu</g>
         <en>a lot [of information/knowledge] about</en> – <ul>
-          <li>Tha Màiri ag iarraidh <m>mòran</m> a chluinntinn <m><u>mu choin</u></m>. <en>Mary
-              wants to hear a lot about dogs.</en>
+          <li>Tha Màiri ag iarraidh <m>mòran</m> a chluinntinn <m><emph>mu choin</emph></m>.
+              <en>Mary wants to hear a lot about dogs.</en>
           </li>
         </ul>
         <xl id="moran_mu">
@@ -175,12 +176,12 @@
           </li>
         </xl>
       </p>
-      <p>Also: <b>chan eil mòran aice mu a dhèidhinn</b>
+      <p>Also: <g>chan eil mòran aice mu a dhèidhinn</g>
         <en>she doesn’t care much for him</en>.</p>
       <!--
       <p><b>mòran ri (dhèanamh)</b>
         <en>a lot to do, a lot to be done</en> – <ul>
-          <li>Tha <m>mòran</m> aig Raonaid <m><u>ri dhèanamh</u></m>. <en>Rachel has a lot to
+          <li>Tha <m>mòran</m> aig Raonaid <m><emph>ri dhèanamh</emph></m>. <en>Rachel has a lot to
               do.</en>
           </li>
         </ul>
@@ -201,7 +202,7 @@
             <tr>The Highland Society is talking about choosing a new General who will oversee the
               Society’s work. [...] A person of this kind would have to have a good measure of
               power. [...] He would have enough to do initially reforming the Society. There is
-                <u>much to do</u> at the Mod before it catches up with <ed>??</ed> the era of
+                <emph>much to do</emph> at the Mod before it catches up with <ed>??</ed> the era of
               television, or even with the era of radio [...]</tr>
             <ref text="400-46">td. 105, ‘Air an Spiris’</ref>
           </li>
@@ -212,10 +213,10 @@
   </section>
   <section id="other">
     <h>other uses</h>
-    <h lang="gd">...</h>
     <p>When used inside a negative construction (ie. <g>cha</g>, <g>nach</g>, <g>gun</g>
-      <en>without</en>), <g>mòran</g> generally connotes a <emph>small</emph> quantity (cf. <a
-        href="?gd=beagan"><g>beagan</g></a>
+      <en>without</en>), <g>mòran</g> generally connotes a <emph>small</emph> quantity (cf.
+        <!--<a
+        href="?gd=beagan">--><g>beagan</g><!--</a>-->
       <masc/>
       <en>few, little, modicum</en>) and not just a ‘non-large’ quantity – <ul>
         <li><m>Cha</m> do dh’òl Raonaid <m>mòran uisge</m>. <en>Rachel didn’t drink much water. [She

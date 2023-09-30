@@ -17,20 +17,16 @@
       </li>
     </ul>
   </p>
-  <p><u>Partitive</u> versions of these numeric quantity expressions are – <ul>
+  <p>Partitive versions of these numeric quantity expressions are – <ul>
       <li>Cia mheud de na coin a tha aig Màiri? <en>How many of the dogs does Mary have?</en>
         <ul>
           <li><m>a chòig de na coin</m>
-            <ed>??</ed>
             <en>five of the dogs</en></li>
           <li><m>dusan de na coin</m>
-            <ed>??</ed>
             <en>a dozen of the dogs</en></li>
           <li><m>ceud de na coin agus a h-aon</m>
-            <ed>??</ed>
             <en>a hundred and one of the dogs</en></li>
           <li><m>còrr agus deich de na coin</m>
-            <ed>??</ed>
             <en>more than ten of the dogs</en></li>
         </ul>
       </li>
@@ -38,66 +34,62 @@
   </p>
   <p>Numeric quantity expressions contrast with non-numeric, <a
       href="?xx=nouns/generic_quantity_expressions">generic quantity expressions</a>.</p>
-  <p>exact numeric quantities</p>
-  <p>The most basic kind of numeric quantity expression expresses an <u>exact</u> numeric quantity,
-    for example using a <a href="?xx=nouns/numerals">numeral</a> – <ul>
-      <li><m>Tha <u>aon chù</u> aig Màiri</m>
-        <en>Mary has <u>one dog</u></en></li>
-      <li><m>... dà chù ...</m>
-        <en>... two dogs</en></li>
-      <li><m>... trì coin ...</m>
-        <en>... three dogs</en></li>
-      <li>...</li>
-      <li><m>... deich coin ...</m>
-        <en>... ten dogs</en></li>
-    </ul>
-  </p>
-  <p>Exact numeric quantities between 11 and 19 can be expressed by adding the numeric adjective <a
-      href="?gd=deug">deug</a>
-    <en>-teen</en> – <ul>
-      <li><m>Tha <u>aon chù deug</u> aig Màiri</m>
-        <en>Mary has <u>eleven dogs</u></en></li>
-      <li><m>... dà chù dheug ...</m>
-        <en>... twelve dogs</en></li>
-      <li><m>... trì coin dheug ...</m>
-        <en>... thirteen dogs</en></li>
-      <li>...</li>
-      <li><m>... naoi coin dheug ...</m>
-        <en>... nineteen dogs</en></li>
-    </ul>
-  </p>
-  <p>For larger numeric quantities, we can use the <a href="?xx=nouns/numeric_nouns">numeric
-      nouns</a> – <ul>
-      <li><m>Tha <u>dusan cù</u> aig Màiri</m>
-        <en>Mary has <u>a dozen dogs</u></en></li>
-      <li><m>... fichead cù ...</m>
-        <en>... twenty dogs</en></li>
-      <li><m>... ceud cù ...</m>
-        <en>... a hundred dogs</en></li>
-    </ul>
-  </p>
-  <p>Multiples of numeric nouns can be expressed by combining them with the ten numerals – <ul>
-      <li><m>Tha <u>trì dusan cù</u> aig Màiri</m>
-        <en>Mary has <u>three dozen dogs</u></en></li>
-      <li><m>... dà fhichead cù ...</m>
-        <en>... forty dogs</en></li>
-      <li><m>... ochd ceud cù ...</m>
-        <en>... eight hundred dogs</en></li>
-    </ul>
-  </p>
-  <p>More complex examples involve conjoining numeric quantity expressions using <a href="?gd=agus"
-      >agus</a> – <ul>
-      <li><m>Tha <u>fichead cù agus a trì</u> aig Màiri</m>
-        <en>Mary has <u>twenty-three dogs</u></en></li>
-      <li><m>... fichead cù agus a trì deug ...</m>
-        <en>... thirty-three dogs</en></li>
-      <li><m>... ceithir fichead cù agus a naoi deug ...</m>
-        <en>... ninety-nine dogs</en></li>
-      <li><m>... naoi ceud cù deug, ceithir fichead agus a naoi deug ...</m>
-        <ed>??</ed>
-        <en>... nineteen hundred and ninety-nine dogs</en></li>
-    </ul>
-  </p>
+
+  <section id="exact">
+    <h>exact numeric quantities</h>
+    <p>The most basic kind of numeric quantity expression expresses an exact numeric quantity, for
+      example using a <!--<a href="?xx=nouns/numerals">-->numeral<!--</a>--> – <ul>
+        <li><g>Tha <emph>aon chù</emph> aig Màiri</g>
+          <en>Mary has one dog</en></li>
+        <li>... <g>dà chù</g> ... <en>... two dogs</en></li>
+        <li>... <g>trì coin</g> ... <en>... three dogs</en></li>
+        <li>...</li>
+        <li>... <g>deich coin</g> ... <en>... ten dogs</en></li>
+      </ul>
+    </p>
+    <p>Exact numeric quantities between 11 and 19 can be expressed by adding the numeric adjective <!--<a href="?gd=deug">-->deug<!--</a>-->
+      <en>-teen</en> – <ul>
+        <li><g>Tha <emph>aon chù deug</emph> aig Màiri</g>
+          <en>Mary has eleven dogs</en></li>
+        <li>... <g>dà chù dheug</g> ... <en>... twelve dogs</en></li>
+        <li>... <g>trì coin dheug</g> ... <en>... thirteen dogs</en></li>
+        <li>...</li>
+        <li>... <g>naoi coin dheug</g> ... <en>... nineteen dogs</en></li>
+      </ul>
+    </p>
+    <p>For larger numeric quantities, we can use the
+      <!--<a href="?xx=nouns/numeric_nouns">-->numeric nouns<!--</a>--> – <ul>
+        <li><g>Tha <emph>dusan cù</emph> aig Màiri</g>
+          <en>Mary has a dozen dogs</en></li>
+        <li>... <g>fichead cù</g> ... <en>... twenty dogs</en></li>
+        <li>... <g>ceud cù</g> ... <en>... a hundred dogs</en></li>
+      </ul>
+    </p>
+    <p>Multiples of numeric nouns can be expressed by combining them with the numerals – <ul>
+        <li><g>Tha <emph>trì dusan cù</emph> aig Màiri</g>
+          <en>Mary has three dozen dogs</en></li>
+        <li>... <g>dà fhichead cù</g> ... <en>... forty dogs</en></li>
+        <li>... <g>ochd ceud cù</g> ... <en>... eight hundred dogs</en></li>
+      </ul>
+    </p>
+    <p>More complex examples involve conjoining numeric quantity expressions using
+        <!--<a href="?gd=agus"
+      >--><g>agus</g><!--</a>--> – <ul>
+        <li><g>Tha <emph>fichead cù agus a trì</emph> aig Màiri</g>
+          <en>Mary has twenty-three dogs</en></li>
+        <li>... <g>fichead cù agus a trì deug</g> ... <en>... thirty-three dogs</en></li>
+        <li>... <g>ceithir fichead cù agus a naoi deug</g> ... <en>... ninety-nine dogs</en></li>
+        <li>... <g>naoi ceud cù deug, ceithir fichead agus a naoi deug</g> ... <en>... nineteen
+            hundred and ninety-nine dogs ...</en></li>
+      </ul>
+    </p>
+  </section>
+
+
+
+
+
+<!--
   <p>Finally, here are some examples involving partitives – <ed>??</ed>
     <ul>
       <li><m>Tha <u>a h-aon de na coin</u> aig Màiri</m>
@@ -173,4 +165,6 @@
     </ul>
   </p>
   <p><ed>fractional quantities? half a pound, three-fifths of a gallon etc.</ed></p>
+  -->
+  
 </module>

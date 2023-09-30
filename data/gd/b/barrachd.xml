@@ -4,9 +4,9 @@
   <p><g>barrachd</g>
     <en>more, predominance, preponderance</en> is an indeclinable feminine <a
       href="?xx=nouns/generic_quantity_nouns">generic quantity noun</a> expressing a
-      <emph>larger</emph> comparative quantity. It is <a href="?xx=nouns/derived_common_nouns"
+      <emph>larger</emph> comparative quantity. <!--It is <a href="?xx=nouns/derived_common_nouns"
       >derived</a> from the masculine common noun <a href="?gd=bàrr"><g>bàrr</g></a>
-    <en>top, crest</en> with the suffix <a href="?gd=_achd"><g>-achd</g></a>.</p>
+    <en>top, crest</en> with the suffix <a href="?gd=_achd"><g>-achd</g></a>.--></p>
   <!--<p>See also the prepositional compound <a href="?gd=a_bharrachd">a bharrachd (air)</a>.</p>
   -->
   <section>
@@ -44,8 +44,8 @@
         </xl>
       </p>
       <p>With a genitive modifier – <ul>
-          <li>Dh’òl Raonaid <m>barrachd <u>uisge</u></m>. <en>Rachel drank more water.</en></li>
-          <li>Tha <m>barrachd <u>chon</u></m> aig Màiri. <en>Mary has more dogs.</en></li>
+          <li>Dh’òl Raonaid <m>barrachd <emph>uisge</emph></m>. <en>Rachel drank more water.</en></li>
+          <li>Tha <m>barrachd <emph>chon</emph></m> aig Màiri. <en>Mary has more dogs.</en></li>
         </ul>
         <xl id="barrachd_specifier">
           <li>
@@ -57,8 +57,8 @@
               an cànan, an eachdraidh, an ceòl, is mar sin air adhart.</gd>
             <tr>[...] The Parliament has given very little assistance ever to the Gaelic language or
               to Gaelic education and literature. [...] What are the things that we could demand?
-              More Gaelic teachers and inspectors. Money to prepare and print books. <u>More
-                time</u> on the radio and on television. [...] <u>More research</u> on the lifestyle
+              More Gaelic teachers and inspectors. Money to prepare and print books. <emph>More
+                time</emph> on the radio and on television. [...] <emph>More research</emph> on the lifestyle
               of the Gaels, their language, their history, their music, and so on.</tr>
             <ref text="400-49">td. 9, ‘Air an Spiris’</ref>
           </li>
@@ -87,7 +87,7 @@
             <gd>Nan robh <m>barrachd de chothrom</m> aca air cluich roimh-làimh, cha b’e an dara
               duais a bhitheadh aca.</gd>
             <tr>If they had had more opportunity to practise beforehand, it would not have been the
-                <i>second</i> prize that they won.</tr>
+                second prize that they won.</tr>
             <ref text="400-2">td. 84</ref>
             <note>Note the use of the preposition <g>de</g> here, rather than a simple
               genitive.</note>
@@ -97,10 +97,10 @@
     </section>
     <section id="partitive">
       <h>partitive</h>
-      <p>The preposition <a href="?gd=de"><g>de</g></a> with a definite noun – <ul>
-          <li>Dh’òl Raonaid <m>barrachd <u>den fhìon</u></m>. <en>Rachel drank more of the
+      <p>The preposition <a href="?gd=dhe"><g>de</g></a> with a definite noun – <ul>
+          <li>Dh’òl Raonaid <m>barrachd <emph>den fhìon</emph></m>. <en>Rachel drank more of the
               wine.</en></li>
-          <li>Cheannaich Màiri <m>barrachd <u>de mo bhriosgaidean</u></m>. <en>Mary bought more of
+          <li>Cheannaich Màiri <m>barrachd <emph>de mo bhriosgaidean</emph></m>. <en>Mary bought more of
               my biscuits.</en></li>
         </ul>
         <xl id="barrachd_de">
@@ -126,14 +126,14 @@
         </xl>
       </p>
       <p>With a prepositional pronoun – <ul>
-          <li>Dh’òl Raonaid <m>barrachd <u>dheth</u></m>. <en>Rachel drank more of it.</en></li>
-          <li>Tha <m>barrachd <u>dhiubh</u></m> aig Màiri. <en>Mary has more of them.</en></li>
+          <li>Dh’òl Raonaid <m>barrachd <emph>dheth</emph></m>. <en>Rachel drank more of it.</en></li>
+          <li>Tha <m>barrachd <emph>dhiubh</emph></m> aig Màiri. <en>Mary has more of them.</en></li>
         </ul>
         <xl id="barrachd_de_pron">
           <li>
             <gd>Chuir mi dh’ iarraidh sguad nan gunnaichean an uair sin, ach rinn mi mearachd. Bha
                 <m>barrachd dhiùbh-san</m> ann na bha dùil agam.</gd>
-            <tr>I sent for the gun squad then, but I made a mistake. There was more of <i>them</i>
+            <tr>I sent for the gun squad then, but I made a mistake. There was more of them
               then I had expected.</tr>
             <ref text="16">td. 71</ref>
           </li>
@@ -190,8 +190,8 @@
   </section>
   <section id="target">
     <h>target of comparison</h>
-    <p>One (possibly conservative) way of expressing the target of comparison is to use <a
-        href="?gd=agus"><g>agus</g></a> (usually contracted to <g>is</g> or <g>’s</g>) followed by the
+    <p>One (possibly conservative) way of expressing the target of comparison is to use <!--<a
+        href="?gd=agus">--><g>agus</g><!--</a>--> (usually contracted to <g>is</g> or <g>’s</g>) followed by the
       relative particle <g>a</g> eg. <ul>
         <li>Tha <m>barrachd</m> chon aig Dòmhnall <m>’s a tha</m> aig Màiri, <en>Donald has more
             dogs than Mary [does].</en></li>
@@ -352,18 +352,18 @@
             dhachaidh, nì e feum do ’n Chomunn is do ’n Ghàidhlig.</gd>
           <tr>The Highland Society is talking about choosing a new General who will oversee the
             Society’s work. [...] He would have enough to do initially reforming the Society. [...]
-            But the new leader would have to do <u>more than (just) that</u>. He would have to
+            But the new leader would have to do <emph>more than (just) that</emph>. He would have to
             travel between the Butt of Lewis and Barra Head, between Cape Wrath and the Mull of
             Kintyre, and he should not forget that the Society’s work is related to the Crofters’
             Commission in Inverness, to the Education Department in Edinburgh, and to the House of
             Commons in London. The person who goes to each of those places, and who brings home
-              <u>more than (just) conversation</u>, will benefit the Society and the Gaelic
+              <emph>more than (just) conversation</emph>, will benefit the Society and the Gaelic
             language.</tr>
           <ref text="400-46">td. 105, ‘Air an Spiris’</ref>
         </li>
       </xl>
     </p>
-    <p><g>barrachd</g> can be emphasised with the adjective <a href="?gd=fada">fada</a>. <xl
+    <p><g>barrachd</g> can be emphasised with the adjective <!--<a href="?gd=fada">--><g>fada</g><!--</a>-->. <xl
         id="fada">
         <li>
           <gd>“Ist! Dhèanainn <m>fada bharrachd</m> airson mac d’ athar nam b’ urrainn dhomh!” arsa
@@ -381,14 +381,16 @@
         <li>
           <gd>Ann an Dùn Èideann anns na naochadan bha <m>barrachd agus barrachd inbhich</m> airson
             Gàidhlig ionnsachadh.</gd>
-          <tr>In Edinburgh in the 90s there were <u>more and more adults</u> wanting to learn
+          <tr>In Edinburgh in the 90s there were <emph>more and more adults</emph> wanting to learn
             Gaelic.</tr>
           <ref text="610">td. 85</ref>
-          <note>barrachd agus barrachd inbh<u>each</u> ?</note>
+          <note>barrachd agus barrachd inbh<emph>each</emph> ?</note>
         </li>
       </xl>
     </p>
   </section>
+  
+  <!--
   <module id="a_bharrachd">
     <h>a bharrachd (air)</h>
     <p><g>a bharrachd (air)</g> is a prepositional compound, based on the quantity noun
@@ -517,4 +519,5 @@
     <p>cf. <a href="?gd=mòran_a_bharrachd">mòran a bharrachd (air)</a>
       <en>many more</en></p>
   </module>
+  -->
 </module>

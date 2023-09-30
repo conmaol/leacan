@@ -28,8 +28,8 @@
         </xl>
       </p>
       <p>With a genitive modifier – <ul>
-          <li>Dh’òl Raonaid <m>cus <u>uisge</u></m>. <en>Rachel drank too much water.</en></li>
-          <li>Tha <m>cus <u>chon</u></m> aig Màiri. <en>Mary has too many dogs.</en></li>
+          <li>Dh’òl Raonaid <m>cus <emph>uisge</emph></m>. <en>Rachel drank too much water.</en></li>
+          <li>Tha <m>cus <emph>chon</emph></m> aig Màiri. <en>Mary has too many dogs.</en></li>
         </ul>
         <xl id="cus_specifier">
           <li>
@@ -63,11 +63,10 @@
     </section>
     <section id="partitive">
       <h>partitive</h>
-      <h lang="gd">...</h>
-      <p>The preposition <a href="?gd=de">de</a> with a definite noun – <ul>
-          <li>Dh’òl Raonaid <m>cus <u>den fhìon</u></m>. <en>Rachel drank too much of the
+      <p>The preposition <a href="?gd=dhe"><g>de</g></a> with a definite noun – <ul>
+          <li>Dh’òl Raonaid <m>cus <emph>den fhìon</emph></m>. <en>Rachel drank too much of the
             wine.</en></li>
-          <li>Tha <m>cus <u>de mo choin</u> aig Màiri</m>. <en>Mary has too many of my
+          <li>Tha <m>cus <emph>de mo choin</emph> aig Màiri</m>. <en>Mary has too many of my
             dogs.</en></li>
         </ul>
         <xl id="cus_de_art">
@@ -81,8 +80,8 @@
         </xl>
       </p>
       <p>With a prepositional pronoun – <ul>
-          <li>Dh’òl Raonaid <m>cus <u>dheth</u></m>. <en>Rachel drank too much of it.</en></li>
-          <li>Tha <m>cus <u>dhiubh</u></m> aig Màiri. <en>Mary has too many of them.</en></li>
+          <li>Dh’òl Raonaid <m>cus <emph>dheth</emph></m>. <en>Rachel drank too much of it.</en></li>
+          <li>Tha <m>cus <emph>dhiubh</emph></m> aig Màiri. <en>Mary has too many of them.</en></li>
         </ul>
         <xl id="cus_de_pron">
           <li>
