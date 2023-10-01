@@ -15,7 +15,7 @@
     <masc/>
     <en>Glasgow</en>, <g>Gairm</g>
     <fem/> [literary periodical]). In addition, most specified common noun phrases (‘definite
-    descriptions’) are not names.</p>
+    descriptions’) are not names, <eg/> <g>am balach beag</g> <en>the little boy</en>, <g>cù a’ mhinisteir</g> <en>the minister’s dog</en>.</p>
 
   <section id="forms">
     <h>forms</h>
@@ -52,7 +52,7 @@
               <en>MacNeil of Barra; lit. The Man of Kisimul</en>
               <ul>
                 <li>dative – le <g>Fear Chìosmuil</g></li>
-                <li>genitive – taigh <g>Fir Chìosmuil</g>
+                <li>genitive – taigh <g>Fear Chìosmuil</g>
                   <!-- <ed>taigh Fear Chìosmuil ?</ed> --></li>
               </ul>
             </li>
@@ -123,9 +123,9 @@
           stories and other creative works – <g>Am Bìoball</g>
           <en>The Bible</en>, <g>Òran a’ Phrionnsa</g>
           <en>The Song of the Prince</en>, <g>Faclair na Gàidhlig</g>
-          <en>The Historical Dictionary of Scottish Gaelic</en>.</li>
+          <en>The [Historical] Dictionary of Scottish Gaelic</en>.</li>
         <li><a href="?xx=nouns/glottonyms">Glottonymic</a> name-descriptions name languages and
-          dialects – <g>A’ Ghreugais</g>
+          dialects – <g>A’ Ghrèigis</g>
           <en>Greek</en>, <g>Gàidhlig na h-Èireann</g>
           <en>Irish Gaelic</en>.</li>
         <li><a href="?xx=nouns/chrononyms">Chrononymic</a> name-descriptions name events and
@@ -145,7 +145,7 @@
 
   <section id="lenition">
     <h>lenition</h>
-    <p>The head (ie. initial) noun in a (post-specified) name-description which is itself the
+    <p>The head (ie. initial) noun in a (post-specified) name-description <g>which is itself</g> the
       (genitive) (post-)specifier of another noun is generally not lenited in Scottish Gaelic – <ul>
         <li>anthroponymic – <g>taigh <emph>F</emph>ear Chìosmuil</g>
           <en>MacNeil of Barra’s house</en></li>

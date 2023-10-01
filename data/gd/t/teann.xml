@@ -57,13 +57,13 @@
                     <li>active <ul>
                         <li>independent – <m>tòisichidh</m></li>
                         <li>relative – a <m>theannas</m></li>
-                        <li>dependent – cha <m>theann</m>, an/nach <m>teann</m></li>
+                        <li>dependent – cha/an/nach <m>teann</m></li>
                       </ul>
                     </li>
                     <li>passive <ul>
                         <li>independent – <m>teannar</m></li>
-                        <li>relative – a <m>theannear</m></li>
-                        <li>dependent – cha <m>theannear</m>, an/nach <m>teannar</m></li>
+                        <li>relative – a <m>theannar</m></li>
+                        <li>dependent – cha/an/nach <m>teannar</m></li>
                       </ul>
                     </li>
                   </ul>
@@ -73,19 +73,19 @@
                         <li>first person singular <ul>
                             <li>independent – <m>theannainn</m></li>
                             <li>relative – a <m>theannainn</m></li>
-                            <li>dependent – cha <m>theannainn</m>, an/nach <m>teannainn</m></li>
+                            <li>dependent – cha/an/nach <m>teannainn</m></li>
                           </ul>
                         </li>
                         <li>first person plural <ul>
                             <li>independent – <m>theannamaid</m></li>
                             <li>relative – a <m>theannamaid</m></li>
-                            <li>dependent – cha <m>theannemaid</m>, an/nach <m>teannemaid</m></li>
+                            <li>dependent – cha/an/nach <m>teannamaid</m></li>
                           </ul>
                         </li>
                         <li>second/third persons <ul>
                             <li>independent – <m>theannadh</m></li>
                             <li>relative – a <m>theannadh</m></li>
-                            <li>dependent – cha <m>theannadh</m>, an/nach <m>teannadh</m></li>
+                            <li>dependent – cha/an/nach <m>teannadh</m></li>
                           </ul>
                         </li>
                       </ul>
@@ -93,7 +93,7 @@
                     <li>passive <ul>
                         <li>independent – <m>theannte</m></li>
                         <li>relative – a <m>theannte</m></li>
-                        <li>dependent – cha <m>theannte</m>, an/nach <m>teannte</m></li>
+                        <li>dependent – cha/an/nach <m>teannte</m></li>
                       </ul>
                     </li>
                   </ul>
@@ -241,7 +241,7 @@
                         </li>
                         <li>
                           <gd>Theann a chasan a’ dol ma seach.</gd>
-                          <tr>His feet started going in turn [?]</tr>
+                          <tr>His feet started to stagger.</tr>
                           <ref text="400-109">td. 44</ref>
                         </li>
                       </xl>
@@ -250,7 +250,7 @@
                         <li>
                           <gd>Mar theann uair na meadhon-oidhche theann iomagain dhaoine dhol am
                             meud.</gd>
-                          <tr>... anxious people started to increase [?]</tr>
+                          <tr>As midnight drew nearer, people’s anxiety started to increase.</tr>
                           <ref text="313">td. 148</ref>
                         </li>
                       </xl>

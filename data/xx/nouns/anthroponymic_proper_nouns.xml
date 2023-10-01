@@ -73,7 +73,7 @@
             <li><g>Dàibhidh</g>
               <en>David</en>, gen. <g>Dhàibhidh</g></li>
             <li><g>Dòmhnall</g>
-              <en>Donald</en>, gen. <g>Dhòmhnaill</g>, also <g>Domhnull</g></li>
+              <en>Donald</en>, gen. <g>Dhòmhnaill</g>, also <g>Domhnull</g> in nominative</li>
             <li><g>Donnchadh</g>
               <en>Duncan</en>, gen. <g>Dhonnchaidh</g></li>
             <li><g>Dùghall</g>
@@ -93,7 +93,7 @@
             <li><g>Niall</g>
               <en>Neil</en>, gen. <g>Nèill</g></li>
             <li><g>Pàdraig</g>
-              <en>Peter</en>, gen. <g>Phàdraig</g>, also <g>Pàdruig</g></li>
+              <en>Peter</en>, gen. <g>Phàdraig</g>, also <g>Pàdruig</g> in nominative</li>
             <li><g>Peadar</g>
               <en>Peter</en>, gen. <g>Pheadair</g></li>
             <li><g>Pòl</g>
@@ -118,8 +118,8 @@
               <en>Norman</en>, gen. <g>Thormoid</g></li>
             <li><g>Uilleam</g>
               <en>William</en>, gen. <g>Uilleim</g></li>
-            <li><g>Uisdean</g>
-              <en>Hugh</en>, gen. <g>Uisdein</g></li>
+            <li><g>Ùisdean</g>
+              <en>Hugh</en>, gen. <g>Ùisdein</g></li>
           </ul></p>
       </section>
     </section>
@@ -153,7 +153,7 @@
             <en>Donny</en>, gen. <g>Dhonaidh</g>; <g>Dòmhnallan</g>, gen. <g>Dhòmhnallain</g></li>
           <li><g>Iain</g>
             <en>John</en> ⇒ <g>Seonaidh</g>
-            <en>Jonnie</en>, gen. <g>Sheonaidh</g></li>
+            <en>Jonnie</en>, gen. <g>Sheonaidh</g>; <g>Iagan</g>, gen. <g>Iagain</g></li>
           <li><g>Seumas</g>
             <en>James</en> ⇒ <g>Seumaidh</g>
             <en>Jimmy</en>, gen. <g>Sheumaidh</g></li>
@@ -195,8 +195,7 @@
     </p>
     <p>As with other proper nouns, the dative and genitive forms of a feminine anthroponymic proper
       noun are created by slenderising the corresponding nominative form (<g>Mairead</g> ⇒
-          <g>Maire<emph>id</emph></g>
-      <!--<ed>Never Maireide?</ed>-->), and the genitive form of a masculine anthroponymic proper
+          <g>Maire<emph>id</emph></g><!--<ed>Never Maireide?</ed>-->), and the genitive form of a masculine anthroponymic proper
       noun is created by both slenderising and leniting the corresponding nominative form
         (<g>Tormod</g>
       <en>Norman</en> ⇒ <g>Thormo<emph>id</emph></g>).</p>
@@ -228,8 +227,8 @@
             <li><g>Mairead Bhàn</g>
               <en>Fair Margaret</en>
               <ul>
-                <li>dative – le <g>Maireid Bhàin</g></li>
-                <li>genitive – taigh <g>Maireid Bàin(e?)</g></li>
+                <li>dative – le <g>Maireid Bhàin</g> (alt. le Mairead Bhàn)</li>
+                <li>genitive – taigh <g>Maireid Bhàin</g></li>
               </ul></li>
             <li><g>Seumas Mòr</g>
               <en>Big James</en><ul>
@@ -264,7 +263,7 @@
               <en>Margaret Campbell</en>
               <ul>
                 <li>dative – le <g>Maireid Chaimbeil</g></li>
-                <li>genitive – taigh <g>Maireid Caimbeil(e?)</g></li>
+                <li>genitive – taigh <g>Maireid Chaimbeul</g></li> <!-- taigh Maireid Caimbeile??-->
               </ul></li>
             <li><g>Tormod Dòmhnallach</g>
               <en>Norman Donaldson</en>
@@ -349,8 +348,8 @@
           <li><g>Màiri Mhòr nan Òran</g>
             <en>lit. Big Mary of the Songs</en>
             <ul>
-              <li>dative – le <g>Màiri Mhòir nan Òran</g></li>
-              <li>genitive – taigh <g>Màiri Mòire nan Òran</g>
+              <li>dative – le <g>Màiri Mhòr nan Òran</g></li>
+              <li>genitive – taigh <g>Màiri Mhòir nan Òran</g>
                 <!-- <ed>Is this acceptable?</ed> --></li>
             </ul>
           </li>
@@ -371,11 +370,12 @@
 
     <section id="apposition">
       <h>apposition</h>
+      <!--
       <p>Like other proper nouns, an anthroponymic proper noun can stand in apposition to a
         specified common noun, with the two nouns agreeing for case – <ul>
           <li><g>Dòmhnall an sagart</g>
             <en>Donald the priest</en>
-            <!--<ed>Is this grammatical?</ed>-->
+            <ed>Is this grammatical?</ed>
             <ul>
               <li>dative – le <g>Dòmhnall an t-sagart</g></li>
               <li>genitive – taigh <g>Dhòmhnaill an t-sagairt</g></li>
@@ -390,6 +390,7 @@
           </li>
         </ul>
       </p>
+    -->
 
       <section>
         <h>patronymics and patronymic surnames</h>
@@ -397,7 +398,7 @@
             <li><g>Mairead nighean Thormoid</g>
               <en>Margaret, daughter of Norman</en>
               <ul>
-                <li>dative – le <g>Maireid nighinn Thormoid</g></li>
+                <li>dative – le <g>Mairead nighean Thormoid</g></li> <!--le Maireid nighinn Thormoid-->
                 <li>genitive – taigh <g>Maireid (n)ighne Thormoid</g></li>
               </ul>
             </li>
@@ -424,7 +425,7 @@
               <en>James MacDonald</en>
               <ul>
                 <li>dative – le <g>Seumas MacDhòmhnaill</g></li>
-                <li>genitive – taigh <g>Sheumais M[h]icDhòmhnaill</g></li>
+                <li>genitive – taigh <g>Sheumais MhicDhòmhnaill</g></li>
               </ul>
             </li>
           </ul>
@@ -464,10 +465,10 @@
         <h>titles</h>
         <p>Apposition is the basis for titles and honorifics – <ul>
             <li><g>An t-Ollamh Dòmhnall (MacDhòmhnaill)</g>
-              <en>Doctor Donald (MacDonald)</en>
+              <en>Doctor/Professor Donald (MacDonald)</en>
               <ul>
                 <li>dative – leis <g>an Ollamh Dòmhnall (MacDhòmhnaill)</g></li>
-                <li>genitive – taigh <g>an Ollaimh Dhòmhnaill (MhicDhòmhnaill)</g></li>
+                <li>genitive – taigh <g>an Ollaimh Dòmhnall (MacDhòmhnaill)</g></li>
               </ul>
             </li>
           </ul>
@@ -520,6 +521,7 @@
       </section>
     </section>
   </section>
+  
 
   <!--
       <section>
@@ -696,13 +698,13 @@
       <p>A masculine anthroponymic proper noun which is the (genitive) (post-)specifier of another
         noun is generally lenited – <ul>
           <li><g>taigh Dhòmhnaill</g>
-            <en>Donald’s house</en>, cf. <bad>taigh Dòmhna(i)ll</bad></li>
-          <li><g>cù Mhurchaidh</g> – <en>Murdo’s dog</en>, cf. <bad>cù Murcha(i)dh</bad></li>
+            <en>Donald’s house</en><!--, cf. <bad>taigh Dòmhna(i)ll</bad>--></li>
+          <li><g>cù Mhurchaidh</g> – <en>Murdo’s dog</en><!--, cf. <bad>cù Murcha(i)dh</bad>--></li>
         </ul>
       </p>
       <p>However, in traditional (especially formal) usage, lenition may be ‘blocked’ if adjacent
         consonants are both dental or even both velar – <ul>
-          <li><g>Cla<emph>nn D</emph>òmhnall</g>
+          <li><g>Cla<emph>nn D</emph>òmhnaill</g>
             <en>Clan Donald</en></li>
           <li><g>Cla<emph>nn D</emph>onnchaidh</g>
             <en>Clan Duncan</en></li>
@@ -728,7 +730,7 @@
           <li><g>cù Flòraidh</g> – <en>Flora’s dog</en></li>
         </ul>
       </p>
-      <p>However, it is common nowadays to see/hear feminine anthroponymic proper nouns lenited in
+      <p>However, it is common nowadays in some dialects (eg. Skye) to see/hear feminine anthroponymic proper nouns lenited in
         these contexts – <ul>
           <li><g>taigh Mhàiri</g></li>
           <li><g>cù Fhlòraidh</g></li>

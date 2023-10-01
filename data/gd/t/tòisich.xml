@@ -41,13 +41,13 @@
                             <li>active <ul>
                                     <li>independent – <m>tòisichidh</m></li>
                                     <li>relative – a <m>thòisicheas</m></li>
-                                    <li>dependent – cha <m>thòisich</m>, an/nach <m>tòisich</m></li>
+                                    <li>dependent – cha/an/nach <m>tòisich</m></li>
                                 </ul>
                             </li>
                             <li>passive <ul>
                                     <li>independent – <m>tòisichear</m></li>
                                     <li>relative – a <m>thòisichear</m></li>
-                                    <li>dependent – cha <m>thòisichear</m>, an/nach
+                                    <li>dependent – cha/an/nach
                                             <m>tòisichear</m></li>
                                 </ul>
                             </li>
@@ -58,21 +58,21 @@
                                     <li>first person singular <ul>
                                             <li>independent – <m>thòisichinn</m></li>
                                             <li>relative – a <m>thòisichinn</m></li>
-                                            <li>dependent – cha <m>thòisichinn</m>, an/nach
+                                            <li>dependent – cha/an/nach
                                                   <m>tòisichinn</m></li>
                                         </ul>
                                     </li>
                                     <li>first person plural <ul>
                                             <li>independent – <m>thòisicheamaid</m></li>
                                             <li>relative – a <m>thòisicheamaid</m></li>
-                                            <li>dependent – cha <m>thòisicheamaid</m>, an/nach
+                                            <li>dependent – cha/an/nach
                                                   <m>tòisicheamaid</m></li>
                                         </ul>
                                     </li>
                                     <li>second/third persons <ul>
                                             <li>independent – <m>thòisicheadh</m></li>
                                             <li>relative – a <m>thòisicheadh</m></li>
-                                            <li>dependent – cha <m>thòisicheadh</m>, an/nach
+                                            <li>dependent – cha/an/nach
                                                   <m>tòisicheadh</m></li>
                                         </ul>
                                     </li>
@@ -81,7 +81,7 @@
                             <li>passive <ul>
                                     <li>independent – <m>thòisichte</m></li>
                                     <li>relative – a <m>thòisichte</m></li>
-                                    <li>dependent – cha <m>thòisichte</m>, an/nach
+                                    <li>dependent – cha/an/nach
                                         <m>tòisichte</m></li>
                                 </ul>
                             </li>
@@ -267,12 +267,12 @@
         <h>dependents</h>
         <section id="deps-sbj">
             <h>subject</h>
-            <p>The subject of <g>tòisich</g> is generally a noun expression denoting a human – <ul>
+            <p>The subject of <g>tòisich</g> is generally a noun expression denoting a human (or animal) – <ul>
                     <li><m>Thòisich mi an-dè.</m>
                         <en>I started yesterday.</en></li>
                 </ul>
             </p>
-            <p>Sometimes the subject of <g>sguir</g> can be more abstract – <ul>
+            <p>Sometimes the subject of <g>tòisich</g> can be more abstract – <ul>
                     <li><m>Thòisich an sneachd.</m>
                         <en>The snow began.</en></li>
                 </ul>

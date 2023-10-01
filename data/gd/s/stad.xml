@@ -260,7 +260,7 @@
         <h>dependents</h>
         <section id="subject">
             <h>subject</h>
-            <p>The subject of <g>stad</g> is generally a noun expression denoting a human – <ul>
+            <p>The subject of <g>stad</g> is generally a noun expression denoting a human (or other animal) – <ul>
                     <li><m>Stad mi.</m>
                         <en>I stopped.</en></li>
                     <li><m>Stad!</m>
@@ -321,7 +321,7 @@
             </section>
             <section id="deps-comps-trans">
                 <h>transitive</h>
-                <p><g>stad</g> can occur with a noun expression as complement, as a transitive verb
+                <p><g>stad</g> can occur (at least in very recent usage) with a noun expression as complement, as a transitive verb
                     – <ul>
                         <li><m>Stad mi an càr.</m>
                             <en>I stopped the car.</en></li>
@@ -341,11 +341,11 @@
             <section>
                 <h>prepositions</h>
                 <module id="deps-comps-dhe" status="bronze">
-                    <h>stad dhe ...</h>
+                    <h>stad a [dhe] ...</h>
                     <p><g>stad</g> can take a (verbal noun) complement introduced by the partitive
-                        preposition <a href="?gd=dhe"><g>dhe</g></a>
+                        preposition <a href="?gd=dhe"><g>a [dhe]</g></a>
                         <en>of</en> – <ul>
-                            <li><m>Stad i dhe dh’ithe na h-ùbhlan.</m>
+                            <li><m>Stad i a dh’ithe nan ùbhlan.</m>
                                 <en>She stopped eating the apples.</en></li>
                         </ul>
                     </p>
@@ -394,7 +394,8 @@
                             <gd>Ach stad ort!</gd>
                             <tr>But stop!</tr>
                             <ref text="601">td. 548</ref>
-                            <note>impersonal? reflexive?</note>
+                            <note>impersonal? reflexive? Mandic: Could this be a v. noun in an elliptical expression? 
+                                Cf. ‘cuir stad air’...</note>
                         </li>
                     </xl>
                 </p>
@@ -426,7 +427,7 @@
                         </ul>
                     </li>
                     <li>purposive – <ul>
-                            <li><g>stad <a href="?gd=dha">dha</a> ...</g>
+                            <li><g>stad <a href="?gd=dha">[dh]a</a> ...</g>
                                 <en>stop to (do)</en> – <ul>
                                     <li>pedagogical examples – <xl id="deps-mods-dha-pedag">
                                             <li>
@@ -475,7 +476,7 @@
             <module id="stad-noun" status="bronze">
                 <h>stad <masc/></h>
                 <p><g>stad</g>
-                    <en>stop, halt, pause, end, cessation</en> is a deverbal masculine noun, derived
+                    <en>stop, halt, pause, end, cessation</en> is a (at least synchronically) deverbal masculine noun, derived
                     from the verb <g>stad</g>, with genitive singular form <g>stada</g> and plural
                         <g>stadan</g>.</p>
                 <section>
@@ -531,8 +532,8 @@
                             </p>
                         </module>
                         <module id="uses-derivs-stad-uses-comp-an" status="bronze">
-                            <h>’na* stad</h>
-                            <p><g><a href="?gd=an^preposition">’na*</a> stad</g>
+                            <h>na* stad</h>
+                            <p><g><a href="?gd=an^preposition">na*</a> stad</g>
                                 <en>in a state of having stopped</en>, cf. <a
                                     href="?q=verbal_aspect">retrospective</a> aspect.</p>
                             <p>Pedagogical examples – <xl id="uses-derivs-stad-uses-comp-an-pedag">

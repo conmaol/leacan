@@ -4,19 +4,19 @@
   <p>Proper nouns are <a href="?xx=nouns/nouns">nouns</a> which are also <a href="?xx=nouns/names"
       >names</a>, identifying and referring to particular, definite entities – a specific person,
     object, place, group, etc. Examples of proper nouns are – <ul>
-      <li><m>Raonaid</m>
+      <li><g>Raonaid</g>
         <fem/>
         <en>Rachel</en></li>
-      <li><m>Glaschu</m>
+      <li><g>Glaschu</g>
         <masc/>
         <en>Glasgow</en></li>
-      <li><m>Laideann</m>
+      <li><g>Laideann</g>
         <fem/>
         <en>Latin</en>.</li>
     </ul></p>
   <p>Proper nouns contrast with – <ul>
       <li><a href="?xx=nouns/common_nouns">common nouns</a> – nouns which describe classes of entity
-        and hence are not names, for example – <ul>
+        (and hence are not names), for example – <ul>
           <li><g>bean</g>
             <fem/>
             <en>woman</en>,</li>
@@ -28,7 +28,7 @@
             <en>water</en>.</li>
         </ul></li>
       <li><a href="?xx=nouns/name_descriptions">name-descriptions</a> – names which consist of a
-        specified common noun phrase and hence are not nouns – <ul>
+        specified common noun phrase (and hence are not nouns) – <ul>
           <li><g>An Caiptean</g>
             <en>The Captain</en></li>
           <li><g>Ceann Loch Chille Chiarain</g>
@@ -37,7 +37,6 @@
             <en>The Song of the Stone</en></li>
         </ul></li>
     </ul></p>
-
   <section>
     <h>derivation</h>
     <section id="derivation-simple">
@@ -71,7 +70,7 @@
         for example <ul>
           <li>
             <g>Gairm</g>
-            <en>[literary periodical]</en> – from <g>gairm</g>
+            <en>Crowing/Calling [name of literary periodical]</en> – from <g>gairm</g>
             <fem/>
             <en>calling, crowing</en></li>
         </ul>
@@ -176,7 +175,7 @@
             <!-- <ed>toponym example? Scalpaigh na Hearadh? Is Na Hearadh a proper
               noun? [ROM and DM say yes.]</ed> --></li>
           <li>pre-specified common noun – <g>Dòmhnall a’ <emph>Mhinisteir</emph></g>
-            <en>The Minister’s Donald; Donald, the son of the Minister</en>, <g>Seumas a’
+            <en>The Minister’s (son) Donald; Donald, the son of the Minister</en>, <g>Seumas a’
                 <emph>Ghlinne</emph></g>
             <en>James of the Glen</en></li>
           <!-- <li>post-specified common noun – <ed><g>Dòmhnall <emph>Ministeir</emph> (Ministear) na
@@ -185,11 +184,11 @@
         </ul>
       </p>
       <!-- <p><ed>Toponym examples?</ed></p> -->
-      <p>Note that, unlike common nouns, a proper noun cannot have a (<a
+      <!-- <p>Note that, unlike common nouns, a proper noun cannot have a (<a
           href="?xx=nouns/determiners">determiner</a>) pre-specifier, cf. <bad>mo Mhàiri</bad> ~
           <bad>a’ Mhàiri agamsa</bad> ~ <g>Màiri agamsa</g>
-        <en>my Mary</en>.</p>
-      <p>However, a few <a href="?xx=nouns/toponymic_proper_nouns">toponymic proper nouns</a>
+        <en>my Mary</en>.</p>-->
+      <p>In addition, a few <a href="?xx=nouns/toponymic_proper_nouns">toponymic proper nouns</a>
         usually switch to being a kind of <a href="?xx=nouns/name_descriptions">name-description</a>
         (‘uncommon nouns’) in the genitive and hence take the article – <g>Alba</g> ⇒ <g>Eaglais
             <emph>na h-Alba(nn)</emph></g>
@@ -197,12 +196,13 @@
         <en>Ireland</en> ⇒ <g>Gàidhlig <emph>na h-Èireann</emph></g>
         <en>Irish Gaelic</en>. <!-- <ed>Eòrpa?</ed>--></p>
     </section>
-    <section id="apposition">
+    <!--
+    <section id="apposition"> come back to after reading Lamb’s treatment – he says no case agreement
       <h>apposition</h>
       <p>A proper noun can stand in apposition to a specified common noun, agreeing for case – <ul>
           <li><g>Dòmhnall an sagart</g>
             <en>Donald the priest</en>
-            <!-- <ed>Is this actually grammatical? cf. Dòmhnall sagart.</ed> -->
+             <ed>Is this actually grammatical? cf. Dòmhnall sagart.</ed> 
             <ul>
               <li>dative – le <g>Dòmhnall an t-sagart</g></li>
               <li>genitive – taigh <g>Dhòmhnaill an t-sagairt</g></li>
@@ -211,14 +211,15 @@
             <en>Lewis, the Long Island</en>
             <ul>
               <li>dative – ann an <g>Leòdhas, an Eilean Fhada</g>
-                <!-- <ed>grammatical?</ed> --></li>
+                 <ed>grammatical?</ed> -</li>
               <li>genitive – muinntir <g>Leòdhais, an Eilein Fhada</g>
-                <!-- <ed>grammatical?</ed> --></li>
+                 <ed>grammatical?</ed> </li>
             </ul>
           </li>
         </ul>
       </p>
     </section>
+  -->
   </section>
   <section id="uses">
     <h>uses</h>

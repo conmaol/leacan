@@ -260,7 +260,7 @@
         <h>dependents</h>
         <section id="deps-sbj">
             <h>subject</h>
-            <p>The subject of <g>sguir</g> is generally a noun expression denoting a human – <ul>
+            <p>The subject of <g>sguir</g> is generally a noun expression denoting a human (or other animal) – <ul>
                     <li><m>Sguir mi.</m>
                         <en>I stopped.</en></li>
                     <li><m>Sguir!</m>
@@ -337,15 +337,15 @@
             <section>
                 <h>prepositions</h>
                 <module id="deps-comps-dhe" status="bronze">
-                    <h>sguir dhe ...</h>
-                    <p><g>sguir</g> can take a (verbal noun) complement introduced by the partitive
-                        preposition <a href="?gd=dhe"><g>dhe</g></a>
+                    <h>sguir a [dhe] ...</h>
+                    <p><g>sguir</g> can take a (verbal noun) complement introduced by the
+                        preposition <a href="?gd=dhe"><g>a [dhe]</g></a>
                         <en>of</en> – <ul>
-                            <li><m>Sguir a’ chaileag dhe sheinn.</m>
+                            <li><m>Sguir a’ chaileag a sheinn.</m>
                                 <en>The girl stopped singing.</en></li>
-                            <li><m>Sguiribh dhe dh’ithe na h-ùbhlan sin!</m>
+                            <li><m>Sguiribh a dh’ithe nan ùbhlan sin!</m>
                                 <en>Stop eating those apples!</en></li>
-                            <li><m>Sguir an togalach dhe luasgadh.</m>
+                            <li><m>Sguir an togalach a luasgadh.</m>
                                 <en>The building stopped shaking.</en></li>
                         </ul>
                     </p>

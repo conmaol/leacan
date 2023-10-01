@@ -18,9 +18,9 @@
                         </ul>
                     </li>
                     <li>cessative <ul>
-                            <li><m>Sguir Raonaid dhe shuidhe sìos.</m>
+                            <li><m>Sguir Raonaid a [dhe] shuidhe sìos.</m>
                                 <en>Rachel stopped sitting down.</en></li>
-                            <li><m>Stad mi dhe dh’ithe an ubhail.</m>
+                            <li><m>Stad mi a [dhe] dh’ithe an ubhail.</m>
                                 <en>I stopped eating the apple.</en></li>
                         </ul>
                     </li>
@@ -38,20 +38,20 @@
                             <li><m>Shuidheadh Raonaid sìos (gu tric).</m>
                                 <en>Rachel sat down (frequently)</en>.</li>
                             <li><m>Is àbhaist dhomh ubhal a ithe (gach madainn).</m>
-                                <en>I eat an apple (every morning).</en></li>
+                                <en>I usually eat an apple (every morning).</en></li>
                         </ul>
                     </li>
-                    <li>retrospective – <ul>
-                            <li><m>Tha Raonaid na suidhe sìos.</m>
+                    <li>retrospective (the state deriving from a past event) – <ul>
+                            <li><m>Tha Raonaid na suidhe.</m>
                                 <en>Rachel has/is sat down.</en></li>
                             <li><m>Tha mi air ubhal a ithe.</m>
                                 <en>I have eaten an apple.</en></li>
                         </ul>
                     </li>
-                    <li>prospective – <ul>
+                    <li>prospective (the state leading up to a future event) – <ul>
                             <li><m>Tha Raonaid gu suidhe sìos.</m>
                                 <en>Rachel is about to sit down.</en></li>
-                            <li><m>Tha mi a’ dol dha dh’ithe ubhail.</m>
+                            <li><m>Tha mi a’ dol [dh]a dh’ithe ubhail.</m>
                                 <en>I am going to eat an apple.</en></li>
                         </ul>
                     </li>
@@ -72,7 +72,7 @@
         </p>
         <p>Simple futures and conditionals can also be used to mark perfective situations in
             ‘irrealis’ contexts (non-factuals, conditionals, hypotheticals, ...) – <ul>
-                <li>Ma bhios an t-uisge ann, <m>dh’fhosglaidh</m> mi an doras agus <m>thèid</m> mi
+                <li>Ma bhios an t-uisge ann, <m>fosglaidh</m> mi an doras agus <m>thèid</m> mi
                         a-steach.<en>If it’s raining, I’ll open the door and go in.</en></li>
                 <li>Nam biodh an t-uisge ann, <m>dh’fhosglainn</m> an doras agus <m>dheighinn</m>
                     a-steach. <en>If it were raining, I would open the door and go in.</en></li>
@@ -80,7 +80,7 @@
         </p>
         <p>Note also that almost all verb forms in the simple past mark perfective situations, with
             the obvious exceptions being the past simple forms of <a href="?gd=bi"><g>bi</g></a>
-                (<g>bha</g>, <g>robh</g>) and <g>bu</g>. Things are more complicated with simple
+                (<g>bha</g>, <g>robh</g>) and <g>is</g> (<g>bu</g>). Things are more complicated with simple
             futures and conditionals, as discussed below.</p>
         <section id="inchoative">
             <h>inchoatives</h>
@@ -115,7 +115,7 @@
         <h>imperfectives</h>
         <p>A verbal expression has imperfective aspect if it presents a situation from the
                 <emph>inside</emph> – ongoing and non-bounded, without explicit start or end points.
-            Imperfective situations are usually presented as descriptive background to foregrounded
+            Imperfective situations are often presented as descriptive background to foregrounded
             perfectives.</p>
         <section id="progressive">
             <h>progressives</h>
@@ -181,7 +181,7 @@
                     <li><m>Bidh mi a’ sgrìobhadh dàn [ùr] gach madainn.</m>
                         <en>I write a [new] poem every morning.</en></li>
                     <li>Nuair a bha mi òg, <m>bhithinn a’ sgrìobhadh dàn [ùr] gach madainn.</m>
-                        <en>When I was young, I wrote a [new] poem every morning.</en></li>
+                        <en>When I was young, I used to/would write a [new] poem every morning.</en></li>
                 </ul>
             </p>
         </section>
@@ -205,7 +205,7 @@
             </p>
             <p>cf. <a href="?gd=air"><g>air</g></a> <en>on</en>.</p>
             <p>In addition, there are a handful of Gaelic verbs that form quasi-retrospectives of
-                the form <g>bi ’na*</g> + verbal noun – <ul>
+                the form <g>bi na*</g> + verbal noun – <ul>
                     <li><m>Tha mi nam shuidhe aig a’ bhòrd.</m>
                         <en>I am sat at the table.</en></li>
                     <li>Chaidh mi a-steach. <m>Bha Màiri na dùsgadh.</m>
@@ -219,14 +219,14 @@
             <p>An imperfective verbal expression has prospective aspect if it describes a situation
                 that constitutes the prelude to a following situation. In Gaelic, the normal way of
                 marking prospective aspect is by means of verbal compounds of the form <g>bi a’ dol
-                    dha</g> + verbal noun or <g>bi gu(s)</g> + infinitive – <ul>
+                    [dh]a</g> + verbal noun or <g>bi gu(s)</g> + infinitive – <ul>
                     <li><m>Tha Iain a’ dol a sgrìobhadh litir.</m>
                         <en>John is going to write a letter.</en></li>
                     <li>Chaidh mi a-steach. <m>Bha Màiri gu falbh.</m>
                         <en>I went in. Mary was about to leave.</en></li>
                 </ul></p>
             <p>cf. <a href="?gd=gu-prospective"><g>gu</g></a>, <a href="?gd=impis"><g>an
-                    impis</g></a>, <a href="?gd=beul"><g>air bheul</g></a>, <a href="?gd=lunn"
+                    impis</g></a>, <!--<a href="?gd=beul"><g>air bheul</g></a>,--> <a href="?gd=lunn"
                         ><g>air lunn</g></a>, <a href="?gd=tuar"><g>air thuar</g></a>
                 <en>(seem to) be about to</en>. </p>
         </section>
