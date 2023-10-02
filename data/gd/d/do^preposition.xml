@@ -1,41 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
 <module status="bronze">
-    <h>dha</h>
-    <p><g>dha</g>
+    <h>do</h>
+    <p><g>do</g>
         <en>(in)to, for</en> is the (leniting) illative <a href="?xx=prepositions/prepositions"
             >preposition</a>.</p>
     <section>
         <h>forms</h>
         <section id="indefinite">
             <h>indefinite</h>
-            <p>The default form of the illative preposition is simply <g>dha</g> – <ul>
-                    <li><m>dha</m> thaigh <en>into a house</en></li>
-                    <li><m>dha</m> Nirribhidh <en>into Norway</en></li>
-                    <li><m>dha</m> thrì làithean <en>into three days</en></li>
+            <p>The default form of the illative preposition is simply <g>do</g> – <ul>
+                    <li><m>do</m> thaigh <en>into a house</en></li>
+                    <li><m>do</m> Nirribhidh <en>into Norway</en></li>
+                    <li><m>do</m> thrì làithean <en>into three days</en></li>
                 </ul></p>
-            <p>Before a word beginning with a vowel or <g>fh-</g>, <g>dha</g> is reduplicated to
-                    <g>dha dh’</g> – <ul>
-                    <li><m>dha dh’</m>aislingean <en>into dreams</en></li>
-                    <li><m>dha dh’</m>Èirinn <en>into Ireland</en></li>
-                    <li><m>dha dh’</m>ochd rionnagan <en>into eight stars</en></li>
+            <p>Before a word beginning with a vowel or <g>fh-</g>, <g>do</g> is reduplicated to
+                    <g>do dh’</g> – <ul>
+                    <li><m>do dh’</m>aislingean <en>into dreams</en></li>
+                    <li><m>do dh’</m>Èirinn <en>into Ireland</en></li>
+                    <li><m>do dh’</m>ochd rionnagan <en>into eight stars</en></li>
                 </ul>
             </p>
-            <p>Note that <g>dha</g> is often spelled as (unlenited) <g>do</g>, especially in older
+            <p>Note that <g>do</g> is often spelled as (unlenited) <g>do</g>, especially in older
                 texts. In both speech and writing, it is often reduced to just <g>a</g>.</p>
         </section>
         <section id="definite">
             <h>definite</h>
             <p>When the immediately following word is a singular form of the definite article, the
-                linking form <g>dhan</g> (in older usage <g>don</g>) is used – <ul>
-                    <li><m>dhan an</m> taigh <en>into the house</en></li>
-                    <li><m>dhan a’</m> bhaile <en>into the town</en></li>
+                linking form <g>don</g> (in older usage <g>don</g>) is used – <ul>
+                    <li><m>don an</m> taigh <en>into the house</en></li>
+                    <li><m>don a’</m> bhaile <en>into the town</en></li>
                 </ul> But – <ul>
-                    <li><m>dha na h-</m>aislingean <en>into the dreams</en>, rather than <bad>dhan
-                            na h-aislingean</bad></li>
+                    <li><m>do na h-</m>aislingean <en>into the dreams</en>, rather than <bad>do na
+                            h-aislingean</bad></li>
                 </ul>
             </p>
-            <p>Note that <g>dhan an</g> and <g>dhan a’</g> often reduce to just <g>dhan</g> –
-                    <g>dhan taigh</g>, <g>dhan bhaile</g>.</p>
+            <p>Note that <g>don an</g> and <g>don a’</g> often reduce to just <g>don</g> – <g>don
+                    taigh</g>, <g>don bhaile</g>.</p>
             <!--<p><g>dhan</g> is used in a range of other vowel-initial contexts as well – <ul>
                     <li><g>dhan a-màireach</g>
                         <en>(in)to tomorrow</en></li>
@@ -47,27 +47,28 @@
             </p>-->
             <p>Fused forms are sometimes used when the immediately following word is a possessive
                 determiner – <ul>
-                    <li><m>dha mo</m> thaigh <en>into my house</en> ≈ <g>dham</g> thaigh
-                        (previously, <g>dom</g> thaigh)</li>
-                    <li><m>dha do</m> thaigh <en>into your house</en> ≈ <g>dhad</g> thaigh
+                    <li><m>do mo</m> thaigh <en>into my house</en> ≈ <g>dham</g> thaigh (previously,
+                            <g>dom</g> thaigh)</li>
+                    <li><m>do do</m> thaigh <en>into your house</en> ≈ <g>dhad</g> thaigh
                         (previously, <g>dod</g> thaigh)</li>
-                    <li><m>dha a h-</m>òran <en>into her song</en> ≈ <g>dha h-</g>òran (previously
+                    <li><m>do a h-</m>òran <en>into her song</en> ≈ <g>dha h-</g>òran (previously
                             <g>do h-</g>òran)</li>
-                    <li><m>dha a</m> chraoibh <en>into his tree</en> ≈ <g>dha</g> chraoibh
+                    <li><m>do a</m> chraoibh <en>into his tree</en> ≈ <g>dha</g> chraoibh
                         (previously <g>do</g> chraoibh)</li>
-                    <li><m>dha ar n-</m>achadh <en>into our field</en> ≈ <g>dhar n-</g>achadh
+                    <li><m>do ar n-</m>achadh <en>into our field</en> ≈ <g>dhar n-</g>achadh
                         (previously <g>dar n-</g>achadh)</li>
-                    <li><m>dha bhur</m> leapannan <en>into your beds</en> ≈ <g>dhur</g> leapannan
+                    <li><m>do bhur</m> leapannan <en>into your beds</en> ≈ <g>dhur</g> leapannan
                         (previously dur leapannan)</li>
-                    <li><m>dha an</m> taighean <en>to their houses</en> ≈ <g>dhan</g> taighean
+                    <li><m>do an</m> taighean <en>to their houses</en> ≈ <g>dhan</g> taighean
                         (previously <g>dan</g> taighean)</li>
-                    <li><m>dha am</m> baile <en>to their town</en> ≈ <g>dham</g> baile (previously
+                    <li><m>do am</m> baile <en>to their town</en> ≈ <g>dham</g> baile (previously
                             <g>dam</g> baile)</li>
                 </ul></p>
         </section>
         <section id="pronoun">
             <h>prepositional pronouns</h>
-            <p>Conjugated prepositions are used in place of <bad>dha mi</bad>, <bad>dha thu</bad>, ... , <bad>dha iad</bad> – <ul>
+            <p>Conjugated prepositions are used in place of <bad>do mi</bad>, <bad>do thu</bad>, ...
+                , <bad>do iad</bad> – <ul>
                     <li><m>dhomh</m>
                         <en>into me</en></li>
                     <li><m>dhut</m>
@@ -84,7 +85,8 @@
                         <en>into them</en></li>
                 </ul>
             </p>
-            <p>There are also emphatic forms (cf. <bad>dha mise</bad>, <bad>dha thusa</bad>, ... , <bad>dha iadsan</bad>) – <ul>
+            <p>There are also emphatic forms (cf. <bad>do mise</bad>, <bad>do thusa</bad>, ... ,
+                    <bad>do iadsan</bad>) – <ul>
                     <li><m>dhòmhsa</m>
                         <en>into <emph>me</emph></en></li>
                     <li><m>dhutsa</m>
@@ -101,10 +103,11 @@
                         <en>into <emph>them</emph></en></li>
                 </ul>
             </p>
-            <p>Note that the form <g>dhaibhsan</g> breaks the ‘slender-to-slender, broad-to-broad’ spelling
-                rule, and hence is sometimes found written with a hyphen – <g>dhaibh-san</g>.</p>
-            <p>Finally, there are also reflexive forms (cf. <bad>dha mi fhìn</bad>, <bad>dha thu
-                fhèin</bad>, ... , <bad>dha iad fhèin</bad>) – <ul>
+            <p>Note that the form <g>dhaibhsan</g> breaks the ‘slender-to-slender, broad-to-broad’
+                spelling rule, and hence is sometimes found written with a hyphen –
+                    <g>dhaibh-san</g>.</p>
+            <p>Finally, there are also reflexive forms (cf. <bad>do mi fhìn</bad>, <bad>do thu
+                    fhèin</bad>, ... , <bad>do iad fhèin</bad>) – <ul>
                     <li><m>dhomh fhìn</m>
                         <en>into myself</en></li>
                     <li><m>dhut fhèin</m>
@@ -173,15 +176,15 @@
         <h>uses</h>
         <section id="comp">
             <h>complement</h>
-            <p><g>dha</g> can be used to introduce the complement of a verb – <ul>
-                    <li><g><a href="?gd=rach">rach</a> dha ...</g>
+            <p><g>do</g> can be used to introduce the complement of a verb – <ul>
+                    <li><g><a href="?gd=rach">rach</a> do ...</g>
                         <en>go [to] somewhere</en></li>
-                    <li><g><a href="?gd=thig">thig</a> dha ...</g>
+                    <li><g><a href="?gd=thig">thig</a> do ...</g>
                         <en>come [to] somewhere</en></li>
                 </ul>
             </p>
             <p>Or of an adverb – <ul>
-                    <li><g><a href="?gd=a-steach">a-steach</a> dha ...</g>
+                    <li><g><a href="?gd=a-steach">a-steach</a> do ...</g>
                         <en>into</en></li>
                 </ul>
             </p>
