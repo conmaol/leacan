@@ -60,7 +60,7 @@
                         <en>to</en> (allative)</li>
                     <li><a href="?gd=a^preposition"><g>à</g></a>
                         <en>out of, from in(side)</en> (elative)</li>
-                    <li><a href="?gd=dha"><g>dha</g></a> [<g>do</g>/<g>a</g>] <en>into, to
+                    <li><a href="?gd=do^preposition"><g>do</g></a> [<g>a</g>] <en>into, to
                             within</en> (illative)</li>
                     <li><a href="?gd=tro"><g>tro</g></a>
                         <en>through</en> (perlative)</li>
@@ -127,7 +127,7 @@
             <h>social events</h>
             <p>When the goal/purpose of the motion is a social event, the allative preposition <a
                     href="?gd=gu^preposition"><g>gu</g></a> should be used (<g>chun</g> with
-                article), rather than the illative preposition <g>dha</g> [<g>do</g>/<g>a</g>] – <ul>
+                article), rather than the illative preposition <g>do</g> [<g>a</g>] – <ul>
                     <li>Chaidh iad ... <ul>
                             <li><m>gu banais</m>
                                 <en>to a wedding</en></li>
@@ -135,19 +135,19 @@
                                 <en>to the wedding</en></li>
                             <li><m>gu banais mo pheathar</m>
                                 <en>to my sister’s wedding</en></li>
-                            <li><bad>dha bhanais</bad> / <bad>dhan (a’) bhanais</bad> / <bad>dha
+                            <li><bad>do bhanais</bad> / <bad>don (a’) bhanais</bad> / <bad>do
                                     bhanais mo pheathar</bad> / <bad>gus a’ bhanais</bad></li>
                         </ul>
                     </li>
                     <li>Thig i ... <ul>
                             <li><m>gu adhlachadh</m>
                                 <en>to a funeral</en></li>
-                            <li><m>chun na h-adhlacaidh</m>
+                            <li><m>chun an adhlacaidh</m>
                                 <en>to the funeral</en></li>
                             <li><m>gu adhlacadh mo bhràthar</m>
                                 <en>to my brother’s funeral</en></li>
-                            <li><bad>dha adhlacadh</bad> / <bad>dhan (an) adhlacadh</bad> / <bad>dha
-                                    adhlacadh mo bhràthar</bad> / <bad>gus an adhlacadh</bad></li>
+                            <li><bad>do dh’adhlacadh</bad> / <bad>don (an) adhlacadh</bad> / <bad>do
+                                    dh’adhlacadh mo bhràthar</bad> / <bad>gus an adhlacadh</bad></li>
                         </ul>
                     </li>
                 </ul>
@@ -159,14 +159,14 @@
         <section id="boxes">
             <h>boxes and containers – illative and elative</h>
             <p>When the end point of the motion is the interior of a box or other container-like
-                object, the illative preposition <a href="?gd=dha"><g>dha</g></a>
-                    [<g>do</g>/<g>a</g>] is used (rather than allative <g>gu</g> or inessive
+                object, the illative preposition <a href="?gd=do^preposition"><g>do</g></a>
+                    [<g>a</g>] is used (rather than allative <g>gu</g> or inessive
                     <g>an</g>). The preposition can be reinforced using the illative adverb <a
                     href="?gd=a-steach"><g>a-steach</g></a> – <ul>
                     <li>Chaidh/thàinig e ... <ul>
-                            <li><m>(a-steach) dha bhogsa</m>
+                            <li><m>(a-steach) do bhogsa</m>
                                 <en>in(to) a box</en></li>
-                            <li><m>(a-steach) dhan a’ bhogsa</m>
+                            <li><m>(a-steach) don a’ bhogsa</m>
                                 <en>in(to) the box</en></li>
                             <li><bad>(a-steach) gu bogsa</bad> / <bad>(a-steach) chun a’
                                     bhogsa</bad> / <bad>(a-steach) gus a’ bhogsa</bad> /
@@ -175,9 +175,9 @@
                         </ul>
                     </li>
                     <li>Thug mi iad ... <ul>
-                            <li><m>(a-steach) dha phreas</m>
+                            <li><m>(a-steach) do phreas</m>
                                 <en>in(to) a cupboard</en></li>
-                            <li><m>(a-steach) dhan a’ phreas</m>
+                            <li><m>(a-steach) don a’ phreas</m>
                                 <en>in(to) the cupboard</en></li>
                             <li><bad>(a-steach) gu preas</bad> / <bad>(a-steach) chun a’ phris</bad>
                                 / <bad>(a-steach) gus a’ phreas</bad> / <bad>(a-steach) ann am
@@ -214,15 +214,15 @@
                 <h>buildings</h>
                 <p>Buildings are usually conceptualised as containers, with the default assumption
                     that motion towards a building will end within its interior, meaning that the
-                    illative preposition <a href="?gd=dha"><g>dha</g></a> [<g>do</g>/<g>a</g>] is
-                    the unmarked option for translating English <en>to</en> (optionally reinforced
+                    illative preposition <a href="?gd=do^preposition"><g>do</g></a> [<g>do</g>/<g>a</g>] is
+                    the unmarked option for translating English <en>to</en> <!--(optionally reinforced
                     using the deictic adverbs <a href="?gd=a-null"><g>a-null</g></a> and <a
-                        href="?gd=a-nall"><g>a-nall</g></a>) – <ul>
-                        <li>Chaidh e <m>(a-null) dhan an leabharlann</m>. <en>He went to the
+                        href="?gd=a-nall"><g>a-nall</g></a>)--> – <ul>
+                        <li>Chaidh e <m><!--(a-null) -->don an leabharlann</m>. <en>He went to the
                                 library.</en></li>
-                        <li>Thàinig i <m>(a-nall) dha na bùithean</m>. <en>She came to the
+                        <li>Thàinig i <m><!--(a-nall) -->do na bùithean</m>. <en>She came to the
                                 shops.</en></li>
-                        <li>Thug mi iad <m>(a-null/a-nall) dhan an ospadal</m>. <en>I took/brought
+                        <li>Thug mi iad <m><!--(a-null/a-nall) -->don an ospadal</m>. <en>I took/brought
                                 them to the hospital.</en></li>
                     </ul>
                 </p>
@@ -241,8 +241,8 @@
                 <p>However, in exceptional cases where it needs to be emphasised that the interior
                     of the building was not accessed or not accessible, the allative and ablative
                     prepositions <a href="?gd=gu^preposition"><g>gu</g></a> [<g>chun</g>] and <a
-                        href="?gd=bho"><g>bho</g></a> maybe be used as marked alternatives – <ul>
-                        <li>Chaidh e <m>chun an leabharlann</m>. <en>He went to the
+                        href="?gd=bho"><g>bho</g></a> may be used as marked alternatives – <ul>
+                        <li>Chaidh e <m>chun an leabharlainn</m>. <en>He went to the
                             library.</en></li>
                         <li>Thug mi iad dhachaigh <m>bhon an ospadal</m>. <en>I took/brought them
                                 home from the hospital.</en></li>
@@ -253,13 +253,13 @@
                 <h>municipalities</h>
                 <p>Municipalities are usually also conceptualised as containers, with the default
                     assumption that motion towards a village, town or city will end within its
-                    interior, meaning that the illative preposition <a href="?gd=dha"><g>dha</g></a>
-                        [<g>do</g>/<g>a</g>] is the unmarked option for translating English
+                    interior, meaning that the illative preposition <a href="?gd=do^preposition"><g>do</g></a>
+                        [<g>a</g>] is the unmarked option for translating English
                         <en>to</en> here – <ul>
-                        <li>Chaidh e <m>(a-null) dha Ghlaschu</m>. <en>He went to Glasgow.</en></li>
-                        <li>Thàinig i <m>(a-nall) dhan a’ Ghearasdan</m>. <en>She came to Fort
+                        <li>Chaidh e <m><!--(a-null) -->do Ghlaschu</m>. <en>He went to Glasgow.</en></li>
+                        <li>Thàinig i <m><!--(a-nall) -->don a’ Ghearasdan</m>. <en>She came to Fort
                                 William.</en></li>
-                        <li>Thug mi iad <m>(a-null/a-nall) dha Dhùn Èideann</m>. <en>I took/brought
+                        <li>Thug mi iad <m><!--(a-null/a-nall) -->do Dhùn Èideann</m>. <en>I took/brought
                                 them to Edinburgh.</en></li>
                     </ul>
                 </p>
@@ -298,33 +298,33 @@
                 adverbs <a href="?gd=a-nìos"><g>a-nìos</g></a>/<a href="?gd=a-nuas"
                     ><g>a-nuas</g></a>/<a href="?gd=a-nall"><g>a-nall</g></a> – <ul>
                     <li>Chaidh e – <ul>
-                            <li><m>(suas/sìos/a-null) air bòrd</m>
-                                <en>(up/down/over) on(to) a table</en></li>
-                            <li><m>(suas/sìos/a-null) air a’ bhòrd</m>
-                                <en>(up/down/over) on(to) the table</en></li>
-                            <li><bad>(suas/sìos/a-null) gu bòrd</bad> / <bad>gus a’ bhòrd</bad> /
-                                    <bad>chun a’ bhùird</bad> / <bad>dha bhòrd</bad> / <bad>dhan a’
+                            <li><m>(suas/sìos<!--/a-null-->) air bòrd</m>
+                                <en>(up/down<!--/over-->) on(to) a table</en></li>
+                            <li><m>(suas/sìos<!--/a-null-->) air a’ bhòrd</m>
+                                <en>(up/down<!--/over-->) on(to) the table</en></li>
+                            <li><bad>(suas/sìos<!--/a-null-->) gu bòrd</bad> / <bad>gus a’ bhòrd</bad> /
+                                    <bad>chun a’ bhùird</bad> / <bad>do bhòrd</bad> / <bad>don a’
                                     bhòrd</bad>.</li>
                         </ul>
                     </li>
                     <li>Thàinig i – <ul>
-                            <li><m>(a-nìos/a-nuas/a-nall) air balla</m>
-                                <en>(up/down/over) on(to) a wall</en></li>
-                            <li><m>(a-nìos/a-nuas/a-nall) air a’ bhalla</m>
-                                <en>(up/down/over) on(to) the wall</en></li>
-                            <li><bad>(a-nìos/a-nuas/a-nall) gu balla</bad> / <bad>gus a’
-                                    bhalla</bad> / <bad>chun a’ bhalla</bad> / <bad>dha bhalla</bad>
-                                / <bad>dhan a’ bhalla</bad>.</li>
+                            <li><m>(a-nìos/a-nuas<!--/a-nall-->) air balla</m>
+                                <en>(up/down<!--/over-->) on(to) a wall</en></li>
+                            <li><m>(a-nìos/a-nuas<!--/a-nall-->) air a’ bhalla</m>
+                                <en>(up/down<!--/over-->) on(to) the wall</en></li>
+                            <li><bad>(a-nìos/a-nuas<!--/a-nall-->) gu balla</bad> / <bad>gus a’
+                                    bhalla</bad> / <bad>chun a’ bhalla</bad> / <bad>do bhalla</bad>
+                                / <bad>don a’ bhalla</bad>.</li>
                         </ul>
                     </li>
-                    <li>Thug mi iad – <ul>
-                            <li><m>(suas/sìos/a-null // a-nìos/a-nuas/a-nall) air sgeilp</m>.
-                                    <en>(up/down/over) on(to) a shelf</en></li>
-                            <li><m>(suas/sìos/a-null // a-nìos/a-nuas/a-nall) air an sgeilp</m>.
-                                    <en>(up/down/over) on(to) the shelf</en></li>
-                            <li><bad>(suas/sìos/a-null // a-nìos/a-nuas/a-nall) gu sgeilp</bad> /
-                                    <bad>chun na sgeilpe</bad> / <bad>gus an sgeilp</bad> / <bad>dha
-                                    sgeilp</bad> / <bad>dhan an sgeilp</bad>.</li>
+                    <li>Chuir mi iad – <ul>
+                            <li><m>(suas/sìos<!--/a-null--> // a-nìos/a-nuas<!--/a-nall-->) air sgeilp</m>.
+                                    <en>(up/down<!--/over-->) on(to) a shelf</en></li>
+                            <li><m>(suas/sìos<!--/a-null--> // a-nìos/a-nuas<!--/a-nall-->) air an sgeilp</m>.
+                                    <en>(up/down<!--/over-->) on(to) the shelf</en></li>
+                            <li><bad>(suas/sìos<!--/a-null--> // a-nìos/a-nuas<!--/a-nall-->) gu sgeilp</bad> /
+                                    <bad>chun na sgeilpe</bad> / <bad>gus an sgeilp</bad> / <bad>do
+                                    sgeilp</bad> / <bad>don an sgeilp</bad>.</li>
                         </ul>
                     </li>
                 </ul>
@@ -338,30 +338,30 @@
                         ><g>a-nìos</g></a>/<a href="?gd=a-nuas"><g>a-nuas</g></a>/<a
                     href="?gd=a-nall"><g>a-nall</g></a> – <ul>
                     <li>Chaidh e – <ul>
-                            <li><m>(suas/sìos/a-null) far bùird</m>
-                                <en>(up/down/over) off (of) a table, from on a table</en></li>
-                            <li><m>(suas/sìos/a-null) far a’ bhùird</m>
-                                <en>(up/down/over) off (of) the table, from on the table</en></li>
-                            <li><bad>(suas/sìos/a-null) bho bhòrd</bad> / <bad>bhon a’ bhòrd</bad> /
+                            <li><m>(suas/sìos<!--/a-null-->) far bùird</m>
+                                <en>(up/down<!--/over-->) off (of) a table, from on a table</en></li>
+                            <li><m>(suas/sìos<!--/a-null-->) far a’ bhùird</m>
+                                <en>(up/down<!--/over-->) off (of) the table, from on the table</en></li>
+                            <li><bad>(suas/sìos<!--/a-null-->) bho bhòrd</bad> / <bad>bhon a’ bhòrd</bad> /
                                     <bad>à bòrd</bad> / <bad>às a’ bhòrd</bad></li>
                         </ul>
                     </li>
                     <li>Thàinig i – <ul>
-                            <li><m>(a-nìos/a-nuas/a-nall) far balla</m>
-                                <en>(up/down/over) off (of) a wall, from on a wall</en></li>
-                            <li><m>(a-nìos/a-nuas/a-nall) far a’ bhalla</m>
-                                <en>(up/down/over) off (of) the wall, from on the wall</en></li>
-                            <li><bad>(a-nìos/a-nuas/a-nall) bho bhalla</bad> / <bad>bhon a’
+                            <li><m>(a-nìos/a-nuas<!--/a-nall-->) far balla</m>
+                                <en>(up/down<!--/over-->) off (of) a wall, from on a wall</en></li>
+                            <li><m>(a-nìos/a-nuas<!--/a-nall-->) far a’ bhalla</m>
+                                <en>(up/down<!--/over-->) off (of) the wall, from on the wall</en></li>
+                            <li><bad>(a-nìos/a-nuas<!--/a-nall-->) bho bhalla</bad> / <bad>bhon a’
                                     bhalla</bad> / <bad>à balla</bad> / <bad>às a’ bhalla</bad></li>
                         </ul>
                     </li>
                     <li>Thug mi iad – <ul>
-                            <li><m>(suas/sìos/a-null // a-nìos/a-nuas/a-nall) far sgeilp</m>
-                                <en>(up/down/over) off (of) a shelf, from on a shelf</en></li>
-                            <li><m>(suas/sìos/a-null // a-nìos/a-nuas/a-nall) far an sgeilp</m>.
-                                    <en>(up/down/over) off (of) the shelf, from on the
+                            <li><m>(suas/sìos<!--/a-null--> // a-nìos/a-nuas<!--/a-nall-->) far sgeilp</m>
+                                <en>(up/down<!--/over-->) off (of) a shelf, from on a shelf</en></li>
+                            <li><m>(suas/sìos<!--/a-null--> // a-nìos/a-nuas<!--/a-nall-->) far na sgeilpe</m>.
+                                    <en>(up/down<!--/over-->) off (of) the shelf, from on the
                                 shelf</en></li>
-                            <li><bad>(suas/sìos/a-null // a-nìos/a-nuas/a-nall) bho sgeilp</bad> /
+                            <li><bad>(suas/sìos<!--/a-null--> // a-nìos/a-nuas<!--/a-nall-->) bho sgeilp</bad> /
                                     <bad>bhon a’ sgeilp</bad> / <bad>à sgeilp</bad> / <bad>às an
                                     sgeilp</bad>.</li>
                         </ul>

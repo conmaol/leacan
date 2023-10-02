@@ -16,7 +16,7 @@
         </li>
         <li><m>chaidh</m> – past independent <en>went</en>
         </li>
-        <li><m>dheigheadh</m> / <m>rachadh</m> – conditional independent <en>would go</en>
+        <li><!--<m>dheigheadh</m> / --><m>rachadh</m> – conditional independent <en>would go</en>
         </li>
         <li><m>dol</m> – verbal noun <en>going</en>
         </li>
@@ -255,7 +255,7 @@
               <g>rach-</g>, <g>reigh-</g>, <g>reagh-</g>, <g>deidh-</g>.</li>
           <li>The future dependent forms in <g>tèid-</g> are pronounced as if they were spelled
               <g>dèid-</g>. </li>
-          <li>There is an archaic alternative to past dependent <g>deach</g> ie.
+          <li>There is a dialectal alternative to past dependent <g>deach</g> ie.
             <g>deachaidh</g>.</li>
         </ol>
       </p>
@@ -462,8 +462,8 @@
           </li>
         </ul>
       </p>
-      <p>When responding to a question, the subject can be dropped – <ul>
-          <li>An deach thu do Lunnainn? <en>Did you go to London?</en>
+      <p>When responding to a question, the subject is normally dropped – <ul>
+          <li>An deach thu a Lunnainn? <en>Did you go to London?</en>
             <ul>
               <li><m>Chaidh.</m>
                 <en>Yes, I did.</en></li>
@@ -546,7 +546,7 @@
                 <ul>
                   <li>Chaidh <m>an uinneag (a) fhosgladh</m>. <en>The window was opened.</en> (cf.
                     Dh’fhosgladh an uinneag.)</li>
-                  <li>Chaidh <m>a fosgladh</m>. <en>It was opened.</en> (cf. Dh’fhosgladh i.)</li>
+                  <li>Chaidh <m>a fosgladh</m>. <en>It [fem.] was opened.</en> (cf. Dh’fhosgladh i.)</li>
                 </ul>
               </li>
               <li>Marbhaidh i am fear. <en>She will kill the man.</en>
@@ -566,6 +566,7 @@
                           t-siostam ùr an t-seachdain seo chaidh.</gd>
                         <tr>We’ll be told tonight. | The new system was begun last week.</tr>
                         <ref text="601">td. 477</ref>
+                        <note>Maybe not intransitive at all?</note>
                       </li>
                     </xl>
                   </li>
@@ -727,12 +728,12 @@
                   mh</m>arbhadh</li>
               </ul>
             </p>
-            <p>Note also that it is not clear that this construction can be used in the progressive
+            <!--<p>Note also that it is not clear that this construction can be used in the progressive
               – <ul>
                 <li><bad>Tha a’ dol an uinneag (a) fhosgladh.</bad> for <en>The window is being
                     opened.</en> (cf. Thathar a’ fosgladh na h-uinneig(e).)</li>
               </ul>
-            </p>
+            </p>-->
             <p>See also the original LeaCaG guidance <ax href="https://www.gramar-g.scot/pdfs/section-5.pdf">here</ax>.</p>
           </section>
         </section>
@@ -858,7 +859,7 @@
                 </li>
               </ul>
             </p>
-            <p>This construction is used in the following common imprecations, all of which mean
+            <p>This construction is used in the following common subjunctive imprecations, all of which mean
               something like <en>Good luck!</en> – <ul>
                 <li><m>Gun tèid (gu math) leat!</m></li>
                 <li><m>Gur math a thèid leat!</m></li>
@@ -880,9 +881,9 @@
             <h>rach gu math do ...</h>
             <p>Yet another way of expressing the notion of success is with the impersonal
               construction <g>rach gu <a href="?gd=math">math</a> do [dhuine]</g> – <ul>
-                <li><m>Chaidh do Raonaid gu math.</m>
+                <li><m>Chaidh gu math do Raonaid.</m>
                   <en>It went well for Rachel.</en></li>
-                <li><m>An tèid dhut gu math?</m>
+                <li><m>An tèid gu math dhut?</m>
                   <en>Will it go well for you?</en></li>
               </ul>
             </p>
@@ -1107,9 +1108,9 @@
                 <li><g>rach <a href="?gd=a-mach">a-mach</a></g>
                   <en>go out(side)</en> (cf. <bad>rach a-muigh</bad>)</li>
                 <li><g>rach <a href="?gd=a-null">a-null</a></g>
-                  <en>go (over there</en> (cf. <bad>rach a-nall</bad>)</li>
+                  <en>go (over there)</en> (cf. <bad>rach a-nall</bad>)</li>
                 <li><g>rach <a href="?gd=a-steach">a-steach</a></g>
-                  <en>go in(side), enter</en> (cf. <bad>rach a-staigh</bad>)</li>
+                  <en>go in(side), enter</en> <!--(cf. <bad>rach a-staigh</bad>)--></li>
                 <li><g>rach <a href="?gd=adhart">air adhart</a></g>
                   <en>advance, go forwards</en></li>
                 <li><g>rach <a href="?gd=ais">air ais</a></g>
@@ -1148,17 +1149,17 @@
           <h>purpose</h>
           <p>A complement of concrete <g>rach</g> can denote the purpose of the motion, the reason
             why the volitional subject decided to act in that way. This is usually introduced by the
-            preposition <a href="?gd=dha"><g>dha</g></a> [<g>do</g>, <g>a</g>]
+            preposition <a href="?gd=do^preposition"><g>do</g></a> [<g>a</g>]
               <en>to</en> governing a verbal noun – <ul>
-              <li>Chaidh Raonaid (dhan bhùth) <m>dha dh’fhaighinn isbeanan</m>. <en>Rachel went (to
+              <li>Chaidh Raonaid (dhan bhùth) <m>a dh’fhaighinn isbeanan</m>. <en>Rachel went (to
                   the shop) to get sausages.</en></li>
-              <li>Dheigheamaid <m>dham faighinn</m> a h-uile madainn. <en>We would go to get them
+              <li>Dheigheamaid <m>gam/dham faighinn</m> a h-uile madainn. <en>We would go to get them
                   every morning.</en></li>
             </ul>
           </p>
           <p>A purpose complement can be queried using <a href="?gd=son"><g>carson ?</g></a>
             <en>why?</en> – <ul>
-              <li><m>Carson</m> an deach sibh ann? <en>Why did you go?</en></li>
+              <li><m>Carson</m> a chaidh sibh ann? <en>Why did you go?</en></li>
             </ul>
           </p>
           <p>Some examples – <ul id="comps-purpose-exs">
@@ -1216,12 +1217,10 @@
             </ul>
           </p>
           <p>Some idioms – <ul>
-              <li><g>rach dha chèilidh air</g>
+              <li><g>rach a/air chèilidh air</g>
                 <en>visit, call in on</en></li>
             </ul>
           </p>
-
-
 
           <section>
             <h>other</h>
@@ -1229,7 +1228,7 @@
                 href="?gd=do^preposition"><g>do</g></a> or <a href="?gd=gu^preposition"
                 ><g>gu</g></a> denotes a social event, the intention is understood as one of
               attendance – <ul>
-                <li>Chaidh Raonaid <m>do bhanais Sheumais</m>. <en>Rachel went to James’
+                <li>Chaidh Raonaid <m>gu banais Sheumais</m>. <en>Rachel went to James’
                     wedding.</en></li>
                 <li>Dheighinn <m>gu adhlacadh</m> gach seachdain. <en>I would go to a funeral every
                     week.</en></li>
@@ -1356,9 +1355,9 @@
               </ul>
             </p>
             <module status="bronze" id="rach_na_">
-              <h>rach ’na* ...</h>
+              <h>rach na* ...</h>
               <p>A special implementation of this is the pseudo-reflexive <g>rach <a
-                    href="?gd=an^preposition">’na*</a> ...</g>
+                    href="?gd=an^preposition">na*</a> ...</g>
                 <en>become, turn into</en> – <ul>
                   <li>human subjects – <ul>
                       <li>pedagogical examples – <xl id="rach_na-human-pedag">
@@ -1391,11 +1390,11 @@
                 </ul>
               </p>
               <p>Some idioms – <ul>
-                  <li><g>rach ’na* teine</g>
+                  <li><g>rach na* teine</g>
                     <en>catch fire, go on fire</en> – <ul>
                       <li>pedagogical examples – <xl id="teine-pedag">
                           <li>
-                            <gd>Chaidh an saoghal na theine.</gd>
+                            <gd>Chaidh an sabhal na theine.</gd>
                             <tr>The barn went on fire.</tr>
                             <ref text="601">td. 478</ref>
                           </li>
@@ -1568,7 +1567,7 @@
                 </ul>
               </li>
               <li><g>rach <a href="?gd=le">le</a> ...</g>
-                <en>take</en>
+                <en>go with, take</en>
                 <ul>
                   <li>pedagogical examples – <xl id="comps-le-pedag">
                       <li>
@@ -1668,7 +1667,7 @@
       <module id="dol" status="bronze">
         <h>dol</h>
         <p><g>dol</g>
-          <en>going</en> is a masculine common noun derived from <g>rach</g> via suppletion.</p>
+          <en>going</en> is a masculine common noun<!--derived from <g>rach</g> via suppletion-->.</p>
         <section>
           <h>uses</h>
           <section>
@@ -1745,9 +1744,9 @@
                 <h>concrete purpose</h>
                 <p>
                   <ul>
-                    <li><g>a’ dol do dh’fhaighinn isbeanan</g>
+                    <li><g>a’ dol a dh’fhaighinn isbeanan</g>
                       <en>going to get sausages</en></li>
-                    <li><g>a’ dol dhan ceannach</g>
+                    <li><g>a’ dol gan/dhan ceannach</g>
                       <en>going to buy them</en></li>
                     <li><g>a’ dol air làithean saora</g>
                       <en>going on holiday</en></li>
@@ -1757,9 +1756,9 @@
                   <h>prospective</h>
                   <p>However, when used with a purpose complement, <g>bi a’ dol</g> can have a
                     purely prospective (non-motional) interpretation – <ul>
-                      <li><m>Tha Raonaid a’ dol do bhith sgìth.</m>
+                      <li><m>Tha Raonaid a’ dol a bhith sgìth.</m>
                         <en>Rachel is going to be tired.</en></li>
-                      <li><m>Tha Ailig a’ dol do dhol do dh’Ealaghol.</m>
+                      <li><m>Tha Ailig a’ dol a dhol a dh’Ealaghol.</m>
                         <en>Alec is going to go to Elgol.</en></li>
                     </ul>
                   </p>
@@ -1819,7 +1818,7 @@
                   <ul>
                     <li><g>a’ dol am miosad</g>
                       <en>getting worse</en></li>
-                    <li><g>a’ dol ’na mhinistear</g>
+                    <li><g>a’ dol na mhinistear</g>
                       <en>becoming a minister</en></li>
                     <li><g>a’ dol às mo chiall</g>
                       <en>going out of my mind</en></li>
@@ -1846,7 +1845,7 @@
                     </li>
                   </ul>
                 </p>
-                <p>However, the <g>rach</g> passive and other impersonal uses do not seem to be
+                <!--<p>However, the <g>rach</g> passive and other impersonal uses do not seem to be
                   compatible with the progressive – <ul>
                     <li>Chaidh an uinneag (a) fhosgladh. <en>The window was opened.</en>
                       <ul>
@@ -1870,17 +1869,12 @@
                       </ul>
                     </li>
                   </ul>
-                </p>
+                </p>-->
               </section>
               <section id="other">
                 <h>other</h>
                 <p>Some figurative and difficult to categorise examples – <ul id="prog-fig-exs">
                     <li>pedagogical examples – <xl id="dol-prog-fig-pedag">
-                        <li>
-                          <gd>Cha do dh’fhairich sinn an oidhche a’ dol seachad.</gd>
-                          <tr>We didn’t feel the night passing.</tr>
-                          <ref text="609">td. 165</ref>
-                        </li>
                         <li>
                           <gd>Dè an rathad tha dol do Phortrìgh (Phort Ruighe)?</gd>
                           <tr>Which road leads to Portree?</tr>
@@ -1927,7 +1921,7 @@
                   </xl>
                 </p>
                 <p>Note also the following ‘complement-less’ use of abstract <g>bi a’ dol</g> – <ul>
-                    <li><m>Dè a tha a’ dol?</m>
+                    <li><m>Dè [a] tha a’ dol?</m>
                       <en>What’s going on? What’s up?</en></li>
                   </ul>
                 </p>
@@ -1967,7 +1961,7 @@
                         <ref text="609">td. 154 [199], 165, 169 [199], 173</ref>
                       </li>
                       <li>
-                        <gd>Dh’iarr i orm a dhol don bhuth.</gd>
+                        <gd>Dh’iarr i orm a dhol don bhùth.</gd>
                         <tr>She asked me to go to the shop.</tr>
                         <ref text="601">td. 476</ref>
                       </li>
@@ -1975,7 +1969,7 @@
                   </li>
                 </ul>
               </p>
-              <p><ed>Add examples from all relevant senses listed above.</ed></p>
+              <!--<p><ed>Add examples from all relevant senses listed above.</ed></p>-->
               <module id="air_a_dhol" status="bronze">
                 <h>air a dhol</h>
                 <p><g>air a dhol</g>
@@ -1993,7 +1987,7 @@
                       </xl></li>
                   </ul>
                 </p>
-                <p><ed>Add examples from all relevant senses listed above.</ed></p>
+                <!--<p><ed>Add examples from all relevant senses listed above.</ed></p>-->
               </module>
             </module>
           </section>
