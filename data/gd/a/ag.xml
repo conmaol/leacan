@@ -2,7 +2,7 @@
 <module status="bronze">
     <h>ag</h>
     <p><g>ag</g> is a special form of the adessive preposition <a href="?gd=aig"><g>aig</g></a>,
-        used only before verbal nouns in the <a href="?q=verbal_aspect">progressive</a>
+        used before verbal nouns in the <a href="?q=verbal_aspect">progressive</a>
         construction.</p>
 
     <!--
@@ -30,7 +30,7 @@
                     <en>(in the process of) hitting</en>.</li>
                 <li><g>ag</g> is used before <g>ràdh</g> (the verbal noun of <a href="?gd=abair"
                             ><g>abair</g></a>
-                    <en>say</en>) ie. <m>ag ràdh</m> and not <bad>a’ ràdh</bad>.</li>
+                    <en>say</en>) ie. <m>ag ràdh</m><!-- and not <bad>a’ ràdh</bad>-->.</li>
             </ol>
         </p>
     </section>

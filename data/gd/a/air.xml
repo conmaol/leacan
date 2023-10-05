@@ -99,7 +99,7 @@
     </section>
   </section>
 
-  <section>
+  <!--<section>
     <h>dependents</h>
     <section id="dep-comp">
       <h>complements</h>
@@ -365,7 +365,7 @@
         </p>
       </section>
     </section>
-  </section>
+  </section>-->
   <section>
     <h>uses</h>
     <section id="uses-pred">
@@ -740,6 +740,8 @@
 
     </section>
 
+
+<!--
     <section id="uses-comp">
       <h>complement</h>
       <p><g>air</g> can introduce the complement of a verb – <ul>
@@ -862,6 +864,7 @@
         </ul>
       </p>
     </section>
+    -->
   </section>
 
   <section id="etymology">

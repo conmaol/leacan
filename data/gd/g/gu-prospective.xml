@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
-<module status="bronze" id="top">
-    <h lang="en">gu(s) – prospective aspect</h>
-    <h lang="gd">gu</h>
-    <p lang="en">[See <a href="?gd=gu">here</a> for other uses of the grammatical particle
-        <b>gu</b>.]</p>
-    <p lang="gd">...</p>
-    <p lang="en">When <b>gu</b> governs an infinitive (verbal noun), and is itself the predicate of
-        the verb <a href="?gd=bi">bi</a>, it can mark <a href="?q=verbal_aspect">prospective
+<module status="bronze">
+    <h>gu(s) – prospective aspect</h>
+    
+    <p>When <g>gu</g> governs an infinitive (verbal noun), and is itself the predicate of
+        the verb <a href="?gd=bi"><g>bi</g></a>, it can mark <a href="?q=verbal_aspect">prospective
             aspect</a> – <en>about to / on the point/verge of / almost</en> – <ul>
             <li>Bha Raonaid ... <en>Rachel was ...</en>
                 <ul>
@@ -20,8 +17,8 @@
             </li>
         </ul>
     </p>
-    <p lang="gd">...</p>
-    <p lang="en">Intransitive examples from dictionaries and grammars – <xl id="intrans-xs-dictionaries">
+   
+    <p>Intransitive examples from dictionaries and grammars – <xl id="intrans-xs-dictionaries">
             <li>
                 <gd>Tha sinn <m>gu falbh</m>.</gd>
                 <tr>We’re (just) about to go.</tr>
@@ -50,8 +47,8 @@
             </li>
         </xl>
     </p>
-    <p lang="gd">...</p>
-    <p lang="en">Intransitive corpus examples – <xl id="intrans-xs-corpus">
+    
+    <p>Intransitive corpus examples – <xl id="intrans-xs-corpus">
             <li>
                 <gd>Ach fuirichibh oirbh, naidheachd ùr á ASTRAILIA. Tha na caoraich a nis a’
                     faotainn “perm”, mun teid an rùsgadh. [...] Ma bha gearain air cuid de na fir,
@@ -98,8 +95,8 @@
             </li>
         </xl>
     </p>
-    <p lang="gd">...</p>
-    <p lang="en">When the verb is transitive, the form <b>gus</b> is used instead, and the object
+    
+    <p>When the verb is transitive, the form <g>gus</g> is used instead, and the object
         inverted – <ul>
             <li>Tha Seumas ... <en>James is ...</en>
                 <ul>
@@ -141,14 +138,14 @@
             </li>
         </xl>
     </p>
-    <p lang="gd">...</p>
-    <p lang="en">Examples where <b>gus</b> is used with an intransitive verb – <xl
+    
+    <p>Examples where <g>gus</g> is used with an intransitive verb – <xl
             id="intrans-gus-xs">
             <li>
                 <gd>Tha an tea <m>gus tarraing</m>, is théid mi g’a h-iarraidh dhuibh.</gd>
                 <tr>The tea is about to brew and I’ll go to get it for you.</tr>
                 <ref text="400-31">td. 199</ref>
-                <note>The tea is about to <b>finish</b> brewing.</note>
+                <note>The tea is about to <emph>finish</emph> brewing.</note>
             </li>
             <li>
                 <gd>Bha e <m>gus tuiteam</m> leis an sgìos agus cha robh e air càil ithe o chionn dà
@@ -166,8 +163,8 @@
             </li>
         </xl>
     </p>
-    <p lang="gd">...</p>
-    <p lang="en">cf. <b>bi gu bhith ...</b>
+    
+    <p>cf. <g>bi gu bhith ...</g>
         <en>be about to be ... / be almost/nearly ...</en> – <ul>
             <li>Tha Màiri <m>gu bhith</m> deiseil. <en>Mary is nearly ready.</en></li>
             <li>Tha an t-uisge <m>gu bhith</m> ann. <en>It’s about to rain.</en></li>
@@ -186,9 +183,9 @@
             </li>
         </xl>
     </p>
-    <p lang="gd">...</p>
-    <p lang="en">cf. Other markers of prospective aspect – <a href="?gd=impis">an impis</a>, <a
+    
+    <p>cf. Other markers of prospective aspect – <a href="?gd=impis">an impis</a>, <a
             href="?gd=lunn">air lunn</a>, <a href="?gd=beul">air bheul</a>, <a href="?gd=tuar">air
             thuar</a> (evidential).</p>
-    <p lang="gd">...</p>
+    
 </module>
