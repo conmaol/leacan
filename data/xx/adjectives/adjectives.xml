@@ -9,7 +9,7 @@
     <en>lucky</en>, <m>briste</m>
     <en>broken</en>, <m>bochd</m>
     <en>poor</en>.</p>
-  
+
   <!--
   <p>Pedagogical examples – <xl id="pedag">
       <li>
@@ -29,27 +29,39 @@
   <section id="derivation">
     <h>derivation</h>
     <p>Adjectives can be divided into three groups, depending on how they are formed – <ul>
-        <li><!--<a href="?xx=adjectives/derived_adjectives">-->Derived adjectives<!--</a>--> are formed from other
-          adjectives, nouns or verbs – <g>ciall</g>
+        <li><!--<a href="?xx=adjectives/derived_adjectives">-->Derived adjectives<!--</a>--> are
+          formed from other adjectives, nouns or verbs – <g>ciall</g>
           <fem/>
           <en>sense</en> ⇒ <m>ciallach</m>
           <adj/>
           <en>sensible</en>, <g>ceòl</g>
           <masc/> ⇒ <m>ceòlmhor</m>
           <adj/>
-          <en>melodious</en>, <g>bris</g>
+          <en>melodious</en>, <g>drùidh</g>
           <vb/>
-          <en>break</en> ⇒ <m>briste</m>
+          <en>impress</en> ⇒ <m>drùidhteach</m>
           <adj/>
-          <en>broken</en>.</li>
-        <li><!--<a href="?xx=adjectives/compound_adjectives">-->Compound adjectives<!--</a>--> are formed from
-          other adjectives, typically by addition of a <emph>prefix</emph> – <g>cneasta</g>
+          <en>impressive</en>, <g>sgìth</g>
+          <adj/>
+          <en>tired</en> ⇒ <m>sgìtheil</m>
+          <adj/>
+          <en>wearisome</en>.</li>
+        <li><!--<a href="?xx=adjectives/compound_adjectives">-->Compound adjectives<!--</a>--> are
+          formed from other adjectives, typically by addition of another adjective or prefix –
+            <g>cneasta</g>
           <adj/>
           <en>decent, modest</en> ⇒ <m>mì-chneasta</m>
           <adj/>
-          <en>uncharitable</en>.</li>
-        <li><!--<a href="?xx=adjectives/simple_adjectives">-->Simple adjectives<!--</a>--> are not formed out of
-          other words – <m>mòr</m>
+          <en>uncharitable</en>, <g>dubh</g>
+          <adj/>
+          <en>black</en>, <g>gorm</g>
+          <adj/>
+          <en>blue</en> ⇒ <m>dubh-ghorm</m>
+          <adj/>
+          <en>dark blue</en>.</li>
+        <!-- DM: But also examples such as mòrchuiseach, droch-nàdarrach, uile-chumhachdach, also dubh-ghorm, bàn-dhearg.  -->
+        <li><!--<a href="?xx=adjectives/simple_adjectives">-->Simple adjectives<!--</a>--> are not
+          formed out of other words – <m>mòr</m>
           <en>big</en>, <m>geal</m>
           <en>white</en>, <m>sona</m>
           <en>lucky</en>.</li>
@@ -62,13 +74,14 @@
     <p>When an adjective functions as a modifier of a <a href="?xx=nouns/nouns">noun</a>, it agrees
       with the noun in gender, number and case. In other words, attributive adjectives are
         <emph>declined</emph> for gender (feminine or masculine), number (singular or plural, with a
-      hint of legacy dual marking), and case (nominative, dative or genitive).</p>
+      hint of legacy dual marking), and case (nominative, dative or genitive or vocative). This
+      doesn’t happen when an adjective is part of the predicate.</p>
     <p>There are two independent aspects involved in the declension of attributive adjectives – <ul>
         <li><emph>lenition</emph> – Like other modifiers of <a href="?xx=nouns/nouns">nouns</a>,
           attributive adjectives are lenited or not depending on the gender, number and case of the
           noun (along with some other contextual factors involving the pre-context of the
           nouns).</li>
-        <li><emph>slenderisation/augmentation</emph> – Attributive adjectives are slenderised and/or
+        <li><emph>slenderisation/suffixation</emph> – Attributive adjectives are slenderised and/or
           augmented depending on the gender, number and case of the noun.</li>
       </ul>
     </p>
@@ -129,13 +142,16 @@
               </xl>
             </li>
           </ul></p>
-        <p>However, when the noun is pre-numerated by <!--<a href="?gd=dà">--><g>dà</g>
+        <p>However, when the noun is <!--pre-numerated--> preceded by
+            <!--<a href="?gd=dà">--><g>dà</g>
           <en>two</en>, attributive adjectives are <emph>lenited</emph> (‘jumping lenition’) – <ul>
             <li>(an) <g>dà thaigh <emph>mhòr</emph></g>
               <en>(the) two big houses</en></li>
             <li>(an) <g>dà chuilean <emph>Ghearmailteach</emph></g>
               <en>(the) two German puppies</en></li>
           </ul></p>
+        <p>However, in modern Gaelic, attributive adjectives often are not lenited after masculine
+          nouns.</p>
         <p>Some examples with <g>dà</g> (dual number) – <ul id="masc-nom-da-xs">
             <li>pedagogical examples – <xl id="masc-nom-da-pedag">
                 <li>
@@ -194,7 +210,7 @@
       <section id="masc-dat">
         <h>dative</h>
         <p>As with the nominative, attributive adjectives which modify a masculine (singular) dative
-          noun are generally <emph>unmutated</emph> at both beginning and end – <ul>
+          indefinite noun are generally <emph>unmutated</emph> at both beginning and end – <ul>
             <li>le <g>balach <emph>beag</emph></g>
               <en>with a little boy</en></li>
             <li>ann an <g>taigh <emph>mòr</emph></g>
@@ -247,7 +263,8 @@
               </xl></li>
           </ul>
         </p>
-        <p>However, again as in the nominative, when the noun is pre-numerated by <!--<a href="?gd=dà"
+        <p>However, again as in the nominative, when the noun is preceded by
+            <!--<a href="?gd=dà"
               >--><g>dà</g><!--</a>-->
           <en>two</en>, attributive adjectives undergo ‘jumping’ lenition – <ul>
             <li>ann an <g>dà thaigh <emph>mhòr</emph></g>
@@ -286,7 +303,8 @@
           </ul>
         </p>
         <p>In addition, when the noun is specified by the (leniting) definite article, attributive
-          adjectives also undergo jumping lenition – <ul>
+          adjectives also undergo <!--jumping--> lenition, even when the article doesn't lenite
+          initial <g>t-</g> or <g>d-</g> and when it prefixes <g>t-</g> to <g>s-</g> – <ul>
             <li>leis a’ <g>bhalach <emph>bheag</emph></g>
               <en>with the little boy</en></li>
             <li>anns an <g>taigh <emph>mhòr</emph></g>
@@ -348,7 +366,9 @@
       <section id="masc-gen">
         <h>genitive</h>
         <p>Attributive adjectives which modify a masculine (singular) genitive noun are generally
-          both <emph>lenited</emph> and <emph>slenderised</emph> – <ul>
+          both <emph>lenited</emph> and <emph>slenderised</emph>, irrespective of whether definite
+          or indefinite – <!-- WL: in which registers? In modern speech?  -->
+          <ul>
             <li>falt <g>balaich <emph>bhig</emph></g> / falt a’ <g>bhalaich <emph>bhig</emph></g>
               <en>a/the little boy’s hair</en></li>
             <li>doras <g>taighe <emph>mhòir</emph></g> / doras an <g>taighe <emph>mhòir</emph></g>
@@ -418,8 +438,8 @@
                 </li>
               </xl>
             </li>
-            <li>pedagogical examples with <!--<a href="?gd=dà">--><g>dà</g><!--</a>--> (dual number) – <xl
-                id="masc-gen-da-pedag">
+            <li>pedagogical examples with <!--<a href="?gd=dà">--><g>dà</g><!--</a>--> (dual number)
+              – <xl id="masc-gen-da-pedag">
                 <li>
                   <gd>[cinn] an dà choin mhóir</gd>
                   <tr>[heads] of the two big dogs</tr>
@@ -518,13 +538,13 @@
                   <ref text="614">td. 109–10</ref>
                 </li>
                 <li>
-                  <gd>Tha <m>an nighean bheag</m> a’ dol do’n bhaile còmhla ri a màthair. | Rinn na
-                    gillean bodach sneachda anns a’ phàirc. Chuir iad <m>ad dhubh</m> air a cheann
-                    agus pìob ’na beul. | Tha [an nighean] a’ dèanamh deiseil bòrd na suipeir. Chuir
-                    i <m>tubhailt bhrèagha gheal</m> air agus an sin chuir i air sgeanan is
-                    spàinean. | Tha Iain agus Seònaid a’ cluich air an tràigh. Ghlac Iain <m>crùbag
-                      bheag</m>, ach bha eagal air Seònaid gum beireadh a’ chrùbag oirre. | Tha
-                      <m>gainmheach ghrinn gheal</m> shìos an cois na mara.</gd>
+                  <gd><!--Tha <m>an nighean bheag</m> a’ dol do’n bhaile còmhla ri a màthair. |-->
+                    Rinn na gillean bodach sneachda anns a’ phàirc. Chuir iad <m>ad dhubh</m> air a
+                    cheann agus pìob ’na beul. | Tha [an nighean] a’ dèanamh deiseil bòrd na
+                    suipeir. Chuir i <m>tubhailt bhrèagha gheal</m> air agus an sin chuir i air
+                    sgeanan is spàinean. | Tha Iain agus Seònaid a’ cluich air an tràigh. Ghlac Iain
+                      <m>crùbag bheag</m>, ach bha eagal air Seònaid gum beireadh a’ chrùbag oirre.
+                    | Tha <m>gainmheach ghrinn gheal</m> shìos an cois na mara.</gd>
                   <ref text="620">td. 59, 62–3, 65–6, 68, 73</ref>
                 </li>
               </xl></li>
@@ -544,7 +564,8 @@
                   <ref text="607">td. 137–43</ref>
                 </li>
               </xl></li>
-            <li>pedagogical examples with <!--<a href="?gd=dà">--><g>dà</g><!--</a>-->
+            <!-- maybe add section on dul number for following??? -->
+            <!--<li>pedagogical examples with <!-\-<a href="?gd=dà">-\-><g>dà</g><!-\-</a>-\->
               <en>two</en> (dual number) – <xl id="fem-nom-da-pedag">
                 <li>
                   <gd>dà chirc bheag</gd>
@@ -577,13 +598,14 @@
                   <ref text="614">td. 123</ref>
                 </li>
               </xl>
-            </li>
+            </li>-->
           </ul>
         </p>
         <p>Note that attributive adjectives of a slenderised feminine dual noun are sometimes found
-          slenderised in the nominative, though this might well be a hypercorrection.</p>
-        <p>Pedagogical examples involving potentially ‘hypercorrect’ slenderisation after <g>dà</g>
-          – <xl id="fem-nom-da-hyper-pedag">
+          slenderised in the nominative, <!--though this might well be a hypercorrection--> and this
+          can be seen as analogical.</p>
+        <p>Pedagogical examples involving potentially ‘analogical’ slenderisation after <g>dà</g> –
+            <xl id="fem-nom-da-hyper-pedag">
             <li>
               <gd>dà chirc bhric</gd>
               <tr>two speckled hens</tr>
@@ -617,7 +639,8 @@
               <en>with a/the little girl</en></li>
             <li>ann an <g>eaglais <emph>mhòir</emph></g> / anns an <g>eaglais <emph>mhòir</emph></g>
               <en>in a/the big church</en></li>
-            <li>air <g>circ <emph>Fhrangaich</emph></g> / air a’ <g>chirc <emph>Fhrangaich</emph></g>
+            <li>air <g>circ <emph>Fhrangaich</emph></g> / air a’ <g>chirc
+                <emph>Fhrangaich</emph></g>
               <en>on a/the French hen</en></li>
           </ul></p>
         <p>Some examples – <ul id="fem-dat-xs">
@@ -643,6 +666,7 @@
                   <gd>aig caile shona | aig caile bhochd | aig caile bhàin | gu caile ghlic</gd>
                   <tr>at a lucky girl | at a poor girl | at a pale girl | to a wise girl</tr>
                   <ref text="612">td. 55–9</ref>
+                  <note>Not all adjectives can be slenderised, e.g. those that end with -chd.</note>
                 </li>
                 <li>
                   <gd>aig caileig bhig | aig caile mhìn</gd>
@@ -705,10 +729,12 @@
             </li>
           </ul>
         </p>
-        <p>However, the slenderisation is often relaxed, particularly in conversational Gaelic, and
-          particularly when there is no definite article (even in traditional usage) – <g>le caileag
-            bheag</g>, <g>le dà chaileag bheag</g>, and even <g>leis a’ chaileag bheag</g>, <g>leis
-            an dà chaileag bheag</g>.</p>
+        <p>However, the slenderisation is usually relaxed, particularly in conversational Gaelic,
+          and particularly when there is no definite article (even in traditional usage) – <g>le
+            caileag bheag</g>, <g>le dà chaileag bheag</g>, and even <g>leis a’ chaileag bheag</g>,
+            <g>leis an dà chaileag bheag</g>.</p>
+        <!-- DM:Are there examples or contexts in which the traditional dative forms are used regularly, e.g. with particular common words or in certain set expressions?  -->
+        <!-- WL: fixed expressions involving body parts - e.g. air do chois, nam làimh, nam bhroinn -->
         <p>Pedagogical examples involving ‘relaxed’ slenderisation – <xl id="fem-dat-nontrad-pedag">
             <li>
               <gd>Bha e cluiche <m>air dà thruimb mhòr Abrach</m>.</gd>
@@ -732,7 +758,7 @@
         <h>genitive</h>
         <p>Attributive adjectives which modify a feminine (singular) genitive noun were
           traditionally <emph>non-lenited</emph> but <emph>slenderised</emph> and (vocalically)
-            <emph>augmented</emph> – <ul>
+            <emph>suffixed</emph> – <ul>
             <li>falt (na) <g>caileige <emph>bige</emph></g>
               <en>a/the little girl’s hair</en></li>
             <li>doras (na h-)<g>eaglaise <emph>mòire</emph></g>
@@ -740,7 +766,7 @@
             <li>gob (na) <g>circe <emph>Frangaiche</emph></g>
               <en>a/the French hen’s beak</en></li>
           </ul></p>
-       <!-- <p><ed>Gillies (1993:179) – “The genitive singular feminine ending in monosyllabic
+        <!-- <p><ed>Gillies (1993:179) – “The genitive singular feminine ending in monosyllabic
             adjectives may appear as <emph>-eadh</emph> [...] in phrase-final position.”</ed></p>-->
         <p>Some examples – <ul id="fem-gen-xs">
             <li>pedagogical examples – <xl id="fem-gen-pedag">
@@ -763,10 +789,10 @@
             </li>
             <li>older pedagogical examples – <xl id="fem-gen-older-pedag">
                 <li>
-                  <gd>ceann caile sona | ceann caile <m>bochda</m> | ceann caile bàine | ceann caile
-                    glice</gd>
-                  <tr>a lucky girl’s head | a poor girl’s head | a pale girl’s head | a wise girl’s
-                    head</tr>
+                  <gd>ceann caile sona | <!--ceann caile <m>bochda</m> |--> ceann caile bàine |
+                    ceann caile glice</gd>
+                  <tr>a lucky girl’s head | <!--a poor girl’s head |--> a pale girl’s head | a wise
+                    girl’s head</tr>
                   <ref text="612">td. 55–9</ref>
                 </li>
                 <li>
@@ -810,6 +836,7 @@
               <ref text="607">td. 137–43</ref>
             </li>
           </xl></p>
+        <!-- ROM: Shouldn't we give exx with an da here? -->
         <p>The vocalic augmentation is often relaxed, particularly in conversational Gaelic, and
           particularly if the adjective is polysyllabic, even in traditional Gaelic. Sometimes this
           is accompanied with lenition of the adjective, and even non-slenderisation and use of the
@@ -843,20 +870,20 @@
           <li>Monosyllabic adjectives are (vocalically) <emph>augmented</emph>, even in the genitive
             plural – <g>mòr</g> ⇒ <g>mòra</g>, <g>beag</g> ⇒ <g>beaga</g>, <g>mìn</g> ⇒
             <g>mìne</g>.</li>
-          <li>Polysyllabic adjectives like <g>sona</g> or <g>Gearmailteach</g> are unmutated at the
-            end.</li>
+          <li>Polysyllabic adjectives like <!--<g>sona</g> or-->
+            <g>Gearmailteach</g> are unmutated at the end.</li>
           <li>Adjectives which modify slenderised plural nouns are <emph>lenited</emph> (eg.
                 <g>bala<emph>ich bh</emph>eaga</g>); those which modify non-slenderised plurals are
               <emph>not lenited</emph> (eg. <g>taighe<emph>an b</emph>eaga</g>).</li>
         </ol>
       </p>
-     <!-- <p><ed>Should we add a note here on the (optional?) use of augmented adjectives with
+      <!-- <p><ed>Should we add a note here on the (optional?) use of augmented adjectives with
           ‘collective’ nouns (in nominative and dative)? eg. <g>clann bheaga</g> ‘little children’,
             <g>dithis bheaga</g> ‘two small people(?)’, <g>feadhainn bheaga</g> ‘some small
           people(?)’. cf. Calder (1923: 110).</ed></p>-->
       <section id="plur-nom">
         <h>nominative</h>
-        <p>Slenderised nouns – <ul>
+        <p>Nouns that form their plural via slenderisation – <ul>
             <li>(na) <g>balaich <emph>bheaga</emph></g>
               <en>(the) little boys</en></li>
             <li>(na) <g>cuilein <emph>Ghearmailteach</emph></g>
@@ -892,8 +919,8 @@
                   <ref text="612">td. 59–60</ref>
                 </li>
                 <li>
-                  <gd>fir bheaga | (na) bric mhòra | feara beaga</gd>
-                  <tr>small men | (the) big trout(s) | small men (old accusative)</tr>
+                  <gd>fir bheaga | (na) bric mhòra <!--| feara beaga--></gd>
+                  <tr>small men | (the) big trout(s) <!--| small men (old accusative)--></tr>
                   <ref text="614">td. 109–10</ref>
                 </li>
                 <li>
@@ -1041,8 +1068,8 @@
                 </li>
               </xl>
             </li>
-            <li>some examples with the old dative plural suffix <g>-(a)ibh</g> – <xl
-                id="plur-dat-ibh-pedag">
+            <li>some examples with the old dative plural suffix <g>-(a)ibh</g> (which doesn’t cause
+              lenition) – <xl id="plur-dat-ibh-pedag">
                 <li>
                   <gd>aig <m>fearaibh</m> beaga | aig (na) breacaibh mòra | aig caileagaibh beaga |
                     aig (na) daoinibh maithe</gd>
@@ -1056,17 +1083,22 @@
       </section>
       <section id="plur-gen">
         <h>genitive</h>
+        <p>There is syncretism between nominative singular and genitive plural for certain nouns. In
+          addition, the indefinite plural is lenited.</p>
         <p><ul>
             <li>falt <g>bhalach <emph>beaga</emph></g> / falt nam <g>balach <emph>beaga</emph></g>
               <en>(the) little boys’s hair</en></li>
-            <li>dorsan <g>thaighean <emph>mòra</emph></g> / dorsan (nan) <g>taighean <emph>mòra</emph></g>
+            <li>dorsan <g>thaighean <emph>mòra</emph></g> / dorsan (nan) <g>taighean
+                  <emph>mòra</emph></g>
               <en>(the) big houses’ doors</en></li>
-            <li>coin <g>chaileagan <emph>beaga</emph></g> / coin nan <g>caileagan <emph>beaga</emph></g>
+            <li>coin <g>chaileagan <emph>beaga</emph></g> / coin nan <g>caileagan
+                <emph>beaga</emph></g>
               <en>(the) little girls’ dogs</en></li>
             <li>earbaill <g>chuilean <emph>Gearmailteach</emph></g> / earbaill nan <g>cuilean
                   <emph>Gearmailteach</emph></g>
               <en>(the) German puppies’ tails</en></li>
-            <li>goban <g>chearcan <emph>Frangach</emph></g> / goban nan <g>cearcan <emph>Frangach</emph></g>
+            <li>goban <g>chearcan <emph>Frangach</emph></g> / goban nan <g>cearcan
+                  <emph>Frangach</emph></g>
               <en>(the) French hens’ beaks</en></li>
           </ul></p>
         <p>Some examples – <ul>
