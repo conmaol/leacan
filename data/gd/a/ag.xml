@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
 <module status="bronze">
     <h>ag</h>
-    <p><g>ag</g> is a special form of the adessive preposition <a href="?gd=aig"><g>aig</g></a>,
-        used before verbal nouns in the <a href="?q=verbal_aspect">progressive</a>
-        construction.</p>
+    <p><g>ag</g> is a special form of the <!--adessive--> preposition <a href="?gd=aig"
+            ><g>aig</g></a>, used before verbal nouns in the <a href="?q=verbal_aspect"
+            >progressive</a> construction.</p>
 
     <!--
 <section id="forms">
@@ -12,25 +12,27 @@
     -->
     <section id="forms">
         <h>forms</h>
-        <p>When the verbal noun starts with a vowel, the preposition takes the (deslenderised) form
-                <g>ag</g>; otherwise, it takes the reduced form <g>a’</g> – <ul>
-                <li><m>Tha Raonaid a’ dèanamh rud</m>
-                    <en>Rachel is doing something</en></li>
-                <li><m>Tha Raonaid ag òl</m>
-                    <en>Rachel is drinking</en></li>
+        <p>When the verbal noun starts with a vowel, the preposition takes the
+            <!--(deslenderised)--> form <g>ag</g>; otherwise, it takes the reduced form <g>a’</g>,
+            except before ràdh where the <g>g</g> is retained (see below) – <ul>
+                <li><m>Tha Raonaid a’ dèanamh tuilleadh.</m>
+                    <en>Rachel is doing more.</en></li>
+                <li><m>Tha Raonaid ag òl.</m>
+                    <en>Rachel is drinking.</en></li>
             </ul>
         </p>
         <p>Notes – <ol>
-                <li>When the word preceding <g>ag</g> ends with a vowel, the particle often reduces
+                <!--<li>When the word preceding <g>ag</g> ends with a vowel, the particle often reduces
                     to <g>’g</g> in speech, and occasionally in writing too eg. <m>tha mi ’g òl</m>
                     <en>I’m drinking</en>, <m>thòisich i ’g ithe ùbhlan</m>
-                    <en>she started eating apples</en>.</li>
+                    <en>she started eating apples</en>.</li>-->
                 <li>In older writing, the <g>ag</g> form is sometimes found before consonants as
                     well, eg. <g>ag bualadh</g>
                     <en>(in the process of) hitting</en>.</li>
                 <li><g>ag</g> is used before <g>ràdh</g> (the verbal noun of <a href="?gd=abair"
                             ><g>abair</g></a>
-                    <en>say</en>) ie. <m>ag ràdh</m><!-- and not <bad>a’ ràdh</bad>-->.</li>
+                    <en>say</en>) ie. <m>ag ràdh</m>, except in North Uist and Harris where <g>a’
+                        ràdh</g> is used.</li>
             </ol>
         </p>
     </section>
@@ -45,7 +47,7 @@
         </p>
         <p>Examples from dictionaries and grammars – <xl id="prog-intr-dictionary">
                 <li>
-                    <gd>Bha iad ag èigheach gu h-àrd. / Bha ag ràdh gun robh e sgìth.</gd>
+                    <gd>Bha iad ag èigheach gu h-àrd. / Bha e ag ràdh gun robh e sgìth.</gd>
                     <tr>They were shouting loudly. / He was saying that he was tired.</tr>
                     <ref text="601">td. 11</ref>
                 </li>
@@ -97,7 +99,7 @@
                     <ref text="400-41">td. 103</ref>
                 </li>
                 <li>
-                    <gd>Ma bha Hegel <m>a’</m> déiligeadh ris an t-saoghal ar an taobh a-muigh,
+                    <gd>Ma bha Hegel <m>a’</m> déiligeadh ris an t-saoghal air an taobh a-muigh,
                         ’sann a bha Kierkegaard <m>a’</m> déiligeadh gu tric ris an fheallsanach
                         fhéin.</gd>
                     <tr>If Hegel dealt with the outside world, it was the philosopher himself that
@@ -122,10 +124,10 @@
     <section id="trans-1">
         <h>transitive with post-specifier</h>
         <p>Basic pattern – <ul>
-                <li><m>Tha Raonaid a’ pògadh nam balach</m>
-                    <en>Rachel is kissing the boys</en></li>
-                <li><m>Tha Iain ag ithe ubhail</m>
-                    <en>John is eating an apple</en></li>
+                <li><m>Tha Raonaid a’ pògadh nam balach.</m>
+                    <en>Rachel is kissing the boys.</en></li>
+                <li><m>Tha Iain ag ithe ubha(i)l.</m>
+                    <en>John is eating an apple.</en></li>
             </ul>
         </p>
         <p>Pedagogical examples – <xl id="prog-trans-pedag">
@@ -134,7 +136,7 @@
                         idir. / Chan eil mi ag iarraidh gum bi thu a’ rùsgadh nan ubhal air
                         fad.</gd>
                     <tr>We’ll be recording the song. / They don’t understand the situation at all. /
-                        We don’t want you to be peeling all the apples.</tr>
+                        I don’t want you to be peeling all the apples.</tr>
                     <ref text="608">td. 122</ref>
                 </li>
             </xl>
@@ -154,8 +156,8 @@
                     <gd>Bha feallsanach mar Hegel <m>a’</m> togail riaghailtean móra a dheanadh an
                         saoghal air a thaobh a-muigh fhéin soilleir, ach cha b’ ann mar sin a bha
                         Kierkegaard.</gd>
-                    <tr>A philosopher like Hegel constructed grand rules which made the external
-                        world itself clear but K. was not like that.</tr>
+                    <tr>A philosopher like Hegel constructed grand rules which would make the
+                        external world itself clear but K. was not like that.</tr>
                     <ref text="400-41">td. 103</ref>
                 </li>
             </xl>
@@ -192,10 +194,10 @@
     <section id="trans-2">
         <h>transitive with possessive determiner</h>
         <p>Basic pattern – <ul>
-                <li><m>Tha Raonaid gam mharbhadh</m>
-                    <en>Rachel is killing me</en></li>
-                <li><m>Tha Teàrlach gan atharrachadh</m>
-                    <en>Charles is changing them</en></li>
+                <li><m>Tha Raonaid gam chluinntinn.</m>
+                    <en>Rachel can hear me</en>.</li>
+                <li><m>Tha Teàrlach gan atharrachadh.</m>
+                    <en>Charles is changing them.</en></li>
             </ul>
         </p>
         <p>Examples from dictionaries and grammars – <xl id="prog-poss-dictionary">
@@ -221,10 +223,10 @@
             <h>progressive passive</h>
             <p>When the possessive determiner agrees with the subject in person, number and gender,
                 a passive-like sense is possible – <ul>
-                    <li><m>Tha rud ga dhèanamh</m>
-                        <en>Something is being done</en></li>
-                    <li><m>Tha rudan gan dèanamh</m>
-                        <en>Things are being done</en></li>
+                    <li><m>Tha bròg ga dhèanamh.</m>
+                        <en>A shoe is being made.</en></li>
+                    <li><m>Tha brògan gan dèanamh,</m>
+                        <en>Shoes are being made.</en></li>
                 </ul>
             </p>
             <p>Examples from dictionaries and grammars – <xl id="prog-pass-dictionary">
@@ -252,8 +254,8 @@
             </p>
             <p>Examples with implicit <g>bi</g> – <xl id="prog-pass-no-bi-dictionary">
                     <li>
-                        <gd>“Cò tha an siud?” thuirt e, is e an doras ga fhosgladh. / Chuala mi
-                            uinneag ga fosgladh. / Leig iad sgreuch às, ’s iad gan sgaldàdh.</gd>
+                        <gd>“Cò tha an siud?” thuirt e, is an doras ga fhosgladh. / Chuala mi
+                            uinneag ga fosgladh. / Leig iad sgreuch às, ’s iad gan sgàldadh.</gd>
                         <tr>“Who’s there?” he said, as the door was being opened. / I heard a window
                             being opened. / They let out a scream, as they were being scalded.</tr>
                         <ref text="608">td. 138</ref>
@@ -271,8 +273,8 @@
                         <tr>In Edinburgh in the 90s there were more and more people wanting to learn
                             Gaelic and although a lot of Gaelic classes and courses sprang up to
                             respond to the demands of those people, Gaelic learning was largely
-                                inhibited because of lack of situations where one could hear
-                                <u>the language being spoken naturally</u>.</tr>
+                            inhibited because of lack of situations where one could hear the
+                            language being spoken naturally.</tr>
                         <ref text="610">td. 85</ref>
                     </li>
                 </xl></p>

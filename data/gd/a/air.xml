@@ -3,8 +3,9 @@
   <!-- G12W 1–6 done -->
   <h>air</h>
   <p><g>air</g>
-    <en>on, upon</en> is the (non-leniting) superessive <a href="?xx=prepositions/prepositions"
+    <en>on, upon</en> is the (usually non-leniting) <!--superessive--> <a href="?xx=prepositions/prepositions"
       >preposition</a>.</p>
+  <!-- ROM – Note that air can lenite in some expressions which describe a state e.g. air chrith, air bhoil. Also involving parts of the body e.g. beir air chasan; cf also air bharr 'on top', etc. Worth adding a note. -->
   <section>
     <h>forms</h>
     <section id="indefinite">
@@ -29,6 +30,7 @@
           href="?xx=nouns/possessive_determiners">possessive determiner</a> – <ul>
           <li><m>air mo</m> cheann <en>on my head</en></li>
           <li><m>air do</m> bhòrd <en>on your table</en></li>
+            <!-- ROM – But we do get orra for air do < air dho -->
           <li><m>air a h-</m>ùbhlan <en>on her apples</en></li>
           <li><m>air a</m> chois <en>on his foot</en></li>
           <li><m>air ar</m> sgeilpean <en>on our shelves</en></li>
@@ -82,6 +84,8 @@
           fhèin</bad>, ... <bad>air iad fhèin</bad>) – <ul>
           <li><m>orm fhìn</m>
             <en>on myself</en></li>
+            <!-- ROM: Note that fhein (grace accent) is sound in some dialects with 1 sg and pl. -bh + fhein is often pronounced pein -->
+            <!-- WL: Cox (2017: 219) notes fhìn is also sometimes used with i -->
           <li><m>ort fhèin</m>
             <en>on yourself</en></li>
           <li><m>oirre fhèin</m>
@@ -372,9 +376,9 @@
       <h>predicate</h>
       <p>One common use of the preposition <g>air</g> is to introduce the predicate of the verb <a
           href="?gd=bi"><g>bi</g></a> – <ul>
-          <li><m>Tha</m> Seònaid <m>air</m> an taigh sholais. <en>Shona is at the
+          <li><m>Tha</m> Seònaid <m>air</m> an taigh-sholais. <en>Shona is on the
             lighthouse</en>.</li>
-          <li><m>Tha</m> each ùr <m>orm</m>. <en>We have a new horse.</en></li>
+          <li><m>Tha</m> falt fada <m>orm</m>. <en>I have long hair.</en></li>
         </ul>
       </p>
       <p>Some specific subtypes of predicate relation are described in the following sections.</p>
@@ -447,12 +451,12 @@
       </section>
 
       <section id="uses-pred-retro">
-        <h>retrospective aspect</h>
+        <h>retrospective (perfect) aspect</h>
         <p>When the preposition <g>air</g> governs an infinitive (verbal noun), it generally
           indicates <a href="?q=verbal_aspect">retrospective aspect</a>, similar in some ways to the
           English ‘perfect tenses’ – <ul>
-            <li><m>Tha Raonaid air rud a dhèanamh</m>
-              <en>Rachel has done something</en></li>
+            <li><m>Tha Raonaid air obair a dhèanamh.</m>
+              <en>Rachel has done work.</en></li>
           </ul>
         </p>
         <section>
@@ -504,6 +508,7 @@
                   door. / Calum would have bought a book. / Robert has fed the dog already. / Ann
                   has paid the hairdresser.</tr>
                 <ref text="609">td. 158–9</ref>
+                <note>Note blocking of dative case in first example here.</note>
               </li>
               <li>
                 <gd>A bheil thu air an iuchair a bhriseadh?</gd>
@@ -565,10 +570,11 @@
         <section>
           <h>transitive with possessive determiner</h>
           <p>Basic pattern – <ul>
-              <li><m>Tha Raonaid air mo phògadh</m>
-                <en>Rachel has kissed me</en></li>
+              <li><m>Tha Raonaid air mo phògadh.</m>
+                <en>Rachel has kissed me.</en></li>
             </ul>
           </p>
+          <!-- WL: Not sure if it is relevant, but I hear younger speakers using perfect aspect where older, more fluent speakers would use the perfective (i.e. simple past) -->
           <p>Examples from dictionaries and grammars – <xl id="retro-possessive-dictionary">
               <li>
                 <gd>Tha iad air fhaicinn. / Bha iad air am moladh.</gd>
@@ -593,12 +599,14 @@
             <h>passive</h>
             <p>When the possessive determiner agrees with the subject in person, number and gender,
               a passive-like sense is possible – <ul>
-                <li><m>Tha rud air a dhèanamh</m>
-                  <en>Something has been done</en></li>
-                <li><m>Tha rudan air an dèanamh</m>
-                  <en>Things have been done</en></li>
+                <li><m>Tha bròg air a dèanamh.</m>
+                  <en>A show has been made.</en></li>
+                <li><m>Tha brògan air an dèanamh</m>
+                  <en>Shoes have been made.</en></li>
               </ul>
             </p>
+            <!-- WL: The principal thing is that the subject of the main clause and the object of the non-finite clause share the same reference. But that’s probably too verbose for what we’re aiming at. -->
+            
             <p>Examples from dictionaries and grammars – <xl id="passive-dictionary">
                 <li>
                   <gd>Tha am feur air a ghearradh. / Bha an t-uisge beatha air a òl uile gu lèir. /
@@ -657,6 +665,8 @@
                 </li>
               </xl>
             </p>
+            <!-- WL: many folk use le today for agents today, although it would have been mainly used for instruments in the past of course -->
+            
             <p>Examples from Gairm – <xl id="passive-gairm">
                 <li>
                   <gd>Tha An Comunn Gaidhealach a’ bruidhinn air Seanaileir ùr a thaghadh a bhios os
@@ -666,9 +676,10 @@
                     ás.</gd>
                   <tr>The Highland Society is talking about choosing a new General who will oversee
                     the Society’s work. [...] A person of this kind would have to have a good
-                    measure of power. It would do him no good to have been dragged along by the
-                    Committee <ed>??</ed>, but the Committee must have trust in him.</tr>
+                    measure of power. It would do him no good to have been dragged at the bottom of a
+                    Committee, but the Committee must have trust in him.</tr>
                   <ref text="400-46">td. 105, ‘Air an Spiris’</ref>
+                  <note>DM: I think this is not a perfect form (i.e. have been dragged) but it describes a state.</note>
                 </li>
                 <li>
                   <gd>Anns na ràithean ’s na bliadhnachan a tha air thoiseach oirnn, tha fhios gun
@@ -685,7 +696,7 @@
                     with the new stations that are being established – we will be expecting new
                     people and new methods. It would be natural and healthy if more programmes were
                     [had been] produced in the Highlands itself, and [if] some of this work were
-                    [had ben] offered to Gaels and non-Gaels in the Lowlands. [...]</tr>
+                    [had been] offered to Gaels and non-Gaels in the Lowlands. [...]</tr>
                   <ref text="400-48">td. 297, ‘Air an Spiris’</ref>
                   <note>passive</note>
                 </li>
@@ -735,6 +746,7 @@
               </li>
             </xl>
           </p>
+          <!-- WL: might be good to mention an dèidh and an dèis in this context. Lots of interesting discussion in Reed 2012: 31, 75 —  Reed, Sylvia L. 2012. The semantics of grammatical aspect: Evidence from Scottish Gaelic. Unpublished PhD. Department of Linguistics, University of Arizona. -->
         </section>
       </section>
 
