@@ -274,6 +274,8 @@ HTML;
   <li>How do <a href="?xx=nouns/numeric_quantity_expressions">numeric quantity expressions</a> work in Gaelic?</li>
 </ul>
 </p>
+<p>There is a <a href="?q=glossary">glossary</a> of grammatical terminology.</p>
+
 
 <!--<p>You can read the prolegomenon <a href="prolegomenon/index.html">here</a>.</p>-->
 <hr/>

@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<module status="silver">
+    <h>Glossary of grammatical terminology</h>
+    <p>Some grammatical terms used in LEACAN are as follows –</p>
+
+    <section>
+        <h>a</h>
+        <p><m>ablative</m> – expression of motion <emph>from</emph> an object, cf. <g>bho</g>.</p>
+        <p><m>adessive</m> – expression of location <emph>at</emph> an object, cf. <g>aig</g>.</p>
+        <p><m>allative</m> – expression of motion <emph>to</emph> an object, cf. <g>gu</g>.</p>
+    </section>
+
+    <section>
+        <h>c</h>
+        
+        <p><m>cessative</m> – perfective aspectual expression of the <emph>end</emph> of a situation.</p>
+        
+        <p><m>complement</m> – a dependent which is either a direct or indirect object</p>
+        
+        <p><m>compound preposition</m> – a two-word, fixed phrase which functions like a simple
+            preposition and takes the dative case. It is often formed by an adverb followed by a
+            simple preposition (e.g. <g>còmhla ris</g>). </p>
+        <p><m>conjugate / conjugation</m> – to change the verb depending on such factors as tense,
+            person and number.</p>
+    </section>
+
+    <section>
+        <h>d</h>
+        <p><m>dative</m> – a type of case-marking which follows many simple prepositions, e.g.
+                <g>aig a’ chaileig bhàin</g> (cf. <g>a’ chaileag bhàn</g>)</p>
+
+        <p><m>decline / declension</m> – to change the noun or adjective depending on such factors
+            as case, number and gender.</p>
+
+        <p><m>definite</m> – a noun is definite when preceded by the definite article (e.g.
+                <g>a’</g>) or a possessive pronoun (<g>mo</g>, <g>do</g>, <g>a</g>, etc. ).</p>
+
+        <p><m>deictic centre</m> – the ‘here and now’ of the narrative or conversation (e.g. the
+            location of the speaker or narrative focaliser).</p>
+
+        <p><m>deictically neutral</m> – (n)either distal (n)or proximal.</p>
+
+        <p><m>delative</m> – motion <emph>from</emph> the <emph>surface</emph> of an object, cf.
+                <g>far</g>.</p>
+
+        <p>
+            <m>dependent</m> - the form of the verb which is used with, or ‘depends’ on, other
+            particles e.g. <g>a bheil</g>, <g>cha tèid</g>, <g>nach dèan</g>.</p>
+        <p><m>direct object</m> – the object is the thing or person that an action happens to. It is
+            direct if there is no preposition (at, on, with, etc.), i.e. there is a direct
+            relationship between the verb and its object: e.g. <g>Tha mi a’ ceannach
+                <m>leabhar</m>.</g>
+        </p>
+
+        <p><m>distal</m> – expression of motion <emph>away from</emph> the speaker (or other deictic
+            centre).</p>
+
+    </section>
+
+    <section>
+        <h>e</h>
+
+        <p><m>elative</m> – expression of motion <emph>from</emph> the <emph>interior</emph> of an
+            object, cf. <g>à</g>.</p>
+
+        <p><m>emphatic</m> – when emphasis is shown, i.e. emphatic pronouns are <g>mise</g>,
+                <g>thusa</g>, <g>esan</g>, etc.</p>
+    </section>
+
+    <section>
+        <h>g</h>
+        <p><m>genitive</m> – a type of case-marking in Gaelic which indicates possession or close
+            association (e.g. <g>taigh an fhir mhòir</g>) and which also occurs after some
+            prepositions (e.g. <g>chun</g>, <g>mu dheidhinn</g>).</p>
+    </section>
+
+    <section>
+        <h>h</h>
+        <p><m>hypercorrection</m> – where a grammatical rule in one situation is incorrectly applied
+            to another situation, often when aiming at a more prestigious usage.</p>
+    </section>
+
+    <section>
+        <h>i</h>
+
+        <p><m>illative</m> – expression of motion <emph>to</emph> the <emph>interior</emph> of an
+            object, cf. <g>do</g>.</p>
+
+        <p><m>imperfective</m> – expression of a situation from an <emph>inside</emph> aspect – ongoing and non-bounded, without explicit start or end points.</p>
+
+        <p><m>inchoative</m> – perfective aspectual expression of the <emph>start</emph> of an imperfective situation.</p>
+
+        <p>
+            <m>indefinite</m> – a noun without the definite article (‘the’) or a possessive pronoun
+            (my, your, etc.).</p>
+        <p>
+            <m>independent</m> – the form of the verb that is used ‘independently’ without other
+            particles (<g>an</g>, <g>cha</g>, <g>nach</g>), e.g. <g>tha</g>, <g>thèid</g>,
+            <g>nì</g>.</p>
+        <p>
+            <m>indirect object</m> – the object is the thing or person that an action happens to. It
+            is indirect if it is used with a preposition (at, on, with, etc.), i.e. the relationship
+            between the verb and its object is not direct: e.g. <g>Tha mi a’ dol dhan
+                <m>bhaile</m>.</g>
+        </p>
+
+        <p><m>inessive</m> – expression of location at the <emph>interior</emph> of an object, cf. <g>ann an</g>.</p>
+
+        <p><m>inversion</m> – reversal of the basic order of words, i.e. placing the noun before the
+            verb; <g>Tha mi ag ionnsachadh Spàinntis.</g> > <g>Feumaidh mi Spàinntis
+                ionnsachadh.</g>
+        </p>
+        <p><m>inverted</m> – put in the reversed position from the basic order, subject to
+            inversion.</p>
+
+        <p><m>intransitive</m> – a verb or use of a verb which doesn't have an object, e.g. <g>tha e
+                a' falbh</g>, <g>bha iad a' rànail</g>. </p>
+    </section>
+
+    <section>
+        <h>l</h>
+        <p><m>lenition</m> – the process or result of ‘softening’ a consonant shown in Gaelic
+            writing by adding an h. </p>
+    </section>
+
+    <section>
+        <h>m</h>
+        <p><m>modal verbs</m> – a type of verb that expresses necessity or possibility, e.g.
+                <g>feum</g>, <g>faod</g>.</p>
+    </section>
+
+    <section>
+        <h>n</h>
+        <p><m>non-inverted</m> – is not put in the reversed position from the basic order, not
+            subject to inversion.</p>
+    </section>
+    
+    <section>
+        <h>o</h>
+        <p><m>object</m> – see direct object, indirect object.</p>
+    </section>
+    
+    <section>
+        <h>p</h>
+
+        <p><m>perfective</m> – expression of a situation (event, activity, process or state) from an
+                <emph>outside</emph> aspect, as a single, unanalysable, bounded whole.</p>
+
+        <p><m>perlative</m> – expression of motion <emph>via</emph> the <emph>interior</emph> of an
+            object, cf. <g>tro</g>.</p>
+
+        <p>
+            <m>personal pronoun</m> – the word that indicates a person, <g>mi</g>, <g>thu</g>,
+                <g>e</g>, <g>i</g>, etc.</p>
+        <p><m>possessive pronoun</m> – a pronoun that indicates possession of something, <g>mo</g>,
+                <g>do</g>, <g>a</g>, etc.</p>
+        <p><m>progressive</m> – the form of the verb that expresses an action in progress, e.g.
+                <g>a’ leughadh</g>, <g>a’ seinn</g>, <g>a’ dèanamh</g>.</p>
+        <p><m>preposition</m> – a word which comes before a noun or noun phrase to express a
+            relation to another word; <g>air</g>, <g>aig</g>, <g>le</g>, <g>ri</g>, <g>mu
+                dheidhinn</g>, <g>airson</g> (see simple preposition).</p>
+        <p><m>pronoun</m> – a word that refers either to the participants in the discourse (e.g.
+                <g>mi</g>, <g>thu</g>) or to someone or something mentioned elsewhere in the
+            discourse, e.g. <g>e</g>, <g>i</g>, <g>siud</g>.</p>
+
+        <p><m>proximal</m> – expression of motion <emph>towards</emph> the speaker (or other deictic
+            centre).</p>
+
+    </section>
+
+    <section>
+        <h>r</h>
+        <p><m>reflexive</m> – referring back to the same subject, e.g. <g>bhruidhinn mi rium
+                fhèin</g>. </p>
+
+        <p><m>relative clause</m> – part of a sentence that cannot exist independently and describes
+            a noun that comes before it in the main part of the sentence, e.g. <g>an geama a bhios
+                a' chlann-nighean a’ cluiche</g>. </p>
+
+        <p><m>relative pronoun</m> – pronoun used to introduce a relative clause, e.g. <g>an leabhar
+                a sgrìobh mi</g>, <g>an obair nach do rinn mi</g>.</p>
+    </section>
+
+    <section>
+        <h>s</h>
+        <p><m>simple preposition</m> – a type of word which comes before a noun or noun phrase to
+            express a relation to another word; <g>air</g>, <g>aig</g>, <g>le</g>, <g>ri</g>. In
+            Gaelic they are typically one word except for <g>ann an</g>. </p>
+
+        <p><m>specifier</m> – the determiner or genitive possessor of a noun.</p>
+
+        <p><m>stranding</m> – when a preposition occurs somewhere other than immediately adjacent to
+            its object; for example, at the end of a sentence (e.g. <g>an duine a bha mi a'
+                bruidhinn ris</g>) </p>
+
+        <p><m>subject</m> – the main dependent of a verb.</p>
+
+        <p><m>sublative</m> – expression of motion <emph>to</emph> the <emph>surface</emph> of an
+            object, cf. <g>air</g>.</p>
+
+        <p><m>suffix</m> – an element that is added to the end of a word, e.g. <g>mo
+            mhàthair-sa</g>.</p>
+
+        <p><m>superessive</m> – expression of location at the <emph>surface</emph> of an object, cf. <g>air</g>.</p>
+
+    </section>
+
+    <section>
+        <h>t</h>
+        <p><m>transitive</m> – a verb or use of a verb which has an object, e.g. <g>Nuair a bha e a'
+                fàgail an taighe</g>.</p>
+    </section>
+</module>
