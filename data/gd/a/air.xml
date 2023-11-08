@@ -82,7 +82,7 @@
         rule, and hence is sometimes found written with a hyphen – <g>air-san</g>.</p>
       <p>Finally, there are also reflexive forms (cf. <bad>air mi fhìn</bad>, <bad>air thu
           fhèin</bad>, ... <bad>air iad fhèin</bad>) – <ul>
-          <li><m>orm fhìn</m>
+          <li><m>orm fhèin / fhìn</m>
             <en>on myself</en></li>
             <!-- ROM: Note that fhein (grace accent) is sound in some dialects with 1 sg and pl. -bh + fhein is often pronounced pein -->
             <!-- WL: Cox (2017: 219) notes fhìn is also sometimes used with i -->
@@ -92,7 +92,7 @@
             <en>on herself/itself</en></li>
           <li><m>air fhèin</m>
             <en>on himself/itself</en></li>
-          <li><m>oirnn fhìn</m>
+          <li><m>oirnn fhèin / fhìn</m>
             <en>on ourselves</en></li>
           <li><m>oirbh fhèin</m>
             <en>on yourself</en></li>
@@ -100,6 +100,7 @@
             <en>on themselves</en></li>
         </ul>
       </p>
+      <p>Note that <g>-bh</g> + <g>fhèin</g> is often pronounced <g>pèin</g> in <g>oirbh fhèin</g>.</p>
     </section>
   </section>
 
@@ -456,7 +457,7 @@
           indicates <a href="?q=verbal_aspect">retrospective aspect</a>, similar in some ways to the
           English ‘perfect tenses’ – <ul>
             <li><m>Tha Raonaid air obair a dhèanamh.</m>
-              <en>Rachel has done work.</en></li>
+              <en>Rachel has worked.</en></li>
           </ul>
         </p>
         <section>
@@ -493,6 +494,8 @@
                 <en>Rachel has kissed the boys</en></li>
             </ul>
           </p>
+          <p>Note that the object noun is in the nominative case, rather than the dative, in this
+            context – Tha Raonaid air <m>am balach</m> a phògadh. <en>Rachel has kissed the boy.</en></p>
           <p>Examples from dictionaries and grammars – <xl id="retro-inversion-dictionary">
               <li>
                 <gd>Bha mi air an doras a dhùnadh.</gd>
@@ -676,7 +679,7 @@
                     ás.</gd>
                   <tr>The Highland Society is talking about choosing a new General who will oversee
                     the Society’s work. [...] A person of this kind would have to have a good
-                    measure of power. It would do him no good to have been dragged at the bottom of a
+                    measure of power. It will do him no good to be dragged at the bottom of a
                     Committee, but the Committee must have trust in him.</tr>
                   <ref text="400-46">td. 105, ‘Air an Spiris’</ref>
                   <note>DM: I think this is not a perfect form (i.e. have been dragged) but it describes a state.</note>

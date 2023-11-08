@@ -29,17 +29,19 @@
                     <li><m>às na h-</m>aislingean <en>out of the dreams</en></li>
                 </ul>
             </p>
-            <!-- <p><g>às</g> is used in a range of other vowel-initial contexts as well – <ul>
-                    <li><g>às a-màireach</g>
-                        <en>from tomorrow</en></li>
+            <p><g>às</g> is used in a range of other contexts as well – <ul>
+                    <li><g>às na tha ...</g>
+                        <en>from what is ...</en></li>
+                    <li><g>às gach ...</g>
+                        <en>from every ...</en></li>
                     <li><g>às a h-uile ...</g>
                         <en>from every ...</en></li>
                     <li><g>às a bheil ...</g>
                         <en>out of which ...</en></li>
-                    <li><g>às àite</g>
-                        <en>out of place</en></li>
+                    <!--<li><g>às àite</g> 
+                        <en>out of place</en></li>-->
                 </ul>
-            </p>-->
+            </p>
             <p>There are no fused forms with <g>à</g> and a <a
                     href="?xx=nouns/possessive_determiners">possessive determiner</a> – <ul>
                     <li><m>às mo</m> thaigh <en>out of my house</en></li>
@@ -147,10 +149,14 @@
                 </ul>
             </p>
             <p>Some idioms – <ul>
-                    <!--<li><g>às <a href="?gd=an-seo">an·seo</a></g>
+                   <!-- <li><g>às <a href="?gd=an-seo">an·seo</a></g>
                         <en>hence</en></li>-->
                    <!-- <li><g>às <a href="?gd=an-sin">an·sin</a></g>, <g>às an àite sin</g>
                         <en>thence</en></li>-->
+                    <li><g>à seo</g>, <g>às a seo</g>
+                        <en>hence, from here</en></li>
+                    <li><g>à sin</g>, <g>às a sin</g>, <g>às an àite sin</g>
+                        <en>thence, from there</g></li>
                     <li><g>à fasan</g> / <g>às an fhasan</g>
                         <en>out-of-date, out of fashion</en></li>
                     <li><g>às an t-sreath</g>

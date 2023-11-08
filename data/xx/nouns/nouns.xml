@@ -11,7 +11,7 @@
         <fem/>
         <en>Rachel</en>, <m>Glaschu</m>
         <masc/>
-        <en>Glasgow</en>, <m>Laideann</m>
+        <en>Glasgow</en>, <m>Laideann / Laidinn</m>
         <fem/>
         <en>Latin</en>.</li>
       <li><a href="?xx=nouns/common_nouns">Common nouns</a> describe <emph>classes</emph> of entity
@@ -34,7 +34,7 @@
 
   <section id="forms">
     <h>forms</h>
-    <p>Nouns have <emph>number</emph> – every noun form is either <emph>singular</emph> or
+    <p>Nouns have <emph>number</emph> – every noun form is either (grammatically) <emph>singular</emph> or
         <emph>plural</emph> – <ul>
         <li><g>Ealasaid</g>
           <en>Elizabeth</en>, <g>clach</g>
@@ -49,7 +49,9 @@
       <en>book</en> ~ <g>leabhraichean</g>
       <en>books</en>, <g>balach</g>
       <en>boy</en> ~ <g>balaich</g>
-      <en>boys</en>. </p>
+      <en>boys</en>. 
+      Collective nouns can be singular grammatically but plural semantically – <g>clann</g>
+      <en>children</en>.</p>
     <!--<p><ed>Add note on legacy dual number here?</ed></p>-->
     <p><!--Singular--> Nouns have <emph>gender</emph> – every singular noun form (including those
       describing inanimate entities) is either <emph>feminine</emph> or <emph>masculine</emph> – <ul>
@@ -61,12 +63,12 @@
           <en>Donald</en>, <g>baile</g>
           <en>town</en> and <g>airgead</g>
           <en>silver, money</en> are all masculine singular noun forms.</li>
-      </ul> Note that the gender of <!--inanimate--> nouns (most especially inanimate nouns) is unpredictable from their meaning.</p>
+      </ul> Note that the gender of nouns (most especially inanimate nouns) is unpredictable from their meaning.</p>
     <!--<p><ed>Add note on (historical) neuter gender here?</ed></p>-->
     <p>Nouns have <emph>case</emph> – every noun form is either <emph>nominative</emph> or
-        <emph>dative</emph> or <emph>genitive</emph> – <ul>
-        <li>The genitive form of the masculine singular proper noun <g>Seòras</g>
-          <en>George</en> is <g>Sheòrais</g>; the nominative and dative forms are just
+        <emph>dative</emph> or <emph>genitive</emph> or <emph>vocative</emph> – <ul>
+        <li>The genitive and vocative forms of the masculine singular proper noun <g>Seòras</g>
+          <en>George</en> are <g>Sheòrais</g>; the nominative and dative forms are just
           <g>Seòras</g>.</li>
         <li>The (traditional) dative form of the feminine singular common noun <g>bean</g>
           <en>woman</en> is <g>mnaoi</g>, and the genitive is <g>mnatha</g>.</li>
@@ -107,11 +109,14 @@
             <en>a house which we didn’t buy</en></li>
         </ol>
       </p>
+      <p>Modifiers normally follow the noun that they modify apart from a small group of preposed adjectives – 
+        <g><emph>deagh</emph> charaid</g> <en>a good friend</en>.
+      </p>
       <section id="lenition">
         <h>lenition of noun modifiers</h>
         <p>Noun modifiers (adjectives or genitive common nouns) are <emph>lenited</emph> in the
           following cases – <ul>
-            <li>modifiers of <emph>nominative feminine</emph> (singular) nouns – <ul>
+            <li>modifiers of <emph>nominative singular feminine</emph> nouns – <ul>
                 <li><g>caileag <emph>mh</emph>òr <emph>sh</emph>ona</g>
                   <en>a big happy girl</en></li>
                 <li><g>Màiri <emph>Bh</emph>àn <emph>bh</emph>òidheach</g>
@@ -124,32 +129,32 @@
                   <en>beloved Sarah</en>
                   <!--<ed>okay?</ed>--></li>
               </ul></li>
-            <li>modifiers of <emph>dative feminine</emph> (singular) nouns – <ul>
-                <li>le <g>caileig <emph>mh</emph>òir <emph>sh</emph>ona</g>
-                  <en>with a big happy girl</en> [<emph>alt.</emph> le caileag mhòr shona]</li>
-                <li>air <g>Màiri <emph>Bh</emph>àin <emph>bh</emph>òidhich</g>
-                  <en>on beautiful Fair-haired Mary</en> [<emph>alt.</emph> air Màiri Bhàn
-                  bhòidheach]</li>
-                <li>ri <g>cloich <emph>mh</emph>uillinn <emph>dh</emph>uibh</g>
-                  <en>against a black millstone</en> [<emph>alt.</emph> ri clach-mhuillinn
-                  dhubh]</li>
-                <li>aig <g>caora <emph>bh</emph>ig <emph>Sh</emph>asannaich</g>
-                  <en>at a small English sheep</en> [<emph>alt.</emph> aig caora bheag
-                  Shasannach]</li>
-                <li>do <g>Mhòraig <emph>chr</emph>idhe</g>
-                  <en>to beloved Sarah</en> [<emph>alt.</emph> do Mhòrag chridhe]</li>
+            <li>modifiers of <emph>dative singular feminine</emph> nouns – <ul>
+                <li>le <g>caileag <emph>mh</emph>òr <emph>sh</emph>ona</g>
+                  <en>with a big happy girl</en> [<emph>trad.</emph> le caileig mhòir shona]</li>
+                <li>air <g>Màiri <emph>Bh</emph>àn <emph>bh</emph>òidheach</g>
+                  <en>on beautiful Fair-haired Mary</en> [<emph>trad.</emph> air Màiri Bhàin
+                  bhòidhich]</li>
+                <li>ri <g>clach-<emph>mh</emph>uilinn <emph>dh</emph>ubh</g>
+                  <en>against a black millstone</en> [<emph>trad.</emph> ri cloich-mhuilinn
+                  dhuibh]</li>
+                <li>aig <g>caora <emph>bh</emph>eag <emph>Sh</emph>asannach</g>
+                  <en>at a small English sheep</en> [<emph>trad.</emph> aig caora bhig
+                  Shasannaich]</li>
+                <li>do <g>Mhòrag <emph>chr</emph>idhe</g>
+                  <en>to beloved Sarah</en> [<emph>trad.</emph> do Mhòraig chridhe]</li>
               </ul></li>
-            <li>modifiers of <emph>genitive masculine</emph> (singular) nouns – <ul>
+            <li>modifiers of <emph>genitive singular masculine</emph> nouns (traditional forms) – <ul>
                 <li>ceann <g>balaich <emph>mh</emph>òir <emph>ch</emph>rosta</g>
-                  <en>a big naughty boy’s (head)</en></li>
+                  <en>a big naughty boy’s (head)</en> [<emph>alt.</emph> ceann balach mòr crosta]</li>
                 <li>bean <g>Sheumais <emph>Bh</emph>ig <emph>bh</emph>ochd</g>
                   <en>poor Little James’ (wife)</en></li>
-                <li>doras <g>taighe <emph>th</emph>asgaidh <emph>dh</emph>ùthchail</g>
-                  <en>a rural museum’s (door)</en> [<emph>alt.</emph> doras taighe-thasgaidh
-                  dhùthchail]</li>
-                <li>curran <g>bodaich <emph>shn</emph>eachda <emph>gh</emph>il</g>
-                  <en>a white snowman’s carrot</en> [<emph>alt.</emph> curran bodaich-shneacha
-                  ghil]</li>
+                <li>doras <g>taigh-<emph>th</emph>asgaidh <emph>dh</emph>ùthchail</g>
+                  <en>a rural museum’s (door)</en> [<emph>alt.</emph> doras taigh-tasgaidh
+                  dùthchail]</li>
+                <li>curran <g>bodaich-<emph>shn</emph>eachda <emph>gh</emph>il</g>
+                  <en>a white snowman’s carrot</en> [<emph>alt.</emph> curran bodach-sneachda
+                  geal]</li>
                 <li>claidheamh <g>Ghriogail <emph>chr</emph>idhe</g>
                   <en>beloved Gregor’s sword</en>
                   <!--<ed>okay?</ed>--></li>
@@ -158,8 +163,8 @@
             <li>modifiers of <emph>slenderised (non-genitive) plural</emph> (common) nouns – <ul>
                 <li>(le) <g>balaich <emph>mh</emph>òra <emph>ch</emph>rosta</g>
                   <en>(with) naughty big boys</en></li>
-                <li>(air) <g>bodaich <emph>shn</emph>eachda <emph>gh</emph>eala</g>
-                  <en>(on) white snowmen</en> [alt. (air) bodaich-shneachda gheala]</li>
+                <li>(air) <g>bodaich-<emph>shn</emph>eachda <emph>gh</emph>eala</g>
+                  <en>(on) white snowmen</en></li>
                 <li>(aig) <g>caoraich <emph>bh</emph>eaga <emph>Sh</emph>asannach</g>
                   <en>(at) small English sheep</en>
                   <!--<ed>grammatical?</ed>--></li>
@@ -170,29 +175,34 @@
               <g>a’</g> (or <g>an fh-</g> or <g>an t-s-</g>), including <emph>lenited dative masculines</emph> – <ul>
                 <li>leis a’ <g>bhalach <emph>mh</emph>òr <emph>ch</emph>rosta</g>
                   <en>with the naughty big boy</en></li>
-                <li>aig a’ <g>bhodach <emph>shn</emph>eachda <emph>gh</emph>eal</g>
-                  <en>at the white snowman</en> [<emph>alt.</emph> aig a’ bhodach-shneachda
+                <li>aig a’ <g>bhodach-<emph>shn</emph>eachda <emph>gh</emph>eal</g>
+                  <en>at the white snowman</en> [<emph>alt.</emph> aig a’ bhodach-sneachda
                   gheal]</li>
-                <li><emph>but</emph> – <bad>anns an taigh thasgaidh dhùthchail</bad></li>
+                <li><emph>but</emph> – <bad>anns an taigh-thasgaidh dhùthchail</bad></li>
               </ul>
             </li>
             <li><emph>genitive plural nouns modifying another noun</emph> are always lenited – <ul>
-                <li>(ann an) <g>taigh <emph>ch</emph>on mòr</g>
-                  <en>(in) a large kennel</en> [<emph>alt.</emph> (ann an) taigh-chon mòr]</li>
-                <li>(anns) an <g>taigh <emph>ch</emph>on mòr</g>
+                <li>(ann an) <g>taigh-<emph>ch</emph>on mòr</g>
+                  <en>(in) a large kennel</en></li>
+                <li>(anns) an <g>taigh-<emph>ch</emph>on mhòr</g>
                   <en>(in) the large kennel</en></li>
-                <li>mullach (an) <g>taighe <emph>ch</emph>on mhòir</g>
+                <li>mullach (an) <g>taighe-<emph>ch</emph>on mhòir</g>
                   <en>a (the) large kennel’s roof</en></li>
-                <li>(ann an) <g>taighean <emph>ch</emph>on mòra</g>
+                <li>(ann an) <g>taighean-<emph>ch</emph>on mòra</g>
                   <en>(in) large kennels</en></li>
-                <li>(anns) na <g>taighean <emph>ch</emph>on mòra</g>
+                <li>(anns) na <g>taighean-<emph>ch</emph>on mòra</g>
                   <en>(in) the large kennels</en></li>
-                <li>mullaich (nan) <g>taighean <emph>ch</emph>on mòra</g>
+                <li>mullaichean nan <g>taighean-<emph>ch</emph>on mòra</g>
                   <en>(the) large kennels’ roofs</en></li>
               </ul>
             </li>
+            <li>certain <emph>genitive singular collective nouns modifying another noun</emph> can be lenited – <ul>
+                <li>(ann an) <g>leabhraichean <emph>chloinne</emph></g>
+                  <en>(in) children's books</en><li>
+              </ul> 
+            </li>
             <li>modifiers of (common) nouns pre-numerated by <!--<a href="?gd=dà">--><g>dà</g><!--</a>-->
-              <en>two</en> are <emph>always</emph> lenited – <ul>
+              <en>two</en> are usually lenited – <ul>
                 <li>(an) <g>dà bhalach <emph>mh</emph>òr <emph>ch</emph>rosta</g>
                   <en>(the) two naughty big boys</en></li>
                 <!--<li>guthan (an) <g>dà chaileige <emph>mh</emph>òire <emph>sh</emph>ona</g>
@@ -209,30 +219,29 @@
         <h>non-lenition of noun modifiers</h>
         <p>Noun modifiers (adjectives or genitive common nouns) are <emph>not lenited</emph> in the
           following cases – <ul>
-            <li>modifiers of <emph>nominative masculine</emph> (singular) nouns – <ul>
+            <li>modifiers of <emph>nominative singular masculine</emph> nouns – <ul>
                 <li><g>balach <emph>m</emph>òr <emph>c</emph>rosta</g>
                   <en>a naughty big boy</en></li>
                 <li><g>Seumas <emph>B</emph>eag <emph>b</emph>ochd</g>
                   <en>poor Little James</en></li>
-                <li><g>taigh <emph>t</emph>asgaidh <emph>d</emph>ùthchail</g>
-                  <en>a rural museum</en> [<emph>alt.</emph> taigh-tasgaidh dùthchail]</li>
-                <li><g>bodach <emph>sn</emph>eachda <emph>ge</emph>al</g>
-                  <en>a white snowman</en> [<emph>alt.</emph> bodach-sneachda geal]</li>
+                <li><g>taigh-<emph>t</emph>asgaidh <emph>d</emph>ùthchail</g>
+                  <en>a rural museum</en></li>
+                <li><g>bodach-<emph>sn</emph>eachda <emph>ge</emph>al</g>
+                  <en>a white snowman</en></li>
                 <li><g>Griogal <emph>cr</emph>idhe</g>
                   <en>beloved Gregor</en></li>
               </ul>
             </li>
-            <li>modifiers of <emph>dative masculine</emph> (singular) nouns <emph>not pre-specified
+            <li>modifiers of <emph>dative singular masculine</emph> nouns <emph>not pre-specified
                 by the definite article</emph> – <ul>
                 <li>le <g>balach <emph>m</emph>òr <emph>c</emph>rosta</g>
                   <en>with a naughty big boy</en></li>
                 <li>air <g>Seumas <emph>B</emph>eag <emph>b</emph>ochd</g>
                   <en>on poor Little James</en></li>
-                <li>ann an <g>taigh <emph>t</emph>asgaidh <emph>d</emph>ùthchail</g>
-                  <en>in a rural museum</en> [<emph>alt.</emph> ann an taigh-tasgaidh
-                  dùthchail]</li>
-                <li>aig <g>bodach <emph>sn</emph>eachda <emph>ge</emph>al</g>
-                  <en>at a white snowman</en> [<emph>alt.</emph> aig bodach-sneachda geal]</li>
+                <li>ann an <g>taigh-<emph>t</emph>asgaidh <emph>d</emph>ùthchail</g>
+                  <en>in a rural museum</en></li>
+                <li>aig <g>bodach-<emph>sn</emph>eachda <emph>ge</emph>al</g>
+                  <en>at a white snowman</en></li>
                 <li>do <g>Ghriogal <emph>cr</emph>idhe</g>
                   <en>to beloved Gregor</en></li>
               </ul>
@@ -246,18 +255,18 @@
 I’ve seen examples such as leis an duine dhubh. 
 Also: dhan taigh-bheag, anns an taigh-sheinnse, etc.  -->
             <!-- WL: If we take this as a compound noun, the conservative approach would be to lenite tasgaidh and dùthchail when the compound is definite and dative.  -->
-            <li>modifiers of <emph>genitive feminine</emph> (singular) nouns – <ul>
+            <li>modifiers of <emph>genitive singular feminine</emph> nouns (traditional forms) – <ul>
                 <li>guth <g>caileige <emph>m</emph>òire <emph>s</emph>ona</g>
-                  <en>a big happy girl’s voice</en> [<emph>alt.</emph> guth caileig mhò(i)r
+                  <en>a big happy girl’s voice</en> [<emph>alt.</emph> guth cailei/ag mhò(i)r
                   shona]</li>
-                <li>ad <g>Màiri <emph>B</emph>àine <emph>b</emph>òidh[i]che</g>
+                <li>ad <g>Màiri <emph>B</emph>àine <emph>b</emph>òidh[i]ch(e)</g>
                   <en>beautiful Fair-haired Mary’s hat</en> [<emph>alt.</emph> ad Màiri Bhà(i)n
                   bhòidhi/each] <!--<ed>not sure here</ed>--></li>
-                <li>coltas <g>cloiche <emph>m</emph>uillinn <emph>d</emph>uibhe</g>
-                  <en>a black millstone’s appearance</en> [<emph>alt.</emph> coltas cloich-mhuillinn
-                  dhuibh]</li>
+                <li>coltas <g>cloiche-<emph>m</emph>uilinn <emph>d</emph>uibhe</g>
+                  <en>a black millstone’s appearance</en> [<emph>alt.</emph> coltas cloich-mhuilinn
+                  dhuibh / clach-mhuilinn dhubh]</li>
               <!-- DM: I’m not sure about this. It looks like a compound, and I wonder how common the gen. ending –e is in compounds like that.  -->
-                <li>màthair <g>caorach <emph>b</emph>ige <emph>S</emph>asannaiche</g>
+                <li>màthair <g>caorach <emph>b</emph>ige <emph>S</emph>asannaich(e)</g>
                   <en>a small English sheep’s mother</en> [<emph>alt.</emph> màthair caorach bhi/eag
                   Shasanna(i)ch] <!--<ed>not sure here</ed>--></li>
                 <li>cù <g>Mòraig <emph>cr</emph>idhe</g>
@@ -266,29 +275,26 @@ Also: dhan taigh-bheag, anns an taigh-sheinnse, etc.  -->
               </ul></li>
             <li>modifiers of <emph>non-slenderised plural</emph> (common) nouns (incl. all genitive
               plurals) – <ul>
-                <li>(ann an) <g>taighean <emph>t</emph>asgaidh <emph>d</emph>ùthchail</g>
-                  <en>(in) rural museums</en> [<emph>alt.</emph> (ann an) taighean-tasgaidh
-                  dùthchail]</li>
+                <li>(ann an) <g>taighean-<emph>t</emph>asgaidh <emph>d</emph>ùthchail</g>
+                  <en>(in) rural museums</en></li>
                 <li>(le) <g>caileagan <emph>m</emph>òra <emph>s</emph>ona</g>
                   <en>(with) happy big girls</en></li>
-                <li>(air) <g>clachan <emph>m</emph>uilinn <emph>d</emph>ubha</g>
-                  <en>(on) black millstones</en> [<emph>alt.</emph> (air) clachan-muilinn
-                  dubha]</li>
-                <li>dorsan <g>t[h]aighean <emph>t</emph>asgaidh <emph>d</emph>ùthchail</g>
-                  <en>rural museum’s doors</en> [<emph>alt.</emph> dorsan t[h]aighean-tasgaidh
-                  dùthchail] <!--<ed>lenition with indefinite specifiers?</ed>--></li>
+                <li>(air) <g>clachan-<emph>m</emph>uilinn <emph>d</emph>ubha</g>
+                  <en>(on) black millstones</en></li>
+                <li>dorsan <g>t[h]aighean-<emph>t</emph>asgaidh <emph>d</emph>ùthchail</g>
+                  <en>rural museum’s doors</en>
+                  <!--<ed>lenition with indefinite specifiers?</ed>--></li>
                 <li>guthan <g>c[h]aileag[an] <emph>m</emph>òra <emph>s</emph>ona</g>
                   <en>happy big girls’ voices</en></li>
-                <li>coltas <g>c[h]lach[an] <emph>m</emph>uillinn <emph>d</emph>ubha</g>
-                  <en>black millstones’ appearance</en> [<emph>alt.</emph> coltas
-                  c[h]lachan-muillinn dubha]</li>
+                <li>coltas <g>c[h]lach[an]-<emph>m</emph>uilinn <emph>d</emph>ubha</g>
+                  <en>black millstones’ appearance</en></li>
                 <li>màthraichean <g>c[h]aorach <emph>b</emph>eaga <emph>S</emph>asannach</g>
                   <en>small English sheep’s mothers</en></li>
                 <li>cinn <g>b[h]alach <emph>m</emph>òra <emph>c</emph>rosta</g>
                   <en>naughty big boys’ heads</en></li>
-                <li>currain <g>b[h]odach <emph>sn</emph>eachda <emph>ge</emph>ala</g>
-                  <en>white snowmen’s carrots</en> [<emph>alt.</emph> currain b[h]odach-sneachda
-                  geala]</li>
+                <li>currain <g>b[h]odach-<emph>sn</emph>eachda <emph>ge</emph>ala</g>
+                  <en>white snowmen’s carrots</en> [<emph>alt.</emph> currain b[h]odaich-sneachda
+                  gheala]</li>
               </ul>
             </li>
           </ul>
@@ -354,8 +360,8 @@ Also: dhan taigh-bheag, anns an taigh-sheinnse, etc.  -->
                 <emph>Sheumais</emph></g>
             <en>James’ house</en></li>
           <li>to introduce a common noun which <emph>modifies</emph> a preceding common noun –
-              <g>taigh <emph>chon</emph></g>
-            <en>kennel</en>.</li>
+              <g>taigh <emph>cloiche</emph></g>
+            <en>a stone house</en>.</li>
         </ul>
       </p>
       <!--<p><ed>(Pseudo-)Prepositions taking nominative? Prepositional compounds? Verbal
@@ -405,7 +411,7 @@ Also: dhan taigh-bheag, anns an taigh-sheinnse, etc.  -->
             <en>Rachel has a dog</en> – <g>cù</g>
             <en>dog</en> is associated with a <emph>simple</emph> bounded sense here (ie. an
             individual), and hence is being used as a countable noun.</li>
-          <li><g>Tha <emph>treud</emph> air a’ mhonadh</g>
+          <li><g>Tha <emph>treud</emph> air a’ mhòintich</g>
             <en>There is a herd on the moor</en> – <g>treud</g>
             <en>herd</en> is associated with a <emph>complex</emph> bounded sense here (ie. a group
             of animals), and hence is also being used as a countable noun.</li>
@@ -413,12 +419,12 @@ Also: dhan taigh-bheag, anns an taigh-sheinnse, etc.  -->
       </p>
       <p>When a (singular, common) noun form is associated with a non-bounded sense, it is being
         used as an <emph>uncountable</emph> noun – <ul>
-          <li><g>Tha Raonaid ag òl <emph>fìona</emph></g>
-            <en>Rachel is drinking wine</en> – the (genitive singular) noun form <g>fìona</g>
+          <li><g>Tha Raonaid ag òl <emph>fìon</emph></g>
+            <en>Rachel is drinking wine</en> – the (singular) noun form <g>fìon</g>
             <en>wine</en> is associated with a <emph>simple</emph> non-bounded sense here (ie. a
             substance), and hence is being used as an uncountable noun (more precisely a ‘mass’
-            noun). [<emph>alt.</emph> Tha Raonaid ag òl <emph>fìon</emph>.]</li>
-          <li><g>Bha <emph>crodh</emph> air a’ mhonadh</g>
+            noun). [<emph>alt.</emph> Tha Raonaid ag òl <emph>fìona</emph>.]</li>
+          <li><g>Bha <emph>crodh</emph> air a’ mhòintich</g>
             <en>There were cattle on the moor</en> – the noun <g>crodh</g>
             <en>cattle</en> is associated with a <emph>complex</emph> non-bounded sense here (ie. an
             aggregate of cows), and hence is being used as an uncountable noun (more precisely a

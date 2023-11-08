@@ -4,9 +4,9 @@
   <p><g>barrachd</g>
     <en>more, predominance, preponderance</en> is an indeclinable feminine <a
       href="?xx=nouns/generic_quantity_nouns">generic quantity noun</a> expressing a
-      <emph>larger</emph> comparative quantity. <!--It is <a href="?xx=nouns/derived_common_nouns"
+      <emph>larger</emph> comparative quantity. It is <a href="?xx=nouns/derived_common_nouns"
       >derived</a> from the masculine common noun <a href="?gd=bàrr"><g>bàrr</g></a>
-    <en>top, crest</en> with the suffix <a href="?gd=_achd"><g>-achd</g></a>.--></p>
+    <en>top, crest</en> with the suffix <a href="?gd=_achd"><g>-achd</g></a>.</p>
   <!--<p>See also the prepositional compound <a href="?gd=a_bharrachd">a bharrachd (air)</a>.</p>
   -->
   <section>
@@ -193,13 +193,13 @@
     <p>One (possibly conservative) way of expressing the target of comparison is to use <!--<a
         href="?gd=agus">--><g>agus</g><!--</a>--> (usually contracted to <g>is</g> or <g>’s</g>) followed by the
       relative particle <g>a</g> eg. <ul>
-        <li>Tha <m>barrachd</m> chon aig Dòmhnall <m>’s a tha</m> aig Màiri, <en>Donald has more
+        <li>Tha <m>barrachd</m> chon aig Dòmhnall <m>’s a tha</m> aig Màiri. <en>Donald has more
             dogs than Mary [does].</en></li>
-        <li>Tha <m>barrachd</m> chon aig Dòmhnall <m>’s a tha</m> cait aige. <en>Donald has more
+        <li>Tha <m>barrachd</m> chon aig Dòmhnall <m>’s a tha</m> de chait aige. <en>Donald has more
             dogs than [he does] cats.</en></li>
         <li>Dh’òl Raonaid <m>barrachd</m> bùrn <m>’s a dh’òl</m> Seumas. <en>Rachel drank more water
             than James [did].</en></li>
-        <li>Dh’òl Raonaid <m>barrachd</m> bùrn <m>’s a dh’òl</m> i fìon. <en>Rachel drank more wine
+        <li>Dh’òl Raonaid <m>barrachd</m> bùrn <m>’s a dh’òl</m> i de dh’fhìon. <en>Rachel drank more wine
             than [she did] wine.</en></li>
       </ul>
       <xl id="barrachd_agus_a">
@@ -241,7 +241,7 @@
         </li>
       </xl>
     </p>
-    <p>However usage varies considerably here, with a range of modern vernacular contracted forms
+    <p>However usage varies considerably here, with a range of modern vernacular forms
       perhaps influenced by English. <xl id="barrachd_na">
         <li>
           <gd>Chuala mi Eachann Posta a’ gearan an là-roimhe gu bheil an tigh-sgoile agus am mansa
@@ -366,10 +366,15 @@
     <p><g>barrachd</g> can be emphasised with the adjective <!--<a href="?gd=fada">--><g>fada</g><!--</a>-->. <xl
         id="fada">
         <li>
-          <gd>“Ist! Dhèanainn <m>fada bharrachd</m> airson mac d’ athar nam b’ urrainn dhomh!” arsa
+          <gd>“Ist! Dhèanainn <m>fada [a] bharrachd</m> airson mac d’ athar nam b’ urrainn dhomh!” arsa
             Aonghas.</gd>
           <tr>“Wheesht! I would do far more for your father’s son if I could!” said Angus.</tr>
           <ref text="16">td. 51</ref>
+        </li>
+        <li> 
+          <gd>Gheibh thu <m>fada a bharrachd fois</m> as t-Earrach neo anns a’ Gheamhradh.</gd>
+          <tr>You will get far more rest in spring than in winter.</tr>
+          <ref> </ref>
         </li>
       </xl>
     </p>

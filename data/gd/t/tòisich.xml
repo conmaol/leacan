@@ -90,7 +90,31 @@
                 </ul>
             </p>
         </section>
-
+        <section id="imperative"> 
+            <h>imperative</h>
+            <p>
+                <ul>
+                    <li>independent <ul id="independent">
+                            <li>first person singular – <m>tòisicheam</m>!</li> 
+                            <li>second person singular – <m>tòisich</m>!</li>
+                            <li>first person plural – <m>tòisicheamaid</m>!</li>
+                            <li>second person plural – <m>tòisichidh</m>!</li>
+                            <li>third person – <m>tòisicheadh</m>!</li>
+                            <li>passive – <m>tòisich(t)ear</m>!</li>
+                        </ul>
+                    </li> 
+                    <li>dependent <ul id="dependent">
+                            <li>first person singular – <m>na tòisicheam</m>!</li> 
+                            <li>second person singular – <m>na tòisich</m>!</li>
+                            <li>first person plural – <m>na tòisicheamaid</m>!</li>
+                            <li>second person plural – <m>na tòisichidh</m>!</li>
+                            <li>third person – <m>na tòisicheadh</m>!</li>
+                            <li>passive – <m>na tòisich(t)ear</m>!</li>
+                        </ul>
+                    </li>
+                </ul>
+            </p>
+        </section>
 
         <!--
         <p>The full forms of <g>tòisich</g> are – 

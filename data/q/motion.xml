@@ -104,6 +104,9 @@
                         <en>down(wards)</en> (proximal)</li>
                 </ul>
             </p>
+            <p>Note that the adverb <g>a-staigh</g> is used instead of <g>a-steach</g> in certain
+                dialects and that either <g>a-nuas</g> or <g>a-nìos</g> can mean both <en>up(wards)</en>
+                and <en>down(wards)<e> (proximal) depending on the dialect.</p>
             <!--
             <p>Locative adverbs – <ul>
                     <li>(bi) <a href="?gd=thall"><g>thall</g></a></li>
@@ -174,7 +177,7 @@
                                     bhogsa</bad></li>
                         </ul>
                     </li>
-                    <li>Thug mi iad ... <ul>
+                    <li>Chuir mi iad ... <ul>
                             <li><m>(a-steach) do phreas</m>
                                 <en>in(to) a cupboard</en></li>
                             <li><m>(a-steach) don a’ phreas</m>
@@ -289,11 +292,11 @@
         </section>
         <section id="surfaces">
             <h>surfaces – sublative and delative</h>
-            <p>When the end point of the motion is the (visible) surface of a object, the
+            <p>When the end point of the motion is the (visible) surface of an object, the
                 superessive/sublative preposition <a href="?gd=air"><g>air</g></a> is used (rather
                 than allative <g>gu</g> [<g>chun</g>] or illative <g>dha</g> [<g>do</g>/<g>a</g>]).
-                The preposition can be reinforced (and the vertical direction clarified) using
-                either the distal adverbs <a href="?gd=suas"><g>suas</g></a>/<a href="?gd=sìos"
+                The preposition can be reinforced (and the direction clarified) using either
+                the distal adverbs <a href="?gd=suas"><g>suas</g></a>/<a href="?gd=sìos"
                         ><g>sìos</g></a>/<a href="?gd=a-null"><g>a-null</g></a> or the proximal
                 adverbs <a href="?gd=a-nìos"><g>a-nìos</g></a>/<a href="?gd=a-nuas"
                     ><g>a-nuas</g></a>/<a href="?gd=a-nall"><g>a-nall</g></a> – <ul>
@@ -332,11 +335,9 @@
             <p>When the starting point of the motion is the (visible) surface of a object, the
                 delative pseudo-preposition <a href="?gd=far^preposition"><g>far</g></a> is used
                 (rather than ablative <g>bho</g> or elative <g>à</g>). Again, the preposition can be
-                reinforced (and the vertical direction clarified) using either the distal adverbs <a
-                    href="?gd=suas"><g>suas</g></a>/<a href="?gd=sìos"><g>sìos</g></a>/<a
-                    href="?gd=a-null"><g>a-null</g></a> or the proximal adverbs <a href="?gd=a-nìos"
-                        ><g>a-nìos</g></a>/<a href="?gd=a-nuas"><g>a-nuas</g></a>/<a
-                    href="?gd=a-nall"><g>a-nall</g></a> – <ul>
+                reinforced (and the direction clarified) using the proximal adverbs <a href="?gd=a-nìos">
+                    <g>a-nìos</g></a>/<a href="?gd=a-nuas"><g>a-nuas</g></a>/<a href="?gd=a-nall">
+                    <g>a-nall</g></a> – <ul>
                     <li>Chaidh e – <ul>
                             <li><m>(suas/sìos<!--/a-null-->) far bùird</m>
                                 <en>(up/down<!--/over-->) off (of) a table, from on a table</en></li>

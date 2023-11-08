@@ -28,7 +28,7 @@
             <en>water</en>.</li>
         </ul></li>
       <li><a href="?xx=nouns/name_descriptions">name-descriptions</a> – names which consist of a
-        specified common noun phrase (and hence are not nouns) – <ul>
+        specified common noun phrase – <ul>
           <li><g>An Caiptean</g>
             <en>The Captain</en></li>
           <li><g>Ceann Loch Chille Chiarain</g>
@@ -101,10 +101,10 @@
                 <en>Bute</en> are masculine proper nouns.</li>
             </ul>
           </li>
-          <li><emph>case</emph> – every proper noun form is either nominative or dative or genitive
+          <li><emph>case</emph> – every proper noun form is either nominative or dative or genitive or vocative
             – <ul>
-              <li>The genitive form of the masculine proper noun <g>Seòras</g>
-                <en>George</en> is <g>Sheòrais</g>; the nominative and dative forms are just
+              <li>The genitive and vocative forms of the masculine proper noun <g>Seòras</g>
+                <en>George</en> are <g>Sheòrais</g>; the nominative and dative forms are just
                   <g>Seòras</g>.</li>
               <li>The (traditional) dative form of the feminine proper noun <g>Alba</g>
                 <en>Scotland</en> is <g>Albainn</g>, and the genitive is <g>Albann</g>.</li>

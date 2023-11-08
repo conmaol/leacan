@@ -12,9 +12,8 @@
     <p>In traditional (perhaps nowadays mainly ‘literary’) usage, <g>leòr</g> functions like other
       generic quantity nouns, with the exception that it needs a possessive determiner as
       pre-specifier – <ul>
-        <li><m><emph>mo</emph> leòr</m> feòla <en>enough meat (for me), my fill of meat</en></li>
-        <li><m><emph>an</emph> leòr</m> de na h-ùbhlan <en>enough of the apples (for them), their
-            fill of the apples</en></li>
+        <li><m><emph>mo</emph> leòr</m> feòla <en>my fill of meat, enough meat (for me)</en></li>
+        <li><m><emph>an</emph> leòr</m> de na h-ùbhlan <en>their fill of the apples, enough of the apples (for them)</en></li>
       </ul>
     </p>
     <p>cf. <!--<a href="?gd=làn">--><g>làn</g><!---->
@@ -145,7 +144,7 @@
   <module id="gu_leor" status="bronze">
     <h>gu leòr</h>
     <p><g>gu leòr</g>
-      <en>to sufficiency</en> is a prepositional phrase that can be used to modify (and quantify) a
+      <en>enough, plenty</en> is a prepositional phrase that can be used to modify (and quantify) a
       preceding noun – <ul>
         <li>Dh’òl Raonaid <m><emph>fìon</emph> gu leòr</m>. <en>Rachel drank enough wine.</en></li>
         <li>Tha <m><emph>coin</emph> gu leòr</m> aig Màiri. <en>Mary has enough dogs.</en></li>
@@ -190,27 +189,26 @@
       </p>
     </section>
     <module id="gu-leor" status="bronze">
-      <h>gu·leòr</h>
+      <h>gu leòr</h>
       <p>In modern Gaelic, <g>gu leòr</g> also functions as an (exocentric, ie. ‘headless’) generic
-        quantity noun compound, perhaps as an abbreviated form of <g>uiread gu leòr</g>
-        <en>a sufficient quantity</en> – <ul>
-          <li>Tha <m>gu·leòr uisge</m> ann. <en>There is enough water.</en></li>
-          <li>Fhuair i <m>gu·leòr de na h-ùbhlan</m>
+        quantity noun compound – <ul>
+          <li>Tha <m>gu leòr uisge</m> ann. <en>There is enough water.</en></li>
+          <li>Fhuair i <m>gu leòr de na h-ùbhlan</m>
             <en>She got enough of the apples.</en></li>
-        </ul> Note the (self-consciously non-standard, and hence ignorable) use of the interpunct in
-          <g>gu·leòr</g> here to make it clear that this is a special use as an exocentric noun
-        compound rather than as a prepositional phrase. </p>
+        </ul> <!--Note the (self-consciously non-standard, and hence ignorable) use of the interpunct in
+          <g>gu leòr</g> here to make it clear that this is a special use as an exocentric noun
+        compound rather than as a prepositional phrase.--> </p>
       <section id="indefinite2">
         <h>indefinite usage</h>
         <p>On its own – <ul>
-            <li>Dh’òl Raonaid <m>gu·leòr</m>. <en>Rachel drank enough.</en></li>
-            <li>Tha <m>gu·leòr</m> aig Màiri. <en>Mary has enough.</en></li>
+            <li>Dh’òl Raonaid <m>gu leòr</m>. <en>Rachel drank enough.</en></li>
+            <li>Tha <m>gu leòr</m> aig Màiri. <en>Mary has enough.</en></li>
           </ul>
         </p>
         <p>With a genitive modifier – <ul>
-            <li>Dh’òl Raonaid <m>gu·leòr <emph>uisge</emph></m>. <en>Rachel drank enough
+            <li>Dh’òl Raonaid <m>gu leòr <emph>uisge</emph></m>. <en>Rachel drank enough
               water.</en></li>
-            <li>Tha <m>gu·leòr <emph>chon</emph></m> aig Màiri. <en>Mary has enough dogs.</en></li>
+            <li>Tha <m>gu leòr <emph>chon</emph></m> aig Màiri. <en>Mary has enough dogs.</en></li>
           </ul>
           <xl id="spec">
             <li>
@@ -227,16 +225,16 @@
       <section id="partitive2">
         <h>partitive usage</h>
         <p>The preposition <a href="?gd=dhe"><g>de</g></a> with a definite noun – <ul>
-            <li>Dh’òl Raonaid <m>gu·leòr <emph>den fhìon</emph></m>. <en>Rachel drank enough of the
+            <li>Dh’òl Raonaid <m>gu leòr <emph>den fhìon</emph></m>. <en>Rachel drank enough of the
                 wine.</en></li>
-            <li>Tha <m>gu·leòr <emph>de mo choin</emph></m> aig Màiri. <en>Mary has enough of my
+            <li>Tha <m>gu leòr <emph>de mo choin</emph></m> aig Màiri. <en>Mary has enough of my
                 dogs.</en></li>
           </ul>
         </p>
         <p>With a prepositional pronoun – <ul>
-            <li>Dh’òl Raonaid <m>gu·leòr <emph>dheth</emph></m>. <en>Rachel drank enough of
+            <li>Dh’òl Raonaid <m>gu leòr <emph>dheth</emph></m>. <en>Rachel drank enough of
               it.</en></li>
-            <li>Tha <m>gu·leòr <emph>dhiubh</emph></m> aig Màiri. <en>Mary has enough/plenty of
+            <li>Tha <m>gu leòr <emph>dhiubh</emph></m> aig Màiri. <en>Mary has enough/plenty of
                 them.</en></li>
           </ul>
           <xl id="gu-leor_de-pron">
@@ -253,9 +251,9 @@
       <section id="idiomatic2">
         <h>idiomatic usage</h>
         <p>Also – <ul>
-            <li>Tha Màiri a’ bruidhinn <m>gu·leòr <emph>mu choin</emph></m>. <en>Mary talks enough
+            <li>Tha Màiri a’ bruidhinn <m>gu leòr <emph>mu choin</emph></m>. <en>Mary talks enough
                 about dogs.</en></li>
-            <li>Tha <m>gu·leòr</m> aig Màiri <m><emph>ri dhèanamh</emph></m>. <en>Mary has enough to
+            <li>Tha <m>gu leòr</m> aig Màiri <m><emph>ri dhèanamh</emph></m>. <en>Mary has enough to
                 do</en>.</li>
           </ul>
         </p>

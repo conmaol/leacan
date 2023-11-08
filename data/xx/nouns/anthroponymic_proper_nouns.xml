@@ -402,12 +402,12 @@
                 <li>genitive – taigh <g>Maireid (n)ighne Thormoid</g></li>
               </ul>
             </li>
-            <li><g>Iain mac Dhòmhnaill mhic Sheumais mhic Dhonnchaidh</g>
-              <en>John, son of Donald, son of James, son of Duncan</en>
+            <li><g>Dòmhnall mac Dhòmhnaill mhic Sheumais mhic Dhonnchaidh</g>
+              <en>Donald, son of Donald, son of James, son of Duncan</en>
               <!--<ed>Why mhic and not mic?</ed>-->
               <ul>
-                <li>dative – le <g>Iain mac Dhòmhnaill mhic Sheumais mhic Dhonnchaidh</g></li>
-                <li>genitive – taigh <g>Iain m[h]ic Dhòmhnaill mhic Sheumais mhic
+                <li>dative – le <g>Dòmhnall mac Dhòmhnaill mhic Sheumais mhic Dhonnchaidh</g></li>
+                <li>genitive – taigh <g>Dhòmhnaill mhic Dhòmhnaill mhic Sheumais mhic
                   Dhonnchaidh</g></li>
               </ul>
             </li>
@@ -438,7 +438,7 @@
             <li><g>Sìleas Mairead</g>
               <en>Julia Margaret</en>
               <ul>
-                <li>dative – le <g>Sìleis Maireid</g></li>
+                <li>dative – le <g>Sìleas Mairead</g></li>
                 <li>genitive – taigh <g>Sìleis Maireid</g></li>
               </ul>
             </li>

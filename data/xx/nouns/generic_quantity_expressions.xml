@@ -42,9 +42,6 @@
     <p>Others describe <emph>small</emph> quantities – <ul>
         <li><g>beagan bainne</g>
           <en>a little milk</en></li>
-        <li><g>cuid bheag de na h-uighean</g>
-          <en>a few of the eggs</en></li>
-      <!-- Jo NicDh – I would not use this but would use e.g. beagan uighean -->
       </ul>
     </p>
     <p>And others describe <emph>neutral</emph> quantities – <ul>
@@ -55,7 +52,7 @@
       <masc/>
       <en>few, little, modicum</en>, <!--<a href="?gd=cuid">--><g>cuid</g><!--</a>-->
       <fem/>
-      <en>measure, part, portion</en>, <!--<a href="?gd=deannan">--><g>deannan</g><!--</a>-->
+      <en>part, portion</en>, <!--<a href="?gd=deannan">--><g>deannan</g><!--</a>-->
       <masc/>
       <en>pinch, puckle</en>, <!--<a href="?gd=grunn">--><g>grunn</g><!--</a>-->
       <masc/>
@@ -87,7 +84,7 @@
       </ul>
     </p>
     <p>Others describe <emph>smaller</emph> quantities – <ul>
-        <li><g>nas·lugha airgid (na ...)</g>
+        <li><g>nas lugha airgid (na ...)</g>
           <en>less money (than ...)</en></li>
         <li><g>(a) leth-uiread de na sgeinean (’s a ...)</g>
           <en>half as many of the knives (as ...)</en></li>
@@ -95,7 +92,7 @@
     </p>
     <p>cf. <a href="?gd=barrachd"><g>barrachd</g></a>
       <fem/>
-      <en>more, predominance, preponderance</en>, <!--<a href="?gd=lugha">--><g>nas·lugha</g><!--</a>-->
+      <en>more, predominance, preponderance</en>, <!--<a href="?gd=lugha">--><g>nas lugha</g><!--</a>-->
       <en>fewer, less</en>, <!--<a href="?gd=tuilleadh">--><g>tuilleadh</g><!--</a>-->
       <masc/>
       <en>more, extra</en>, <!--<a href="?gd=uimhir">--><g>uimhir</g><!--</a>-->
@@ -111,7 +108,7 @@
       quantities (ie. larger than is necessary) – <ul>
         <li><g>cus seòclaid</g>
           <en>too much chocolate</en></li>
-        <li><g>anabharr eagail</g>
+        <li><g>anabarr eagail</g>
           <en>an excess of fear</en></li>
       </ul>
     </p>
@@ -125,11 +122,11 @@
     <p>Others describe <emph>insufficient</emph> quantities (ie. smaller than necessary) – <ul>
         <li><g>ro bheag de dh’airgead</g>
           <en>too little money</en></li>
-        <li><g>ro·bheag de na sgoilearan</g>
+        <li><g>ro bheag de na sgoilearan</g>
           <en>too few of the pupils</en></li>
       </ul>
     </p>
-    <p>cf. <!--<a href="?gd=anabharr">--><g>anabharr</g><!--</a>-->
+    <p>cf. <!--<a href="?gd=anabharr">--><g>anabarr</g><!--</a>-->
       <masc/>
       <en>excess, redundancy, superfluity</en>, <a href="?gd=cus"><g>cus</g></a>
       <masc/>
@@ -137,7 +134,7 @@
       <fem/>
       <en>satiety, sufficiency, enough</en>, <!--<a href="?gd=pailteas">--><g>pailteas</g><!--</a>-->
       <masc/>
-      <en>abundance, plenty</en>, <!--<a href="?gd=beag">--><g>ro·bheag</g><!--</a>-->
+      <en>abundance, plenty</en>, <!--<a href="?gd=beag">--><g>ro bheag</g><!--</a>-->
       <en>too little, too few</en>.</p>
   </section>
   <section id="superlative">
@@ -163,8 +160,8 @@
           <en>any of the coins</en></li>
         <li><g>càil/sgath den fhìon</g>
           <en>any of the wine</en></li>
-        <li><g>an dà ubhal</g>
-          <en>both (of) the apples</en></li>
+        <!--<li><g>an dà ubhal</g>
+          <en>both (of) the apples</en></li>-->
       </ul>
     </p>
   </section>

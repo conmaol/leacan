@@ -67,11 +67,12 @@
           <li>Tha <m>uiread <emph>dhiubh</emph></m> aig Iain! <en>John has so many of them!</en></li>
         </ul>
       </p>
-      <p>Note that phrases like the following are not acceptable partitives – <bad>beagan an
-          fheòla</bad> for <en>a little of the meat</en> (cf. the correct form <g>beagan den
-          fheòil</g>), <bad>ar cus</bad> for <en>too many of us</en> (cf. the correct forms <g>cus
+      <p>Note that phrases like the following, with genitives of possessive pronouns, are not acceptable 
+          partitives – <bad>beagan an fheòla</bad> for <en>a little of the meat</en> (cf. the correct form
+          <g>beagan den fheòil</g>), <bad>ar cus</bad> for <en>too many of us</en> (cf. the correct forms <g>cus
           dhinn</g> or <g>cus againn</g>).</p>
     </section>
+    <!--
     <section id="idiomatic">
       <h>idiomatic</h>
       <p>When what is being quantified is generic information about something, the generic quantity
@@ -83,7 +84,6 @@
               about dogs.</en></li>
         </ul>
       </p>
-      <!--
       <p>A generic quantity noun can often be followed by the preposition <a href="?gd=ri"
           ><g>ri</g></a> and a verbal noun – <ul>
           <li>Tha <m>beagan</m> aig Raonaid <m><emph>ri òl</emph></m>. <en>Rachel has a little [still] to
@@ -103,7 +103,7 @@
               <masc/>
               <en>lot, many, much</en>, <!--<a href="?gd=tòrr">--><g>tòrr</g>
               <masc/>
-              <en>heap, mass</en>, (an t-)<!--<a href="?gd=uabhas">--><g>uabhas</g>
+              <en>heap, mass, a lot</en>, <!--<a href="?gd=uabhas">--><g>an t-uabhas</g>
               <masc/>
               <en>enormity, great quantity, awful lot</en></li>
             <li>small – <!--<a href="?gd=beagan">--><g>beagan</g><!--</a>-->
