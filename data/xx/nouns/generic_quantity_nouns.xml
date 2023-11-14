@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0"?>
 <module status="silver">
   <h>generic quantity nouns</h>
   <p>Generic quantity nouns are <a href="?xx=nouns/common_nouns">common nouns</a> which can be used
@@ -76,7 +76,7 @@
     <section id="idiomatic">
       <h>idiomatic</h>
       <p>When what is being quantified is generic information about something, the generic quantity
-        noun can be followed directly by <!--<a href="?gd=mu">--><g>mu</g>
+        noun can be followed directly by <a href="?gd=mu"><g>mu</g>
         <en>about</en> – <ul>
           <li>Dh’ionnsaich Raonaid <m>pailteas <emph>mu fhìon</emph></m>. <en>Rachel has learned plenty
               about wine.</en></li>
@@ -92,8 +92,9 @@
             do.</en></li>
         </ul>
       </p>
-      -->
+
     </section>
+     -->
   </section>
   <section id="list">
     <h>see also</h>
