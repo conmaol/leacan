@@ -189,8 +189,8 @@
     </section>
   </section>
   <section id="target">
-    <h>target of comparison</h>
-    <p>One (possibly conservative) way of expressing the target of comparison is to use <!--<a
+    <h>standard of comparison</h>
+    <p>One (possibly conservative) way of expressing the standard of comparison is to use <!--<a
         href="?gd=agus">--><g>agus</g><!--</a>--> (usually contracted to <g>is</g> or <g>’s</g>) followed by the
       relative particle <g>a</g> eg. <ul>
         <li>Tha <m>barrachd</m> chon aig Dòmhnall <m>’s a tha</m> aig Màiri. <en>Donald has more
@@ -284,7 +284,7 @@
   </section>
   <section id="other">
     <h>other uses</h>
-    <p>When the target of the comparison is a <emph>numeric quantity</emph>, it is usually introduced by
+    <p>When the standard of the comparison is a <emph>numeric quantity</emph>, it is usually introduced by
       the preposition <a href="?gd=air"><g>air</g></a>, meaning <en>than</en> in this context – <ul>
         <li>Tha <m>barrachd air fichead</m> cù aig Màiri. <en>Mary has more than twenty
           dogs.</en></li>
@@ -374,7 +374,7 @@
         <li> 
           <gd>Gheibh thu <m>fada a bharrachd fois</m> as t-Earrach neo anns a’ Gheamhradh.</gd>
           <tr>You will get far more rest in spring than in winter.</tr>
-          <ref> </ref>
+          <ref text=""> </ref>
         </li>
       </xl>
     </p>
@@ -389,7 +389,7 @@
           <tr>In Edinburgh in the 90s there were <emph>more and more adults</emph> wanting to learn
             Gaelic.</tr>
           <ref text="610">td. 85</ref>
-          <note>barrachd agus barrachd inbh<emph>each</emph> ?</note>
+          <!--<note>barrachd agus barrachd inbh<emph>each</emph> ?</note>-->
         </li>
       </xl>
     </p>

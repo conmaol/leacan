@@ -873,15 +873,16 @@
           <li>Monosyllabic adjectives are (vocalically) <emph>augmented</emph>, even in the genitive
             plural – <g>mòr</g> ⇒ <g>mòra</g>, <g>beag</g> ⇒ <g>beaga</g>, <g>mìn</g> ⇒
             <g>mìne</g>.</li>
-          <li>Polysyllabic adjectives like <!--<g>sona</g> or-->
-            <g>Gearmailteach</g> are unmutated at the end.</li>
+          <li>Polysyllabic adjectives are unmutated at the end – <g>Gearmailteach</g>, <g>sona</g>.</li>
           <li>Adjectives which modify slenderised plural nouns are <emph>lenited</emph> (eg.
                 <g>bala<emph>ich bh</emph>eaga</g>); those which modify non-slenderised plurals are
               <emph>not lenited</emph> (eg. <g>taighe<emph>an b</emph>eaga</g>).</li>
-          <li>Adjectives which modify certain nominative singular feminine collective nouns can take
-            the plural form and are <emph>lenited</emph> (eg. <g>clann bheaga</g>, <g>feadhainn
-            mhòra</g>).</li>
-        </ol>
+          <li>Adjectives which modify certain nominative singular feminine collective nouns can be
+            pluralised and are <emph>lenited</emph> – eg. <g>clann bheaga</g>
+            <en>small children</en>, <g>feadhainn mhòra</g>
+            <en>some big ones</en>.</li>
+        </ol> Note that monosyllabic adjectives can remain unmutated at the end, especially certain adjectives
+            that contain a long vowel / diphthong.
       </p>
       <!-- <p><ed>Should we add a note here on the (optional?) use of augmented adjectives with
           ‘collective’ nouns (in nominative and dative)? eg. <g>clann bheaga</g> ‘little children’,
@@ -1216,5 +1217,3 @@
 -->
 
 </module>
-
-

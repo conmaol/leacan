@@ -227,7 +227,7 @@
             <li><g>Mairead Bhàn</g>
               <en>Fair Margaret</en>
               <ul>
-                <li>dative – le <g>Maireid Bhàin</g> (alt. le Mairead Bhàn)</li>
+                <li>dative – le <g>Maireid Bhàin</g> (<emph>alt.</emph> le Mairead Bhàn)</li>
                 <li>genitive – taigh <g>Maireid Bhàin</g></li>
               </ul></li>
             <li><g>Seumas Mòr</g>
@@ -262,8 +262,8 @@
             <li><g>Mairead Chaimbeul</g>
               <en>Margaret Campbell</en>
               <ul>
-                <li>dative – le <g>Maireid Chaimbeil</g></li>
-                <li>genitive – taigh <g>Maireid Chaimbeul</g></li> <!-- taigh Maireid Caimbeile??-->
+                <li>dative – le <g>Mairead Chaimbeul</g></li>
+                <li>genitive – taigh <g>Maireid Chaimbeil</g></li> <!-- taigh Maireid Caimbeile??-->
               </ul></li>
             <li><g>Tormod Dòmhnallach</g>
               <en>Norman Donaldson</en>
@@ -287,7 +287,7 @@
               <li><g>Mairead <emph>Sheumais</emph></g>
                 <en>James’ Mary; Mary the wife/daughter of James</en>
                 <ul>
-                  <li>dative – le <g>Maireid Sheumais</g></li>
+                  <li>dative – le <g>Mairead Sheumais</g></li>
                   <li>genitive – taigh <g>Maireid<!--(e?)--> Sheumais</g>
                     <!-- <ed>Is this acceptable?</ed> --></li>
                 </ul></li>
@@ -323,7 +323,7 @@
                 <en>Janie the wife/daughter of the Church Minister</en>
                 <!-- <ed>Is this grammatical?</ed> -->
                 <ul>
-                  <li>dative – le <g>Seonaig Ministeir na h-Eaglaise</g></li>
+                  <li>dative – le <g>Seonag Ministeir na h-Eaglaise</g></li>
                   <li>genitive – taigh <g>Seonaig Ministeir na h-Eaglaise</g>
                     <!-- <ed>Is this acceptable?</ed> --></li>
                 </ul>
@@ -339,19 +339,19 @@
       <p>Other examples –<ul>
           <li><g>Sìleas na Ceapaich</g>
             <en>Cicely of Keppoch</en>
-            <ul>
-              <li>dative – le <g>Sìleis na Ceapaich</g></li>
-              <li>genitive – taigh <g>Sìleis<!--(e?)--> na Ceapaich</g>
-                <!-- <ed>Is this acceptable?</ed> --></li>
-            </ul>
+            <!--<ul>
+              <li>dative – le <g>Sìleas na Ceapaich</g></li>
+              <li>genitive – taigh <g>Sìleis na Ceapaich</g>
+                <ed>Is this acceptable?</ed></li>
+            </ul>-->
           </li>
           <li><g>Màiri Mhòr nan Òran</g>
             <en>lit. Big Mary of the Songs</en>
-            <ul>
+            <!--<ul>
               <li>dative – le <g>Màiri Mhòr nan Òran</g></li>
               <li>genitive – taigh <g>Màiri Mhòir nan Òran</g>
-                <!-- <ed>Is this acceptable?</ed> --></li>
-            </ul>
+                <ed>Is this acceptable?</ed></li>
+            </ul>-->
           </li>
         </ul></p>
 
@@ -370,27 +370,25 @@
 
     <section id="apposition">
       <h>apposition</h>
-      <!--
       <p>Like other proper nouns, an anthroponymic proper noun can stand in apposition to a
-        specified common noun, with the two nouns agreeing for case – <ul>
+        specified common noun, with the second noun being in the nominative case regardless of the
+        case of the first noun – <ul>
           <li><g>Dòmhnall an sagart</g>
             <en>Donald the priest</en>
-            <ed>Is this grammatical?</ed>
             <ul>
               <li>dative – le <g>Dòmhnall an t-sagart</g></li>
-              <li>genitive – taigh <g>Dhòmhnaill an t-sagairt</g></li>
+              <li>genitive – taigh <g>Dhòmhnaill an t-sagart</g></li>
             </ul>
           </li>
           <li><g>Mairead bean a’ Mhinisteir</g>
             <en>Margaret the minister’s wife</en>
             <ul>
-              <li>dative – le <g>Maireid mnaoi a’ Mhinisteir</g></li>
-              <li>genitive – taigh <g>Maireid mnatha a’ Mhinisteir</g></li>
+              <li>dative – le <g>Mairead bean a’ Mhinisteir</g></li>
+              <li>genitive – taigh <g>Maireid bean a’ Mhinisteir</g></li>
             </ul>
           </li>
         </ul>
       </p>
-    -->
 
       <section>
         <h>patronymics and patronymic surnames</h>
@@ -398,8 +396,8 @@
             <li><g>Mairead nighean Thormoid</g>
               <en>Margaret, daughter of Norman</en>
               <ul>
-                <li>dative – le <g>Mairead nighean Thormoid</g></li> <!--le Maireid nighinn Thormoid-->
-                <li>genitive – taigh <g>Maireid (n)ighne Thormoid</g></li>
+                <li>dative – le <g>Mairead nighean Thormoid</g></li>
+                <li>genitive – taigh <g>Maireid nighean Thormoid</g></li>
               </ul>
             </li>
             <li><g>Dòmhnall mac Dhòmhnaill mhic Sheumais mhic Dhonnchaidh</g>
@@ -417,7 +415,7 @@
             <li><g>Mairead NicNèill</g>
               <en>Margaret MacNeil</en>
               <ul>
-                <li>dative – le <g>Maireid NicNèill</g></li>
+                <li>dative – le <g>Mairead NicNèill</g></li>
                 <li>genitive – taigh <g>Maireid NicNèill</g></li>
               </ul>
             </li>

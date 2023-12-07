@@ -71,10 +71,8 @@
     <section id="partitive">
       <h>partitive</h>
       <p>The preposition <a href="?gd=dhe"><g>de</g></a> with a definite noun – <ul>
-          <li>Dh’òl Raonaid <m>a leòr <emph>den fhìon</emph></m>. <en>Rachel drank enough of the
+          <li>Dh’òl Raonaid <m>a leòr <emph>den fhìon</emph></m>. <en>Rachel drank her fill of the
               wine.</en></li>
-          <li>Cheannaich sinn <m>ar leòr <emph>de do choin</emph></m>. <en>We bought enough of your
-              dogs.</en></li>
         </ul>
         <xl id="leor_de_art">
           <li>
@@ -104,16 +102,9 @@
         </xl>
       </p>
     </section>
-    <section id="idiomatic">
+    <!--<section id="idiomatic">
       <h>idiomatic</h>
       <p><ul>
-          <li><g>mo leòr mu</g>
-            <en>enough [information/knowledge] about</en> – <ul>
-              <li>Tha Màiri a’ bruidhinn <m>a leòr mu</m> choin. <en>Mary talks enough about
-                  dogs.</en>
-              </li>
-              <!-- Jo NicDH – I am slightly uncomfortable with this. I would say Tha Màiri a’ bruidhinn gu leòr mu choin for Mary talks enough/ a lot  about dogs as in the section on idiomatic usage but I would say  Tha Màiri a’ faighinn a leòr de dhroch shìde ann an Alasga - Mary is getting her fill of bad weather in Alaska -->
-            </ul></li>
           <li><g>mo leòr ri (dhèanamh)</g>
             <en>enough to do</en> – <ul>
               <li>Tha <m>a leòr</m> aice <m>ri dhèanamh</m>. <en>She has enough to do.</en>
@@ -139,7 +130,7 @@
             </ul>
           </li>
         </ul></p>
-    </section>
+    </section>-->
   </module>
   <module id="gu_leor" status="bronze">
     <h>gu leòr</h>
@@ -169,9 +160,9 @@
       </xl>
     </p>
     <p>However, <g>gu leòr</g> cannot be used with a definite noun, in a partitive sense –
-        <bad>Dh’òl Raonaid am fìon gu leòr</bad> for <en>Rachel drank enough of the wine</en>. Also,
+        <bad>Dh’òl Raonaid am fìon gu leòr</bad> for <en>Rachel drank enough of the wine</en>. <!--Also,
         <g>gu leòr</g> is indeclinable in the modern language and hence cannot agree with the
-      subject – <bad>Tha coin gu mo leòr agam</bad> for <en>I have enough dogs</en>.</p>
+      subject – <bad>Tha coin gu mo leòr agam</bad> for <en>I have enough dogs</en>.--></p>
     <section>
       <h>adjective modifier</h>
       <p>Examples from Gairm – <xl id="gairm">

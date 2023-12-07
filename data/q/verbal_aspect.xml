@@ -32,6 +32,8 @@
                                 <en>Rachel is [in the process of] sitting down.</en></li>
                             <li><m>Tha mi ag ithe ubhal.</m>
                                 <en>I am eating an apple.</en></li>
+                            <li><m>Tha Raonaid na suidhe.</m>
+                                    <en>Rachel is sitting.</en></li>
                         </ul>
                     </li>
                     <li>habitual – <ul>
@@ -42,8 +44,6 @@
                         </ul>
                     </li>
                     <li>retrospective (the state deriving from a past event) – <ul>
-                            <li><m>Tha Raonaid na suidhe.</m>
-                                <en>Rachel has/is sat down.</en></li>
                             <li><m>Tha mi air ubhal a ithe.</m>
                                 <en>I have eaten an apple.</en></li>
                         </ul>
@@ -62,7 +62,7 @@
     <section id="perfective">
         <h>perfectives</h>
         <p>A verbal expression has perfective aspect if it presents a situation (event, activity,
-            process or state) from the <emph>outside</emph>, as a single, unanalysable, bounded
+            process or state)<!--from the <emph>outside</emph>,--> as a single, unanalysable, bounded
             whole, perhaps preceded and followed by others. In Gaelic, as in English, past perfective
             situations are typically encoded in the simple past tense – <ul>
                 <li><m>Dh’fhosgail</m> mi an doras. <m>Chaidh</m> mi a-steach agus <m>shuidh</m> mi
@@ -113,8 +113,8 @@
     </section>
     <section id="imperfective">
         <h>imperfectives</h>
-        <p>A verbal expression has imperfective aspect if it presents a situation from the
-                <emph>inside</emph> – ongoing and non-bounded, without explicit start or end points.
+        <p>A verbal expression has imperfective aspect if it presents a situation<!--from the
+                <emph>inside</emph>--> as ongoing and non-bounded, without explicit start or end points.
             Imperfective situations are often presented as descriptive background to foregrounded
             perfectives.</p>
         <section id="progressive">
@@ -129,7 +129,7 @@
                 progressive background to the foregrounded perfective event described by the
                 preceding sentence.</p>
             <p>We can also have present, future and conditional progressives – <ul>
-                    <li><m>Dè tha thu a dèanamh?</m> / <m>Tha mi ag ithe ubhal.</m>
+                    <li><m>Dè tha thu a’ dèanamh?</m> / <m>Tha mi ag ithe ubhal.</m>
                         <en>What are you doing? / I’m eating an apple.</en></li>
                     <li>Feasgar a-màireach aig seachd uairean, <m>bidh Màiri a’ coimhead air an
                             telebhisean</m>. <en>Tomorrow evening at 7, Mary will be watching
@@ -146,6 +146,16 @@
                 </ul>
             </p>
             <p>cf. <a href="?gd=ag"><g>ag</g></a> <en>in the process of</en>.</p>
+
+            <p>In addition, there are a handful of Gaelic verbs that form stative progressive constructions of
+                the form <g>bi na*</g> + verbal noun – <ul>
+                    <li><m>Tha mi nam shuidhe aig a’ bhòrd.</m>
+                        <en>I am sitting at the table.</en></li>
+                    <li>Thàinig mi dhachaigh. <m>Bha Seumas na chadal.</m>
+                        <en>I came home. James was sleeping.</en></li>
+                </ul> <!--These statives appear to have similar semantic force to expressions like
+                    <g>tha mi air suidhe</g> and <g>bha i an dèidh dùsgadh</g>.--></p>
+            <p>cf. <a href="?gd=an^preposition"><g>an</g></a> <en>in</en>.</p>
         </section>
         <section id="habitual">
             <h>habituals</h>
@@ -204,15 +214,6 @@
                 </ul>
             </p>
             <p>cf. <a href="?gd=air"><g>air</g></a> <en>on</en>.</p>
-            <p>In addition, there are a handful of Gaelic verbs that form quasi-retrospectives of
-                the form <g>bi na*</g> + verbal noun – <ul>
-                    <li><m>Tha mi nam shuidhe aig a’ bhòrd.</m>
-                        <en>I am sat / sitting at the table.</en></li>
-                    <li>Chaidh mi a-steach. <m>Bha Màiri na dùsgadh.</m>
-                        <en>I went in. Mary was awake [had woken up].</en></li>
-                </ul> These retrospectives appear to have similar semantic force to expressions like
-                    <g>tha mi air suidhe</g> and <g>bha i an dèidh dùsgadh</g>.</p>
-            <p>cf. <a href="?gd=an^preposition"><g>an</g></a> <en>in</en>.</p>
         </section>
         <section id="prospective">
             <h>prospectives</h>
