@@ -1352,6 +1352,15 @@
                     </li>
                   </xl>
                 </li>
+                <li><g>rach am feabhas</g>
+                  <en>improve, get/become better</en> – <xl id="feabhas-pedag">
+                    <li>
+                      <gd>Chaidh an suidheachadh rudeigin am feabhas o chionn ghoirid.</gd>
+                      <tr>The situation (has) improved slightly recently.</tr>
+                      <ref text="601">td. 285</ref>
+                    </li>
+                  </xl>
+                </li>
               </ul>
             </p>
             <module status="bronze" id="rach_na_">
@@ -1434,6 +1443,17 @@
               <en>to</en> – <ul>
                 <li><g>rach <a href="?gd=tàmh">gu tàmh</a></g>
                   <en>go to rest, die</en></li>
+              </ul>
+            </p>
+          </module>
+          <module status="bronze" id="rach_do">
+            <h>rach do/a ...</h>
+            <p>The new state can be introduced by the preposition <a href="?gd=do^preposition"><g>do</g></a>
+              <en>(in)to</en> – <ul>
+                <li><g>rach a dhìth</g>
+                  <en>perish, die out, go to ruin</en></li>
+                <li><g>rach a dholaidh</g>
+                  <en>go to waste</en></li>
               </ul>
             </p>
           </module>
