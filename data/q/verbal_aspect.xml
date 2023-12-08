@@ -33,7 +33,7 @@
                             <li><m>Tha mi ag ithe ubhal.</m>
                                 <en>I am eating an apple.</en></li>
                             <li><m>Tha Raonaid na suidhe.</m>
-                                    <en>Rachel is sitting.</en></li>
+                                <en>Rachel is sitting.</en></li>
                         </ul>
                     </li>
                     <li>habitual – <ul>
@@ -44,6 +44,8 @@
                         </ul>
                     </li>
                     <li>retrospective (the state deriving from a past event) – <ul>
+                            <li><m>Tha Raonaid air suidhe (sìos).</m>
+                                <en>Rachel has sat (down).</en></li>
                             <li><m>Tha mi air ubhal a ithe.</m>
                                 <en>I have eaten an apple.</en></li>
                         </ul>
@@ -146,7 +148,6 @@
                 </ul>
             </p>
             <p>cf. <a href="?gd=ag"><g>ag</g></a> <en>in the process of</en>.</p>
-
             <p>In addition, there are a handful of Gaelic verbs that form stative progressive constructions of
                 the form <g>bi na*</g> + verbal noun – <ul>
                     <li><m>Tha mi nam shuidhe aig a’ bhòrd.</m>

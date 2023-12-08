@@ -555,7 +555,7 @@
                 <xsl:text> </xsl:text>
             </xsl:when>
             <xsl:when test="@text = '609'">
-                <xsl:text>(2008) Roibeard Ó Maolalaigh with Iain MacAoinghuis </xsl:text>
+                <xsl:text>(2008) Roibeard Ó Maolalaigh with Iain MacAonghuis </xsl:text>
                 &lt;br/&gt; &lt;em&gt;Gaelic in Twelve Weeks&lt;/em&gt; </xsl:when>
             <xsl:when test="@text = '610'">
                 <xsl:text>2007 Joan NicDhòmhnaill </xsl:text>
