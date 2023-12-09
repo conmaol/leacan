@@ -190,59 +190,19 @@
   </section>
   <section id="target">
     <h>standard of comparison</h>
-    <p>One (possibly conservative) way of expressing the standard of comparison is to use <!--<a
-        href="?gd=agus">--><g>agus</g><!--</a>--> (usually contracted to <g>is</g> or <g>’s</g>) followed by the
-      relative particle <g>a</g> eg. <ul>
-        <li>Tha <m>barrachd</m> chon aig Dòmhnall <m>’s a tha</m> aig Màiri. <en>Donald has more
+    <p>The most common way of expressing the standard of comparison is to use
+      the conjunction <g>na</g> <en>than</en>, followed either by a noun phrase,
+      or by a prepositional phrase, or by a relative clause, eg. <ul>
+        <li>Dh’òl Raonaid <m>barrachd</m> bùrn <m>na</m> (dh’òl) Seumas. <en>Rachel drank more water
+          than James [did].</en></li>
+        <li>Dh’òl Raonaid <m>barrachd</m> bùrn <m>na</m> dh’òl i de dh’fhìon. <en>Rachel drank more water
+          than [she did] wine.</en></li>
+        <li>Tha <m>barrachd</m> chon aig Dòmhnall <m>na</m> (tha) aig Màiri. <en>Donald has more
             dogs than Mary [does].</en></li>
-        <li>Tha <m>barrachd</m> chon aig Dòmhnall <m>’s a tha</m> de chait aige. <en>Donald has more
+        <li>Tha <m>barrachd</m> chon aig Dòmhnall <m>na</m> tha de chait aige. <en>Donald has more
             dogs than [he does] cats.</en></li>
-        <li>Dh’òl Raonaid <m>barrachd</m> bùrn <m>’s a dh’òl</m> Seumas. <en>Rachel drank more water
-            than James [did].</en></li>
-        <li>Dh’òl Raonaid <m>barrachd</m> bùrn <m>’s a dh’òl</m> i de dh’fhìon. <en>Rachel drank more water
-            than [she did] wine.</en></li>
       </ul>
-      <xl id="barrachd_agus_a">
-        <li>
-          <gd>Seachd àraidh an déidh dhomh <m>barrachd ’s a choisinn e fhéin</m> fad a’ gheamhraidh
-            air a’ bheairt a chosg air tagsaidhean!</gd>
-          <tr>Especially after I had spent more on taxis than he himself had earned all winter long
-            on the loom!</tr>
-          <ref text="400-2">td. 21</ref>
-        </li>
-        <li>
-          <gd>Feumaidh mi aideachadh gu bheil iadsan a’ faicinn <m>barrachd toinisg</m> anns na New
-            Mathematics <m>’s a tha mise</m>.</gd>
-          <tr>I have to admit that they [the children] see more sense in the New Mathematics than I
-            do.</tr>
-          <ref text="28">td. 64</ref>
-        </li>
-      </xl>
-    </p>
-    <p>An alternative is to use the preposition <a href="?gd=air"><g>air</g></a> followed by the relative
-      particle <g>na</g> eg. <ul>
-        <li>Tha <m>barrachd</m> chon aig Dòmhnall <m>air na tha</m> aig Màiri. <en>Donald has more
-            dogs than Mary [does].</en></li>
-        <li>Dh’òl Raonaid <m>barrachd</m> fìona <m>air na dh’òl</m> Seumas. <en>Rachel drank more
-            wine than James [did].</en></li>
-      </ul>
-      <xl id="barrachd_air_na">
-        <li>
-          <gd>Ach tha fios a’m a-nise gur tric a tha an dìoghaltas a’ cosg <m>barrachd air na</m> ’s
-            fhiach e.</gd>
-          <tr>But I know now that revenge often costs more than it’s worth.</tr>
-          <ref text="2">td. 64</ref>
-        </li>
-        <li>
-          <gd>A bheil sinn a’ pàidheadh a mach <m>barrachd air na</m> tha sinn a’ toirt a
-            stigh?</gd>
-          <tr>Are we paying out more than we are taking in?</tr>
-          <ref text="400-1">td. 71</ref>
-        </li>
-      </xl>
-    </p>
-    <p>However usage varies considerably here, with a range of modern vernacular forms
-      perhaps influenced by English. <xl id="barrachd_na">
+      <xl id="barrachd_na">
         <li>
           <gd>Chuala mi Eachann Posta a’ gearan an là-roimhe gu bheil an tigh-sgoile agus am mansa
             a’ toirt <m>barrachd</m> oibre dha <m>na a’ chuid eile de’n choimhearsnachd</m> uile gu
@@ -281,10 +241,61 @@
         </li>
       </xl>
     </p>
+    <p>Another way of expressing the standard of comparison is to use <!--<a
+      href="?gd=agus">--><g>agus</g><!--</a>--> (usually contracted to <g>is</g> or <g>’s</g>) followed by the
+      relative particle <g>a</g>, eg. <ul>
+        <li>Dh’òl Raonaid <m>barrachd</m> bùrn <m>’s a dh’òl</m> Seumas. <en>Rachel drank more water
+            than James [did].</en></li>
+        <li>Dh’òl Raonaid <m>barrachd</m> bùrn <m>’s a dh’òl</m> i de dh’fhìon. <en>Rachel drank more water
+            than [she did] wine.</en></li>
+        <li>Tha <m>barrachd</m> chon aig Dòmhnall <m>’s a tha</m> aig Màiri. <en>Donald has more
+            dogs than Mary [does].</en></li>
+        <li>Tha <m>barrachd</m> chon aig Dòmhnall <m>’s a tha</m> de chait aige. <en>Donald has more
+            dogs than [he does] cats.</en></li>
+      </ul>
+      <xl id="barrachd_agus_a">
+        <li>
+          <gd>Seachd àraidh an déidh dhomh <m>barrachd ’s a choisinn e fhéin</m> fad a’ gheamhraidh
+            air a’ bheairt a chosg air tagsaidhean!</gd>
+          <tr>Especially after I had spent more on taxis than he himself had earned all winter long
+            on the loom!</tr>
+          <ref text="400-2">td. 21</ref>
+        </li>
+        <li>
+          <gd>Feumaidh mi aideachadh gu bheil iadsan a’ faicinn <m>barrachd toinisg</m> anns na New
+            Mathematics <m>’s a tha mise</m>.</gd>
+          <tr>I have to admit that they [the children] see more sense in the New Mathematics than I
+            do.</tr>
+          <ref text="28">td. 64</ref>
+        </li>
+      </xl>
+    </p>
+    <p>An alternative is to use the preposition <a href="?gd=air"><g>air</g></a> followed
+      by a noun phrase, eg. <ul>
+        <li>Dh’òl Raonaid <m>barrachd</m> fìona <m>air</m> Seumas. <en>Rachel drank more
+            wine than James.</en></li>
+      </ul>
+      <xl id="barrachd_air">
+        <li>
+          <gd>Chaidh dhuinn gu math ach bha mi riamh de ’n bheachd gun do dh’ionnsaich mi fhéin
+            <m>barrachd air</m> neach de ’n chuideachd.</gd>
+          <tr>We were doing well but I always believed that I learnt more than anybody else
+            in the group.</tr>
+          <ref text="400-2">td. 63</ref>
+        </li>
+        <li>
+          <gd>Ged a lìonas aon chriutha barrachd bharaillean air criutha eile, tha gach fear aca a’ faighinn
+            an aon chothruim.</gd>
+          <tr>Although one crew will fill more barrels than the other [crew], each one of them gets
+            the same opportunity.</tr>
+          <ref text="0">td. 35</ref>
+        </li>
+      </xl>
+    </p>
   </section>
   <section id="other">
     <h>other uses</h>
-    <p>When the standard of the comparison is a <emph>numeric quantity</emph>, it is usually introduced by
+    <p>When the standard of comparison is a <emph>numeric quantity</emph>, it is usually introduced by
       the preposition <a href="?gd=air"><g>air</g></a>, meaning <en>than</en> in this context – <ul>
         <li>Tha <m>barrachd air fichead</m> cù aig Màiri. <en>Mary has more than twenty
           dogs.</en></li>
@@ -305,19 +316,44 @@
         </li>
         <li>
           <gd>Bha iad ag iarraidh deich tasdain fhichead air an luchd, ach cha robh am fear [...]
-            deònach air <m>barrachd air cóig</m> ar fhichead a thoirt air.</gd>
+            deònach air <m>barrachd air cóig ar fhichead</m> a thoirt air.</gd>
           <tr>They were wanting thirty shillings for the load, but the man [...] was not willing to
             give more than twenty-five for it.</tr>
           <ref text="400-2">td. 70</ref>
         </li>
+        <li>
+          <gd>Nam biodh <m>barrachd air triùir</m> a stigh dh’fheumadh cuideigin seasamh.</gd>
+          <tr>If there were three [people] inside someone would have to stand.</tr>
+          <ref text="400-35">td. 225</ref>
+        </li>
       </xl>
     </p>
-    <p>But note usages like <g>barrachd agus (fichead)</g> as well. <xl id="barrachd_agus_num">
+    <p>But note usages like <g>barrachd agus</g> as well. <xl id="barrachd_agus_num">
         <li>
           <gd>“Tha mi ’n dòchas gum bi <m>barrachd is uair a thìde no dhà</m> againn còmhla ri
             chèile an turas seo!”</gd>
           <tr>“I hope we’ll have more than an hour or two together this time!”</tr>
           <ref text="16">td. 73</ref>
+        </li>
+      </xl>
+    </p>
+    <p>When the standard of comparison is a <emph>quantity described by a clause</emph>, it can be introduced
+      by the preposition <a href="?gd=air"></a><g>air</g> followed by the relative particle <g>na</g>, eg. <ul>
+        <li>Fhuair Raonaid <m>barrachd</m> airgid <m>air na</m> bha a dhìth oirre.
+          <en>Rachel got more money than she needed.</en></li>
+      </ul>
+      <xl id="barrachd_air_na">
+        <li>
+          <gd>Ach tha fios a’m a-nise gur tric a tha an dìoghaltas a’ cosg <m>barrachd air na</m> ’s
+            fhiach e.</gd>
+          <tr>But I know now that revenge often costs more than it’s worth.</tr>
+          <ref text="2">td. 64</ref>
+        </li>
+        <li>
+          <gd>A bheil sinn a’ pàidheadh a mach <m>barrachd air na</m> tha sinn a’ toirt a
+            stigh?</gd>
+          <tr>Are we paying out more than we are taking in?</tr>
+          <ref text="400-1">td. 71</ref>
         </li>
       </xl>
     </p>
@@ -360,6 +396,24 @@
               <emph>more than (just) conversation</emph>, will benefit the Society and the Gaelic
             language.</tr>
           <ref text="400-46">td. 105, ‘Air an Spiris’</ref>
+        </li>
+      </xl>
+    </p>
+    <p>But note usages like <g>barrachd agus</g> as well. <xl id="barrachd_agus_N">
+        <li>
+          <gd>Bha barrachd is dìtheanan air a’ bhòrd, thug e an aire, is thàinig snodha gàire air.</gd>
+          <tr>There was more than just flowers on the table, he noticed and smiled.</tr>
+          <ref text="317">td. 88</ref>
+        </li>
+      </xl>
+    </p>
+    <p>Note also <g>barrachd na</g>. <xl id="barrachd_na_N">
+        <li>
+          <gd>“Nam b’ ann air a shon fhéin a rinn e e,” arsa Ruaraidh, “dh’fhaoidte gu saoileadh duine
+            gu robh e dona, ach dé fhios a th’ agaibhse nach do dh’fhuiling esan barrachd na an teine?”</gd>
+          <tr>“If he did it for his own sake,” said Ruaraidh, “someone might think that he was bad, but
+            how do you know that he didn’t suffer more than the fire?”</tr>
+          <ref text="400-53">td. 73</ref>
         </li>
       </xl>
     </p>
