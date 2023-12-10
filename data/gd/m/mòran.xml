@@ -176,8 +176,12 @@
           </li>
         </xl>
       </p>
-      <p>Also: <g>chan eil mòran aice mu a dhèidhinn</g>
-        <en>she doesn’t care much for him</en>.</p>
+      <p>Also – <ul>
+          <li>Chan eil mòran aice mu a dhèidhinn.
+            <en>She doesn’t care much for him.</en>.
+          </li>
+        </ul>
+      </p>
       <!--
       <p><b>mòran ri (dhèanamh)</b>
         <en>a lot to do, a lot to be done</en> – <ul>
