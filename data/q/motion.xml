@@ -106,7 +106,7 @@
             </p>
             <p>Note that the adverb <g>a-staigh</g> is used instead of <g>a-steach</g> in certain
                 dialects and that both <g>a-nuas</g> and <g>a-nìos</g> can mean either <en>up(wards)</en>
-                or <en>down(wards)</en> (proximal) depending on the dialect.</p>
+                or <en>down(wards)</en> (proximal) in most dialects.</p>
             <!--
             <p>Locative adverbs – <ul>
                     <li>(bi) <a href="?gd=thall"><g>thall</g></a></li>
@@ -139,7 +139,7 @@
                             <li><m>gu banais mo pheathar</m>
                                 <en>to my sister’s wedding</en></li>
                             <li><bad>do bhanais</bad> / <bad>don (a’) bhanais</bad> / <bad>do
-                                    bhanais mo pheathar</bad> / <bad>gus a’ bhanais</bad></li>
+                                    bhanais mo pheathar</bad> <!--/ <bad>gus a’ bhanais</bad>--></li>
                         </ul>
                     </li>
                     <li>Thig i ... <ul>
@@ -150,7 +150,7 @@
                             <li><m>gu adhlacadh mo bhràthar</m>
                                 <en>to my brother’s funeral</en></li>
                             <li><bad>do dh’adhlacadh</bad> / <bad>don (an) adhlacadh</bad> / <bad>do
-                                    dh’adhlacadh mo bhràthar</bad> / <bad>gus an adhlacadh</bad></li>
+                                    dh’adhlacadh mo bhràthar</bad> <!--/ <bad>gus an adhlacadh</bad>--></li>
                         </ul>
                     </li>
                 </ul>
@@ -217,7 +217,7 @@
                 <h>buildings</h>
                 <p>Buildings are usually conceptualised as containers, with the default assumption
                     that motion towards a building will end within its interior, meaning that the
-                    illative preposition <a href="?gd=do^preposition"><g>do</g></a> [<g>do</g>/<g>a</g>] is
+                    illative preposition <a href="?gd=do^preposition"><g>do</g></a> [<g>dha</g>/<g>a</g>] is
                     the unmarked option for translating English <en>to</en> <!--(optionally reinforced
                     using the deictic adverbs <a href="?gd=a-null"><g>a-null</g></a> and <a
                         href="?gd=a-nall"><g>a-nall</g></a>)--> – <ul>
@@ -294,7 +294,7 @@
             <h>surfaces – sublative and delative</h>
             <p>When the end point of the motion is the (visible) surface of an object, the
                 superessive/sublative preposition <a href="?gd=air"><g>air</g></a> is used (rather
-                than allative <g>gu</g> [<g>chun</g>] or illative <g>dha</g> [<g>do</g>/<g>a</g>]).
+                than allative <g>gu</g> [<g>chun</g>] or illative <g>do</g> [<g>dha</g>/<g>a</g>]).
                 The preposition can be reinforced (and the direction clarified) using either
                 the distal adverbs <a href="?gd=suas"><g>suas</g></a>/<a href="?gd=sìos"
                         ><g>sìos</g></a>/<a href="?gd=a-null"><g>a-null</g></a> or the proximal
@@ -321,9 +321,9 @@
                         </ul>
                     </li>
                     <li>Chuir mi iad – <ul>
-                            <li><m>(suas/sìos<!--/a-null--> // a-nìos/a-nuas<!--/a-nall-->) air sgeilp</m>.
+                            <li><m>(suas/sìos<!--/a-null--> // a-nìos/a-nuas<!--/a-nall-->) air sgeilp</m>
                                     <en>(up/down<!--/over-->) on(to) a shelf</en></li>
-                            <li><m>(suas/sìos<!--/a-null--> // a-nìos/a-nuas<!--/a-nall-->) air an sgeilp</m>.
+                            <li><m>(suas/sìos<!--/a-null--> // a-nìos/a-nuas<!--/a-nall-->) air an sgeilp</m>
                                     <en>(up/down<!--/over-->) on(to) the shelf</en></li>
                             <li><bad>(suas/sìos<!--/a-null--> // a-nìos/a-nuas<!--/a-nall-->) gu sgeilp</bad> /
                                     <bad>chun na sgeilpe</bad> / <bad>gus an sgeilp</bad> / <bad>do
@@ -359,7 +359,7 @@
                     <li>Thug mi iad – <ul>
                             <li><m>(suas/sìos<!--/a-null--> // a-nìos/a-nuas<!--/a-nall-->) far sgeilp</m>
                                 <en>(up/down<!--/over-->) off (of) a shelf, from on a shelf</en></li>
-                            <li><m>(suas/sìos<!--/a-null--> // a-nìos/a-nuas<!--/a-nall-->) far na sgeilpe</m>.
+                            <li><m>(suas/sìos<!--/a-null--> // a-nìos/a-nuas<!--/a-nall-->) far na sgeilpe</m>
                                     <en>(up/down<!--/over-->) off (of) the shelf, from on the
                                 shelf</en></li>
                             <li><bad>(suas/sìos<!--/a-null--> // a-nìos/a-nuas<!--/a-nall-->) bho sgeilp</bad> /
