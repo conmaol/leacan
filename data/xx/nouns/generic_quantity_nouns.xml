@@ -53,7 +53,7 @@
     <section id="partitive">
       <h>partitive</h>
       <p>When what is being quantified is definite (usually an entity already invoked in the
-        discourse), it can be introduced by the partitive preposition <a href="?gd=dhe"><g>de</g></a>
+        discourse), it can be introduced by the partitive preposition <a href="?gd=de"><g>de</g></a>
         <en>of</en> governing a specified (definite) noun – <ul>
           <li>Dh’òl Raonaid <m>beagan <emph>den fhìon</emph></m>. <en>Rachel drank a little of the
               wine.</en></li>
@@ -67,7 +67,7 @@
           <li>Tha <m>uiread <emph>dhiubh</emph></m> aig Iain! <en>John has so many of them!</en></li>
         </ul>
       </p>
-      <p>Note that phrases like the following, with genitives of possessive pronouns, are not acceptable 
+      <p>Note that phrases like the following, with genitives or possessive pronouns, are not acceptable 
           partitives – <bad>beagan an fheòla</bad> for <en>a little of the meat</en> (cf. the correct form
           <g>beagan den fheòil</g>), <bad>ar cus</bad> for <en>too many of us</en> (cf. the correct forms <g>cus
           dhinn</g> or <g>cus againn</g>).</p>
@@ -135,14 +135,14 @@
           </ul>
         </li>
         <li>indirectly comparative <ul>
-            <li>excessive – <!--<a href="?gd=anabharr">--><g>anabharr</g>
+            <li>excessive – <!--<a href="?gd=anabharr">--><g>anabarr</g>
               <masc/>
               <en>excess, redundancy, superfluity</en>, <a href="?gd=cus"><g>cus</g></a>
               <masc/>
               <en>glut, too much/many, surfeit</en></li>
             <li>sufficient – <a href="?gd=leòr"><g>leòr</g></a>
               <fem/>
-              <en>satiety, sufficiency, enough</en>, <!--<a href="?gd=neart">--><g>neart</g>
+              <en>satiety, sufficiency, enough, plenty</en>, <!--<a href="?gd=neart">--><g>neart</g>
               <masc/>
               <en>plenty, abundance</en>, <!--<a href="?gd=pailteas">--><g>pailteas</g>
               <masc/>

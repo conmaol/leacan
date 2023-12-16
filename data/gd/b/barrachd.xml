@@ -4,9 +4,9 @@
   <p><g>barrachd</g>
     <en>more, predominance, preponderance</en> is an indeclinable feminine <a
       href="?xx=nouns/generic_quantity_nouns">generic quantity noun</a> expressing a
-      <emph>larger</emph> comparative quantity. It is <a href="?xx=nouns/derived_common_nouns"
-      >derived</a> from the masculine common noun <a href="?gd=bàrr"><g>bàrr</g></a>
-    <en>top, crest</en> with the suffix <a href="?gd=_achd"><g>-achd</g></a>.</p>
+      <emph>larger</emph> comparative quantity. It is <!--<a href="?xx=nouns/derived_common_nouns"
+      >-->derived<!--</a>--> from the masculine common noun <a href="?gd=bàrr"><g>bàrr</g></a>
+    <en>top, crest</en> with the suffix <!--<a href="?gd=_achd">--><g>-achd</g><!--</a>-->.</p>
   <!--<p>See also the prepositional compound <a href="?gd=a_bharrachd">a bharrachd (air)</a>.</p>
   -->
   <section>
@@ -14,7 +14,7 @@
     <section id="indefinite">
       <h>indefinite</h>
       <p>On its own – <ul>
-          <li>Dh’òl Raonaid <m>barrachd</m>. <en>Rachel drank more</en>.</li>
+          <li>Dh’òl Raonaid <m>barrachd</m>. <en>Rachel drank more.</en></li>
           <li>Tha <m>barrachd</m> aig Màiri. <en>Mary has more.</en></li>
         </ul>
         <xl id="barrachd">
@@ -97,7 +97,7 @@
     </section>
     <section id="partitive">
       <h>partitive</h>
-      <p>The preposition <a href="?gd=dhe"><g>de</g></a> with a definite noun – <ul>
+      <p>The preposition <a href="?gd=de"><g>de</g></a> with a definite noun – <ul>
           <li>Dh’òl Raonaid <m>barrachd <emph>den fhìon</emph></m>. <en>Rachel drank more of the
               wine.</en></li>
           <li>Cheannaich Màiri <m>barrachd <emph>de mo bhriosgaidean</emph></m>. <en>Mary bought more of
@@ -152,8 +152,8 @@
       <h>idiomatic</h>
       <p><g>barrachd mu</g>
         <en>more [information/knowledge] about</en> – <ul>
-          <li>Tha Màiri ag iarraidh <m>barrachd</m> a chluinntinn <m>mu choin</m>
-            <en>Mary wants to hear more about dogs</en></li>
+          <li>Tha Màiri ag iarraidh <m>barrachd</m> a chluinntinn <m>mu choin</m>.
+            <en>Mary wants to hear more about dogs.</en></li>
         </ul>
         <xl id="barrachd_mu">
           <li>
@@ -272,20 +272,20 @@
     </p>
     <p>An alternative is to use the preposition <a href="?gd=air"><g>air</g></a> followed
       by a noun phrase, eg. <ul>
-        <li>Dh’òl Raonaid <m>barrachd</m> fìona <m>air</m> Seumas. <en>Rachel drank more
+        <li>Dh’òl Raonaid <m>barrachd</m> fìon(a) <m>air</m> Seumas. <en>Rachel drank more
             wine than James.</en></li>
       </ul>
       <xl id="barrachd_air">
         <li>
           <gd>Chaidh dhuinn gu math ach bha mi riamh de ’n bheachd gun do dh’ionnsaich mi fhéin
-            <m>barrachd air</m> neach de ’n chuideachd.</gd>
+            <m>barrachd air neach de ’n chuideachd</m>.</gd>
           <tr>We were doing well but I always believed that I learnt more than anybody else
             in the group.</tr>
           <ref text="400-2">td. 63</ref>
         </li>
         <li>
-          <gd>Ged a lìonas aon chriutha barrachd bharaillean air criutha eile, tha gach fear aca a’ faighinn
-            an aon chothruim.</gd>
+          <gd>Ged a lìonas aon chriutha <m>barrachd</m> bharaillean <m>air criutha eile</m>, tha
+            gach fear aca a’ faighinn an aon chothruim.</gd>
           <tr>Although one crew will fill more barrels than the other [crew], each one of them gets
             the same opportunity.</tr>
           <ref text="0">td. 35</ref>
@@ -401,7 +401,7 @@
     </p>
     <p>But note usages like <g>barrachd agus</g> as well. <xl id="barrachd_agus_N">
         <li>
-          <gd>Bha barrachd is dìtheanan air a’ bhòrd, thug e an aire, is thàinig snodha gàire air.</gd>
+          <gd>Bha <m>barrachd is dìtheanan</m> air a’ bhòrd, thug e an aire, is thàinig snodha gàire air.</gd>
           <tr>There was more than just flowers on the table, he noticed and smiled.</tr>
           <ref text="317">td. 88</ref>
         </li>
@@ -410,21 +410,21 @@
     <p>Note also <g>barrachd na</g>. <xl id="barrachd_na_N">
         <li>
           <gd>“Nam b’ ann air a shon fhéin a rinn e e,” arsa Ruaraidh, “dh’fhaoidte gu saoileadh duine
-            gu robh e dona, ach dé fhios a th’ agaibhse nach do dh’fhuiling esan barrachd na an teine?”</gd>
+            gu robh e dona, ach dé fhios a th’ agaibhse nach do dh’fhuiling esan <m>barrachd na an teine</m>?”</gd>
           <tr>“If he did it for his own sake,” said Ruaraidh, “someone might think that he was bad, but
             how do you know that he didn’t suffer more than the fire?”</tr>
           <ref text="400-53">td. 73</ref>
         </li>
       </xl>
     </p>
-    <p><g>barrachd</g> can be emphasised with the adjective <a href="?gd=fada"><g>fada</g></a>.<xl id="fada">
+    <p><g>barrachd</g> can be emphasised with the adjective <!--<a href="?gd=fada">--><g>fada</g><!--</a>-->.<xl id="fada">
         <li>
-          <gd>“Tha fada barrachd de dh’ùidh aig Rùnaire na Stàta sa’ Ghàidhlig an-diugh,” their cuid.</gd>
+          <gd>“Tha <m>fada barrachd de dh’ùidh</m> aig Rùnaire na Stàta sa’ Ghàidhlig an-diugh,” their cuid.</gd>
           <tr>“The Secretary of State is far more interested in Gaelic today,” some say.</tr>
           <ref text="400-168">td. 340</ref>
         </li>
         <li>
-          <gd>Nì iad fada barrachd adhartais san sgoil ás aonais Gàidhlig.</gd>
+          <gd>Nì iad <m>fada barrachd adhartais</m> san sgoil ás aonais Gàidhlig.</gd>
           <tr>They will make far more progress at school without Gaelic.</tr>
           <ref text="400-168">td. 339</ref>
         </li>

@@ -306,8 +306,8 @@
             <module id="toisich" status="bronze">
                 <h>tòisich</h>
                 <p><a href="?gd=tòisich"><g>tòisich</g></a>
-                    <en>start, begin, commence, inaugurate, launch, originate</en> is a <a
-                        href="?xx=verbs/verbs">verb</a>, derived from the noun <g>toiseach</g>, and
+                    <en>start, begin, commence, inaugurate, launch, originate</en> is a <!--<a
+                        href="?xx=verbs/verbs">-->verb<!--</a>-->, derived from the noun <g>toiseach</g>, and
                     with verbal noun <g>tòiseachadh</g></p>
             </module>
         </section>

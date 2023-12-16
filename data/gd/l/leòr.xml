@@ -12,8 +12,8 @@
     <p>In traditional <!--(perhaps nowadays mainly ‘literary’)--> usage, <g>leòr</g> functions like other
       generic quantity nouns, with the exception that it needs a possessive determiner as
       pre-specifier – <ul>
-        <li><m><emph>mo</emph> leòr</m> feòla <en>my fill of meat, enough meat (for me)</en></li>
-        <li><m><emph>an</emph> leòr</m> de na h-ùbhlan <en>their fill of the apples, enough of the apples (for them)</en></li>
+        <li><m><emph>mo</emph> leòr</m> feòla <en>my fill of meat / enough meat (for me)</en></li>
+        <li><m><emph>an</emph> leòr</m> de na h-ùbhlan <en>their fill of the apples / enough of the apples (for them)</en></li>
       </ul>
     </p>
     <p>Note that this construction means <en>one’s fill</en> or <en>as much as one needs/wants</en> and
@@ -33,8 +33,8 @@
     <section id="indefinite">
       <h>indefinite usage</h>
       <p>On its own – <ul>
-          <li>Dh’òl Raonaid <m>a leòr</m>. <en>Rachel drank enough/her fill.</en></li>
-          <li>Tha <m>ar leòr</m> againn. <en>We have enough/plenty.</en></li>
+          <li>Dh’òl Raonaid <m>a leòr</m>. <en>Rachel drank her fill / enough.</en></li>
+          <li>Tha <m>ar leòr</m> againn. <en>We have plenty / enough.</en></li>
         </ul>
         <xl id="leor">
           <li>
@@ -52,9 +52,8 @@
         </xl>
       </p>
       <p>With a genitive modifier – <ul>
-          <li>Dh’òl Raonaid <m>a leòr <emph>uisge</emph></m>. <en>Rachel drank enough water [ie. her
-              fill of water].</en></li>
-          <li>Tha <m>ar leòr <emph>chon</emph></m> againn. <en>We have enough/plenty of dogs.</en></li>
+          <li>Dh’òl Raonaid <m>a leòr <emph>uisge</emph></m>. <en>Rachel drank her fill of water / plenty of water.</en></li>
+          <li>Tha <m>ar leòr <emph>chon</emph></m> againn. <en>We have enough / plenty of dogs.</en></li>
         </ul>
         <xl id="leor_specifier">
           <li>
@@ -78,7 +77,7 @@
           <li>
             <gd>Tha Màiri a’ faighinn a leòr de dhroch shìde ann an Alasga.</gd>
             <tr>Mary is getting her fill of bad weather in Alaska.</tr>
-            <ref text=" "> </ref>
+            <ref text="0"></ref>
             <note>Note the use of ‘de’ here rather than plain genitive.</note>
           </li>
           <li>
@@ -104,7 +103,7 @@
     </section>
     <section id="partitive">
       <h>partitive</h>
-      <p>The preposition <a href="?gd=dhe"><g>de</g></a> with a definite noun – <ul>
+      <p>The preposition <a href="?gd=de"><g>de</g></a> with a definite noun – <ul>
           <li>Dh’òl Raonaid <m>a leòr <emph>den fhìon</emph></m>. <en>Rachel drank her fill of the
             wine.</en></li>
           <li>Dh’ith sinn <m>ar leòr <emph>de na h-ùbhlan sin</emph></m>. <en>We ate our fill
@@ -131,7 +130,7 @@
           <li>
             <gd>“Tha amharas agam gum beil hearòin air bòrd. Bha a leòr dheth aig an fhear ud agus
               bha e dranndan mu dhèidhinn pocannan air falach fo làr cèaban a’ sgiobair.”</gd>
-            <tr>“I suspect that there is heroin on board. That man had plenty of it and he he was
+            <tr>“I suspect that there is heroin on board. That man had plenty of it and he was
               muttering about sacks hidden under the floor of the captain’s cabin.”</tr>
             <ref text="400-168">td. 313</ref>
           </li>
@@ -196,9 +195,10 @@
       </xl>
     </p>
     <p>However, <g>gu leòr</g> cannot be used with a definite noun, in a partitive sense –
-        <bad>Dh’òl Raonaid am fìon gu leòr</bad> for <en>Rachel drank enough of the wine</en>. Also,
-        <g>leòr</g> is never pre-specified by a possessive determiner in this expression – <bad>Tha coin
-          gu mo leòr agam</bad> for <en>I have enough dogs</en>.</p>
+        <bad>Dh’òl Raonaid am fìon gu leòr</bad> for <en>Rachel drank enough of the wine</en> (cf.
+        the correct form <g>gu leòr den fhìon</g>). Also, <g>leòr</g> is never pre-specified by
+        a possessive determiner in this expression – <bad>Tha coin gu mo leòr agam</bad> for
+        <en>I have enough dogs</en> (cf. the correct form <g>coin gu leòr</g>).</p>
     <section>
       <h>adjective modifier</h>
       <p>Examples from Gairm – <xl id="gairm">
@@ -275,7 +275,7 @@
       </section>
       <section id="partitive2">
         <h>partitive usage</h>
-        <p>The preposition <a href="?gd=dhe"><g>de</g></a> with a definite noun – <ul>
+        <p>The preposition <a href="?gd=de"><g>de</g></a> with a definite noun – <ul>
             <li>Dh’òl Raonaid <m>gu leòr <emph>den fhìon</emph></m>. <en>Rachel drank enough of the
                 wine.</en></li>
             <li>Tha <m>gu leòr <emph>de mo choin</emph></m> aig Màiri. <en>Mary has enough of my

@@ -2,8 +2,8 @@
 <module status="bronze">
     <h>tòisich</h>
     <p><g>tòisich</g>
-        <en>start, begin, commence, inaugurate, launch, originate</en> is a (regular) <a
-            href="?xx=verbs/verbs">verb</a>, derived from the noun <a href="?gd=toiseach"
+        <en>start, begin, commence, inaugurate, launch, originate</en> is a (regular) <!--<a
+            href="?xx=verbs/verbs">-->verb<!--</a>-->, derived from the noun <a href="?gd=toiseach"
                 ><g>toiseach</g></a>, and with verbal noun <g>tòiseachadh</g>
         <masc/>
         <g>tòisich</g> marks <a href="?q=verbal_aspect">inchoative</a> verbal aspect, cf. <a
@@ -98,7 +98,7 @@
                             <li>first person singular – <m>tòisicheam</m>!</li> 
                             <li>second person singular – <m>tòisich</m>!</li>
                             <li>first person plural – <m>tòisicheamaid</m>!</li>
-                            <li>second person plural – <m>tòisichidh</m>!</li>
+                            <li>second person plural – <m>tòisichibh</m>!</li>
                             <li>third person – <m>tòisicheadh</m>!</li>
                             <li>passive – <m>tòisich(t)ear</m>!</li>
                         </ul>
@@ -107,7 +107,7 @@
                             <li>first person singular – <m>na tòisicheam</m>!</li> 
                             <li>second person singular – <m>na tòisich</m>!</li>
                             <li>first person plural – <m>na tòisicheamaid</m>!</li>
-                            <li>second person plural – <m>na tòisichidh</m>!</li>
+                            <li>second person plural – <m>na tòisichibh</m>!</li>
                             <li>third person – <m>na tòisicheadh</m>!</li>
                             <li>passive – <m>na tòisich(t)ear</m>!</li>
                         </ul>
