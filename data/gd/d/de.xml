@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
 <module status="bronze">
-  <h>dhe</h>
-  <p><g>dhe</g>
+  <h>de</h>
+  <p><g>de</g>
     <en>of</en> is the (leniting) partitive <a href="?xx=prepositions/prepositions"
     >preposition</a>.</p>
   <section>
     <h>forms</h>
     <section id="indefinite">
       <h>indefinite</h>
-      <p>The default form of the partitive preposition is simply <g>dhe</g> – <ul>
-          <li><m>dhe</m> thaigh <en>of a house</en></li>
-          <li><m>dhe dh’</m>aislingean <en>of dreams</en></li>
-          <li><m>dhe</m> Nirribhidh <en>of Norway</en></li>
-          <li><m>dhe</m> thrì làithean <en>of three days</en></li>
+      <p>The default form of the partitive preposition is simply <g>de</g> – <ul>
+          <li><m>de</m> thaigh <en>of a house</en></li>
+          <li><m>de dh’</m>aislingean <en>of dreams</en></li>
+          <li><m>de</m> Nirribhidh <en>of Norway</en></li>
+          <li><m>de</m> thrì làithean <en>of three days</en></li>
         </ul></p>
-      <p>Before a word beginning with a vowel or <g>fh-</g>, <g>dhe</g> is reduplicated to <g>dhe
+      <p>Before a word beginning with a vowel or <g>fh-</g>, <g>de</g> is reduplicated to <g>de
           dh’</g> – <ul>
-          <li><m>dhe dh’</m>aislingean <en>of dreams</en></li>
-          <li><m>dhe dh’</m>Èirinn <en>of Ireland</en></li>
-          <li><m>dhe dh’</m>ochd rionnagan <en>of eight stars</en></li>
+          <li><m>de dh’</m>aislingean <en>of dreams</en></li>
+          <li><m>de dh’</m>Èirinn <en>of Ireland</en></li>
+          <li><m>de dh’</m>ochd rionnagan <en>of eight stars</en></li>
         </ul>
       </p>
-      <p>Note that <g>dhe</g> is often spelled (and even pronounced) as <g>de</g>. Also, <g>dhe</g>
-        is often reduced to just <g>a</g>, even in writing.</p>
+      <p>Note that <g>de</g> is often spelled (and even pronounced) as <g>do</g> and sometimes as
+        <g>dhe</g>. Also, <g>de</g> is often reduced to just <g>a</g>, even in writing.</p>
     </section>
     <section id="definite">
       <h>definite</h>
@@ -58,9 +58,9 @@
       <h>prepositional pronouns</h>
       <p>Conjugated prepositions are used in place of <bad>dhe mi</bad>, <bad>dhe thu</bad>, ... ,
           <bad>dhe iad</bad> – <ul>
-          <li><m>dhiom</m>
+          <li><m>dhìom</m>
             <en>of me</en></li>
-          <li><m>dhiot</m>
+          <li><m>dhìot</m>
             <en>of you</en></li>
           <li><m>dhith</m>
             <en>of her/it</en></li>
@@ -96,7 +96,7 @@
         rule, and hence is sometimes found written with a hyphen – <g>dheth-san</g>.</p>
       <p>Finally, there are also reflexive forms (cf. <bad>dhe mi fhìn</bad>, <bad>dhe thu
           fhèin</bad>, ... , <bad>dhe iad fhèin</bad>) – <ul>
-          <li><m>dhiom fhìn</m>
+          <li><m>dhiom fhèin / fhìn</m>
             <en>of myself</en></li>
           <li><m>dhiot fhèin</m>
             <en>of yourself</en></li>
@@ -104,7 +104,7 @@
             <en>of herself/itself</en></li>
           <li><m>dheth fhèin</m>
             <en>of himself/itself</en></li>
-          <li><m>dhinn fhìn</m>
+          <li><m>dhinn fhèin / fhìn</m>
             <en>of ourselves</en></li>
           <li><m>dhibh fhèin</m>
             <en>of yourselves</en></li>

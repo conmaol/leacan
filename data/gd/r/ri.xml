@@ -2,40 +2,40 @@
 <module status="bronze">
   <h>ri</h>
   <p><g>ri</g>
-    <en>at, to, against</en> is a (non-leniting) <a href="?xx=prepositions/prepositions"
+    <en>to, against</en> is a (non-leniting) <a href="?xx=prepositions/prepositions"
       >preposition</a>.</p>
   <section>
     <h>forms</h>
     <section id="indefinite">
       <h>indefinite</h>
       <p>The default form of the preposition is simply <g>ri</g> – <ul>
-          <li><m>ri</m> taigh <en>at a house</en></li>
-          <li><m>ri</m> aislingean <en>at dreams</en></li>
-          <li><m>ri</m> Nirribhidh <en>at Norway</en></li>
-          <li><m>ri</m> trì làithean <en>at three days</en></li>
+          <li><m>ri</m> balla <en>against a wall</en></li>
+          <li><m>ri</m> uinneagan <en>against windows</en></li>
+          <li><m>ri</m> Nirribhidh <en>to Norway</en></li>
+          <li><m>ri</m> trì coin <en>to three dogs</en></li>
         </ul></p>
     </section>
     <section id="definite">
       <h>definite</h>
       <p>When the immediately following word is a form of the definite article, the linking form
           <g>ris</g> is used – <ul>
-          <li><m>ris an</m> taigh <en>at the house</en></li>
-          <li><m>ris a’</m> bhaile <en>at the town</en></li>
-          <li><m>ris na h-</m>aislingean <en>at the dreams</en></li>
+          <li><m>ris an</m> duine <en>to the man</en></li>
+          <li><m>ris a’</m> bhalla <en>against the wall</en></li>
+          <li><m>ris na h-</m>uinneagan <en>against the windows</en></li>
         </ul>
       </p>
       <!--<p><ed>Add note on ‘ris a-màireach’, ‘ris a h-uile ...’, ‘ris a bheil ...’</ed></p>-->
       <p>Fused forms are sometimes found when the immediately following word is a <a
           href="?xx=nouns/possessive_determiners">possessive determiner</a> – <ul>
-          <li><m>ri mo</m> thaigh <en>at my house</en> ≈ <g>rim</g> thaigh </li>
-          <li><m>ri do</m> bhaile <en>at your town</en> ≈ <g>rid</g> bhaile </li>
-          <li><m>ri a h-</m>eaglais <en>at her church</en> ≈ <g>ri h-</g>eaglais</li>
+          <li><m>ri mo</m> thaigh <en>to my house</en> ≈ <g>rim</g> thaigh </li>
+          <li><m>ri do</m> bhaile <en>to your town</en> ≈ <g>rid</g> bhaile </li>
+          <li><m>ri a h-</m>eaglais <en>to her church</en> ≈ <g>ri h-</g>eaglais</li>
           <li>
-            <m>ri a</m> chraoibh <en>at his tree</en> ≈ <g>ri</g> chraoibh</li>
-          <li><m>ri ar n-</m>achadh <en>at our field</en> ≈ <g>rar n-</g>achadh</li>
-          <li><m>ri bhur</m> leapannan <en>at your beds</en> ≈ <g>rur</g> leapannan</li>
-          <li><m>ri an</m> taighean <en>at their houses</en> ≈ <g>rin</g> taighean</li>
-          <li><m>ri am</m> baile <en>at their town</en> ≈ <g>rim</g> baile</li>
+            <m>ri a</m> chraoibh <en>to his tree</en> ≈ <g>ri</g> chraoibh</li>
+          <li><m>ri ar n-</m>achadh <en>to our field</en> ≈ <g>rar n-</g>achadh</li>
+          <li><m>ri ur</m> leapannan <en>to your beds</en> ≈ <g>rur</g> leapannan</li>
+          <li><m>ri an</m> taighean <en>to their houses</en> ≈ <g>rin</g> taighean</li>
+          <li><m>ri am</m> baile <en>to their town</en> ≈ <g>rim</g> baile</li>
         </ul></p>
       <p>Note that these fused forms are rather awkward and hence are best avoided in writing
         nowadays.</p>

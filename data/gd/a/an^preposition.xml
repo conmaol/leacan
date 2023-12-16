@@ -49,14 +49,14 @@
         apostrophe – <g>’san taigh</g>, <g>’sa bhaile</g>, ...</p>
       <p>It is common to use fused forms when the immediately following word is a <a
           href="?xx=nouns/possessive_determiners">possessive determiner</a> – <ul>
-          <li><m>’nam</m> thaigh <en>in my house</en> ≈ <g>ann am mo</g> thaigh</li>
-          <li><m>’nad</m> bhaile <en>in your town</en> ≈ <g>ann an do</g> bhaile</li>
-          <li><m>’na h-</m>òran <en>in her song</en> ≈ <g>ann an a h-</g>òran</li>
-          <li><m>’na</m> chraoibh <en>in his tree</en> ≈ <g>ann an a</g> chraoibh</li>
-          <li><m>’nar n-</m>achadh <en>in our field</en> ≈ <g>ann an ar n-</g>achadh</li>
-          <li><m>’nur</m> leapannan <en>in your beds</en> ≈ <g>ann am bhur</g> leapannan</li>
-          <li><m>’nan</m> taighean <en>in their houses</en> ≈ <g>ann an an</g> taighean</li>
-          <li><m>’nam</m> baile <en>in their town</en> ≈ <g>ann an am</g> baile</li>
+          <li><m>’nam</m> thaigh <en>in my house</en> <!--≈ <g>ann am mo</g> thaigh--></li>
+          <li><m>’nad</m> bhaile <en>in your town</en> <!--≈ <g>ann an do</g> bhaile--></li>
+          <li><m>’na h-</m>òran <en>in her song</en> <!--≈ <g>ann an a h-</g>òran--></li>
+          <li><m>’na</m> chraoibh <en>in his tree</en> <!--≈ <g>ann an a</g> chraoibh--></li>
+          <li><m>’nar n-</m>achadh <en>in our field</en> <!--≈ <g>ann an ar n-</g>achadh--></li>
+          <li><m>’nur</m> leapannan <en>in your beds</en> <!--≈ <g>ann am bhur</g> leapannan--></li>
+          <li><m>’nan</m> taighean <en>in their houses</en> <!--≈ <g>ann an an</g> taighean--></li>
+          <li><m>’nam</m> baile <en>in their town</en> <!--≈ <g>ann an am</g> baile--></li>
         </ul>
       </p>
       <p>Note that the fused forms are usually written without the initial apostrophe nowadays,
@@ -102,7 +102,7 @@
       </p>
       <p>Finally, there are also reflexive forms (cf. <bad>ann am mi fhìn</bad>, <bad>ann an t(h)u
           fhèin</bad>, ... , <bad>ann an iad fhèin</bad>) – <ul>
-          <li><m>annam fhìn</m>
+          <li><m>annam fhèin / fhìn</m>
             <en>in myself</en></li>
           <li><m>annad fhèin</m>
             <en>in yourself</en></li>
@@ -110,7 +110,7 @@
             <en>in herself/itself</en></li>
           <li><m>ann fhèin</m>
             <en>in himself/itself</en></li>
-          <li><m>annainn fhìn</m>
+          <li><m>annainn fhèin / fhìn</m>
             <en>in ourselves</en></li>
           <li><m>annaibh fhèin</m>
             <en>in yourself</en></li>
@@ -130,20 +130,19 @@
       <section id="deps-comp-human">
         <h>humans</h>
       </section>
-
-
-
-      <p>Some examples – <ul>
-          <li><g>ann am <a href="?gd=bogsa">bogsa</a></g>
-            <en>in a box</en></li>
-          <li><g>ann an <a href="?gd=càr">càr</a></g>
-            <en>in a car</en></li>
-          <li><g>ann an <a href="?gd=làmh">làimh</a></g>
-            <en>in someone’s hand</en></li>
-        </ul>
-      </p>
-
-      <module id="countries">
+      <section id="comp-spatial">
+        <h>places and spaces</h>
+          <p>Some examples – <ul>
+            <li><g>ann am <a href="?gd=bogsa">bogsa</a></g>
+              <en>in a box</en></li>
+            <li><g>ann an <a href="?gd=càr">càr</a></g>
+              <en>in a car</en></li>
+            <li><g>ann an <a href="?gd=làmh">làimh</a></g>
+              <en>in someone’s hand</en></li>
+          </ul>
+        </p>
+      </section>
+      <!--<module id="countries">
         <h>with names of countries</h>
         <h lang="gd">...</h>
         <p>Biblical examples – <xl id="basic-exs">
@@ -178,7 +177,7 @@
             </li>
           </xl>
         </p>
-      </module>
+      </module>-->
     </section>
   </section>
 

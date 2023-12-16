@@ -39,10 +39,10 @@
     <section id="intrans">
         <h>intransitive</h>
         <p>Basic pattern – <ul>
-                <li><m>Tha Seumas ag èirigh</m>
-                    <en>James is rising</en></li>
-                <li><m>Tha Màiri a’ snàmh</m>
-                    <en>Mary is swimming</en></li>
+                <li><m>Tha Seumas ag èirigh.</m>
+                    <en>James is rising.</en></li>
+                <li><m>Tha Màiri a’ snàmh.</m>
+                    <en>Mary is swimming.</en></li>
             </ul>
         </p>
         <p>Examples from dictionaries and grammars – <xl id="prog-intr-dictionary">
@@ -225,7 +225,7 @@
                 a passive-like sense is possible – <ul>
                     <li><m>Tha bròg ga dèanamh.</m>
                         <en>A shoe is being made.</en></li>
-                    <li><m>Tha brògan gan dèanamh,</m>
+                    <li><m>Tha brògan gan dèanamh.</m>
                         <en>Shoes are being made.</en></li>
                 </ul>
             </p>

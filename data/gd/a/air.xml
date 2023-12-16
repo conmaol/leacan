@@ -3,7 +3,7 @@
   <!-- G12W 1–6 done -->
   <h>air</h>
   <p><g>air</g>
-    <en>on, upon</en> is the (usually non-leniting) <!--superessive--> <a href="?xx=prepositions/prepositions"
+    <en>on, upon</en> is a (usually non-leniting) superessive <a href="?xx=prepositions/prepositions"
       >preposition</a>.</p>
   <!-- ROM – Note that air can lenite in some expressions which describe a state e.g. air chrith, air bhoil. Also involving parts of the body e.g. beir air chasan; cf also air bharr 'on top', etc. Worth adding a note. -->
   <section>
@@ -456,15 +456,15 @@
         <p>When the preposition <g>air</g> governs an infinitive (verbal noun), it generally
           indicates <a href="?q=verbal_aspect">retrospective aspect</a>, similar in some ways to the
           English ‘perfect tenses’ – <ul>
-            <li><m>Tha Raonaid air obair a dhèanamh.</m>
-              <en>Rachel has worked.</en></li>
+            <li><m>Tha Raonaid air taigh a cheannach.</m>
+              <en>Rachel has bought a house.</en></li>
           </ul>
         </p>
         <section>
           <h>intransitive</h>
           <p>Basic pattern – <ul>
-              <li><m>Tha Seumas air èirigh</m>
-                <en>James has risen</en></li>
+              <li><m>Tha Seumas air èirigh.</m>
+                <en>James has risen.</en></li>
             </ul>
           </p>
           <p>Examples from dictionaries and grammars – <xl id="retro-intrans-dictionary">
@@ -490,8 +490,8 @@
         <section>
           <h>transitive with inversion</h>
           <p>Basic pattern – <ul>
-              <li><m>Tha Raonaid air na balaich a phògadh</m>
-                <en>Rachel has kissed the boys</en></li>
+              <li><m>Tha Raonaid air na balaich a phògadh.</m>
+                <en>Rachel has kissed the boys.</en></li>
             </ul>
           </p>
           <p>Note that the object noun is in the nominative case, rather than the dative, in this
@@ -603,8 +603,8 @@
             <p>When the possessive determiner agrees with the subject in person, number and gender,
               a passive-like sense is possible – <ul>
                 <li><m>Tha bròg air a dèanamh.</m>
-                  <en>A show has been made.</en></li>
-                <li><m>Tha brògan air an dèanamh</m>
+                  <en>A shoe has been made.</en></li>
+                <li><m>Tha brògan air an dèanamh.</m>
                   <en>Shoes have been made.</en></li>
               </ul>
             </p>

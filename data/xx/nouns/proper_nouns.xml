@@ -3,7 +3,7 @@
   <h>proper nouns</h>
   <p>Proper nouns are <a href="?xx=nouns/nouns">nouns</a> which are also <a href="?xx=nouns/names"
       >names</a>, identifying and referring to particular, definite entities – a specific person,
-    object, place, group, etc. Examples of proper nouns are – <ul>
+    object, place, group <etc/>. Examples of proper nouns are – <ul>
       <li><g>Raonaid</g>
         <fem/>
         <en>Rachel</en></li>
@@ -67,10 +67,10 @@
     <section id="derivation-improper">
       <h>improper nouns</h>
       <p>‘Improper’ nouns are proper nouns which have been derived transparently from common nouns,
-        for example <ul>
+        for example – <ul>
           <li>
             <g>Gairm</g>
-            <en>Crowing/Calling [name of literary periodical]</en> – from <g>gairm</g>
+            <en>[name of literary periodical]</en> – from <g>gairm</g>
             <fem/>
             <en>calling, crowing</en></li>
         </ul>
@@ -95,7 +95,7 @@
               <li><g>Mairead</g>
                 <en>Margaret</en>, <g>Laideann</g>
                 <en>Latin</en> and <g>Sasainn</g>
-                <en>England</en> are feminine proper nouns</li>
+                <en>England</en> are feminine proper nouns.</li>
               <li><g>Seumas</g>
                 <en>James</en> and <g>Bòd</g>
                 <en>Bute</en> are masculine proper nouns.</li>
@@ -119,9 +119,13 @@
     <section id="forms-declension">
       <h>declension</h>
       <p>The rules for declining proper nouns are – <ul>
-          <li>The dative and genitive forms of a feminine proper noun are generally created by
-            slenderising the corresponding nominative form (if possible) – <g>Mairead</g> ⇒
-              <g>Maireid</g>, <g>Laideann</g> ⇒ <g>Laidinn</g>.
+          <li>The traditional dative form of a feminine proper noun is created by slenderising
+            the corresponding nominative form (if possible) – <g>Mairead</g> ⇒ <g>Maireid</g>,
+            <g>Laideann</g> ⇒ <g>Laidinn</g>. In contemporary Gaelic usage, the dative form
+            is identical to the nominative.</li>
+          <li>The genitive form of a feminine proper noun is generally created by slenderising
+            the corresponding nominative form (if possible) – <g>Mairead</g> ⇒ <g>Maireid</g>,
+            <g>Laideann</g> ⇒ <g>Laidinn</g>.
             <!--<ed>Is there never addition of -e in
             the genitive? What about feminine toponymic proper nouns? Peairt? </ed> --></li>
           <li>The dative form of a masculine proper noun is identical to the corresponding
@@ -246,7 +250,7 @@
         <li><a href="?xx=nouns/chrematonyms">Chrematonymic</a> proper nouns name songs, poems,
           stories and other creative works – <g>Gairm</g>
           <en>[name of literary periodical]</en>, <g>Bannan</g>
-          <en>[name of television drama serial]</en></li>
+          <en>[name of television drama serial]</en>.</li>
         <li><a href="?xx=nouns/glottonyms">Glottonymic</a> proper nouns name languages and dialects
           – <g>Laideann</g>
           <fem/>
@@ -274,20 +278,20 @@
             <li>masculine anthroponymic proper nouns – <g>taigh Sheumais</g>
               <en>James’ house</en>, cf. <bad>taigh Seuma(i)s</bad></li>
             <li>toponymic proper nouns – <g>sgoiltean Ghlaschu</g>
-              <en>Glasgow’s schools</en>, cf. <bad>oilthighean Glaschu</bad></li>
+              <en>Glasgow’s schools</en>, cf. <bad>sgoiltean Glaschu</bad></li>
           </ul>
         </li>
-        <li>usually not-lenited – <ul>
-            <li>feminine anthroponymic proper nouns (traditional usage) – <g>taigh Màiri</g>
+        <li>usually not lenited – <ul>
+            <li>feminine anthroponymic proper nouns – <g>taigh Màiri</g>
               <en>Mary’s house</en></li>
             <li>ergonymic proper nouns – <g>buill Misneachd</g>
-              <en>the members of Misneachd</en> cf. <bad>buill Mhisneachd</bad></li>
+              <en>the members of Misneachd</en>, cf. <bad>buill Mhisneachd</bad></li>
             <li>chrematonymic proper nouns – <g>deasaiche Gairm</g>
-              <en>the editor of Gairm</en> cf. <bad>deasaiche Ghairm</bad></li>
+              <en>the editor of Gairm</en>, cf. <bad>deasaiche Ghairm</bad></li>
           </ul>
         </li>
       </ul>
-    </p>
+    Note that genitive feminine anthroponymic proper nouns are lenited in certain dialects.</p>
   </section>
 
 
