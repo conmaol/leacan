@@ -10,7 +10,6 @@
       <h>indefinite</h>
       <p>The default form of the partitive preposition is simply <g>de</g> – <ul>
           <li><m>de</m> thaigh <en>of a house</en></li>
-          <li><m>de dh’</m>aislingean <en>of dreams</en></li>
           <li><m>de</m> Nirribhidh <en>of Norway</en></li>
           <li><m>de</m> thrì làithean <en>of three days</en></li>
         </ul></p>
@@ -37,9 +36,9 @@
       </p>
       <!--<p><ed>Add note on ‘den a-màireach’, ‘den a h-uile ...’, ‘den a bheil ...’? Older forms with
           apostrophes?</ed></p>-->
-      <p>Note that <g>dhen an</g> and <g>dhen a’</g> often reduce to just <g>dhen</g> – <g>dhen
-          taigh</g>, <g>dhen bhaile</g>. Note also that the non-lenited form <g>den</g> is often
-        found instead.</p>
+      <p>Note that <g>dhen an</g> and <g>dhen a’</g> often occur as just <g>dhen</g> – <g>dhen
+          taigh</g>, <g>dhen bhaile</g>. Note also that the form <g>dhan</g> and (especially in old
+          texts) the non-lenited form <g>den</g> are often found instead.</p>
       <p>Fused forms are sometimes found when the immediately following word is a <a
           href="?xx=nouns/possessive_determiners">possessive determiner</a> – <ul>
           <li><m>dhe mo</m> thaigh <en>of my house</en> ≈ <g>d[h]em</g> thaigh</li>
@@ -76,9 +75,9 @@
       </p>
       <p>There are also emphatic forms (cf. <bad>dhe mise</bad>, <bad>dhe thusa</bad>, ... ,
           <bad>dhe iadsan</bad>) – <ul>
-          <li><m>dhiomsa</m>
+          <li><m>dhìomsa</m>
             <en>of <emph>me</emph></en></li>
-          <li><m>dhiotsa</m>
+          <li><m>dhìotsa</m>
             <en>of <emph>you</emph></en></li>
           <li><m>dhithse</m>
             <en>of <emph>her/it</emph></en></li>
@@ -96,9 +95,9 @@
         rule, and hence is sometimes found written with a hyphen – <g>dheth-san</g>.</p>
       <p>Finally, there are also reflexive forms (cf. <bad>dhe mi fhìn</bad>, <bad>dhe thu
           fhèin</bad>, ... , <bad>dhe iad fhèin</bad>) – <ul>
-          <li><m>dhiom fhèin / fhìn</m>
+          <li><m>dhìom fhèin / fhìn</m>
             <en>of myself</en></li>
-          <li><m>dhiot fhèin</m>
+          <li><m>dhìot fhèin</m>
             <en>of yourself</en></li>
           <li><m>dhith fhèin</m>
             <en>of herself/itself</en></li>
@@ -175,8 +174,8 @@
       </section>
       <section>
         <h>verbal</h>
-        <p><g><a href="?gd=sguir">sguir</a> dhe ...</g>, <g><a href="?gd=stad">stad</a> dhe ...</g>
-          <en>stop something</en></p>
+        <p><g><a href="?gd=sguir">sguir</a> a ...</g>, <g><a href="?gd=stad">stad</a> a ...</g>
+          <en>stop doing something</en></p>
       </section>
     </section>
   </section>

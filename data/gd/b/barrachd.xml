@@ -193,9 +193,9 @@
     <p>The most common way of expressing the standard of comparison is to use
       the conjunction <g>na</g> <en>than</en>, followed either by a noun phrase,
       or by a prepositional phrase, or by a relative clause, eg. <ul>
-        <li>Dh’òl Raonaid <m>barrachd</m> bùrn <m>na</m> (dh’òl) Seumas. <en>Rachel drank more water
+        <li>Dh’òl Raonaid <m>barrachd</m> uisge <m>na</m> (dh’òl) Seumas. <en>Rachel drank more water
           than James [did].</en></li>
-        <li>Dh’òl Raonaid <m>barrachd</m> bùrn <m>na</m> dh’òl i de dh’fhìon. <en>Rachel drank more water
+        <li>Dh’òl Raonaid <m>barrachd</m> uisge <m>na</m> dh’òl i de dh’fhìon. <en>Rachel drank more water
           than [she did] wine.</en></li>
         <li>Tha <m>barrachd</m> chon aig Dòmhnall <m>na</m> (tha) aig Màiri. <en>Donald has more
             dogs than Mary [does].</en></li>
@@ -244,9 +244,9 @@
     <p>Another way of expressing the standard of comparison is to use <!--<a
       href="?gd=agus">--><g>agus</g><!--</a>--> (usually contracted to <g>is</g> or <g>’s</g>) followed by the
       relative particle <g>a</g>, eg. <ul>
-        <li>Dh’òl Raonaid <m>barrachd</m> bùrn <m>’s a dh’òl</m> Seumas. <en>Rachel drank more water
+        <li>Dh’òl Raonaid <m>barrachd</m> uisge <m>’s a dh’òl</m> Seumas. <en>Rachel drank more water
             than James [did].</en></li>
-        <li>Dh’òl Raonaid <m>barrachd</m> bùrn <m>’s a dh’òl</m> i de dh’fhìon. <en>Rachel drank more water
+        <li>Dh’òl Raonaid <m>barrachd</m> uisge <m>’s a dh’òl</m> i de dh’fhìon. <en>Rachel drank more water
             than [she did] wine.</en></li>
         <li>Tha <m>barrachd</m> chon aig Dòmhnall <m>’s a tha</m> aig Màiri. <en>Donald has more
             dogs than Mary [does].</en></li>
@@ -279,7 +279,7 @@
         <li>
           <gd>Chaidh dhuinn gu math ach bha mi riamh de ’n bheachd gun do dh’ionnsaich mi fhéin
             <m>barrachd air neach de ’n chuideachd</m>.</gd>
-          <tr>We were doing well but I always believed that I learnt more than anybody else
+          <tr>We did well but I always believed that I learnt more than anybody else
             in the group.</tr>
           <ref text="400-2">td. 63</ref>
         </li>
@@ -323,7 +323,7 @@
         </li>
         <li>
           <gd>Nam biodh <m>barrachd air triùir</m> a stigh dh’fheumadh cuideigin seasamh.</gd>
-          <tr>If there were three [people] inside someone would have to stand.</tr>
+          <tr>If there were more than three [people] inside someone would have to stand.</tr>
           <ref text="400-35">td. 225</ref>
         </li>
       </xl>
@@ -402,7 +402,7 @@
     <p>But note usages like <g>barrachd agus</g> as well. <xl id="barrachd_agus_N">
         <li>
           <gd>Bha <m>barrachd is dìtheanan</m> air a’ bhòrd, thug e an aire, is thàinig snodha gàire air.</gd>
-          <tr>There was more than just flowers on the table, he noticed and smiled.</tr>
+          <tr>There was more than just flowers on the table, he noticed and a smile came over him.</tr>
           <ref text="317">td. 88</ref>
         </li>
       </xl>

@@ -17,7 +17,7 @@
       <li><a href="?xx=nouns/common_nouns">Common nouns</a> describe <emph>classes</emph> of entity
         – <m>bean</m>
         <fem/>
-        <en>woman</en>, <m>cànan</m>
+        <en>wife, woman</en>, <m>cànan</m>
         <masc/>
         <en>language</en>, <m>uisge</m>
         <masc/>
@@ -81,7 +81,7 @@
     </p>
     <p>Certain nouns have irregular inflection – <ul>
         <li>The (traditional) dative singular form of the feminine common noun <g>bean</g>
-          <en>woman</en> is <g>mnaoi</g>, the genitive is <g>mnatha</g>, the nominative and dative plural
+          <en>wife, woman</en> is <g>mnaoi</g>, the genitive is <g>mnatha</g>, the nominative and dative plural
             forms are <g>mnathan</g>, and the genitive plural is <g>ban</g>.</li>
         <li>The genitive singular form of the common noun <g>cù</g>
           <en>dog</en> is <g>coin</g>, the nominative and dative plural forms are also <g>coin</g>, and
@@ -304,7 +304,7 @@ Also: dhan taigh-bheag, anns an taigh-sheinnse, etc.  -->
                 <li>cinn <g>b[h]alach <emph>m</emph>òra <emph>c</emph>rosta</g>
                   <en>naughty big boys’ heads</en></li>
                 <li>currain <g>b[h]odach-<emph>sn</emph>eachda <emph>ge</emph>ala</g>
-                  <en>white snowmen’s carrots</en> [<emph>alt.</emph> currain b[h]odaich-sneachda
+                  <en>white snowmen’s carrots</en> [<emph>alt.</emph> currain b[h]odaich-s[h]neachda
                   gheala]</li>
               </ul>
             </li>
@@ -361,8 +361,9 @@ Also: dhan taigh-bheag, anns an taigh-sheinnse, etc.  -->
       <p>The sole use of <emph>dative</emph> noun forms is – <ul>
           <li>to introduce the <emph>complement</emph> of a <a href="?xx=prepositions/prepositions"
               >preposition</a> – <g>fon <emph>chraoibh</emph></g>
-            <en>under the tree</en>, <g>le <emph>mnaoi</emph></g>
-            <en>with a woman</en>.</li>
+            <en>under the tree</en>, <g>le <emph>cloich</emph></g>
+            <en>with a stone</en>, (traditional Gaelic) <g>do <emph>mhnaoi</emph></g>
+            <en>to a woman</en>.</li>
         </ul>
       </p>
     </section>

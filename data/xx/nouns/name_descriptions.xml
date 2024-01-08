@@ -4,19 +4,27 @@
   <p>Name-descriptions are <a href="?xx=nouns/names">names</a> which are not (single) <a
       href="?xx=nouns/nouns">nouns</a>. They consist of a specified <a href="?xx=nouns/common_nouns"
       >common noun</a> phrase which identifies and refers to a particular entity – a specific
-    person, place, group <etc/>. Examples of name-descriptions are <g>Bean Alasdair</g>
-    <en>Alexander’s Wife</en>, <g>Am Ploc</g>
-    <en>Plockton</en>, <g>Gàidhlig na h-Èireann</g>
-    <en>Irish Gaelic</en>.</p>
+    person, place, group <etc/>. Examples of name-descriptions are – <ul>
+      <li><g>Bean Alasdair</g>
+        <en>Alexander’s Wife</en></li>
+      <li><g>Am Ploc</g>
+        <en>Plockton</en></li>
+      <li><g>Gàidhlig na h-Èireann</g>
+        <en>Irish Gaelic</en></li>
+  </ul></p>
   <p>Name-descriptions contrast with <a href="?xx=nouns/proper_nouns">proper nouns</a> (names which
-    are also nouns – <g>Mairead</g>
-    <fem/>
-    <en>Margaret</en>, <g>Glaschu</g>
-    <masc/>
-    <en>Glasgow</en>, <g>Gairm</g>
-    <fem/> [literary periodical]). In addition, most specified common noun phrases (‘definite
-    descriptions’) are not names, eg. <g>am balach beag</g> <en>the little boy</en>, <g>cù a’ mhinisteir</g> <en>the minister’s dog</en>.</p>
-
+    are also nouns) – <ul>
+      <li><g>Mairead</g>
+        <fem/>
+        <en>Margaret</en></li>
+      <li><g>Glaschu</g>
+        <masc/>
+        <en>Glasgow</en></li>
+      <li><g>Gairm</g>
+        <fem/> [literary periodical]</li>
+    </ul></p> 
+  <p>In addition, most specified common noun phrases (‘definite descriptions’) are not names, eg.
+    <g>am balach beag</g> <en>the little boy</en>, <g>cù a’ mhinisteir</g> <en>the minister’s dog</en>.</p>
   <section id="forms">
     <h>forms</h>
     <p>Name-descriptions can be classified into two grammatical types, based on the position of the

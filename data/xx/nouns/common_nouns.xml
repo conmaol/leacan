@@ -5,7 +5,7 @@
     be used to identify specific instances of that class, eg. <ul>
       <li><m>bean</m>
         <fem/>
-        <en>woman</en></li>
+        <en>wife, woman</en></li>
       <li><m>cànan</m>
         <masc/>
         <en>language</en></li>
@@ -24,16 +24,18 @@
         <li><!--<a href="?xx=nouns/derived_common_nouns">-->Derived common nouns<!--</a>--> are
           formed from other nouns, adjectives or verbs, typically by addition of a suffix, eg.
             <m>bàrd</m> [masc.] <en>poet</en> → <m>bàrd<emph>achd</emph></m> [fem.] <en>poetry</en>,
-            <m>Leòdhas</m> [masc.] <en>Lewis</en> → <m>Leòdhas<emph>ach</emph></m> [masc.] <en>man
+            <m>Leòdhas</m> [masc.] <en>Lewis</en> → <m>Leòdhas<emph>ach</emph></m> [masc.] <en>person
             from Lewis</en>, <m>ceart</m> [adj.] <en>correct</en> → <m>ceart<emph>as</emph></m>
           [masc.] <en>justice</en>, <m>seall</m> [vb.] <en>look</en> → <m>seall<emph>adh</emph></m>
           [masc.] <en>view</en>.</li>
         <li><!--<a href="?xx=nouns/compound_common_nouns">-->Compound common nouns<!--</a>--> are
-          formed from other common nouns, typically by addition of a <emph>prefix</emph>, eg.
-            <m>mùtaire</m> [masc.] <en>person engaged in an illegal activity</en>, <m>cùl</m>
-          [masc.] <en>back, behind</en> → <m>cùl-mhùtaire</m> [masc.] <en>smuggler</en>;
+          formed from other common nouns, either by addition of a <emph>prefix</emph> or by addition
+          of a (noun or adjective) modifier, eg. <m>mùtaire</m> [masc.] <en>person engaged in an illegal
+          activity</en>, <m>cùl</m> [masc.] <en>back, behind</en> → <m>cùl-mhùtaire</m> [masc.] <en>smuggler</en>;
             <m>aithris</m> [fem.] <en>report, recital</en>, <m>beul</m> [masc.] <en>mouth</en> →
-            <m>beul-aithris</m> [fem.] <en>folklore</en>.</li>
+            <m>beul-aithris</m> [fem.] <en>folklore</en>; <m>taigh</m> [masc.] <en>house</en>, <m>beag</m>
+            <en>small</en> → <m>taigh-beag</m> [masc.] <en>toilet</en>; <m>bean</m> [fem.] <en>woman</en>, 
+            <m>glùine</m> [gen.] <en>knee</en> → <m>bean-ghlùine</m> [fem.] <en>midwife</en>.</li>
         <li><!--<a href="?xx=nouns/simple_common_nouns">-->Simple common nouns<!--</a>--> are not
           formed from other words, eg. <m>taigh</m> [masc.] <en>house</en>, <m>deoch</m> [fem.]
             <en>drink</en>, <m>cù</m> [masc.] <en>dog</en>.</li>
@@ -51,7 +53,7 @@
               <emph>church</emph>.</en>
           <ul>
             <li><m>bean</m>
-              <en>woman, wife</en> – feminine, nominative, singular</li>
+              <en>wife, woman</en> – feminine, nominative, singular</li>
             <li><m>m(h)inisteir</m>
               <en>minister’s</en> – masculine, genitive, singular</li>
             <li><m>leabhraichean</m>
@@ -249,7 +251,7 @@
     </section>
     <section id="apposition">
       <h>apposition</h>
-      <p>A specified common noun can stand in apposition to a proper noun, which does not agree with it for case,
+      <p>A specified common noun can stand in apposition to a proper noun, <m>not</m> agreeing with it for case,
         eg. <g><emph>Dòmhnall</emph> an <emph>sagart</emph></g>
         <en>Donald the priest</en> [nominative case], <g>le <emph>Dòmhnall</emph> an <emph>sagart</emph></g>
         <en>with Donald the priest</en> [dative case], <g>taigh <emph>Dhòmhnaill</emph> an

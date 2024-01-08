@@ -49,18 +49,21 @@
         apostrophe – <g>’san taigh</g>, <g>’sa bhaile</g>, ...</p>
       <p>It is common to use fused forms when the immediately following word is a <a
           href="?xx=nouns/possessive_determiners">possessive determiner</a> – <ul>
-          <li><m>’nam</m> thaigh <en>in my house</en> <!--≈ <g>ann am mo</g> thaigh--></li>
-          <li><m>’nad</m> bhaile <en>in your town</en> <!--≈ <g>ann an do</g> bhaile--></li>
-          <li><m>’na h-</m>òran <en>in her song</en> <!--≈ <g>ann an a h-</g>òran--></li>
-          <li><m>’na</m> chraoibh <en>in his tree</en> <!--≈ <g>ann an a</g> chraoibh--></li>
-          <li><m>’nar n-</m>achadh <en>in our field</en> <!--≈ <g>ann an ar n-</g>achadh--></li>
-          <li><m>’nur</m> leapannan <en>in your beds</en> <!--≈ <g>ann am bhur</g> leapannan--></li>
-          <li><m>’nan</m> taighean <en>in their houses</en> <!--≈ <g>ann an an</g> taighean--></li>
-          <li><m>’nam</m> baile <en>in their town</en> <!--≈ <g>ann an am</g> baile--></li>
+          <li><m>nam</m> thaigh <en>in my house</en> <!--≈ <g>ann am mo</g> thaigh--></li>
+          <li><m>nad</m> bhaile <en>in your town</en> <!--≈ <g>ann an do</g> bhaile--></li>
+          <li><m>na h-</m>òran <en>in her song</en> <!--≈ <g>ann an a h-</g>òran--></li>
+          <li><m>na</m> chraoibh <en>in his tree</en> <!--≈ <g>ann an a</g> chraoibh--></li>
+          <li><m>nar n-</m>achadh <en>in our field</en> <!--≈ <g>ann an ar n-</g>achadh--></li>
+          <li><m>nur</m> leapannan <en>in your beds</en> <!--≈ <g>ann am bhur</g> leapannan--></li>
+          <li><m>nan</m> taighean <en>in their houses</en> <!--≈ <g>ann an an</g> taighean--></li>
+          <li><m>nam</m> baile <en>in their town</en> <!--≈ <g>ann an am</g> baile--></li>
         </ul>
       </p>
-      <p>Note that the fused forms are usually written without the initial apostrophe nowadays,
-        which can lead to confusion with forms of the definite article.</p>
+      <p>Note that the fused forms are often written with an initial apostrophe in older texts, eg.
+        <g>’nam thaigh</g> etc.</p>
+      <p>Other versions are also found in the literature, eg. <g>na mo làmhan</g> <en>in my hands</en>,
+        <g>na do shùilean</g> <en>in your eyes</en> or <g>ann am chridhe</g> <en>in my heart</en>,
+        <g>ann ad nàdar</g> <en>in your nature</en>.</p>
     </section>
     <section id="pronouns">
       <h>prepositional pronouns</h>
@@ -127,9 +130,9 @@
       <h>complement</h>
       <p>Like all (true) prepositions, <g>an</g> governs a noun complement in the dative case.</p>
       <p>These complements can belong to a number of different semantic classes.</p>
-      <section id="deps-comp-human">
+      <!--<section id="deps-comp-human">
         <h>humans</h>
-      </section>
+      </section>-->
       <section id="comp-spatial">
         <h>places and spaces</h>
           <p>Some examples – <ul>
