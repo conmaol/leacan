@@ -3,7 +3,7 @@
     <h>stad</h>
     <p><g>stad</g>
         <en>stop, halt, pause, rest, stall, cease, desist, come/bring to a stop/halt</en> is a
-        (regular) <a href="?xx=verbs/verbs">verb</a>, marking <a href="?q=verbal_aspect"
+        (regular) <!--<a href="?xx=verbs/verbs">verb</a>-->verb, marking <a href="?q=verbal_aspect"
             >cessative</a> verbal aspect, cf. <a href="?gd=sguir"><g>sguir</g></a>
         <vb/>
         <en>stop, cease</en>, <a href="?gd=crìoch"><g>crìoch</g></a>
@@ -426,7 +426,7 @@
                             </li>
                         </ul>
                     </li>
-                    <li>purposive – <ul>
+                    <!--<li>purposive – <ul>
                             <li><g>stad <a href="?gd=do^preposition">do</a> [a] ...</g>
                                 <en>stop to (do)</en> – <ul>
                                     <li>pedagogical examples – <xl id="deps-mods-dha-pedag">
@@ -440,7 +440,7 @@
                                 </ul>
                             </li>
                         </ul>
-                    </li>
+                    </li>-->
                 </ul>
             </p>
             <section id="deps-mods-compounds">
@@ -485,7 +485,7 @@
                         <h>object</h>
                         <module id="uses-derivs-stad-uses-obj-dean" status="bronze">
                             <h>dèan stad</h>
-                            <p><g><a href="?gd=dèan">dèan</a> stad</g>
+                            <p><g><!--<a href="?gd=dèan">dèan</a>-->dèan stad</g>
                                 <en>make a stop, stop</en></p>
                             <p>Pedagogical examples – <xl id="dean_stad-pedag">
                                     <li>

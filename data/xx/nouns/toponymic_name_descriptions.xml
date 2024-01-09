@@ -22,8 +22,8 @@
           <en>North Sutherland</en>, <g>Innis Tìle</g>
           <en>Iceland</en>, <g>Beinn a’ Bhreacaidh</g>
           <en>Ben Vrackie</en>, <g>Loch Obha</g>
-          <en>Loch Awe</en>, <a href="?gd=Eaglais_nam_Manach_Liatha"><g>Eaglais nam Manach
-              Liath(a)</g></a>
+          <en>Loch Awe</en>, <!--<a href="?gd=Eaglais_nam_Manach_Liatha"><g>Eaglais nam Manach
+              Liath(a)</g></a>--><g>Eaglais nam Manach Liath(a)</g>
           <en>Greyfriars Kirk</en>
         </li>
       </ul>

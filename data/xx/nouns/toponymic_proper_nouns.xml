@@ -58,7 +58,7 @@
           <en>Glasgow</en>, <g>Siabost</g>
           <en>Shawbost</en>
           <!-- <boxlink ref="#settlements"/> --></li>
-        <li>countries and continents eg. <a href="?gd=Alba"><g>Alba</g></a>
+        <li>countries and continents eg. <!--<a href="?gd=Alba"><g>Alba</g></a>--><g>Alba</g>
           <en>Scotland</en>, <g>Afraga</g>
           <en>Africa</en>
           <!-- <boxlink ref="#countries"/> --></li>
@@ -70,7 +70,7 @@
           <en>The Tay</en></li>
       </ul>
     </p>
-    <p>Toponymic proper nouns are used as roots for <a href="?xx=nouns/demonyms">demonyms</a> –
+    <p>Toponymic proper nouns are used as roots for <!--<a href="?xx=nouns/demonyms">demonyms</a>-->demonyms –
       adjectives and common nouns describing or referring to a person (or other entity) originating
       from, or otherwise associated with the place identified by the proper noun eg.
         <g>Leòdhasach</g>

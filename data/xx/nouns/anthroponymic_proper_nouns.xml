@@ -23,7 +23,7 @@
       <section id="fem">
         <h>feminine</h>
         <p><ul>
-            <li><a href="?gd=Anna"><g>Anna</g></a>
+            <li><g>Anna</g><!--<a href="?gd=Anna"><g>Anna</g></a>-->
               <en>Anne</en></li>
             <li><g>Cairistìona</g>
               <en>Christine</en></li>
@@ -82,7 +82,7 @@
               <en>Hector</en>, gen. <g>Eachainn</g></li>
             <li><g>Fionnlagh</g>
               <en>Finlay</en>, gen. <g>Fhionnlaigh</g></li>
-            <li><a href="?gd=Iain"><g>Iain</g></a>
+            <li><g>Iain</g><!--<a href="?gd=Iain"><g>Iain</g></a>-->
               <en>John</en></li>
             <li><g>Màrtainn</g>
               <en>Martin</en>, gen. <g>Mhàrtainn</g></li>

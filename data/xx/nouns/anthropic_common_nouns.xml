@@ -5,12 +5,12 @@
         characterise classes of human individual.</p>
     <p>Some important sub-classes of anthropic common nouns are – <ul>
             <li><a href="?xx=nouns/ethnonymic_common_nouns">Ethnonymic common nouns</a> characterise
-                a person in terms of their ethno-cultural heritage or lineage, eg. <a
-                    href="?gd=Gàidheal">Gàidheal</a>
+                a person in terms of their ethno-cultural heritage or lineage, eg. <g>Gàidheal</g><!--<a
+                href="?gd=Gàidheal">Gàidheal</a>-->
                 <masc/>
-                <en>Gael, Highlander</en>, <a href="?gd=Leòdhas">Leòdhasach</a>
+                <en>Gael, Highlander</en>, <g>Leòdhasach</g><!--<a href="?gd=Leòdhas">Leòdhasach</a>-->
                 <masc/>
-                <en>man from Lewis</en>, <a href="?gd=Caimbeul">Caimbeulach</a>
+                <en>man from Lewis</en>, <g>Caimbeulach</g><!--<a href="?gd=Caimbeul">Caimbeulach</a>-->
                 <masc/>
                 <en>a Campbell</en>.</li>
             <li><a href="?xx=nouns/occupational_common_nouns">Occupational common nouns</a>
@@ -24,9 +24,9 @@
         </ul>
     </p>
     <p>Most derived anthropic common nouns are masculine in gender and hence characterise
-        classes of male persons. Specifically feminine/female variants are formed with the prefix <a
-            href="?gd=bean^noun">ban(a)-</a>.</p>
-    <p>The suffix <a href="?gd=_ar">-(e)ar</a> is often used to derive anthropic common
+        classes of male persons. Specifically feminine/female variants are formed with the prefix <g>bana-</g><!--<a
+            href="?gd=bean^noun">ban(a)-</a>-->.</p>
+    <p>The suffix <g>-ear</g><!--<a href="?gd=_ar">-(e)ar</a>--> is often used to derive anthropic common
         nouns.</p>
 
 </module>

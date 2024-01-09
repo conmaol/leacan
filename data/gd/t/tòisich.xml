@@ -517,8 +517,8 @@
                 <module id="toisich_a-rithist" status="bronze">
                     <h>tòisich a-rithist</h>
                     <p><g>tòisich a-rithist</g>
-                        <en>start again, restart, resume</en> is a verb compound. cf. <a
-                            href="?gd=a-rithist"><g>a-rithist</g></a>.</p>
+                        <en>start again, restart, resume</en> is a verb compound. cf. <!--<a
+                            href="?gd=a-rithist"><g>a-rithist</g></a>--><g>a-rithist</g>.</p>
                     <p>Examples from Gairm – <xl id="toisich_a-rithist-gairm">
                             <li>
                                 <gd>A nis, tha an Taghadh Nàiseanta seachad, agus tha Riaghaltas ùr
@@ -546,8 +546,8 @@
                 <module id="toisich_as_ur" status="bronze">
                     <h>tòisich às ùr</h>
                     <p><g>tòisich às ùr</g>
-                        <en>start afresh, make a fresh start, resume</en> is a verb compound. cf. <a
-                            href="?gd=ur-adjective"><g>às ùr</g></a>.</p>
+                        <en>start afresh, make a fresh start, resume</en> is a verb compound. cf. <!--<a
+                            href="?gd=ur-adjective"><g>às ùr</g></a>--><g>às ùr</g>.</p>
                 </module>
             </section>
         </section>
@@ -650,9 +650,9 @@
                 <h>tòisichear <masc/></h>
                 <p><g>tòisichear</g>
                     <en>beginner</en> is an <a href="?xx=nouns/anthropic_common_nouns">anthropic
-                        common noun</a> derived from the verb <g>tòisich</g>, with suffix <a
-                        href="_ar"><g>-(e)ar</g></a>, and with genitive singular <g>tòisicheir</g>
-                    and plural <g>tòisichearan</g>.</p>
+                        common noun</a> derived from the verb <g>tòisich</g>, with suffix <!--<a
+                        href="_ar"><g>-(e)ar</g></a>--><g>-ear</g>, and with genitive singular <g>tòisicheir</g>
+                        and plural <g>tòisichearan</g>.</p>
                 <p>Pedagogical examples – <xl id="toisichear-pedag">
                         <li>
                             <gd>freagarrach do thòisichearan</gd>
