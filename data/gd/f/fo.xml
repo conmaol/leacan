@@ -34,8 +34,9 @@
                     taigh</g>, <g>fon bhaile</g>.</p>
             <!--<p><ed>Add note on ‘fon a-màireach’, ‘fon a h-uile ...’, ‘fon a bheil ...’? Older forms
                     with apostrophes?</ed></p>-->
-            <p>Fused forms are sometimes found when the immediately following word is a <a
-                    href="?xx=nouns/possessive_determiners">possessive determiner</a> – <ul>
+            <p>Fused forms are sometimes found when the immediately following word is a <!--<a
+                    href="?xx=nouns/possessive_determiners">possessive determiner</a>-->
+                    possessive determiner – <ul>
                     <li><m>fo mo</m> thaigh <en>under my house</en> ≈ <g>fom</g> thaigh</li>
                     <li><m>fo do</m> bhaile <en>under your town</en> ≈ <g>fod</g> bhaile</li>
                     <li><m>fo a h-</m>òran <en>under her song</en> ≈ <g>fo h-</g>òran</li>
@@ -88,7 +89,7 @@
             </p>
             <p>Finally, there are also reflexive forms (cf. <bad>fo mi fhìn</bad>, <bad>fo thu
                     fhèin</bad>, ... , <bad>fo iad fhèin</bad>) – <ul>
-                    <li><m>fodham fhìn</m>
+                    <li><m>fodham fhèin / fhìn</m>
                         <en>under myself</en></li>
                     <li><m>fodhad fhèin</m>
                         <en>under yourself</en></li>
@@ -96,7 +97,7 @@
                         <en>under herself/itself</en></li>
                     <li><m>fodha fhèin</m>
                         <en>under himself/itself</en></li>
-                    <li><m>fodhainn fhìn</m>
+                    <li><m>fodhainn fhèin / fhìn</m>
                         <en>under ourselves</en></li>
                     <li><m>fodhaibh fhèin</m>
                         <en>under yourselves</en></li>
@@ -112,7 +113,7 @@
         <h>dependents</h>
         <section id="deps-comps">
             <h>complements</h>
-            <p><g>fon <a href="?gd=uisge">uisge</a></g>
+            <p><g>fon <!--<a href="?gd=uisge">uisge</a>-->uisge</g>
                 <en>underwater</en></p>
         </section>
     </section>
@@ -127,7 +128,7 @@
                     <en>go (to) under ...</en></p>
                 <p>
                     <ul>
-                        <li><g>rach fon <a href="?gd=uisge">uisge</a></g>
+                        <li><g>rach fon <!--<a href="?gd=uisge">uisge</a>-->uisge</g>
                             <en>go underwater</en></li>
                         <li><g>rach fodha*</g>
                             <en>go down, sink, go under</en></li>

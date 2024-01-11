@@ -25,8 +25,9 @@
         </ul>
       </p>
       <!--<p><ed>Add note on ‘ris a-màireach’, ‘ris a h-uile ...’, ‘ris a bheil ...’</ed></p>-->
-      <p>Fused forms are sometimes found when the immediately following word is a <a
-          href="?xx=nouns/possessive_determiners">possessive determiner</a> – <ul>
+      <p>Fused forms are sometimes found when the immediately following word is a <!--<a
+          href="?xx=nouns/possessive_determiners">possessive determiner</a>-->
+          possessive determiner – <ul>
           <li><m>ri mo</m> thaigh <en>to my house</en> ≈ <g>rim</g> thaigh </li>
           <li><m>ri do</m> bhaile <en>to your town</en> ≈ <g>rid</g> bhaile </li>
           <li><m>ri a h-</m>eaglais <en>to her church</en> ≈ <g>ri h-</g>eaglais</li>
@@ -80,7 +81,7 @@
       </p>
       <p>Finally, there are also reflexive forms (cf. <bad>ri mi fhìn</bad>, <bad>ri thu
         fhèin</bad>, ... , <bad>ri iad fhèin</bad>) – <ul>
-          <li><m>rium fhìn</m>
+          <li><m>rium fhèin / fhìn</m>
             <en>at myself</en></li>
           <li><m>riut fhèin</m>
             <en>at yourself</en></li>
@@ -88,7 +89,7 @@
             <en>at herself/itself</en></li>
           <li><m>ris fhèin</m>
             <en>at himself/itself</en></li>
-          <li><m>ruinn fhìn</m>
+          <li><m>ruinn fhèin / fhìn</m>
             <en>at ourselves</en></li>
           <li><m>ruibh fhèin</m>
             <en>at yourself</en></li>

@@ -57,7 +57,7 @@
         </section>
         <section>
             <h>stem</h>
-            <p><a href="?gd=stèidhich"><g>stèidhich</g></a>
+            <p><!--<a href="?gd=stèidhich"><g>stèidhich</g></a>--><g>stèidhich</g>
                 <vb/>
                 <en>establish, found, base</en></p>
             <p><a href="?gd=bun-stèidh"><g>bun-stèidh</g></a> <fem/> <en>origin, basis, foundation</en></p>

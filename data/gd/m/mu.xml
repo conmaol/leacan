@@ -29,8 +29,9 @@
           taigh</g>, <g>mun bhaile</g>.</p>
       <!--<p><ed>Add note on ‘mun a-màireach’, ‘mun a h-uile ...’, ‘mun a bheil ...’? Older
           forms with apostrophes?</ed></p>-->
-      <p>Fused forms are sometimes found when the immediately following word is a <a
-          href="?xx=nouns/possessive_determiners">possessive determiner</a> – <ul>
+      <p>Fused forms are sometimes found when the immediately following word is a <!--<a
+          href="?xx=nouns/possessive_determiners">possessive determiner</a>-->
+          possessive determiner – <ul>
           <li><m>mu mo</m> thaigh <en>about my house</en> ≈ <g>mum</g> thaigh</li>
           <li><m>mu do</m> bhaile <en>about your town</en> ≈ <g>mud</g> bhaile</li>
           <li><m>mu a h-</m>òran <en>about her song</en> ≈ <g>mu h-</g>òran</li>
@@ -85,7 +86,7 @@
         rule, and hence is sometimes found written with a hyphen – <g>uime-san</g>.</p>
       <p>Finally, there are also reflexive forms (cf. <bad>mu mi fhìn</bad>, <bad>mu thu
         fhèin</bad>, ... , <bad>mu iad fhèin</bad>) – <ul>
-          <li><m>umam fhìn</m>
+          <li><m>umam fhèin / fhìn</m>
             <en>about myself</en></li>
           <li><m>umad fhèin</m>
             <en>about yourself</en></li>
@@ -93,7 +94,7 @@
             <en>about herself/itself</en></li>
           <li><m>uime fhèin</m>
             <en>about himself/itself</en></li>
-          <li><m>umainn fhìn</m>
+          <li><m>umainn fhèin / fhìn</m>
             <en>about ourselves</en></li>
           <li><m>umaibh fhèin</m>
             <en>about yourselves</en></li>

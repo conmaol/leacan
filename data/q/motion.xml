@@ -69,7 +69,7 @@
                 </ul>
             </p>
             <p>Trajectory pseudo-prepositions – <ul>
-                    <li><a href="?gd=far^preposition"><g>far</g></a>
+                    <li><!--<a href="?gd=far^preposition"><g>far</g></a>--><g>far</g>
                         <en>off (of), from on</en> (delative)</li>
                 </ul>
             </p>
@@ -333,7 +333,7 @@
                 </ul>
             </p>
             <p>When the starting point of the motion is the (visible) surface of a object, the
-                delative pseudo-preposition <a href="?gd=far^preposition"><g>far</g></a> is used
+                delative pseudo-preposition <!--<a href="?gd=far^preposition"><g>far</g></a>--><g>far</g> is used
                 (rather than ablative <g>bho</g> or elative <g>à</g>). Again, the preposition can be
                 reinforced (and the direction clarified) using the proximal adverbs <a href="?gd=a-nìos">
                     <g>a-nìos</g></a>/<a href="?gd=a-nuas"><g>a-nuas</g></a><!--/<a href="?gd=a-nall">

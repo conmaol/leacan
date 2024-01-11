@@ -42,8 +42,9 @@
                         <en>out of place</en></li>-->
                 </ul>
             </p>
-            <p>There are no fused forms with <g>à</g> and a <a
-                    href="?xx=nouns/possessive_determiners">possessive determiner</a> – <ul>
+            <p>There are no fused forms with <g>à</g> and a <!--<a
+                href="?xx=nouns/possessive_determiners">possessive determiner</a>-->
+                possessive determiner – <ul>
                     <li><m>às mo</m> thaigh <en>out of my house</en></li>
                     <li><m>às do</m> bhaile <en>out of your town</en></li>
                     <li><m>às a h-</m>òran <en>out of her song</en></li>
@@ -95,7 +96,7 @@
             </p>
             <p>Finally, there are also reflexive forms (cf. <bad>à mi fhìn</bad>, <bad>à thu
                     fhèin</bad>, ... , <bad>à iad fhèin</bad>) – <ul>
-                    <li><m>asam fhìn</m>
+                    <li><m>asam fhèin / fhìn</m>
                         <en>out of myself</en></li>
                     <li><m>asad fhèin</m>
                         <en>out of yourself</en></li>
@@ -103,7 +104,7 @@
                         <en>out of herself/itself</en></li>
                     <li><m>às fhèin</m>
                         <en>out of himself/itself</en></li>
-                    <li><m>asainn fhìn</m>
+                    <li><m>asainn fhèin / fhìn</m>
                         <en>out of ourselves</en></li>
                     <li><m>asaibh fhèin</m>
                         <en>out of yourself</en></li>
@@ -290,7 +291,7 @@
 
             <module status="bronze" id="tarraing_a">
                 <h>tarraing à ...</h>
-                <p><g><a href="?gd=tarraing">tarraing</a> à ...</g>
+                <p><g><!--<a href="?gd=tarraing">tarraing</a>-->tarraing à ...</g>
                     <en>tease</en></p>
                 <p>Some examples – <ul id="tarraing-exs">
                         <li>pedagogical examples – <xl id="tarraing-pedag">
@@ -312,7 +313,7 @@
 
             <module status="bronze" id="fada_a">
                 <h>fada à ...</h>
-                <p><g><a href="?gd=fada">fada</a> à ...</g>
+                <p><g><!--<a href="?gd=fada">fada</a>-->fada à ...</g>
                     <en>far (away) from ...</en></p>
                 <p>Some examples – <ul id="fada-exs">
                         <li>pedagogical examples – <xl id="fada-pedag">
@@ -330,7 +331,7 @@
             </module>
             <module status="bronze" id="cinnteach_a">
                 <h>cinnteach à ...</h>
-                <p><g><a href="?gd=cinnteach">cinnteach</a> à ...</g>
+                <p><g><!--<a href="?gd=cinnteach">cinnteach</a>-->cinnteach à ...</g>
                     <en>sure of ...</en></p>
                 <p>Some examples – <ul id="cinnteach-exs">
                         <li>pedagogical examples – <xl id="cinnteach-pedag">

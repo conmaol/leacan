@@ -26,8 +26,9 @@
           <li><m>air na h-</m>itealain <en>on the airplanes</en></li>
         </ul>
       </p>
-      <p>Moreover, there are no fused forms with <g>air</g> and a <a
-          href="?xx=nouns/possessive_determiners">possessive determiner</a> – <ul>
+      <p>Moreover, there are no fused forms with <g>air</g> and a<!--<a
+          href="?xx=nouns/possessive_determiners">possessive determiner</a>-->
+          possessive determiner – <ul>
           <li><m>air mo</m> cheann <en>on my head</en></li>
           <li><m>air do</m> bhòrd <en>on your table</en></li>
             <!-- ROM – But we do get orra for air do < air dho -->
@@ -725,7 +726,7 @@
         </section>
         <section id="immediate">
           <h>immediately retrospective</h>
-          <p>cf. <a href="?gd=dìreach">dìreach</a></p>
+          <p>cf. <!--<a href="?gd=dìreach">dìreach</a>--><g>dìreach</g></p>
           <p>Examples from dictionaries and grammars – <xl id="immediate-dictionary">
               <li>
                 <gd>Tha Màiri dìreach air tighinn. / Tha iad dìreach air falbh. / Tha iad dìreach

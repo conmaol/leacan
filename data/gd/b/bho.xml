@@ -42,8 +42,9 @@
         </ul>
       </p>
       -->
-      <p>Fused forms are sometimes found when the immediately following word is a <a
-          href="?xx=nouns/possessive_determiners">possessive determiner</a> – <ul>
+      <p>Fused forms are sometimes found when the immediately following word is a <!--<a
+          href="?xx=nouns/possessive_determiners">possessive determiner</a>-->
+          possessive determiner – <ul>
           <li><m>bho mo</m> thaigh <en>from my house</en> ≈ <g>bhom</g> thaigh</li>
           <li><m>bho do</m> bhaile <en>from your town</en> ≈ <g>bhod</g> bhaile</li>
           <li><m>bho a h-</m>òran <en>from her song</en> ≈ <g>bho h-</g>òran</li>
@@ -96,7 +97,7 @@
       </p>
       <p>Finally, there are also reflexive forms (cf. <bad>bho mi fhìn</bad>, <bad>bho thu
           fhèin</bad>, ... , <bad>bho iad fhèin</bad>) – <ul>
-          <li><m>bhuam fhìn</m>
+          <li><m>bhuam fhèin / fhìn</m>
             <en>from myself</en></li>
           <li><m>bhuat fhèin</m>
             <en>from yourself</en></li>
@@ -104,7 +105,7 @@
             <en>from herself/itself</en></li>
           <li><m>bhuaithe fhèin</m>
             <en>from himself/itself</en></li>
-          <li><m>bhuainn fhìn</m>
+          <li><m>bhuainn fhèin / fhìn</m>
             <en>from ourselves</en></li>
           <li><m>bhuaibh fhèin</m>
             <en>from yourselves</en></li>
@@ -121,7 +122,7 @@
       <h>complements</h>
       <module status="bronze" id="bho_chionn">
         <h>bho chionn ...</h>
-        <p><g>bho <a href="?gd=ceann">chionn</a></g>
+        <p><g>bho <!--<a href="?gd=ceann">chionn</a>-->chionn</g>
           <en>ago</en></p>
       </module>
     </section>

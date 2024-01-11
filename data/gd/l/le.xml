@@ -25,8 +25,9 @@
                 </ul>
             </p>
             <!-- <p><ed>Add note on ‘leis a-màireach’, ‘leis a h-uile ...’, ‘leis a bheil ...’</ed></p> -->
-            <p>Fused forms are occasionally found when the immediately following word is a <a
-                    href="?xx=nouns/possessive_determiners">possessive determiner</a> – <ul>
+            <p>Fused forms are occasionally found when the immediately following word is a <!--<a
+                    href="?xx=nouns/possessive_determiners">possessive determiner</a>-->
+                    possessive determiner – <ul>
                     <li><m>le mo</m> thaigh <en>with my house</en> ≈ <g>lem</g> thaigh </li>
                     <li><m>le do</m> bhaile <en>with your town</en> ≈ <g>led</g> bhaile </li>
                     <li><m>le a h-</m>eaglais <en>with her church</en> ≈ <g>le h-</g>eaglais</li>
@@ -82,7 +83,7 @@
                 <g>leatha-se</g>.</p>
             <p>Finally, there are also reflexive forms (cf. <bad>le mi fhìn</bad>, <bad>le thu
                     fhèin</bad>, ... , <bad>le iad fhèin</bad>) – <ul>
-                    <li><m>leam fhìn</m>
+                    <li><m>leam fhèin / fhìn</m>
                         <en>with myself</en></li>
                     <li><m>leat fhèin</m>
                         <en>with yourself</en></li>
@@ -90,7 +91,7 @@
                         <en>with herself/itself</en></li>
                     <li><m>leis fhèin</m>
                         <en>with himself/itself</en></li>
-                    <li><m>leinn fhìn</m>
+                    <li><m>leinn fhèin / fhìn</m>
                         <en>with ourselves</en></li>
                     <li><m>leibh fhèin</m>
                         <en>with yourself</en></li>
