@@ -256,8 +256,9 @@ HTML;
    <li>LeaCaG <a href="LeaCaG-2019.pdf" target="_new">grammar guidance</a> (2019)</li>
   <li>What are the irregular verbs in Gaelic? –
   <ul>
-    <li><a href="?gd=abair"><strong>abair</strong></a> ‘say’, <a href="?gd=beir"><strong>beir</strong></a> ‘bear’, <a href="?gd=cluinn"><strong>cluinn</strong></a> ‘hear’, 
-    <a href="?gd=faic"><strong>faic</strong></a> ‘see’, <a href="?gd=faigh"><strong>faigh</strong></a> ‘get’, 
+    <li><a href="?gd=abair"><strong>abair</strong></a> ‘say’, <a href="?gd=beir"><strong>beir</strong></a> ‘bear’,
+    <a href="?gd=cluinn"><strong>cluinn</strong></a> ‘hear’, <a href="?gd=dèan"><strong>dèan</strong></a> ‘do, make’,
+    <a href="?gd=faic"><strong>faic</strong></a> ‘see’, <a href="?gd=faigh"><strong>faigh</strong></a> ‘get’,
     <a href="?gd=rach"><strong>rach</strong></a> ‘go’, <a href="?gd=ruig"><strong>ruig</strong></a> ‘reach’, <a href="?gd=thig"><strong>thig</strong></a> ‘come’,
     <a href="?gd=thoir"><strong>thoir</strong></a> ‘give,take’,
     </li>

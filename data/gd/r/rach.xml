@@ -251,8 +251,8 @@
     <section>
       <h>notes</h>
       <p><ol>
-          <li>The conditional stem varies according to dialect – <g>deigh–</g>, <g>geobh-</g>,
-              <g>rach-</g>, <g>reigh-</g>, <g>reagh-</g>, <g>deidh-</g>.</li>
+          <li>The conditional stem varies according to dialect – <g>deigh-</g> / <g>deidh-</g>,
+              <g>rach-</g>, <g>reigh-</g>, <g>reagh-</g>.</li>
           <li>The future dependent forms in <g>tèid-</g> are pronounced as if they were spelled
               <g>dèid-</g>. </li>
           <li>There is a dialectal alternative to past dependent <g>deach</g> ie.
@@ -842,7 +842,7 @@
                 </li>
               </ul>
             </p>
-            <p>A more emphatic variant is <g>rach gu <a href="?gd=math">math</a> le [duine]</g>
+            <p>A more emphatic variant is <g>rach gu <!--<a href="?gd=math">math</a>-->math le [duine]</g>
               <en>flourish, do well</en> – <ul>
                 <li>pedagogical examples – <xl id="rach_gu_math_le-pedag">
                     <li>
@@ -880,7 +880,7 @@
           <module id="rach_gu_math_do" status="bronze">
             <h>rach gu math do ...</h>
             <p>Yet another way of expressing the notion of success is with the impersonal
-              construction <g>rach gu <a href="?gd=math">math</a> do [dhuine]</g> – <ul>
+              construction <g>rach gu <!--<a href="?gd=math">math</a>-->math do [dhuine]</g> – <ul>
                 <li><m>Chaidh gu math do Raonaid.</m>
                   <en>It went well for Rachel.</en></li>
                 <li><m>An tèid gu math dhut?</m>
@@ -911,7 +911,7 @@
                     </li>
                   </ul>
                 </li>
-                <li>with <a href="?gd=ciamar"><g>ciamar?</g></a>
+                <li>with <!--<a href="?gd=ciamar"><g>ciamar?</g></a>--><g>ciamar?</g>
                   <en>how?</en> – <ul>
                     <li>pedagogical examples – <xl id="rach_ciamar-pedag">
                         <li>
@@ -971,7 +971,7 @@
             <h>prepositions</h>
             <p>There are a number of prepositions which can be used to introduce concrete path
               complements of <g>rach</g> – <ul>
-                <li><g>rach <a href="?gd=dha">dha</a> ...</g> [<g>do</g>, <g>a</g>]
+                <li><g>rach <a href="?gd=do^preposition">do</a> ...</g> [<g>dha</g>/<g>a</g>]
                     <en>go (in)to something</en> – <ul>
                     <li>proper nouns/names – <ul>
                         <li>pedagogical examples – <xl id="comps-do-proper-pedag">
@@ -1273,7 +1273,7 @@
             </p>
             <p>Note also examples with <a href="?gd=air"><g>air</g></a>
               <en>on</en> – <ul>
-                <li><g>rach <a href="?gd=lorg">air lorg</a> ...</g>
+                <li><g>rach <!--<a href="?gd=lorg">air lorg</a>-->air lorg ...</g>
                   <en>go looking for, track, trail</en></li>
                 <li><g>rach <a href="?gd=latha">air làithean saora</a></g>
                   <en>go on holiday/vacation</en>
@@ -1663,7 +1663,7 @@
     <section id="complement">
       <h>complement</h>
       <module status="bronze">
-        <h>... a chaidh/thèid/dheigheadh</h>
+        <h>... a chaidh/thèid/rachadh</h>
         <p>Relative forms of <g>rach</g> can be used as the complement of the positive relative
           particle <a href="?gd=a^relative"><g>a</g></a>.</p>
         <module status="bronze">
@@ -1695,7 +1695,7 @@
             <h>complement</h>
             <module id="a_dol" status="bronze">
               <h>a’ dol</h>
-              <p>When used as the complement of the progressive particle <a href="?gd=aig"
+              <p>When used as the complement of the progressive particle <a href="?gd=ag"
                   ><g>ag</g></a>, as in <g>a’ dol</g>
                 <en>(in the process of) going</en> has progressive meaning, and usually occurs as
                 the predicate of the verb <a href="?gd=bi"><g>bi</g></a>.</p>

@@ -547,7 +547,7 @@
                   <en>come out of ...</en></li>
                 <li><g>thig <a href="?gd=bho">bho</a> ...</g>
                   <en>come from ...</en></li>
-                <li><g>thig <a href="?gd=dha">dha</a> [do/a] ...</g>
+                <li><g>thig <a href="?gd=do^preposition">do</a> [dha/a] ...</g>
                   <en>come (in)to ...</en> – <ul>
                     <li>pedagogical examples – <xl id="comp-do-pedag">
                         <li>
@@ -595,14 +595,14 @@
                   <en>come down</en> (cf. <bad>thig sìos</bad>)</li>
                 <li><g>thig <a href="?gd=a-steach">a-steach</a></g>
                   <en>come in(side)</en> (cf. <bad>thig a-staigh</bad>)</li>
-                <li><g>thig <a href="?gd=an-seo">an·seo</a></g>
-                  <en>come here</en> (cf. <bad>thig an·sin</bad>)</li>
+                <li><g>thig <a href="?gd=an-seo">an seo</a></g>
+                  <en>come here</en> (cf. <bad>thig an sin</bad>)</li>
                 <li><g>thig <a href="?gd=dachaigh">dhachaigh</a></g>
                   <en>come home</en></li>
                 <li><g>thig <a href="?gd=faisg">faisg air ...</a></g>
                   <en>come near, approach</en></li>
                 <li><g>thig <a href="?gd=ionnsaigh">a dh’ionnsaigh ...</a></g>
-                  <en>come (to visit?)</en></li>
+                  <en>come towards, come to visit</en></li>
               </ul>
             </p>
           </section>
@@ -770,9 +770,9 @@
                   </li>
                 </xl></p>
             </module>
-            <module status="bronze" id="a_thighinn">
+            <!--<module status="bronze" id="a_thighinn">
               <h>a thighinn</h>
-            </module>
+            </module>-->
           </section>
         </section>
       </module>

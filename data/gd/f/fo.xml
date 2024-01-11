@@ -113,7 +113,7 @@
         <h>dependents</h>
         <section id="deps-comps">
             <h>complements</h>
-            <p><g>fon <!--<a href="?gd=uisge">uisge</a>-->uisge</g>
+            <p><g>fon <a href="?gd=uisge">uisge</a></g>
                 <en>underwater</en></p>
         </section>
     </section>
@@ -128,7 +128,7 @@
                     <en>go (to) under ...</en></p>
                 <p>
                     <ul>
-                        <li><g>rach fon <!--<a href="?gd=uisge">uisge</a>-->uisge</g>
+                        <li><g>rach fon <a href="?gd=uisge">uisge</a></g>
                             <en>go underwater</en></li>
                         <li><g>rach fodha*</g>
                             <en>go down, sink, go under</en></li>
