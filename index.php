@@ -57,10 +57,10 @@ echo <<<HTML
       <div class="container-fluid">
         <hr/>
         <hr/>
-        <p class="small text-muted">Ungrammatical usages are marked as follows – <span style="color: green">*<span
-      style="font-style: italic; text-decoration-line: underline; text-decoration-style: wavy; text-decoration-color: green;"
-      title="gonny no!">chan do bha iad</span></span>. Copyright for example citations lies with the authors themselves and these are reproduced with permission where possible. 
-        Translations (except where marked otherwise) are indicative, literal and approximate. <span class="text-danger">This page is, and will always be, a work in progress.</mark></p> 
+        <p class="small text-muted">Ungrammatical usages are marked as follows – <strong>*anns an t-uisge</strong>. 
+        <br>Copyright for example citations lies with the authors themselves and these are reproduced with permission where possible. 
+        Translations (except where marked otherwise) are indicative, literal and approximate. 
+        <br><span class="">This page is a work in progress.</mark></p> 
         <hr/>
       </div>
     </footer>
