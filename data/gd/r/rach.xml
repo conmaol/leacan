@@ -1665,7 +1665,7 @@
       <module status="bronze">
         <h>... a chaidh/thèid/rachadh</h>
         <p>Relative forms of <g>rach</g> can be used as the complement of the positive relative
-          particle <a href="?gd=a^relative"><g>a</g></a>.</p>
+          particle <!--<a href="?gd=a^relative"><g>a</g></a>--><g>a</g>.</p>
         <module status="bronze">
           <h>... seo a chaidh</h>
           <p>Used with expressions of time to denote <en>last ..., this past ...</en></p>

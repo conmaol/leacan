@@ -2,7 +2,8 @@
 <module status="bronze">
     <h>latha</h>
     <p><g>latha</g>
-        <en>day</en> is a masculine <a href="?xx=nouns/temporal_unit_nouns">temporal unit</a>
+        <en>day</en> is a masculine <!--<a href="?xx=nouns/temporal_unit_nouns">temporal unit</a>-->
+        temporal unit
         <a href="?xx=nouns/simple_common_nouns">simple common noun</a>.</p>
 
     <section>
@@ -35,7 +36,7 @@
                 </p>
                 <module status="bronze" id="latha_saor">
                     <h>latha saor</h>
-                    <p><g>latha <a href="?gd=saor^adjective">saor</a></g>
+                    <p><g>latha <!--<a href="?gd=saor^adjective">saor</a>-->saor</g>
                         <en>holiday, vacation</en></p>
                     <module status="bronze" id="air_laithean_saora">
                         <h>air làithean saora</h>

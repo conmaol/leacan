@@ -71,7 +71,7 @@
                     <en>hoary</en> – <slen/> lèith(e)</li>
                 <li><g>mall</g>
                     <en>slow</en> – <slen/> moill(e)</li>
-                <li><a href="?gd=math"><g>math</g></a>
+                <li><!--<a href="?gd=math"><g>math</g></a>--><g>math</g>
                     <en>good</en> – <emph>alt.</emph> maith</li>
                 <li><g>mion</g>
                     <en>minute</en> – <slen/> min(e)</li>
@@ -139,12 +139,12 @@
                     <en>catholic</en> – <slen/> coitchinn(e)</li>
                 <li><g>leathann</g>
                     <en>broad</en> – <slen/>
-                    <m>leithn(e)</m></li>
+                    <m>leithne</m></li>
                 <li><g>maiseach</g>
                     <en>beautiful</en> – <slen/> maisich(e)</li>
                 <li><g>uasal</g>
                     <en>noble</en> – <slen/>
-                    <m>uaisl(e)</m></li>
+                    <m>uaisle</m></li>
             </ul>
         </p>
     </section>

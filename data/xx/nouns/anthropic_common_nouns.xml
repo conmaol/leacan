@@ -4,7 +4,8 @@
     <p>Anthropic commons nouns are <a href="?xx=nouns/common_nouns">common nouns</a> that
         characterise classes of human individual.</p>
     <p>Some important sub-classes of anthropic common nouns are – <ul>
-            <li><a href="?xx=nouns/ethnonymic_common_nouns">Ethnonymic common nouns</a> characterise
+            <li><!--<a href="?xx=nouns/ethnonymic_common_nouns">Ethnonymic common nouns</a>--><g>Ethnonymic
+                common nouns</g> characterise
                 a person in terms of their ethno-cultural heritage or lineage, eg. <g>Gàidheal</g><!--<a
                 href="?gd=Gàidheal">Gàidheal</a>-->
                 <masc/>
@@ -13,10 +14,12 @@
                 <en>man from Lewis</en>, <g>Caimbeulach</g><!--<a href="?gd=Caimbeul">Caimbeulach</a>-->
                 <masc/>
                 <en>a Campbell</en>.</li>
-            <li><a href="?xx=nouns/occupational_common_nouns">Occupational common nouns</a>
+            <li><!--<a href="?xx=nouns/occupational_common_nouns">Occupational common nouns</a>-->
+                Occupational common nouns
                 characterise a person in terms of the role or function they perform in the
                 tribe/community/society.</li>
-            <li><a href="?xx=nouns/sectarian_common_nouns">Sectarian common nouns</a> characterise a
+            <li><!--<a href="?xx=nouns/sectarian_common_nouns">Sectarian common nouns</a>-->
+                Sectarian common nouns characterise a
                 person in terms of their religious or philosophical identity of beliefs.</li>
             <li>age-related – <a href="?gd=deich">deugaire</a>
                 <masc/>

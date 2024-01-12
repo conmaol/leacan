@@ -14,7 +14,8 @@
           <en>France</en>, <g>Na h-Ìnnseachan</g>
           <en>India</en>, <g>Am Monadh Ruadh</g>
           <en>The Cairngorms</en>, <g>An Linne Latharnach</g>
-          <en>The Lorne Firth</en>, <a href="?gd=manachainn"><g>A’ Mhanachainn</g></a>
+          <en>The Lorne Firth</en>, <!--<a href="?gd=manachainn"><g>A’ Mhanachainn</g></a>-->
+          <g>A’ Mhanachainn</g>
           <en>Beauly</en>.</li>
         <li><emph>post-specified</emph> toponymic name-descriptions eg. <g>Eilean nam Muc</g>
           <en>Muck</en>, <g>Baile Ùr an t-Slèibhe</g>
