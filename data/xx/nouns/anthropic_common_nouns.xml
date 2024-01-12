@@ -21,7 +21,7 @@
             <li><!--<a href="?xx=nouns/sectarian_common_nouns">Sectarian common nouns</a>-->
                 Sectarian common nouns characterise a
                 person in terms of their religious or philosophical identity of beliefs.</li>
-            <li>age-related – <a href="?gd=deich">deugaire</a>
+            <li>age-related – <!--<a href="?gd=deich">deugaire</a>--><g>deugaire</g>
                 <masc/>
                 <en>teenager</en></li>
         </ul>

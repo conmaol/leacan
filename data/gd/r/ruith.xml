@@ -263,7 +263,7 @@
                                     litrichean leis an litir seo, Iain?” “Théid,” ars Iain,
                                     “falbhaidh mi an dràsda”. “Fuirich gus an dùin mi i is gus an
                                     cuir mi seòladh oirre. Ceannaich fhéin stamp agus cuir oirre i.”
-                                        <m>Tha <u>Iain</u> a’ ruith</m> sìos an rathad leis an litir
+                                        <m>Tha Iain a’ ruith</m> sìos an rathad leis an litir
                                     ’na làimh. </gd>
                                 <tr>My mother is writing a letter to my father who is away. My
                                     mother said, “Will you go to the postbox with this letter,
@@ -283,7 +283,7 @@
                                     “Carson nach do bhàsaich thu o chionn leth-cheud bliadhna,” dh’
                                     éigh Màiri. Bha i smaoineachadh air na gnothaichean ud fhathast!
                                     “Greas ort leis an tea,” ars a màthair. Agus, mu dheireadh. “A’
-                                    chlann òga an diugh, chan eil fhios dé <m><u>na smaointean</u>
+                                    chlann òga an diugh, chan eil fhios dé <m>na smaointean
                                         th[a] ruith</m> orra. Tha iad air bhoil, air bhoil.”</gd>
                                 <tr>[...] Her voice grew louder. “One thing is certain, not one
                                     stranger will leave [go out?] with my child. She will not go to
@@ -390,12 +390,11 @@
             </p>
         </section>
     </section>
-
     <section>
         <h>uses</h>
         <section>
             <h>derivatives</h>
-            <module id="ruith-noun">
+            <section id="ruith-noun">
                 <h>ruith</h>
                 <p><g>ruith</g>
                     <en>running</en> is a feminine derived common noun.</p>
@@ -403,12 +402,12 @@
                     <h>uses</h>
                     <section>
                         <h>complement</h>
-                        <module id="a_ruith">
+                        <section id="a_ruith">
                             <h>a’ ruith</h>
                             <p><g>(bi) a’ ruith</g>
                                 <en>be running</en> is a progressive verb compound, with the
                                 deverbal noun appearing as the complement of the progressive
-                                particle <a href="?gd=aig"><g>ag</g></a>.</p>
+                                particle <a href="?gd=ag"><g>ag</g></a>.</p>
                             <p>Examples –<ul>
                                     <li>older pedagogical examples – <xl id="a_ruith-older-pedag">
                                             <li>
@@ -460,14 +459,11 @@
                                             </li>
                                         </xl>
                                     </li>
-
                                 </ul></p>
-
-                        </module>
+                            </section>
                     </section>
                 </section>
-
-            </module>
+            </section>
         </section>
     </section>
 

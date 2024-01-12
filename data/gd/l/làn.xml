@@ -8,7 +8,7 @@
         <section id="deps-comps">
             <h>complements</h>
             <module status="bronze" id="deps-comps-_dhe">
-                <h>làn dhe ...</h>
+                <h>làn de ...</h>
                 <p>cf. <a href="?gd=de"><g>de</g></a>
                     <en>of</en></p>
                 <p>Some examples – <ul>
@@ -36,7 +36,7 @@
         </section>
         <section id="deps-spr">
             <h>specifier</h>
-            <p><g>làn <a href="?gd=rionnag">rionnagan</a></g>
+            <p><g>làn <!--<a href="?gd=rionnag">rionnagan</a>-->rionnagan</g>
                 <en>starry</en></p>
         </section>
     </section>

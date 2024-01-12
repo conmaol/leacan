@@ -282,7 +282,7 @@ HTML;
 <hr/>
 <p class="small text-muted">LEACAN is being developed by <a href="https://dasg.ac.uk" target="_new">DASG</a> and 
         <a href="http://www.soillse.ac.uk" target="_new">Soillse</a>, as part of the <a href="https://www.gaidhlig.scot" target="_new">Bòrd na Gàidhlig</a>-funded LEACAN project.
-        Current team members are Dr Mark McConville, Dr David Mandic, Professor Roibeard Ó Maolalaigh (Glasgow University), 
+        Current team members are Dr Mark McConville, Dr David Mandić, Professor Roibeard Ó Maolalaigh (Glasgow University), 
         Professor William Lamb (Edinburgh University), Gordon Wells, Padruig Moireach (UHI), Jo NicDhòmhnaill, Ian MacDhòmhnaill and Mòrag NicLeòid. 
         The following people contributed to previous phases of this work – Dr Susan Ross, Professor Wilson McLeod, Professor Richard Cox, 
         Charles Wilson, Dr Domhnall Uilleam Stiùbhart, Ailean Caimbeul, Catrìona Chaimbeul, Ruairidh MacIllEathain, 

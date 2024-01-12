@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
 <module status="bronze">
     <h>simple verbs</h>
-    <p>Simple verbs are <a href="?xx=verbs/verbs">verbs</a> that are not formed from other
+    <p>Simple verbs are <!--<a href="?xx=verbs/verbs">verbs</a>-->verbs that are not formed from other
         words.</p>
     <p>List of irregular verbs – <ul>
             <li><a href="?gd=rach"><g>rach</g></a>

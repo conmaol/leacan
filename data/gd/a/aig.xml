@@ -29,8 +29,8 @@
           <li><m>aig na h-</m>eaglaisean <en>at the churches</en></li>
         </ul>
       </p>
-      <p>Fused forms with <g>aig</g> and a <a href="?xx=nouns/possessive_determiners">possessive determiner</a>
-        are uncommon in contemporary Gaelic usage – <ul>
+      <p>Fused forms with <g>aig</g> and a <!--<a href="?xx=nouns/possessive_determiners">possessive determiner</a>-->
+        possessive determiner are uncommon in contemporary Gaelic usage – <ul>
           <li><m>aig mo</m> thaigh <en>at my house</en> <!--≈ <g>gam</g> thaigh--></li>
           <li><m>aig do</m> bhaile <en>at your town</en> <!--≈ <g>gad</g> bhaile--></li>
           <li><m>aig a h-</m>eaglais <en>at her church</en> <!--≈ <g>ga h-</g>eaglais--></li>
@@ -802,9 +802,9 @@
           </ul>
         </p>
         <p>See also – <ul>
-            <li><g>bi <a href="?gd=fios">fios</a> aig ...</g>
+            <li><g>bi <!--<a href="?gd=fios">fios</a>-->fios aig ...</g>
               <en>know that ...</en></li>
-            <li><g>bi <a href="?gd=sgeul">sgeul</a> air ... aig ...</g>
+            <li><g>bi <!--<a href="?gd=sgeul">sgeul</a>-->sgeul air ... aig ...</g>
               <en>know where something is</en></li>
           </ul>
         </p>
@@ -812,7 +812,7 @@
       <section id="uses-pred-other">
         <h>other</h>
         <p>Some idioms – <ul>
-            <li><g>bi <a href="?gd=feum">feum</a> air ... aig ...</g>
+            <li><g>bi <!--<a href="?gd=feum">feum</a>-->feum air ... aig ...</g>
               <en>need something</en></li>
           </ul>
         </p>
@@ -833,7 +833,7 @@
       <h>complement</h>
       <p>The <g>aig</g> prepositional pronouns (only plural forms) are occasionally found
         used as the complement of a quantity noun, with a partitive meaning, as an alternative
-        to the more usual <a href="?gd=de"><g>de</g> [<g>a</g>]</a>
+        to the more usual <a href="?gd=de"><g>de</g></a> [<g>a</g>]
         <en>of</en> – <ul>
           <li><g>mòran aca</g>
             <en>many of them</en></li>

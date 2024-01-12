@@ -178,9 +178,9 @@
         </section>
         <section>
             <h>derivatives</h>
-            <module>
-                <h>an·siud</h>
-                <p><a href="?gd=an-siud"><g>an·siud</g></a>
+            <section>
+                <h>an siud</h>
+                <p><a href="?gd=an-siud"><g>an siud</g></a>
                     <en>over there, at that place over there</en> is the demonstrative adverb
                     derived from <g>siud</g>.</p>
                 <p>Pedagogical examples – <xl id="adverb-pred-pedag">
@@ -191,7 +191,7 @@
                         </li>
                     </xl>
                 </p>
-            </module>
+            </section>
         </section>
     </section>
 </module>

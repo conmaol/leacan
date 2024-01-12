@@ -154,9 +154,9 @@
         </section>
         <section>
             <h>derivatives</h>
-            <module>
-                <h>an·sin</h>
-                <p><a href="?gd=an-sin"><g>an·sin</g></a>
+            <section>
+                <h>an sin</h>
+                <p><a href="?gd=an-sin"><g>an sin</g></a>
                     <en>there, at that place</en> is the demonstrative adverb derived from
                         <g>sin</g>.</p>
                 <p>Pedagogical examples – <xl id="adverb-pred-pedag">
@@ -175,7 +175,7 @@
                         </li>
                     </xl>
                 </p>
-            </module>
+            </section>
         </section>
     </section>
 </module>
