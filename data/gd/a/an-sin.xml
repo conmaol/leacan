@@ -78,7 +78,7 @@
         </section>
         <section id="compounds">
             <h>compounds</h>
-            <section>
+            <module status="bronze">
                 <h>thall an sin</h>
                 <p><g>an sin</g> can be emphasised with (indefinite) <!--<a href="?gd=thall"
                             ><g>thall</g></a>--><g>thall</g>
@@ -91,7 +91,7 @@
                         </li>
                     </xl>
                 </p>
-            </section>
+            </module>
         </section>
     </section>
 

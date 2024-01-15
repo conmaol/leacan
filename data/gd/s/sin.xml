@@ -154,7 +154,7 @@
         </section>
         <section>
             <h>derivatives</h>
-            <section>
+            <module status="bronze">
                 <h>an sin</h>
                 <p><a href="?gd=an-sin"><g>an sin</g></a>
                     <en>there, at that place</en> is the demonstrative adverb derived from
@@ -175,7 +175,7 @@
                         </li>
                     </xl>
                 </p>
-            </section>
+            </module>
         </section>
     </section>
 </module>

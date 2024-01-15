@@ -50,7 +50,7 @@
         </section>
         <section id="compounds">
             <h>compounds</h>
-            <section>
+            <module status="bronze">
                 <h>a-bhos an seo</h>
                 <p><g>an seo</g> can be emphasised with (indefinite) <!--<a href="?gd=a-bhos"
                             ><g>a-bhos</g></a>--><g>a-bhos</g>
@@ -63,7 +63,7 @@
                         </li>
                     </xl>
                 </p>
-            </section>
+            </module>
         </section>
         <section id="complement">
             <h>complement</h>
