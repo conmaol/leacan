@@ -7,7 +7,7 @@
   <section id="deps">
     <h>dependents</h>
     <p>Like other proper nouns, toponymic proper nouns can be modified by an attributive
-        <emph>adjective</emph> eg. <g>Alba Nuadh</g>
+        <emph>adjective</emph>, e.g. <g>Alba Nuadh</g>
       <en>Nova Scotia</en>, <g>Sasainn Nuadh</g>
       <en>New England</en>, <g>Lannraig Ùr</g>
       <en>New Lanark</en>, <g>Beàrnaraigh Mòr</g>
@@ -17,19 +17,19 @@
     <p>Toponymic proper nouns can be modified by one of the following four directional prepositional
       phrases – <ul>
         <li><g>a Tuath</g>
-          <en>North(ern)</en> eg. <g>Uibhist a Tuath</g>
+          <en>North(ern)</en>, e.g. <g>Uibhist a Tuath</g>
           <en>North Uist</en>, <g>Aimearaga a Tuath</g>
           <en>North America</en></li>
         <li><g>a Deas</g>
-          <en>South(ern)</en> eg. <g>Uibhist a Deas</g>
+          <en>South(ern)</en>, e.g. <g>Uibhist a Deas</g>
           <en>South Uist</en>, <g>Afraga a Deas</g>
           <en>South(ern) Africa</en></li>
         <li><g>an Ear</g>
-          <en>East(ern)</en> eg. <g>Ros an Ear</g>
+          <en>East(ern)</en>, e.g. <g>Ros an Ear</g>
           <en>Easter Ross</en>, <g>Lodainn an Ear</g>
           <en>East Lothian</en></li>
         <li><g>an Iar</g>
-          <en>West(ern)</en> eg. <g>Ros an Iar</g>
+          <en>West(ern)</en>, e.g. <g>Ros an Iar</g>
           <en>Wester Ross</en>, <g>Lodainn an Iar</g>
           <en>West Lothian</en></li>
       </ul>
@@ -50,29 +50,29 @@
     <h>uses</h>
     <p>Like other toponyms, toponymic proper nouns can be classified <emph>semantically</emph>
       according to the kind of geographical entity they refer to – <ul>
-        <li>islands and districts eg. <g>Cataibh</g>
+        <li>islands and districts, e.g. <g>Cataibh</g>
           <en>Sutherland</en>, <g>Barraigh</g>
           <en>Barra</en>
           <!-- <boxlink ref="#districts"/> --></li>
-        <li>towns and settlements eg. <g>Glaschu</g>
+        <li>towns and settlements, e.g. <g>Glaschu</g>
           <en>Glasgow</en>, <g>Siabost</g>
           <en>Shawbost</en>
           <!-- <boxlink ref="#settlements"/> --></li>
-        <li>countries and continents eg. <!--<a href="?gd=Alba"><g>Alba</g></a>--><g>Alba</g>
+        <li>countries and continents, e.g. <!--<a href="?gd=Alba"><g>Alba</g></a>--><g>Alba</g>
           <en>Scotland</en>, <g>Afraga</g>
           <en>Africa</en>
           <!-- <boxlink ref="#countries"/> --></li>
-        <li>mountains and uplands eg. <g>Sùilebheinn</g>
+        <li>mountains and uplands, e.g. <g>Sùilebheinn</g>
           <en>Suilven</en>, <g>Dris</g>
           <en>Driesh</en></li>
-        <li>rivers eg. <g>Cluaidh</g>
+        <li>rivers, e.g. <g>Cluaidh</g>
           <en>The Clyde</en>, <g>Tatha</g>
           <en>The Tay</en></li>
       </ul>
     </p>
     <p>Toponymic proper nouns are used as roots for <!--<a href="?xx=nouns/demonyms">demonyms</a>-->demonyms –
       adjectives and common nouns describing or referring to a person (or other entity) originating
-      from, or otherwise associated with the place identified by the proper noun eg.
+      from, or otherwise associated with the place identified by the proper noun, e.g.
         <g>Leòdhasach</g>
       <en>(person) from Lewis</en>, <g>Albannach</g>
       <en>(person) from Scotland</en>.</p>

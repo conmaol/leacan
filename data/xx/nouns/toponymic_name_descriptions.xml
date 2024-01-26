@@ -8,7 +8,7 @@
     <h>dependents</h>
     <p>Like other name-descriptions, toponymic name-descriptions can be classified into two
       grammatical types – <ul>
-        <li><emph>pre-specified</emph> toponymic name-descriptions eg. <g>An t-Eilean Dubh</g>
+        <li><emph>pre-specified</emph> toponymic name-descriptions, e.g. <g>An t-Eilean Dubh</g>
           <en>The Black Isle</en>, <g>A’ Chomraich</g>
           <en>Applecross</en>, <g>An Fhraing</g>
           <en>France</en>, <g>Na h-Ìnnseachan</g>
@@ -17,7 +17,7 @@
           <en>The Lorne Firth</en>, <!--<a href="?gd=manachainn"><g>A’ Mhanachainn</g></a>-->
           <g>A’ Mhanachainn</g>
           <en>Beauly</en>.</li>
-        <li><emph>post-specified</emph> toponymic name-descriptions eg. <g>Eilean nam Muc</g>
+        <li><emph>post-specified</emph> toponymic name-descriptions, e.g. <g>Eilean nam Muc</g>
           <en>Muck</en>, <g>Baile Ùr an t-Slèibhe</g>
           <en>Newtonmore</en>, <g>Dùthaich MhicAoidh</g>
           <en>North Sutherland</en>, <g>Innis Tìle</g>
@@ -34,16 +34,16 @@
     <h>uses</h>
     <p>Like other toponyms, toponymic name-descriptions can be classified semantically according to
       the kind of geographical entity they refer to – <ul>
-        <li>islands and districts eg. <g>An t-Eilean Dubh</g>, <g>Eilean nam Muc</g>, <g>Dùthaich
+        <li>islands and districts, e.g. <g>An t-Eilean Dubh</g>, <g>Eilean nam Muc</g>, <g>Dùthaich
             MhicAoidh</g>
           <!--<boxlink ref="#districts"/>--></li>
-        <li>towns and settlements eg. <g>A’ Chomraich</g>, <g>Baile Ùr an t-Slèibhe</g>
+        <li>towns and settlements, e.g. <g>A’ Chomraich</g>, <g>Baile Ùr an t-Slèibhe</g>
           <!--<boxlink ref="#settlements"/>--></li>
-        <li>countries and continents eg. <g>An Fhraing</g>, <g>Na h-Ìnnseachan</g>, <g>Innis
+        <li>countries and continents, e.g. <g>An Fhraing</g>, <g>Na h-Ìnnseachan</g>, <g>Innis
             Tìle</g>
           <!--<boxlink ref="#countries"/>--></li>
-        <li>mountains and uplands eg. <g>Beinn a’ Bhreacaidh</g>, <g>Am Monadh Ruadh</g></li>
-        <li>rivers, lakes and seas eg. <g>An Linne Latharnach</g>, <g>Loch Obha</g>
+        <li>mountains and uplands, e.g. <g>Beinn a’ Bhreacaidh</g>, <g>Am Monadh Ruadh</g></li>
+        <li>rivers, lakes and seas, e.g. <g>An Linne Latharnach</g>, <g>Loch Obha</g>
           <!--<boxlink ref="#water"/>--></li>
       </ul>
     </p>
@@ -53,7 +53,7 @@
 
   <section id="lenition">
     <h>lenition</h>
-    <p>The head (ie. initial) noun in a (post-specified) toponymic name-description which is itself
+    <p>The head (i.e. initial) noun in a (post-specified) toponymic name-description which is itself
       the (genitive) (post-)specifier of another noun seems to be traditionally not lenited – <ul>
         <li><g>mullach <emph>B</emph>einn Nibheis</g>
           <en>the summit of Ben Nevis</en></li>

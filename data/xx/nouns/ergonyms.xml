@@ -58,7 +58,7 @@
   <section id="name_descriptions">
     <h>ergonymic name-descriptions</h>
     <p>Pre-specified <toggle href="pre-specified"/></p>
-    <p>eg. <a href="?gd=easbaig">An Eaglais Easbaigeach</a>
+    <p>e.g. <a href="?gd=easbaig">An Eaglais Easbaigeach</a>
       <en>The Episcopal Church</en>, <a href="?gd=coitheanalach">An Eaglais Choitheanalach</a>
       <en>The Congregational(ist) Church</en></p>
     <ctable id="pre-specified">
