@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0"?>
 <module status="silver">
   <h>generic quantity nouns</h>
   <p>Generic quantity nouns are <a href="?xx=nouns/common_nouns">common nouns</a> which can be used
@@ -37,7 +37,7 @@
       <h>indefinite</h>
       <p>When what is being quantified can be inferred from context, the generic quantity noun can
         occur on its own – <ul>
-          <li>Dh’ith Mairead <m>mòran</m>. <en>Margaret ate a lot.</en></li>
+          <li>Dh’ith Mairead <m>tòrr</m>. <en>Margaret ate a lot.</en></li>
           <!-- Jo NicDh – For Margaret ate a lot I would say Dh’ith Mairead tòrr.  However I  would say Dh’ith Mairead mòran uighean/ùbhlan/ isbein etc  -->
           <li>Tha <m>tuilleadh</m> aig Iain. <en>John has more.</en></li>
         </ul>
@@ -53,7 +53,7 @@
     <section id="partitive">
       <h>partitive</h>
       <p>When what is being quantified is definite (usually an entity already invoked in the
-        discourse), it can be introduced by the partitive preposition <a href="?gd=dhe"><g>de</g></a>
+        discourse), it can be introduced by the partitive preposition <a href="?gd=de"><g>de</g></a>
         <en>of</en> governing a specified (definite) noun – <ul>
           <li>Dh’òl Raonaid <m>beagan <emph>den fhìon</emph></m>. <en>Rachel drank a little of the
               wine.</en></li>
@@ -67,15 +67,16 @@
           <li>Tha <m>uiread <emph>dhiubh</emph></m> aig Iain! <en>John has so many of them!</en></li>
         </ul>
       </p>
-      <p>Note that phrases like the following are not acceptable partitives – <bad>beagan an
-          fheòla</bad> for <en>a little of the meat</en> (cf. the correct form <g>beagan den
-          fheòil</g>), <bad>ar cus</bad> for <en>too many of us</en> (cf. the correct forms <g>cus
+      <p>Note that phrases like the following, with genitives or possessive pronouns, are not acceptable 
+          partitives – <bad>beagan an fheòla</bad> for <en>a little of the meat</en> (cf. the correct form
+          <g>beagan den fheòil</g>), <bad>ar cus</bad> for <en>too many of us</en> (cf. the correct forms <g>cus
           dhinn</g> or <g>cus againn</g>).</p>
     </section>
-    <section id="idiomatic">
+
+    <!--<section id="idiomatic">
       <h>idiomatic</h>
       <p>When what is being quantified is generic information about something, the generic quantity
-        noun can be followed directly by <!--<a href="?gd=mu">--><g>mu</g>
+        noun can be followed directly by <a href="?gd=mu"><g>mu</g>
         <en>about</en> – <ul>
           <li>Dh’ionnsaich Raonaid <m>pailteas <emph>mu fhìon</emph></m>. <en>Rachel has learned plenty
               about wine.</en></li>
@@ -83,17 +84,17 @@
               about dogs.</en></li>
         </ul>
       </p>
-      <!--
       <p>A generic quantity noun can often be followed by the preposition <a href="?gd=ri"
           ><g>ri</g></a> and a verbal noun – <ul>
-          <li>Tha <m>beagan</m> aig Raonaid <m><emph>ri òl</emph></m>. <en>Rachel has a little [still] to
+          <li>Tha <m>beagan</m> aig Raonaid <m><emph>ri òl</emph></m>. <en>Rachel has a little to
               drink.</en></li>
           <li>Tha <m>cus</m> aig Màiri <m><emph>ri dhèanamh</emph></m>. <en>Mary has too much to
             do.</en></li>
         </ul>
       </p>
-      -->
-    </section>
+
+    </section>-->
+
   </section>
   <section id="list">
     <h>see also</h>
@@ -101,9 +102,9 @@
         <li>simple <ul>
             <li>large – <a href="?gd=mòran"><g>mòran</g></a>
               <masc/>
-              <en>lot, many, much</en>, <!--<a href="?gd=tòrr">--><g>tòrr</g>
+              <en>a lot, many, much</en>, <!--<a href="?gd=tòrr">--><g>tòrr</g>
               <masc/>
-              <en>heap, mass</en>, (an t-)<!--<a href="?gd=uabhas">--><g>uabhas</g>
+              <en>heap, mass, a lot</en>, <!--<a href="?gd=uabhas">--><g>an t-uabhas</g>
               <masc/>
               <en>enormity, great quantity, awful lot</en></li>
             <li>small – <!--<a href="?gd=beagan">--><g>beagan</g><!--</a>-->
@@ -134,14 +135,14 @@
           </ul>
         </li>
         <li>indirectly comparative <ul>
-            <li>excessive – <!--<a href="?gd=anabharr">--><g>anabharr</g>
+            <li>excessive – <!--<a href="?gd=anabharr">--><g>anabarr</g>
               <masc/>
               <en>excess, redundancy, superfluity</en>, <a href="?gd=cus"><g>cus</g></a>
               <masc/>
               <en>glut, too much/many, surfeit</en></li>
             <li>sufficient – <a href="?gd=leòr"><g>leòr</g></a>
               <fem/>
-              <en>satiety, sufficiency, enough</en>, <!--<a href="?gd=neart">--><g>neart</g>
+              <en>satiety, sufficiency, enough, plenty</en>, <!--<a href="?gd=neart">--><g>neart</g>
               <masc/>
               <en>plenty, abundance</en>, <!--<a href="?gd=pailteas">--><g>pailteas</g>
               <masc/>

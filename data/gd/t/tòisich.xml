@@ -2,8 +2,8 @@
 <module status="bronze">
     <h>tòisich</h>
     <p><g>tòisich</g>
-        <en>start, begin, commence, inaugurate, launch, originate</en> is a (regular) <a
-            href="?xx=verbs/verbs">verb</a>, derived from the noun <a href="?gd=toiseach"
+        <en>start, begin, commence, inaugurate, launch, originate</en> is a (regular) <!--<a
+            href="?xx=verbs/verbs">-->verb<!--</a>-->, derived from the noun <a href="?gd=toiseach"
                 ><g>toiseach</g></a>, and with verbal noun <g>tòiseachadh</g>
         <masc/>
         <g>tòisich</g> marks <a href="?q=verbal_aspect">inchoative</a> verbal aspect, cf. <a
@@ -13,9 +13,9 @@
     <section id="forms">
         <h>forms</h>
         <p>The principal parts of <g>tòisich</g> are – <ul>
-                <li><m>tòisichidh</m> – future independent ie. <en>will start</en></li>
-                <li><m>thòisich</m> – past independent ie. <en>started</en></li>
-                <li><m>tòiseachadh</m> – verbal noun ie. <en>starting</en></li>
+                <li><m>tòisichidh</m> – future independent, i.e. <en>will start</en></li>
+                <li><m>thòisich</m> – past independent, i.e. <en>started</en></li>
+                <li><m>tòiseachadh</m> – verbal noun, i.e. <en>starting</en></li>
             </ul>
         </p>
         <section id="tense">
@@ -90,7 +90,31 @@
                 </ul>
             </p>
         </section>
-
+        <section id="imperative"> 
+            <h>imperative</h>
+            <p>
+                <ul>
+                    <li>independent <ul id="independent">
+                            <li>first person singular – <m>tòisicheam</m>!</li> 
+                            <li>second person singular – <m>tòisich</m>!</li>
+                            <li>first person plural – <m>tòisicheamaid</m>!</li>
+                            <li>second person plural – <m>tòisichibh</m>!</li>
+                            <li>third person – <m>tòisicheadh</m>!</li>
+                            <li>passive – <m>tòisich(t)ear</m>!</li>
+                        </ul>
+                    </li> 
+                    <li>dependent <ul id="dependent">
+                            <li>first person singular – <m>na tòisicheam</m>!</li> 
+                            <li>second person singular – <m>na tòisich</m>!</li>
+                            <li>first person plural – <m>na tòisicheamaid</m>!</li>
+                            <li>second person plural – <m>na tòisichibh</m>!</li>
+                            <li>third person – <m>na tòisicheadh</m>!</li>
+                            <li>passive – <m>na tòisich(t)ear</m>!</li>
+                        </ul>
+                    </li>
+                </ul>
+            </p>
+        </section>
 
         <!--
         <p>The full forms of <g>tòisich</g> are – 
@@ -493,8 +517,8 @@
                 <module id="toisich_a-rithist" status="bronze">
                     <h>tòisich a-rithist</h>
                     <p><g>tòisich a-rithist</g>
-                        <en>start again, restart, resume</en> is a verb compound. cf. <a
-                            href="?gd=a-rithist"><g>a-rithist</g></a>.</p>
+                        <en>start again, restart, resume</en> is a verb compound. <!--cf. <a
+                            href="?gd=a-rithist"><g>a-rithist</g></a>-->.</p>
                     <p>Examples from Gairm – <xl id="toisich_a-rithist-gairm">
                             <li>
                                 <gd>A nis, tha an Taghadh Nàiseanta seachad, agus tha Riaghaltas ùr
@@ -522,8 +546,8 @@
                 <module id="toisich_as_ur" status="bronze">
                     <h>tòisich às ùr</h>
                     <p><g>tòisich às ùr</g>
-                        <en>start afresh, make a fresh start, resume</en> is a verb compound. cf. <a
-                            href="?gd=ur-adjective"><g>às ùr</g></a>.</p>
+                        <en>start afresh, make a fresh start, resume</en> is a verb compound. <!--cf. <a
+                            href="?gd=ur-adjective"><g>às ùr</g></a>-->.</p>
                 </module>
             </section>
         </section>
@@ -626,9 +650,9 @@
                 <h>tòisichear <masc/></h>
                 <p><g>tòisichear</g>
                     <en>beginner</en> is an <a href="?xx=nouns/anthropic_common_nouns">anthropic
-                        common noun</a> derived from the verb <g>tòisich</g>, with suffix <a
-                        href="_ar"><g>-(e)ar</g></a>, and with genitive singular <g>tòisicheir</g>
-                    and plural <g>tòisichearan</g>.</p>
+                        common noun</a> derived from the verb <g>tòisich</g>, with suffix <!--<a
+                        href="_ar"><g>-(e)ar</g></a>--><g>-ear</g>, and with genitive singular <g>tòisicheir</g>
+                        and plural <g>tòisichearan</g>.</p>
                 <p>Pedagogical examples – <xl id="toisichear-pedag">
                         <li>
                             <gd>freagarrach do thòisichearan</gd>

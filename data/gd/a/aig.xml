@@ -29,21 +29,21 @@
           <li><m>aig na h-</m>eaglaisean <en>at the churches</en></li>
         </ul>
       </p>
-      <p>Fused forms are occasionally found when the immediately following word is a <a
-          href="?xx=nouns/possessive_determiners">possessive determiner</a> – <ul>
-          <li><m>aig mo</m> thaigh <en>at my house</en> ≈ <g>gam</g> thaigh </li>
-          <li><m>aig do</m> bhaile <en>at your town</en> ≈ <g>gad</g> bhaile </li>
-          <li><m>aig a h-</m>eaglais <en>at her church</en> ≈ <g>ga h-</g>eaglais</li>
+      <p>Fused forms with <g>aig</g> and a <!--<a href="?xx=nouns/possessive_determiners">possessive determiner</a>-->
+        possessive determiner are uncommon in contemporary Gaelic usage – <ul>
+          <li><m>aig mo</m> thaigh <en>at my house</en> <!--≈ <g>gam</g> thaigh--></li>
+          <li><m>aig do</m> bhaile <en>at your town</en> <!--≈ <g>gad</g> bhaile--></li>
+          <li><m>aig a h-</m>eaglais <en>at her church</en> <!--≈ <g>ga h-</g>eaglais--></li>
           <li>
-            <m>aig a</m> chraoibh <en>at his tree</en> ≈ <g>ga</g> chraoibh</li>
-          <li><m>aig ar n-</m>achadh <en>at our field</en> ≈ <g>gar n-</g>achadh</li>
-          <li><m>aig bhur</m> leapannan <en>at your beds</en> ≈ <g>gur</g> leapannan</li>
-          <li><m>aig an</m> taighean <en>at their houses</en> ≈ <g>gan</g> taighean</li>
-          <li><m>aig am</m> baile <en>at their town</en> ≈ <g>gam</g> baile</li>
+            <m>aig a</m> chraoibh <en>at his tree</en> <!--≈ <g>ga</g> chraoibh--></li>
+          <li><m>aig ar n-</m>achadh <en>at our field</en> <!--≈ <g>gar n-</g>achadh--></li>
+          <li><m>aig ur</m> leapannan <en>at your beds</en> <!--≈ <g>gur</g> leapannan--></li>
+          <li><m>aig an</m> taighean <en>at their houses</en> <!--≈ <g>gan</g> taighean--></li>
+          <li><m>aig am</m> baile <en>at their town</en> <!--≈ <g>gam</g> baile--></li>
         </ul></p>
-      <p>Note that these fused forms are often ambiguous and hence are probably best avoided in
+      <!--<p>Note that these fused forms are often ambiguous and hence are probably best avoided in
         writing. Note also that, in older texts, you will sometimes find them written with initial
-        apostrophes – <g>’gam thaigh</g>, <g>’gad bhaile</g>, ...</p>
+        apostrophes – <g>’gam thaigh</g>, <g>’gad bhaile</g>, ...</p>-->
     </section>
     <section id="pronouns">
       <h>prepositional pronouns</h>
@@ -87,7 +87,7 @@
         rule, and hence is sometimes found written with a hyphen – <g>aige-san</g>.</p>
       <p>Finally, there are also reflexive forms (cf. <bad>aig mi fhìn</bad>, <bad>aig thu
           fhèin</bad>, ... , <bad>aig iad fhèin</bad>) – <ul>
-          <li><m>agam fhìn</m>
+          <li><m>agam fhèin / fhìn</m>
             <en>at myself</en></li>
           <li><m>agad fhèin</m>
             <en>at yourself</en></li>
@@ -95,7 +95,7 @@
             <en>at herself/itself</en></li>
           <li><m>aige fhèin</m>
             <en>at himself/itself</en></li>
-          <li><m>againn fhìn</m>
+          <li><m>againn fhèin / fhìn</m>
             <en>at ourselves</en></li>
           <li><m>agaibh fhèin</m>
             <en>at yourself</en></li>
@@ -802,9 +802,9 @@
           </ul>
         </p>
         <p>See also – <ul>
-            <li><g>bi <a href="?gd=fios">fios</a> aig ...</g>
+            <li><g>bi <!--<a href="?gd=fios">fios</a>-->fios aig ...</g>
               <en>know that ...</en></li>
-            <li><g>bi <a href="?gd=sgeul">sgeul</a> air ... aig ...</g>
+            <li><g>bi <!--<a href="?gd=sgeul">sgeul</a>-->sgeul air ... aig ...</g>
               <en>know where something is</en></li>
           </ul>
         </p>
@@ -812,7 +812,7 @@
       <section id="uses-pred-other">
         <h>other</h>
         <p>Some idioms – <ul>
-            <li><g>bi <a href="?gd=feum">feum</a> air ... aig ...</g>
+            <li><g>bi <!--<a href="?gd=feum">feum</a>-->feum air ... aig ...</g>
               <en>need something</en></li>
           </ul>
         </p>
@@ -831,9 +831,9 @@
     </section>
     <section id="uses-comp">
       <h>complement</h>
-      <p>The <g>aig</g> prepositional pronouns are occasionally found used as the complement of a
-        quantity noun, with a partitive meaning, as an alternative to the more usual <a
-          href="?gd=dhe"><g>dhe</g></a>
+      <p>The <g>aig</g> prepositional pronouns (only plural forms) are occasionally found
+        used as the complement of a quantity noun, with a partitive meaning, as an alternative
+        to the more usual <a href="?gd=de"><g>de</g></a> [<g>a</g>]
         <en>of</en> – <ul>
           <li><g>mòran aca</g>
             <en>many of them</en></li>

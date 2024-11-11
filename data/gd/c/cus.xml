@@ -63,7 +63,7 @@
     </section>
     <section id="partitive">
       <h>partitive</h>
-      <p>The preposition <a href="?gd=dhe"><g>de</g></a> with a definite noun – <ul>
+      <p>The preposition <a href="?gd=de"><g>de</g></a> with a definite noun – <ul>
           <li>Dh’òl Raonaid <m>cus <emph>den fhìon</emph></m>. <en>Rachel drank too much of the
             wine.</en></li>
           <li>Tha <m>cus <emph>de mo choin</emph> aig Màiri</m>. <en>Mary has too many of my
@@ -72,9 +72,9 @@
         <xl id="cus_de_art">
           <li>
             <gd>’S e a beachd gu feum Alba cumail ceum ri ceum ris na dùthchannan eile, gu bheil
-              fada cus de na dathan bàna, ris an abrar anns a’ chlò.</gd>
+              fada cus de na dathan bàna, ris an abrar pastels anns a’ chlò.</gd>
             <tr>It is her opinion that Scotland must keep up with the other countries, that there
-              are far too many of the pale colours as they call it in the tweed [??].</tr>
+              are far too many of the pale colours that are called pastels in the tweed.</tr>
             <ref text="400-23">td. 256</ref>
           </li>
         </xl>
@@ -92,7 +92,7 @@
         </xl>
       </p>
     </section>
-    <section id="idiomatic">
+    <!--<section id="idiomatic">
       <h>idiomatic usage</h>
       <p><ul>
           <li><g>cus mu</g>
@@ -129,11 +129,9 @@
             </ul>
           </li>
         </ul></p>
-
-      <!--
-    <p>Colin Mark: <g>cus</g> as synonym of <a href="?gd=mòran">mòran</a> ‘a lot’ eg. tha sin a’ coimhead cus nas fheàrr; tha sin cus nas fheàrr; cus mholaidhean; chosg e cus a bharrachd gan
+        
+    <p>Colin Mark: <g>cus</g> as synonym of <a href="?gd=mòran">mòran</a> ‘a lot’, e.g. tha sin a’ coimhead cus nas fheàrr; tha sin cus nas fheàrr; cus mholaidhean; chosg e cus a bharrachd gan
       cuideachadh na thog e air mhàl ‘a lot more’.</p>
-    -->
-    </section>
+    </section>-->
   </section>
 </module>

@@ -2,14 +2,14 @@
 <module status="bronze">
   <h>a-muigh</h>
   <p><g>a-muigh</g>
-    <en>[at] outside</en> is is an adessive(?) adverb of location (contrasting with both the elative
+    <en>[at] outside</en> is an <!--adessive(?)--> adverb of location (contrasting with both the elative
       <a href="?gd=a-mach"><g>a-mach</g></a>
     <en>[to] outside</en> and the inessive <a href="?gd=a-staigh"><g>a-staigh</g></a>
     <en>[at] inside</en>).</p>
 
-  <module id="taobh">
-    <h lang="en">air a thaobh a-muigh</h>
-    <p lang="en">Examples of usage – <xl id="relative">
+  <section id="taobh">
+    <h>air an taobh a-muigh</h>
+    <p>Examples of usage – <xl id="relative">
         <li>
           <gd>Bha feallsanach mar Hegel a’ togail riaghailtean móra a dheanadh an saoghal <m>air a
               thaobh a-muigh</m> fhéin soilleir, ach cha b’ ann mar sin a bha Kierkegaard.</gd>
@@ -26,6 +26,6 @@
         </li>
       </xl>
     </p>
-  </module>
+  </section>
 
 </module>

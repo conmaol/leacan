@@ -7,9 +7,9 @@
     <section id="forms">
         <h>forms</h>
         <p>The principal parts of <g>gabh</g> are – <ul>
-                <li><m>gabhaidh</m> – future independent ie. <en>will take</en></li>
-                <li><m>ghabh</m> – past independent ie. <en>took</en></li>
-                <li><m>gabhail</m> – verbal noun ie. <en>taking</en></li>
+                <li><m>gabhaidh</m> – future independent, i.e. <en>will take</en></li>
+                <li><m>ghabh</m> – past independent, i.e. <en>took</en></li>
+                <li><m>gabhail</m> – verbal noun, i.e. <en>taking</en></li>
             </ul>
         </p>
         <section>
@@ -260,7 +260,7 @@
             <p>Some idioms – <ul>
                     <li><g>gabh <a href="?gd=tì">tì</a></g>
                         <en>have one’s tea</en></li>
-                    <li><g>gabh <a href="?gd=tional">tional</a></g>
+                    <li><g>gabh <!--<a href="?gd=tional">tional</a>-->tional</g>
                         <en>make/take a collection</en></li>
                 </ul>
             </p>

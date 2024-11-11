@@ -2,20 +2,20 @@
 <module status="bronze">
     <h>sguir</h>
     <p><g>sguir</g>
-        <en>stop, cease, give up, leave off, desist</en> is a (regular) <a href="?xx=verbs/verbs"
-            >verb</a>, marking <a href="?q=verbal_aspect">cessative</a> verbal aspect, cf. <a
+        <en>stop, cease, give up, leave off, desist</en> is a (regular) <!--<a href="?xx=verbs/verbs"
+            >verb</a>-->verb, marking <a href="?q=verbal_aspect">cessative</a> verbal aspect, cf. <a
             href="?gd=stad"><g>stad</g></a>
         <vb/>
-        <en>stop, halt, pause</en>, <a href="?gd=crìoch"><g>crìoch</g></a>
+        <en>stop, halt, pause</en>, <!--<a href="?gd=crìoch"><g>crìoch</g></a>--><g>crìoch</g>
         <fem/>
         <en>end, boundary</en>.</p>
 
     <section id="forms">
         <h>forms</h>
         <p>The principal parts of <g>sguir</g> are – <ul>
-                <li><m>sguiridh</m> – future independent ie. <en>will stop</en></li>
-                <li><m>sguir</m> – past independent ie. <en>stopped</en></li>
-                <li><m>sgur</m> – verbal noun ie. <en>stopping</en></li>
+                <li><m>sguiridh</m> – future independent, i.e. <en>will stop</en></li>
+                <li><m>sguir</m> – past independent, i.e. <en>stopped</en></li>
+                <li><m>sgur</m> – verbal noun, i.e. <en>stopping</en></li>
             </ul>
         </p>
         <section>

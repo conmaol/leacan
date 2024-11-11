@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
 <module status="bronze">
-    <h>an·sin</h>
-    <p><g>an·sin</g>
+    <h>an sin</h>
+    <p><g>an sin</g>
         <en>there, at that place</en> is a demonstrative adverb, derived from the hearer-proximal
         demonstrative pronoun <a href="?gd=sin"><g>sin</g></a>
         <en>that (one)</en>.</p>
-    <p><g>an·sin</g> contrasts with <a href="?gd=an-seo"><g>an·seo</g></a>
-        <en>here</en> (proximal to the speaker) and <a href="?gd=an-siud"><g>an·siud</g></a>
+    <p><g>an sin</g> contrasts with <a href="?gd=an-seo"><g>an seo</g></a>
+        <en>here</en> (proximal to the speaker) and <a href="?gd=an-siud"><g>an siud</g></a>
         <en>over there</en> (proximal to neither speaker nor hearer). </p>
     <section>
         <h>uses</h>
@@ -78,10 +78,10 @@
         </section>
         <section id="compounds">
             <h>compounds</h>
-            <module>
-                <h>thall an·sin</h>
-                <p><g>an·sin</g> can be emphasised with (indefinite) <a href="?gd=thall"
-                            ><g>thall</g></a>
+            <module status="bronze">
+                <h>thall an sin</h>
+                <p><g>an sin</g> can be emphasised with (indefinite) <!--<a href="?gd=thall"
+                            ><g>thall</g></a>--><g>thall</g>
                     <en>over there</en>.</p>
                 <p>Pedagogical examples – <xl id="thall-pedag">
                         <li>

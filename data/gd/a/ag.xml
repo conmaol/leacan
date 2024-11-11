@@ -14,7 +14,7 @@
         <h>forms</h>
         <p>When the verbal noun starts with a vowel, the preposition takes the
             <!--(deslenderised)--> form <g>ag</g>; otherwise, it takes the reduced form <g>a’</g>,
-            except before ràdh where the <g>g</g> is retained (see below) – <ul>
+            except before <g>ràdh</g> where the <g>g</g> is retained (see below) – <ul>
                 <li><m>Tha Raonaid a’ dèanamh tuilleadh.</m>
                     <en>Rachel is doing more.</en></li>
                 <li><m>Tha Raonaid ag òl.</m>
@@ -23,15 +23,15 @@
         </p>
         <p>Notes – <ol>
                 <!--<li>When the word preceding <g>ag</g> ends with a vowel, the particle often reduces
-                    to <g>’g</g> in speech, and occasionally in writing too eg. <m>tha mi ’g òl</m>
+                    to <g>’g</g> in speech, and occasionally in writing too, e.g. <m>tha mi ’g òl</m>
                     <en>I’m drinking</en>, <m>thòisich i ’g ithe ùbhlan</m>
                     <en>she started eating apples</en>.</li>-->
                 <li>In older writing, the <g>ag</g> form is sometimes found before consonants as
-                    well, eg. <g>ag bualadh</g>
+                    well, e.g. <g>ag bualadh</g>
                     <en>(in the process of) hitting</en>.</li>
                 <li><g>ag</g> is used before <g>ràdh</g> (the verbal noun of <a href="?gd=abair"
                             ><g>abair</g></a>
-                    <en>say</en>) ie. <m>ag ràdh</m>, except in North Uist and Harris where <g>a’
+                    <en>say</en>), i.e. <m>ag ràdh</m>, except in North Uist and Harris where <g>a’
                         ràdh</g> is used.</li>
             </ol>
         </p>
@@ -39,10 +39,10 @@
     <section id="intrans">
         <h>intransitive</h>
         <p>Basic pattern – <ul>
-                <li><m>Tha Seumas ag èirigh</m>
-                    <en>James is rising</en></li>
-                <li><m>Tha Màiri a’ snàmh</m>
-                    <en>Mary is swimming</en></li>
+                <li><m>Tha Seumas ag èirigh.</m>
+                    <en>James is rising.</en></li>
+                <li><m>Tha Màiri a’ snàmh.</m>
+                    <en>Mary is swimming.</en></li>
             </ul>
         </p>
         <p>Examples from dictionaries and grammars – <xl id="prog-intr-dictionary">
@@ -195,11 +195,18 @@
         <h>transitive with possessive determiner</h>
         <p>Basic pattern – <ul>
                 <li><m>Tha Raonaid gam chluinntinn.</m>
-                    <en>Rachel can hear me</en>.</li>
+                    <en>Rachel can hear me.</en></li>
+                <li><m>Tha sinn gad fhaicinn.</m>
+                    <en>We can see you.</en></li>
+                <li><m>Tha Uilleam ga bhualadh.</m>
+                    <en>William is hitting him.</en></li>
+                <li><m>Tha iad ga h-ionndrainn.</m>
+                    <en>They miss her.</en></li>
                 <li><m>Tha Teàrlach gan atharrachadh.</m>
                     <en>Charles is changing them.</en></li>
             </ul>
         </p>
+        <p>cf. <a href="?q=progressive_pronouns">object pronouns in the progressive</a>.</p>
         <p>Examples from dictionaries and grammars – <xl id="prog-poss-dictionary">
                 <li>
                     <gd>Tha iad gam bhrìodal. / Bidh sinn gur faicinn!</gd>
@@ -223,9 +230,9 @@
             <h>progressive passive</h>
             <p>When the possessive determiner agrees with the subject in person, number and gender,
                 a passive-like sense is possible – <ul>
-                    <li><m>Tha bròg ga dhèanamh.</m>
+                    <li><m>Tha bròg ga dèanamh.</m>
                         <en>A shoe is being made.</en></li>
-                    <li><m>Tha brògan gan dèanamh,</m>
+                    <li><m>Tha brògan gan dèanamh.</m>
                         <en>Shoes are being made.</en></li>
                 </ul>
             </p>

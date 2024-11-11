@@ -29,25 +29,28 @@
                     <li><m>às na h-</m>aislingean <en>out of the dreams</en></li>
                 </ul>
             </p>
-            <!-- <p><g>às</g> is used in a range of other vowel-initial contexts as well – <ul>
-                    <li><g>às a-màireach</g>
-                        <en>from tomorrow</en></li>
+            <p><g>às</g> is used in a range of other contexts as well – <ul>
+                    <li><g>às na tha ...</g>
+                        <en>from what is ...</en></li>
+                    <li><g>às gach ...</g>
+                        <en>from every ...</en></li>
                     <li><g>às a h-uile ...</g>
                         <en>from every ...</en></li>
                     <li><g>às a bheil ...</g>
-                        <en>out of which ...</en></li>
-                    <li><g>às àite</g>
-                        <en>out of place</en></li>
+                        <en>out of which ... is</en></li>
+                    <!--<li><g>às àite</g> 
+                        <en>out of place</en></li>-->
                 </ul>
-            </p>-->
-            <p>There are no fused forms with <g>à</g> and a <a
-                    href="?xx=nouns/possessive_determiners">possessive determiner</a> – <ul>
+            </p>
+            <p>There are no fused forms with <g>à</g> and a <!--<a
+                href="?xx=nouns/possessive_determiners">possessive determiner</a>-->
+                possessive determiner – <ul>
                     <li><m>às mo</m> thaigh <en>out of my house</en></li>
                     <li><m>às do</m> bhaile <en>out of your town</en></li>
                     <li><m>às a h-</m>òran <en>out of her song</en></li>
                     <li><m>às a</m> chraoibh <en>out of his tree</en></li>
                     <li><m>às ar n-</m>achadh <en>out of our field</en></li>
-                    <li><m>às bhur</m> leapannan <en>out of your beds</en></li>
+                    <li><m>às ur</m> leapannan <en>out of your beds</en></li>
                     <li><m>às an</m> taighean <en>out of their houses</en></li>
                     <li><m>às am</m> baile <en>out of their town</en></li>
                 </ul>
@@ -93,7 +96,7 @@
             </p>
             <p>Finally, there are also reflexive forms (cf. <bad>à mi fhìn</bad>, <bad>à thu
                     fhèin</bad>, ... , <bad>à iad fhèin</bad>) – <ul>
-                    <li><m>asam fhìn</m>
+                    <li><m>asam fhèin / fhìn</m>
                         <en>out of myself</en></li>
                     <li><m>asad fhèin</m>
                         <en>out of yourself</en></li>
@@ -101,7 +104,7 @@
                         <en>out of herself/itself</en></li>
                     <li><m>às fhèin</m>
                         <en>out of himself/itself</en></li>
-                    <li><m>asainn fhìn</m>
+                    <li><m>asainn fhèin / fhìn</m>
                         <en>out of ourselves</en></li>
                     <li><m>asaibh fhèin</m>
                         <en>out of yourself</en></li>
@@ -147,10 +150,14 @@
                 </ul>
             </p>
             <p>Some idioms – <ul>
-                    <!--<li><g>às <a href="?gd=an-seo">an·seo</a></g>
+                   <!-- <li><g>às <a href="?gd=an-seo">an·seo</a></g>
                         <en>hence</en></li>-->
                    <!-- <li><g>às <a href="?gd=an-sin">an·sin</a></g>, <g>às an àite sin</g>
                         <en>thence</en></li>-->
+                    <li><g>à seo</g>, <g>às a seo</g>
+                        <en>hence, from here</en></li>
+                    <li><g>à sin</g>, <g>às a sin</g>, <g>às an àite sin</g>
+                        <en>thence, from there</en></li>
                     <li><g>à fasan</g> / <g>às an fhasan</g>
                         <en>out-of-date, out of fashion</en></li>
                     <li><g>às an t-sreath</g>
@@ -284,7 +291,7 @@
 
             <module status="bronze" id="tarraing_a">
                 <h>tarraing à ...</h>
-                <p><g><a href="?gd=tarraing">tarraing</a> à ...</g>
+                <p><g><!--<a href="?gd=tarraing">tarraing</a>-->tarraing à ...</g>
                     <en>tease</en></p>
                 <p>Some examples – <ul id="tarraing-exs">
                         <li>pedagogical examples – <xl id="tarraing-pedag">
@@ -306,7 +313,7 @@
 
             <module status="bronze" id="fada_a">
                 <h>fada à ...</h>
-                <p><g><a href="?gd=fada">fada</a> à ...</g>
+                <p><g><!--<a href="?gd=fada">fada</a>-->fada à ...</g>
                     <en>far (away) from ...</en></p>
                 <p>Some examples – <ul id="fada-exs">
                         <li>pedagogical examples – <xl id="fada-pedag">
@@ -324,7 +331,7 @@
             </module>
             <module status="bronze" id="cinnteach_a">
                 <h>cinnteach à ...</h>
-                <p><g><a href="?gd=cinnteach">cinnteach</a> à ...</g>
+                <p><g><!--<a href="?gd=cinnteach">cinnteach</a>-->cinnteach à ...</g>
                     <en>sure of ...</en></p>
                 <p>Some examples – <ul id="cinnteach-exs">
                         <li>pedagogical examples – <xl id="cinnteach-pedag">

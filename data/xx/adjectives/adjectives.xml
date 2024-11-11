@@ -60,7 +60,7 @@
           <adj/>
           <en>dark blue</en>.</li>
         <!-- DM: But also examples such as mòrchuiseach, droch-nàdarrach, uile-chumhachdach, also dubh-ghorm, bàn-dhearg.  -->
-        <li><!--<a href="?xx=adjectives/simple_adjectives">-->Simple adjectives<!--</a>--> are not
+        <li><a href="?xx=adjectives/simple_adjectives">Simple adjectives</a> are not
           formed out of other words – <m>mòr</m>
           <en>big</en>, <m>geal</m>
           <en>white</en>, <m>sona</m>
@@ -74,8 +74,8 @@
     <p>When an adjective functions as a modifier of a <a href="?xx=nouns/nouns">noun</a>, it agrees
       with the noun in gender, number and case. In other words, attributive adjectives are
         <emph>declined</emph> for gender (feminine or masculine), number (singular or plural, with a
-      hint of legacy dual marking), and case (nominative, dative or genitive or vocative). This
-      doesn’t happen when an adjective is part of the predicate.</p>
+      hint of legacy dual marking), and case (nominative or dative or genitive or vocative). This
+      does not happen when an adjective is part of the predicate.</p>
     <p>There are two independent aspects involved in the declension of attributive adjectives – <ul>
         <li><emph>lenition</emph> – Like other modifiers of <a href="?xx=nouns/nouns">nouns</a>,
           attributive adjectives are lenited or not depending on the gender, number and case of the
@@ -89,7 +89,7 @@
       <h>masculine</h>
       <section id="masc-nom">
         <h>nominative</h>
-        <p>Attributive adjectives which modify a masculine (singular) nominative noun are
+        <p>Attributive adjectives which modify a nominative singular masculine noun are
             <emph>unmutated</emph> at both beginning and end – <ul>
             <li>(am) <g>balach <emph>beag</emph></g>
               <en>(the) little boy</en></li>
@@ -209,8 +209,8 @@
       </section>
       <section id="masc-dat">
         <h>dative</h>
-        <p>As with the nominative, attributive adjectives which modify a masculine (singular) dative
-          indefinite noun are generally <emph>unmutated</emph> at both beginning and end – <ul>
+        <p>As with the nominative, attributive adjectives which modify a dative singular indefinite
+          masculine noun are generally <emph>unmutated</emph> at both beginning and end – <ul>
             <li>le <g>balach <emph>beag</emph></g>
               <en>with a little boy</en></li>
             <li>ann an <g>taigh <emph>mòr</emph></g>
@@ -303,7 +303,7 @@
           </ul>
         </p>
         <p>In addition, when the noun is specified by the (leniting) definite article, attributive
-          adjectives also undergo <!--jumping--> lenition, even when the article doesn't lenite
+          adjectives also undergo <!--jumping--> lenition, even when the article does not lenite
           initial <g>t-</g> or <g>d-</g> and when it prefixes <g>t-</g> to <g>s-</g> – <ul>
             <li>leis a’ <g>bhalach <emph>bheag</emph></g>
               <en>with the little boy</en></li>
@@ -365,7 +365,7 @@
       </section>
       <section id="masc-gen">
         <h>genitive</h>
-        <p>Attributive adjectives which modify a masculine (singular) genitive noun are generally
+        <p>Attributive adjectives which modify a genitive singular masculine noun are generally
           both <emph>lenited</emph> and <emph>slenderised</emph>, irrespective of whether definite
           or indefinite – <!-- WL: in which registers? In modern speech?  -->
           <ul>
@@ -501,7 +501,7 @@
       <h>feminine</h>
       <section id="fem-nom">
         <h>nominative</h>
-        <p>Attributive adjectives which modify a feminine (singular) nominative noun are
+        <p>Attributive adjectives which modify a nominative singular feminine noun are
             <emph>lenited</emph> (but unmutated at the end) – <ul>
             <li><g>caileag <emph>bheag</emph></g> / a’ <g>chaileag <emph>bheag</emph></g>
               <en>a/the little girl</en></li>
@@ -563,10 +563,10 @@
                     bhòidheach</gd>
                   <ref text="607">td. 137–43</ref>
                 </li>
-              </xl></li>
-            <!-- maybe add section on dul number for following??? -->
-            <!--<li>pedagogical examples with <!-\-<a href="?gd=dà">-\-><g>dà</g><!-\-</a>-\->
-              <en>two</en> (dual number) – <xl id="fem-nom-da-pedag">
+              </xl>
+            </li>
+            <li>pedagogical examples with <!--<a href="?gd=dà">--><g>dà</g> (dual number) –
+              <xl id="fem-nom-da-pedag">
                 <li>
                   <gd>dà chirc bheag</gd>
                   <tr>two little hens</tr>
@@ -584,33 +584,33 @@
                   <gd>dà bhròig bheag</gd>
                   <tr>two little shoes</tr>
                   <ref text="615">td. 38</ref>
-                  <note>CHECK THIS REF</note>
+                  <!--<note>CHECK THIS REF</note>-->
                 </li>
                 <li>
                   <gd>dà chloich bheag</gd>
                   <tr>two little stones</tr>
                   <ref text="616">td. 94</ref>
-                  <note>CHECK THIS REF</note>
+                  <!--<note>CHECK THIS REF</note>-->
                 </li>
                 <li>
                   <gd>agus dà ghalladh dhubh aige air lomhainn</gd>
-                  <tr>and he holding teo black bitches in a leash (Arab. I. 99)</tr>
+                  <tr>and he holding two black bitches on a leash (Arab. I. 99)</tr>
                   <ref text="614">td. 123</ref>
                 </li>
               </xl>
-            </li>-->
+            </li>
           </ul>
         </p>
-        <p>Note that attributive adjectives of a slenderised feminine dual noun are sometimes found
+        <p>Note that attributive adjectives of a slenderised dual feminine noun are sometimes found
           slenderised in the nominative, <!--though this might well be a hypercorrection--> and this
           can be seen as analogical.</p>
-        <p>Pedagogical examples involving potentially ‘analogical’ slenderisation after <g>dà</g> –
+        <p>Pedagogical examples involving potentially analogical slenderisation after <g>dà</g> –
             <xl id="fem-nom-da-hyper-pedag">
             <li>
               <gd>dà chirc bhric</gd>
               <tr>two speckled hens</tr>
               <ref text="618">td. 45</ref>
-              <note>CHECK THIS REF</note>
+              <!--<note>CHECK THIS REF</note>-->
             </li>
             <li>
               <gd>(an) dà chois bhig</gd>
@@ -633,7 +633,7 @@
       </section>
       <section id="fem-dat">
         <h>dative</h>
-        <p>Attributive adjectives which modify a feminine (singular) dative noun were traditionally
+        <p>Attributive adjectives which modify a dative singular feminine noun were traditionally
           both <emph>lenited</emph> and <emph>slenderised</emph> – <ul>
             <li>le <g>caileig <emph>bhig</emph></g> / leis a’ <g>chaileig <emph>bhig</emph></g>
               <en>with a/the little girl</en></li>
@@ -734,7 +734,7 @@
             caileag bheag</g>, <g>le dà chaileag bheag</g>, and even <g>leis a’ chaileag bheag</g>,
             <g>leis an dà chaileag bheag</g>.</p>
         <!-- DM:Are there examples or contexts in which the traditional dative forms are used regularly, e.g. with particular common words or in certain set expressions?  -->
-        <!-- WL: fixed expressions involving body parts - e.g. air do chois, nam làimh, nam bhroinn -->
+        <!-- WL: fixed expressions involving body parts, e.g. air do chois, nam làimh, nam bhroinn -->
         <p>Pedagogical examples involving ‘relaxed’ slenderisation – <xl id="fem-dat-nontrad-pedag">
             <li>
               <gd>Bha e cluiche <m>air dà thruimb mhòr Abrach</m>.</gd>
@@ -756,9 +756,9 @@
       </section>
       <section id="fem-gen">
         <h>genitive</h>
-        <p>Attributive adjectives which modify a feminine (singular) genitive noun were
+        <p>Attributive adjectives which modify a genitive singular feminine noun were
           traditionally <emph>non-lenited</emph> but <emph>slenderised</emph> and (vocalically)
-            <emph>suffixed</emph> – <ul>
+            <emph>augmented</emph> – <ul>
             <li>falt (na) <g>caileige <emph>bige</emph></g>
               <en>a/the little girl’s hair</en></li>
             <li>doras (na h-)<g>eaglaise <emph>mòire</emph></g>
@@ -766,6 +766,8 @@
             <li>gob (na) <g>circe <emph>Frangaiche</emph></g>
               <en>a/the French hen’s beak</en></li>
           </ul></p>
+        <p>The genitive singular feminine ending can be <emph>-eadh</emph> in monosyllabic words
+          in phrase-final position.</p>
         <!-- <p><ed>Gillies (1993:179) – “The genitive singular feminine ending in monosyllabic
             adjectives may appear as <emph>-eadh</emph> [...] in phrase-final position.”</ed></p>-->
         <p>Some examples – <ul id="fem-gen-xs">
@@ -870,15 +872,19 @@
           <li>Monosyllabic adjectives are (vocalically) <emph>augmented</emph>, even in the genitive
             plural – <g>mòr</g> ⇒ <g>mòra</g>, <g>beag</g> ⇒ <g>beaga</g>, <g>mìn</g> ⇒
             <g>mìne</g>.</li>
-          <li>Polysyllabic adjectives like <!--<g>sona</g> or-->
-            <g>Gearmailteach</g> are unmutated at the end.</li>
-          <li>Adjectives which modify slenderised plural nouns are <emph>lenited</emph> (eg.
-                <g>bala<emph>ich bh</emph>eaga</g>); those which modify non-slenderised plurals are
-              <emph>not lenited</emph> (eg. <g>taighe<emph>an b</emph>eaga</g>).</li>
-        </ol>
+          <li>Polysyllabic adjectives are unmutated at the end – <g>Gearmailteach</g>, <g>sona</g>.</li>
+          <li>Adjectives which modify slenderised plural nouns are <emph>lenited</emph> –
+            <g>bala<emph>ich bh</emph>eaga</g>; those which modify non-slenderised plurals are
+            <emph>not lenited</emph> – <g>taighe<emph>an b</emph>eaga</g>.</li>
+          <li>Adjectives which modify certain nominative <emph>singular</emph> feminine collective nouns
+            are <emph>lenited</emph> and can be <emph>augmented</emph> – <g>clann bheaga</g>
+            <en>small children</en>, <g>feadhainn mhòra</g>
+            <en>some big ones</en>.</li>
+        </ol> Note that monosyllabic adjectives too can remain unmutated at the end, especially certain adjectives
+            that contain a long vowel or diphthong.
       </p>
       <!-- <p><ed>Should we add a note here on the (optional?) use of augmented adjectives with
-          ‘collective’ nouns (in nominative and dative)? eg. <g>clann bheaga</g> ‘little children’,
+          ‘collective’ nouns (in nominative and dative)? e.g. <g>clann bheaga</g> ‘little children’,
             <g>dithis bheaga</g> ‘two small people(?)’, <g>feadhainn bheaga</g> ‘some small
           people(?)’. cf. Calder (1923: 110).</ed></p>-->
       <section id="plur-nom">
@@ -1084,11 +1090,11 @@
       <section id="plur-gen">
         <h>genitive</h>
         <p>There is syncretism between nominative singular and genitive plural for certain nouns. In
-          addition, the indefinite plural is lenited.</p>
+          addition, the indefinite plural is lenited – </p>
         <p><ul>
             <li>falt <g>bhalach <emph>beaga</emph></g> / falt nam <g>balach <emph>beaga</emph></g>
               <en>(the) little boys’s hair</en></li>
-            <li>dorsan <g>thaighean <emph>mòra</emph></g> / dorsan (nan) <g>taighean
+            <li>dorsan <g>thaighean <emph>mòra</emph></g> / dorsan nan <g>taighean
                   <emph>mòra</emph></g>
               <en>(the) big houses’ doors</en></li>
             <li>coin <g>chaileagan <emph>beaga</emph></g> / coin nan <g>caileagan

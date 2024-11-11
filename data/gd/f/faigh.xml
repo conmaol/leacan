@@ -6,9 +6,9 @@
   <section id="forms">
     <h>forms</h>
     <p>The principal parts of <g>faigh</g> are – <ul>
-        <li><m>gheibh</m> – future independent ie. <en>will get</en></li>
-        <li><m>fhuair</m> – past independent ie. <en>got</en></li>
-        <li><m>faighinn</m> – verbal noun ie. <en>getting</en></li>
+        <li><m>gheibh</m> – future independent, i.e. <en>will get</en></li>
+        <li><m>fhuair</m> – past independent, i.e. <en>got</en></li>
+        <li><m>faighinn</m> – verbal noun, i.e. <en>getting</en></li>
       </ul>
     </p>
     <section>
@@ -254,6 +254,7 @@
           <li>The past dependent forms <g>do fhuair</g> and <g>do fhuaras</g> are pronounced as if
             they were spelled <g>duair</g> and <g>duaras</g>. They are commonly written as <g>d’
               fhuair</g> and <g>d’ fhuaras</g>.</li>
+          <li>There is an alternative dialectal future / conditional stem – <g>gheobh-</g>.</li>
           <li>There is an alternative dialectal verbal noun – <g>faotainn</g>.</li>
         </ol>
     </p>
@@ -268,13 +269,13 @@
     <h>uses</h>
     <h lang="gd"/>
     <p>The main uses of faigh are – <ul>
-        <li>the passive construction <b>faigh</b> + <a href="?xx=verbs/infinitivals">infinitival</a>
-          eg. <m>bha iad an dùil gum faigheadh na claisean an lìonadh trì uairean mum biodh am mìos
+        <li>the passive construction <b>faigh</b> + <a href="?xx=verbs/infinitivals">infinitival</a>,
+          e.g. <m>bha iad an dùil gum faigheadh na claisean an lìonadh trì uairean mum biodh am mìos
             thairis</m>
           <en>they expected that the furrows would be filled three times before the month was
             over</en></li>
         <li><b>faigh air</b> + <a href="?xx=verbs/infinitivals">infinitival</a>
-          <en>be able to, manage to</en> eg. <m>chan fhaighinn air càil a ràdh ach nach robh mi ga
+          <en>be able to, manage to</en>, e.g. <m>chan fhaighinn air càil a ràdh ach nach robh mi ga
             chreidsinn</m>
           <en>I couldn’t say anything except that I didn’t believe it</en>, <m>an do fhuair thu air
             a dhèanamh?</m>

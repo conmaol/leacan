@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
 <module status="bronze">
     <h>architectonic common nouns</h>
-    <p>Architectonic commons nouns are <a href="?xx=nouns/toponymic_common_nouns">toponymic common
-            nouns</a> that describe kinds of building.</p>
+    <p>Architectonic commons nouns are <!--<a href="?xx=nouns/toponymic_common_nouns">toponymic common
+            nouns</a>-->toponymic common nouns that describe kinds of building.</p>
 
     <section id="simple">
         <h>simple architectonic common nouns</h>

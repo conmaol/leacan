@@ -2,15 +2,15 @@
 <module>
   <title>uiread</title>
   <p><strong>uiread</strong> is an non-declinable masculine <a href="?xx=nouns/generic_quantity_nouns">generic quantity noun</a> with two main senses – <ul>
-      <li>resultative <en>so much/many that, such a lot that</en> eg. Tha <m>uiread chon</m> aig Màiri is gu bheil i daonnan sgìth <en>Mary has so many dogs that she’s always tired.</en></li>
-      <li>equative comparative <en>as much/many as</en> eg. Tha <m>uiread chon</m> aig Màiri is a tha cait aig Dòmhnall. <en>Mary has as many dogs as Donald has cats.</en></li>
+      <li>resultative <en>so much/many that, such a lot that</en>, e.g. Tha <m>uiread chon</m> aig Màiri is gu bheil i daonnan sgìth <en>Mary has so many dogs that she’s always tired.</en></li>
+      <li>equative comparative <en>as much/many as</en>, e.g. Tha <m>uiread chon</m> aig Màiri is a tha cait aig Dòmhnall. <en>Mary has as many dogs as Donald has cats.</en></li>
     </ul>
   </p>
   <hr/>
-  <p>In terms of the stuff being quantified (ie. the standard of comparison), <strong>uiread</strong> generally works like other generic quantity nouns –</p>
+  <p>In terms of the stuff being quantified (i.e. the standard of comparison), <strong>uiread</strong> generally works like other generic quantity nouns –</p>
   <ul>
     <li>When the standard of comparison is new information, it is usually expressed as a noun modifier/specifier of the quantity noun, either the genitive singular of a mass noun or the genitive
-      plural of a count noun eg. <ul>
+      plural of a count noun – <ul>
         <li>Dh’òl Raonaid <m>uiread <u>fìona</u></m> ... <en>Rachel drank so/as much wine ...</en></li>
         <li>Tha <m>uiread <u>chon</u></m> aig Màiri ... <en>Mary has so/as many dogs ...</en></li>
       </ul>
@@ -25,12 +25,12 @@
       </ul>
     </li>
     <li>When the standard of comparison is already known, it is usually introduced by the partitive preposition <a href="?gd=de">de</a>
-      <en>of</en> governing a specified (ie. ‘definite’) noun eg. <ul>
+      <en>of</en> governing a specified (i.e. ‘definite’) noun – <ul>
         <li>Dh’òl Raonaid <m>uiread <u>den fhìona</u></m> ... <en>Rachel drank so/as much of the wine ...</en></li>
         <li>Cheannaich Màiri <m>uiread <u>de mo choin</u></m> ... <en>Mary bought so/as many of my dogs ...</en></li>
       </ul>
     </li>
-    <li>When the standard of comparison is already known, and has just been referred to, or can be inferred, <strong>uiread</strong> can occur on its own eg. <ul>
+    <li>When the standard of comparison is already known, and has just been referred to, or can be inferred, <strong>uiread</strong> can occur on its own – <ul>
         <li>Dh’òl Raonaid <m>uiread</m> ... <en>Rachel drank so/as much ...</en></li>
         <li>Tha <m>uiread</m> aig Màiri ... <en>Mary has so/as many ...</en></li>
       </ul>
@@ -47,7 +47,7 @@
         </li>
       </ul>
     </li>
-    <li>Alternatively, <strong>uiread</strong> can be followed by one of the <a href="?gd=de">de</a> prepositional pronouns eg. <ul>
+    <li>Alternatively, <strong>uiread</strong> can be followed by one of the <a href="?gd=de">de</a> prepositional pronouns – <ul>
         <li>Dh’òl Raonaid <m>uiread <u>dheth</u></m> ... <en>Rachel drank so/as much of it ...</en></li>
         <li>Tha <m>uiread <u>dhiubh</u></m> aig Màiri ... <en>Mary has so/as many of them ...</en></li>
       </ul>
@@ -57,7 +57,7 @@
       </ul>
     </li>
     <li><strong>uiread mu (dheidhinn)</strong>
-      <en>so/as much [information/knowledge] about some topic</en> eg. <ul>
+      <en>so/as much [information/knowledge] about some topic</en> – <ul>
         <li>Dh’ionnsaich Màiri <m>uiread mu</m> choin ... <en>Mary learned so much about dogs.</en>
           <ul id="uiread_mu">
             <li>
@@ -69,7 +69,7 @@
         </li>
       </ul>
     </li>
-    <li><strong>uiread ri (dhèanamh)</strong> <en>so/as much to do</en> eg. <ul>
+    <li><strong>uiread ri (dhèanamh)</strong> <en>so/as much to do</en> – <ul>
         <li>Tha <m>uiread ri</m> dhèanamh aig Raonaid ... <en>Rachel has so/as much to do ...</en>
           <ul id="uiread_ri">
             <li><gd>Bha uiread ri a dhèanamh is gun do chuir e eagal orm.</gd>
@@ -95,7 +95,7 @@
   </p>
   <hr/>
   <p>In its <u>resultative</u> sense, <strong>uiread ... is gun/nach ...</strong> describes a situation which is a result of some other situation involving a significantly large quantity of something
-    eg.</p>
+    – </p>
   <ul>
     <li>Dh’òl Raonaid <m>uiread fìona is gun do chuir</m> i a-mach. <en>Rachel drank so much wine that she was sick.</en>
       <ul id="resultatives-positive">
@@ -105,7 +105,7 @@
     <li>Tha <m>uiread chon</m> aig Màiri <m>is nach eil</m> airgead sam bith aice. <en>Mary has so many dogs that she has no money at all.</en>
       <ul id="resultatives-negative"> </ul></li>
   </ul>
-  <p>When there is no explicit result clause, this construction often has exclamatory force eg.</p>
+  <p>When there is no explicit result clause, this construction often has exclamatory force – </p>
   <ul>
     <li>Tha <m>uiread chon</m> aig Màiri! <en>Mary has so many dogs!</en></li>
   </ul>
@@ -123,7 +123,7 @@
       <ref text="603">Mark (2004) td. 616</ref></li>
   </ul>
   <hr/>
-  <p>In its <u>equative</u> sense, <strong>uiread ... is a ...</strong> describes a situation involving two different quantities of the same size eg. <ul>
+  <p>In its <u>equative</u> sense, <strong>uiread ... is a ...</strong> describes a situation involving two different quantities of the same size – <ul>
       <li>Tha <m>uiread chon</m> aig Màiri <m>is a tha</m> cait aig Dòmhnall. <en>Mary has as many dogs as Donald has cats.</en></li>
       <li>Dh’òl Raonaid <m>uiread fìona is a dh’òl</m> Seumas. <en>Rachel drank as much wine as James [did].</en></li>
     </ul>
@@ -145,12 +145,12 @@
       </li>
     </ul>
   </p>
-  <p>Where there is no explicit target of comparison, this can be supplied from context eg.</p>
+  <p>Where there is no explicit target of comparison, this can be supplied from context – </p>
   <ul>
     <li>Tha trì cait aig Dòmhnall. Tha <m>uiread chon</m> aig Màiri. <en>Donald has three cats. Mary has as many dogs.</en></li>
   </ul>
   <p>When equative <strong>uiread</strong> is used within the scope of a negative particle, it is usually interpreted as a <u>negative comparative</u>
-    <en>less/fewer than</en>, rather than as a simple negative equative <en>not equal to</en> eg.</p>
+    <en>less/fewer than</en>, rather than as a simple negative equative <en>not equal to</en> – </p>
   <ul>
     <li>Chan eil <m>uiread chon</m> aig Màiri <m>’s a tha</m> cait aig Dòmhnall. <en>Mary doesn’t have as many dogs as Donald has cats. [She has fewer.]</en></li>
     <li>Cha do dh’òl Raonaid <m>uiread fìona ’s a dh’òl</m> Seumas. <en>Rachel didn’t drink as much wine as James [did]. [She drank less.]</en></li>
@@ -207,7 +207,7 @@
   <!--
   
   <hr/>
-  <p><strong>dà uiread</strong> etc. are expressions of comparative quantity involving <u>multiples</u> eg.</p>
+  <p><strong>dà uiread</strong> etc. are expressions of comparative quantity involving <u>multiples</u> – </p>
   <ul>
     <li>Tha <m>dà uiread chon</m> aig Màiri is a tha cait aig Dòmhnall. <en>Mary has twice as many dogs as Donald has cats.</en></li>
     <li>Dh’òl Raonaid <m>trì uiread fìona</m> is a dh’òl Seumas. <en>Rachel drank three times as much wine as James [did].</en></li>

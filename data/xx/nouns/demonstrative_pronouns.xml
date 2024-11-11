@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
 <module status="bronze">
     <h>demonstrative pronouns</h>
-    <p>Demonstrative pronouns are <a href="?xx=nouns/pronouns">pronouns</a> which identify an entity
+    <p>Demonstrative pronouns are <!--<a href="?xx=nouns/pronouns">pronouns</a>-->
+        pronouns which identify an entity
         based on its spatial location relative to the speaker and hearer – <ul>
             <li><a href="?gd=seo"><g>seo</g></a>
                 <en>this (one)</en> – proximal to the speaker</li>
@@ -185,13 +186,13 @@
             <h>demonstrative adverbs</h>
             <p>For each demonstrative pronoun, there is a derived demonstrative adverb – <ul>
                     <li><g>seo</g>
-                        <en>this</en> ⇒ <a href="?gd=an-seo"><g>an·seo</g></a>
+                        <en>this</en> ⇒ <a href="?gd=an-seo"><g>an seo</g></a>
                         <en>here, at this place</en></li>
                     <li><g>sin</g>
-                        <en>that</en> ⇒ <a href="?gd=an-sin"><g>an·sin</g></a>
+                        <en>that</en> ⇒ <a href="?gd=an-sin"><g>an sin</g></a>
                         <en>there, at that place</en></li>
                     <li><g>siud</g>
-                        <en>that over there</en> ⇒ <a href="?gd=an-siud"><g>an·siud</g></a>
+                        <en>that over there</en> ⇒ <a href="?gd=an-siud"><g>an siud</g></a>
                         <en>over there, yonder, at that place over there</en></li>
                 </ul>
             </p>

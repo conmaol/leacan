@@ -2,13 +2,13 @@
 <module status="silver">
   <h>mòran</h>
   <p><g>mòran</g>
-    <en>lot, many, much</en> is a masculine <a href="?xx=nouns/generic_quantity_nouns">generic
+    <en>a lot, many, much</en> is a masculine <a href="?xx=nouns/generic_quantity_nouns">generic
       quantity noun</a>, expressing a <emph>large</emph> quantity. It is <!--<a
       href="?xx=nouns/derived_common_nouns">-->derived<!--</a>--> from the adjective
       <!--<a href="?gd=mòr"
         >--><g>mòr</g><!--</a>-->
     <en>big, large</en> using the suffix <!--<a href="?gd=_an">--><g>-an</g><!--</a>-->, and has the
-    genitive singular form <g>mòrain</g>.</p>
+    genitive forms <g>mòrain</g> and <g>mhòran</g>.</p>
   <!--<p>cf. <a href="?gd=beagan">beagan</a>
     <en>small quantity</en>, <a href="?gd=mòran_a_bharrachd">mòran a bharrachd</a>
     <en>many more</en>.</p>
@@ -27,7 +27,7 @@
           <li>
             <gd>Ach bha eagal air gun cuireadh sin Ealasaid na teine agus cha robh mòran na shaoghal
               na bu phrìseil’ na an t-eathar.</gd>
-            <tr>But he was afraid that that would set fire to Elisabeth and there was not much in
+            <tr>But he was afraid that that would set fire to Elizabeth and there was not much in
               his world that was more valuable than the boat.</tr>
             <ref text="2">td. 100</ref>
           </li>
@@ -100,7 +100,7 @@
     </section>
     <section id="partitive">
       <h>partitive</h>
-      <p>The preposition <a href="?gd=dhe"><g>de</g></a> with a definite noun – <ul>
+      <p>The preposition <a href="?gd=de"><g>de</g></a> with a definite noun – <ul>
           <li>Chleachd Iain <m>mòran <emph>den ìm</emph></m>. <en>John used a lot [too much?] of the
               butter.</en></li>
           <li>Leugh Mairead <m>mòran <emph>de mo leabhraichean</emph></m>. <en>Margaret read a lot
@@ -176,8 +176,12 @@
           </li>
         </xl>
       </p>
-      <p>Also: <g>chan eil mòran aice mu a dhèidhinn</g>
-        <en>she doesn’t care much for him</en>.</p>
+      <p>Also – <ul>
+          <li>Chan eil mòran aice mu a dhèidhinn.
+            <en>She doesn’t care much for him.</en>
+          </li>
+        </ul>
+      </p>
       <!--
       <p><b>mòran ri (dhèanamh)</b>
         <en>a lot to do, a lot to be done</en> – <ul>
@@ -213,7 +217,7 @@
   </section>
   <section id="other">
     <h>other uses</h>
-    <p>When used inside a negative construction (ie. <g>cha</g>, <g>nach</g>, <g>gun</g>
+    <p>When used inside a negative construction (i.e. <g>cha</g>, <g>nach</g>, <g>gun</g>
       <en>without</en>), <g>mòran</g> generally connotes a <emph>small</emph> quantity (cf.
         <!--<a
         href="?gd=beagan">--><g>beagan</g><!--</a>-->

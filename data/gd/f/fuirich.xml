@@ -28,9 +28,9 @@
 
         <section>
             <h>complements</h>
-            <module>
+            <section>
                 <h>fuirich gus an</h>
-                <p>cf. <a href="?gd=gus"><g>gus</g></a> <en>until</en>.</p>
+                <p>cf. <!--<a href="?gd=gus"><g>gus</g></a>--><g>gus</g> <en>until</en>.</p>
                 <p>Older pedagogical examples – <xl id="gus_an-older-pedag">
                         <li>
                             <gd>Tha mo mhàthair a’ sgrìobhadh litreach gu m’athair a tha air falbh.
@@ -46,7 +46,7 @@
                         </li>
                     </xl>
                 </p>
-            </module>
+            </section>
         </section>
 
     </section>
@@ -55,9 +55,9 @@
 
     <section>
         <h>uses</h>
-        <module>
+        <section>
             <h>fuireachd</h>
-            <module>
+            <section>
                 <h>a’ fuireachd</h>
                 <p>Examples from Gairm – <xl id="prog-gairm">
                         <li>
@@ -73,7 +73,7 @@
                         </li>
                     </xl>
                 </p>
-            </module>
-        </module>
+            </section>
+        </section>
     </section>
 </module>

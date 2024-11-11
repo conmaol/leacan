@@ -57,12 +57,12 @@
             <p>Pedagogical examples – <xl id="concrete-pedag">
                     <li>
                         <gd>(ann an) toiseach a’ chàir / anns an toiseach</gd>
-                        <tr>(in) the front of the car / in the front [eg. of the car]</tr>
+                        <tr>(in) the front of the car / in the front [e.g. of the car]</tr>
                         <ref text="601">td. 591</ref>
                     </li>
                     <li>
                         <gd>ann an toiseach na làraidh</gd>
-                        <tr>in the front (ie. cab) of the lorry</tr>
+                        <tr>in the front (i.e. cab) of the lorry</tr>
                         <ref text="605">td. 380</ref>
                     </li>
                 </xl>
@@ -203,7 +203,7 @@
                                 <gd>Tha e a-nis leis an dream ghràidh a tha air dol dhachaigh air
                                     thoiseach oirnn.</gd>
                                 <tr>He is now with the beloved people who have gone on ahead of us
-                                    [ie. who have died].</tr>
+                                    [i.e. who have died].</tr>
                                 <ref text="601">td. 592</ref>
                             </li>
                         </xl>
@@ -306,8 +306,8 @@
             <module id="toisich" status="bronze">
                 <h>tòisich</h>
                 <p><a href="?gd=tòisich"><g>tòisich</g></a>
-                    <en>start, begin, commence, inaugurate, launch, originate</en> is a <a
-                        href="?xx=verbs/verbs">verb</a>, derived from the noun <g>toiseach</g>, and
+                    <en>start, begin, commence, inaugurate, launch, originate</en> is a <!--<a
+                        href="?xx=verbs/verbs">-->verb<!--</a>-->, derived from the noun <g>toiseach</g>, and
                     with verbal noun <g>tòiseachadh</g></p>
             </module>
         </section>

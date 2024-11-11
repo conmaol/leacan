@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
 <module status="bronze">
     <h>àite</h>
-    <p><b>àite</b>
+    <p><g>àite</g>
         <en>place</en> is a masculine <a href="?xx=nouns/simple_common_nouns">simple common
         noun</a>.</p>
 
@@ -54,7 +54,7 @@
                 </ul>
             </p>
 
-            <module id="an_aite">
+            <section id="an_aite">
                 <h>an àite</h>
                 <p>Examples from Gairm – <xl id="gairm">
                         <li>
@@ -71,13 +71,13 @@
                                 initially reforming the Society. There is much to do at the Mod
                                 before it catches up with <ed>??</ed> the era of television, or even
                                 with the era of radio: writers and musicians should be involved in
-                                creating afresh, <u>instead of</u> always putting a sort of new form
+                                creating afresh, instead of always putting a sort of new form
                                 on old things [...]</tr>
                             <ref text="400-46">td. 105, ‘Air an Spiris’</ref>
                         </li>
                     </xl>
                 </p>
-            </module>
+            </section>
         </section>
     </section>
 

@@ -27,22 +27,23 @@
         </ul>
       </p>
       <!-- <p><g>gus</g> is also used before certain other phrases starting with the particle <g>a</g>
-        (eg. <g>gus a-màireach</g>
+        (e.g. <g>gus a-màireach</g>
         <en>till tomorrow</en>, <g>gus a h-uile duine</g>
         <en>to everyone</en>, and in prepositional relative clauses – an duine <g>gus an do
           chuir</g> i an leabhar <en>the man to whom she sent the book</en>.</p>-->
       <!-- <p>Note also that, in particular (spatial?) senses (see below), the preposition form
           <g>gus</g> is <emph>not</emph> used before a definite article. Rather, the
         pseudo-preposition <a href="?gd=chun">chun</a> is used instead.</p> -->
-      <p>Fused forms are occasionally found when the immediately following word is a <a
-          href="?xx=nouns/possessive_determiners">possessive determiner</a> – <ul>
-          <li><m>gu mo</m> thaigh <en>to my house</en> ≈ <g>gum</g> thaigh </li>
-          <li><m>gu do</m> bhaile <en>to your town</en> ≈ <g>gud</g> bhaile </li>
+      <p>Fused forms are occasionally found when the immediately following word is
+        a <!--<a href="?xx=nouns/possessive_determiners">possessive determiner</a>-->
+        possessive determiner – <ul>
+          <li><m>gu mo</m> thaigh <en>to my house</en> ≈ <g>gum</g> thaigh</li>
+          <li><m>gu do</m> bhaile <en>to your town</en> ≈ <g>gud</g> bhaile</li>
           <li><m>gu a h-</m>eaglais <en>to her church</en> ≈ <g>ga h-</g>eaglais</li>
           <li>
             <m>gu a</m> chraoibh <en>to his tree</en> ≈ <g>ga</g> chraoibh</li>
           <li><m>gu ar n-</m>achadh <en>to our field</en> ≈ <g>gar n-</g>achadh</li>
-          <li><m>gu bhur</m> leapannan <en>to your beds</en> ≈ <g>gur</g> leapannan</li>
+          <li><m>gu ur</m> leapannan <en>to your beds</en> ≈ <g>gur</g> leapannan</li>
           <li><m>gu an</m> taighean <en>to their houses</en> ≈ <g>gun</g> taighean</li>
           <li><m>gu am</m> baile <en>to their town</en> ≈ <g>gum</g> baile</li>
         </ul></p>
@@ -93,7 +94,7 @@
         spelling rule, and hence is sometimes found written with a hyphen – <g>thuige-san</g>.</p>
       <p>Finally, there are also reflexive forms (cf. <bad>gu mi fhìn</bad>, <bad>gu thu
         fhèin</bad>, ... , <bad>gu iad fhèin</bad>) – <ul>
-          <li><m>thugam fhìn</m>
+          <li><m>thugam fhèin / fhìn</m>
             <en>to myself</en></li>
           <li><m>thugad fhèin</m>
             <en>to yourself</en></li>
@@ -101,7 +102,7 @@
             <en>to herself/itself</en></li>
           <li><m>thuige fhèin</m>
             <en>to himself/itself</en></li>
-          <li><m>thugainn fhìn</m>
+          <li><m>thugainn fhèin / fhìn</m>
             <en>to ourselves</en></li>
           <li><m>thugaibh fhèin</m>
             <en>to yourself</en></li>
@@ -342,7 +343,7 @@
           </li>
           <li>
             <gd><m>a-nuas gus an ochdamh linn deug</m></gd>
-            <tr>up [ie. down!] to the eighteenth century</tr>
+            <tr>up [i.e. down!] to the eighteenth century</tr>
             <ref text="601">td. 347</ref>
             <note>definite</note>
           </li>

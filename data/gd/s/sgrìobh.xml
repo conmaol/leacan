@@ -7,9 +7,9 @@
     <section id="forms">
         <h>forms</h>
         <p>The principal parts of <g>sgrìobh</g> are – <ul>
-                <li><m>sgrìobhaidh</m> – future independent ie. <en>will write</en></li>
-                <li><m>sgrìobh</m> – past independent ie. <en>wrote</en></li>
-                <li><m>sgrìobhadh</m> – verbal noun ie. <en>writing</en></li>
+                <li><m>sgrìobhaidh</m> – future independent, i.e. <en>will write</en></li>
+                <li><m>sgrìobh</m> – past independent, i.e. <en>wrote</en></li>
+                <li><m>sgrìobhadh</m> – verbal noun, i.e. <en>writing</en></li>
             </ul>
         </p>
         <section>
@@ -257,7 +257,7 @@
             <p>The subject of <g>sgrìobh</g> is generally human.</p>
             <p>Older pedagogical examples – <xl id="sbj-older-pedag">
                     <li>
-                        <gd><m>Tha <u>mo mhàthair</u> a’ sgrìobhadh</m> litreach gu m’athair a tha
+                        <gd><m>Tha mo mhàthair a’ sgrìobhadh</m> litreach gu m’athair a tha
                             air falbh.</gd>
                         <tr>My mother is writing a letter to my father who is away.</tr>
                         <ref text="621">td. 5</ref>
@@ -316,7 +316,7 @@
         <h>uses</h>
         <section>
             <h>derivatives</h>
-            <module id="sgriobhadh">
+            <section id="sgriobhadh">
                 <h>sgrìobhadh</h>
                 <p><g>sgrìobhadh</g>
                     <en>writing</en> is a masculine common noun, derived with suffix <a href="?gd=_adh"><g>-adh</g></a>.</p>
@@ -470,12 +470,12 @@
                     <h>uses</h>
                     <section>
                         <h>complement</h>
-                        <module id="a_sgriobhadh">
+                        <section id="a_sgriobhadh">
                             <h>a’ sgrìobhadh</h>
                             <p><g>(bi) a’ sgrìobhadh</g>
                                 <en>be writing</en> is a progressive verb compound, with the
                                 deverbal noun appearing as the complement of the progressive
-                                particle <a href="?gd=aig"><g>ag</g></a>.</p>
+                                particle <a href="?gd=ag"><g>ag</g></a>.</p>
                             <p>Examples –<ul>
                                     <li>older pedagogical examples – <xl id="prog-older-pedag">
                                             <li>
@@ -488,10 +488,10 @@
                                         </xl>
                                     </li>
                                 </ul></p>
-                        </module>
+                            </section>
                     </section>
                 </section>
-            </module>
+            </section>
         </section>
     </section>
 

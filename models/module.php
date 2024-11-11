@@ -256,8 +256,9 @@ HTML;
    <li>LeaCaG <a href="LeaCaG-2019.pdf" target="_new">grammar guidance</a> (2019)</li>
   <li>What are the irregular verbs in Gaelic? –
   <ul>
-    <li><a href="?gd=abair"><strong>abair</strong></a> ‘say’, <a href="?gd=beir"><strong>beir</strong></a> ‘bear’, <a href="?gd=cluinn"><strong>cluinn</strong></a> ‘hear’, 
-    <a href="?gd=faic"><strong>faic</strong></a> ‘see’, <a href="?gd=faigh"><strong>faigh</strong></a> ‘get’, 
+    <li><a href="?gd=abair"><strong>abair</strong></a> ‘say’, <a href="?gd=beir"><strong>beir</strong></a> ‘bear’,
+    <a href="?gd=cluinn"><strong>cluinn</strong></a> ‘hear’, <a href="?gd=dèan"><strong>dèan</strong></a> ‘do, make’,
+    <a href="?gd=faic"><strong>faic</strong></a> ‘see’, <a href="?gd=faigh"><strong>faigh</strong></a> ‘get’,
     <a href="?gd=rach"><strong>rach</strong></a> ‘go’, <a href="?gd=ruig"><strong>ruig</strong></a> ‘reach’, <a href="?gd=thig"><strong>thig</strong></a> ‘come’,
     <a href="?gd=thoir"><strong>thoir</strong></a> ‘give,take’,
     </li>
@@ -281,7 +282,7 @@ HTML;
 <hr/>
 <p class="small text-muted">LEACAN is being developed by <a href="https://dasg.ac.uk" target="_new">DASG</a> and 
         <a href="http://www.soillse.ac.uk" target="_new">Soillse</a>, as part of the <a href="https://www.gaidhlig.scot" target="_new">Bòrd na Gàidhlig</a>-funded LEACAN project.
-        Current team members are Dr Mark McConville, Dr David Mandic, Professor Roibeard Ó Maolalaigh (Glasgow University), 
+        Current team members are Dr Mark McConville, Dr David Mandić, Professor Roibeard Ó Maolalaigh (Glasgow University), 
         Professor William Lamb (Edinburgh University), Gordon Wells, Padruig Moireach (UHI), Jo NicDhòmhnaill, Ian MacDhòmhnaill and Mòrag NicLeòid. 
         The following people contributed to previous phases of this work – Dr Susan Ross, Professor Wilson McLeod, Professor Richard Cox, 
         Charles Wilson, Dr Domhnall Uilleam Stiùbhart, Ailean Caimbeul, Catrìona Chaimbeul, Ruairidh MacIllEathain, 

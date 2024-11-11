@@ -16,9 +16,10 @@
       </li>
     </xl>
   </p>
-  <p><g>fada</g> is the root of the abstract de-adjectival noun <g><a href="?gd=fad">fad</a></g>
+  <p><g>fada</g> is the root of the abstract de-adjectival noun<!--<g><a href="?gd=fad">fad</a></g>-->
+    <g>fad</g>
     <en>length</en>.</p>
-  <p lang="en"><g>is fhada bhon a ...</g>
+  <p><!--lang="en"--><g>is fhada bhon a ...</g>
     <en>for a long time</en> – <xl id="is_fhada">
       <li>
         <gd><m>Is fhada bhon a bha</m> daoine ag ràdh gum biodh àite cruinneachaidh do

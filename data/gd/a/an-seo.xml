@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
 <module status="bronze">
-    <h>an·seo</h>
-    <p><g>an·seo</g>
+    <h>an seo</h>
+    <p><g>an seo</g>
         <en>here, at this place</en> is a demonstrative adverb, derived from the speaker-proximal
         demonstrative pronoun <a href="?gd=seo"><g>seo</g></a>
         <en>this (one)</en>.</p>
-    <p><g>an·seo</g> contrasts with <a href="?gd=an-sin"><g>an·sin</g></a>
-        <en>there</en> (proximal to the hearer) and <a href="?gd=an-siud"><g>an·siud</g></a>
+    <p><g>an seo</g> contrasts with <a href="?gd=an-sin"><g>an sin</g></a>
+        <en>there</en> (proximal to the hearer) and <a href="?gd=an-siud"><g>an siud</g></a>
         <en>over there</en> (proximal to neither speaker nor hearer). </p>
     <section>
         <h>uses</h>
@@ -50,10 +50,10 @@
         </section>
         <section id="compounds">
             <h>compounds</h>
-            <module>
-                <h>a-bhos an·seo</h>
-                <p><g>an·seo</g> can be emphasised with (indefinite) <a href="?gd=a-bhos"
-                            ><g>a-bhos</g></a>
+            <module status="bronze">
+                <h>a-bhos an seo</h>
+                <p><g>an seo</g> can be emphasised with (indefinite) <!--<a href="?gd=a-bhos"
+                            ><g>a-bhos</g></a>--><g>a-bhos</g>
                     <en>over here</en>.</p>
                 <p>Pedagogical examples – <xl id="a-bhos-pedag">
                         <li>
@@ -68,8 +68,8 @@
         <section id="complement">
             <h>complement</h>
             <module status="bronze" id="thig_an-seo">
-                <h>thig an·seo</h>
-                <p><g><a href="?gd=thig">thig</a> an·seo</g>
+                <h>thig an seo</h>
+                <p><g><a href="?gd=thig">thig</a> an seo</g>
                     <en>come here</en> – <ul>
                         <li>pedagogical examples – <xl id="uses-thig-pedag">
                                 <li>

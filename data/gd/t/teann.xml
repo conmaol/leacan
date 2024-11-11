@@ -29,9 +29,9 @@
         <section id="forms">
           <h>forms</h>
           <p>The principal parts of the verb <g>teann</g> are – <ul>
-              <li><m>teannaidh</m> – future independent ie. <en>will start</en></li>
-              <li><m>theann</m> – past independent ie. <en>started</en></li>
-              <li><m>teannadh</m> – verbal noun ie. <en>starting</en></li>
+              <li><m>teannaidh</m> – future independent, i.e. <en>will start</en></li>
+              <li><m>theann</m> – past independent, i.e. <en>started</en></li>
+              <li><m>teannadh</m> – verbal noun, i.e. <en>starting</en></li>
             </ul>
           </p>
           <section id="tense">
@@ -55,7 +55,7 @@
                 </li>
                 <li>future <ul id="future">
                     <li>active <ul>
-                        <li>independent – <m>tòisichidh</m></li>
+                        <li>independent – <m>teannaidh</m></li>
                         <li>relative – a <m>theannas</m></li>
                         <li>dependent – cha/an/nach <m>teann</m></li>
                       </ul>
@@ -124,10 +124,10 @@
                 <p>The verb <g>teann</g> can govern a complement introduced by the preposition <a
                     href="?gd=ri"><g>ri</g></a>, expressing <a href="?q=verbal_aspect">inchoative
                     verbal aspect</a>, cf. <a href="?gd=tòisich"><g>tòisich</g></a> – <ul>
-                    <li><m>Theann Raonaid ri seinn</m>
-                      <en>Rachel began to sing</en></li>
-                    <li><m>Bha Iain a’ teannadh ri ubhal a ithe</m>
-                      <en>John was starting to eat an apple</en></li>
+                    <li><m>Theann Raonaid ri seinn.</m>
+                      <en>Rachel began to sing.</en></li>
+                    <li><m>Bha Iain a’ teannadh ri ubhal a ithe.</m>
+                      <en>John was starting to eat an apple.</en></li>
                   </ul>
                 </p>
                 <p>Some examples – <ul>
@@ -143,7 +143,6 @@
                           <gd>Theann am feasgar ri ciaradh.</gd>
                           <tr>The evening started to darken.</tr>
                           <ref text="400-154">td. 166</ref>
-                          <note><ed>Is ciaradh a verbal noun here?</ed></note>
                         </li>
                         <li>
                           <gd>Theann e ri streap.</gd>
@@ -208,7 +207,7 @@
                         </li>
                         <li>
                           <gd>Rug Dùghall air té de na pacaidean, bhris e air a ghlùin i, agus
-                            theann eair tilgeil nam brioscaidean-móra chun nan gillean.</gd>
+                            theann e air tilgeil nam brioscaidean-móra chun nan gillean.</gd>
                           <tr>[...] and he started to throw the biscuits to the boys.</tr>
                           <ref text="400-3">td. 34</ref>
                         </li>

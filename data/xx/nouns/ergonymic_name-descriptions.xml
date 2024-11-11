@@ -4,18 +4,18 @@
     <p>Ergonymic name-descriptions are <a href="?xx=nouns/name_descriptions">name-descriptions</a>
         which are also <a href="?xx=nouns/ergonyms">ergonyms</a> – specified common noun phrases
         which name groups of people – teams, organisations, institutions, companies, clans, etc. – <ul>
-            <li><a href="?gd=Eaglais_na_h-Alba"><g>Eaglais na h-Alba</g></a>
+            <li><!--<a href="?gd=Eaglais_na_h-Alba"><g>Eaglais na h-Alba</g></a>--><g>Eaglais na h-Alba</g>
                 <en>The Church of Scotland</en></li>
-            <li><a href="?gd=An_Eaglais_Stèidhichte"><g>An Eaglais Stèidhichte</g></a>
+            <li><!--<a href="?gd=An_Eaglais_Stèidhichte"><g>An Eaglais Stèidhichte</g></a>--><g>An Eaglais Stèidhichte</g>
                 <en>The Established Church</en></li>
-            <li><a href="?gd=Na_Manaich_Liatha"><g>Na Manaich Liatha</g></a>
+            <li><!--<a href="?gd=Na_Manaich_Liatha"><g>Na Manaich Liatha</g></a>--><g>Na Manaich Liatha</g>
                 <en>The Greyfriars</en></li>
         </ul>
     </p>
 
     <section id="lenition">
         <h>lenition</h>
-        <p>The head (ie. initial) noun in a (post-specified) ergonymic name-description which is
+        <p>The head (i.e. initial) noun in a (post-specified) ergonymic name-description which is
             itself the (genitive) (post-)specifier of another noun is traditionally not lenited – <ul>
                 <li><g>ceannard <emph>B</emph>òrd na Gàidhlig</g>
                     <en>the chairman of Bòrd na Gàidhlig</en></li>

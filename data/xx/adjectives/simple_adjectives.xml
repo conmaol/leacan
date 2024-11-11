@@ -71,7 +71,7 @@
                     <en>hoary</en> – <slen/> lèith(e)</li>
                 <li><g>mall</g>
                     <en>slow</en> – <slen/> moill(e)</li>
-                <li><a href="?gd=math"><g>math</g></a>
+                <li><!--<a href="?gd=math"><g>math</g></a>--><g>math</g>
                     <en>good</en> – <emph>alt.</emph> maith</li>
                 <li><g>mion</g>
                     <en>minute</en> – <slen/> min(e)</li>
@@ -115,21 +115,15 @@
                 <li><a href="?gd=brèagha"><g>brèagha</g></a>
                     <en>fine, beautiful, lovely</en></li>
                 <li><g>fada</g>
-                    <en>long</en>
-                    <slen/>
-                    <m>faid(e)</m></li>
+                    <en>long</en> – <slen/> faid(e)</li>
                 <li><g>gasta</g>
                     <en>handsome</en></li>
                 <li><g>grànda</g>
-                    <en>ugly</en>
-                    <slen/>
-                    <m>gràind(e)</m></li>
+                    <en>ugly</en> – <slen/> gràind(e)</li>
                 <li><g>sona</g>
                     <en>lucky</en></li>
                 <li><g>tana</g>
-                    <en>thin</en>
-                    <slen/>
-                    <m>tain(e)</m></li>
+                    <en>thin</en> – <slen/> tain(e)</li>
             </ul>
         </p>
         <p>Also – <ul>
@@ -138,13 +132,11 @@
                 <li><g>coitcheann</g>
                     <en>catholic</en> – <slen/> coitchinn(e)</li>
                 <li><g>leathann</g>
-                    <en>broad</en> – <slen/>
-                    <m>leithn(e)</m></li>
+                    <en>broad</en> – <slen/> leithne</li>
                 <li><g>maiseach</g>
                     <en>beautiful</en> – <slen/> maisich(e)</li>
                 <li><g>uasal</g>
-                    <en>noble</en> – <slen/>
-                    <m>uaisl(e)</m></li>
+                    <en>noble</en> – <slen/> uaisle</li>
             </ul>
         </p>
     </section>

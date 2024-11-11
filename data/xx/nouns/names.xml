@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
 <module status="bronze">
   <h>names</h>
-  <p>Names identify and refer to a single definite entity – a specific person, object, place, song, etc.</p>
+  <p>Names identify and refer to a single definite entity – a specific person, object, place, song <etc/>.</p>
   <section>
     <h>derivation</h>
     <p>Names can be classified into two grammatical types – <ul>
@@ -38,7 +38,7 @@
           <en>Plockton</en>, <g>Loch nam Madadh</g>
           <en>Lochmaddy</en></li>
         <li><a href="?xx=nouns/ergonyms">ergonyms</a> – names of groups of people (teams,
-          organisations, institutions, companies, tribes, etc.) – <g>Misneachd</g> <en>[name of
+          organisations, institutions, companies, tribes <etc/>) – <g>Misneachd</g> <en>[name of
           pressure group]</en>, <g>Alba Chruthachail</g>
           <en>Creative Scotland</en>, <g>An Comunn Gàidhealach</g>
           <en>The Highland Society</en>, <g>Bòrd na Gàidhlig</g> <en>[name of government
@@ -52,7 +52,7 @@
         <li><a href="?xx=nouns/glottonyms">glottonyms</a> – names of languages and dialects –
             <g>Laideann</g>
           <fem/>
-          <en>Latin</en>, <g>A’ Ghrèigis</g>
+          <en>Latin</en>, <g>A’ Ghreugais</g>
           <en>Greek</en>, <g>Gàidhlig na h-Èireann</g>
           <en>Irish [Gaelic]</en></li>
         <li><a href="?xx=nouns/chrononyms">chrononyms</a> – names of events and historical eras –

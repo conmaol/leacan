@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
 <module status="bronze">
     <h>Gaelic Orthographic Conventions</h>
+    <p><strong>Copyright © Scottish Qualifications Authority</strong></p>
     <p>The original version of this document can be found <ax
             href="https://www.sqa.org.uk/sqa/files_ccc/SQA-Gaelic_Orthographic_Conventions-En-e.pdf"
             >here</ax>.</p>

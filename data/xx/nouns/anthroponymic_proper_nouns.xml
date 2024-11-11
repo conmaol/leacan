@@ -23,7 +23,7 @@
       <section id="fem">
         <h>feminine</h>
         <p><ul>
-            <li><a href="?gd=Anna"><g>Anna</g></a>
+            <li><g>Anna</g><!--<a href="?gd=Anna"><g>Anna</g></a>-->
               <en>Anne</en></li>
             <li><g>Cairistìona</g>
               <en>Christine</en></li>
@@ -82,7 +82,7 @@
               <en>Hector</en>, gen. <g>Eachainn</g></li>
             <li><g>Fionnlagh</g>
               <en>Finlay</en>, gen. <g>Fhionnlaigh</g></li>
-            <li><a href="?gd=Iain"><g>Iain</g></a>
+            <li><g>Iain</g><!--<a href="?gd=Iain"><g>Iain</g></a>-->
               <en>John</en></li>
             <li><g>Màrtainn</g>
               <en>Martin</en>, gen. <g>Mhàrtainn</g></li>
@@ -183,11 +183,11 @@
               <en>Donald</en> are masculine anthroponymic proper nouns</li>
           </ul>
         </li>
-        <li>case – every anthroponymic proper noun is either nominative or dative or genitive – <ul>
+        <li>case – every anthroponymic proper noun is either nominative or dative or genitive or vocative – <ul>
             <li>The genitive and dative forms of the feminine proper noun <g>Mairead</g>
-              <en>Margaret</en> are both <g>Maireid</g>.</li>
-            <li>The genitive form of the masculine proper noun <g>Seòras</g>
-              <en>George</en> is <g>Sheòrais</g>; the nominative and dative forms are just
+              <en>Margaret</en> are both <g>Maireid</g>; the vocative form is <g>Mhairead</g>.</li>
+            <li>The genitive and vocative forms of the masculine proper noun <g>Seòras</g>
+              <en>George</en> are both <g>Sheòrais</g>; the nominative and dative forms are just
                 <g>Seòras</g>.</li>
           </ul>
         </li>
@@ -227,7 +227,7 @@
             <li><g>Mairead Bhàn</g>
               <en>Fair Margaret</en>
               <ul>
-                <li>dative – le <g>Maireid Bhàin</g> (alt. le Mairead Bhàn)</li>
+                <li>dative – le <g>Maireid Bhàin</g> (<emph>alt.</emph> le Mairead Bhàn)</li>
                 <li>genitive – taigh <g>Maireid Bhàin</g></li>
               </ul></li>
             <li><g>Seumas Mòr</g>
@@ -262,8 +262,8 @@
             <li><g>Mairead Chaimbeul</g>
               <en>Margaret Campbell</en>
               <ul>
-                <li>dative – le <g>Maireid Chaimbeil</g></li>
-                <li>genitive – taigh <g>Maireid Chaimbeul</g></li> <!-- taigh Maireid Caimbeile??-->
+                <li>dative – le <g>Mairead Chaimbeul</g></li>
+                <li>genitive – taigh <g>Maireid Chaimbeil</g></li> <!-- taigh Maireid Caimbeile??-->
               </ul></li>
             <li><g>Tormod Dòmhnallach</g>
               <en>Norman Donaldson</en>
@@ -287,7 +287,7 @@
               <li><g>Mairead <emph>Sheumais</emph></g>
                 <en>James’ Mary; Mary the wife/daughter of James</en>
                 <ul>
-                  <li>dative – le <g>Maireid Sheumais</g></li>
+                  <li>dative – le <g>Mairead Sheumais</g></li>
                   <li>genitive – taigh <g>Maireid<!--(e?)--> Sheumais</g>
                     <!-- <ed>Is this acceptable?</ed> --></li>
                 </ul></li>
@@ -323,7 +323,7 @@
                 <en>Janie the wife/daughter of the Church Minister</en>
                 <!-- <ed>Is this grammatical?</ed> -->
                 <ul>
-                  <li>dative – le <g>Seonaig Ministeir na h-Eaglaise</g></li>
+                  <li>dative – le <g>Seonag Ministeir na h-Eaglaise</g></li>
                   <li>genitive – taigh <g>Seonaig Ministeir na h-Eaglaise</g>
                     <!-- <ed>Is this acceptable?</ed> --></li>
                 </ul>
@@ -339,19 +339,19 @@
       <p>Other examples –<ul>
           <li><g>Sìleas na Ceapaich</g>
             <en>Cicely of Keppoch</en>
-            <ul>
-              <li>dative – le <g>Sìleis na Ceapaich</g></li>
-              <li>genitive – taigh <g>Sìleis<!--(e?)--> na Ceapaich</g>
-                <!-- <ed>Is this acceptable?</ed> --></li>
-            </ul>
+            <!--<ul>
+              <li>dative – le <g>Sìleas na Ceapaich</g></li>
+              <li>genitive – taigh <g>Sìleis na Ceapaich</g>
+                <ed>Is this acceptable?</ed></li>
+            </ul>-->
           </li>
           <li><g>Màiri Mhòr nan Òran</g>
             <en>lit. Big Mary of the Songs</en>
-            <ul>
+            <!--<ul>
               <li>dative – le <g>Màiri Mhòr nan Òran</g></li>
               <li>genitive – taigh <g>Màiri Mhòir nan Òran</g>
-                <!-- <ed>Is this acceptable?</ed> --></li>
-            </ul>
+                <ed>Is this acceptable?</ed></li>
+            </ul>-->
           </li>
         </ul></p>
 
@@ -370,27 +370,25 @@
 
     <section id="apposition">
       <h>apposition</h>
-      <!--
       <p>Like other proper nouns, an anthroponymic proper noun can stand in apposition to a
-        specified common noun, with the two nouns agreeing for case – <ul>
+        specified common noun, with the second noun being in the nominative case regardless of the
+        case of the first noun – <ul>
           <li><g>Dòmhnall an sagart</g>
             <en>Donald the priest</en>
-            <ed>Is this grammatical?</ed>
             <ul>
               <li>dative – le <g>Dòmhnall an t-sagart</g></li>
-              <li>genitive – taigh <g>Dhòmhnaill an t-sagairt</g></li>
+              <li>genitive – taigh <g>Dhòmhnaill an t-sagart</g></li>
             </ul>
           </li>
           <li><g>Mairead bean a’ Mhinisteir</g>
             <en>Margaret the minister’s wife</en>
             <ul>
-              <li>dative – le <g>Maireid mnaoi a’ Mhinisteir</g></li>
-              <li>genitive – taigh <g>Maireid mnatha a’ Mhinisteir</g></li>
+              <li>dative – le <g>Mairead bean a’ Mhinisteir</g></li>
+              <li>genitive – taigh <g>Maireid bean a’ Mhinisteir</g></li>
             </ul>
           </li>
         </ul>
       </p>
-    -->
 
       <section>
         <h>patronymics and patronymic surnames</h>
@@ -398,16 +396,16 @@
             <li><g>Mairead nighean Thormoid</g>
               <en>Margaret, daughter of Norman</en>
               <ul>
-                <li>dative – le <g>Mairead nighean Thormoid</g></li> <!--le Maireid nighinn Thormoid-->
-                <li>genitive – taigh <g>Maireid (n)ighne Thormoid</g></li>
+                <li>dative – le <g>Mairead nighean Thormoid</g></li>
+                <li>genitive – taigh <g>Maireid nighean Thormoid</g></li>
               </ul>
             </li>
-            <li><g>Iain mac Dhòmhnaill mhic Sheumais mhic Dhonnchaidh</g>
-              <en>John, son of Donald, son of James, son of Duncan</en>
+            <li><g>Dòmhnall mac Dhòmhnaill mhic Sheumais mhic Dhonnchaidh</g>
+              <en>Donald, son of Donald, son of James, son of Duncan</en>
               <!--<ed>Why mhic and not mic?</ed>-->
               <ul>
-                <li>dative – le <g>Iain mac Dhòmhnaill mhic Sheumais mhic Dhonnchaidh</g></li>
-                <li>genitive – taigh <g>Iain m[h]ic Dhòmhnaill mhic Sheumais mhic
+                <li>dative – le <g>Dòmhnall mac Dhòmhnaill mhic Sheumais mhic Dhonnchaidh</g></li>
+                <li>genitive – taigh <g>Dhòmhnaill mhic Dhòmhnaill mhic Sheumais mhic
                   Dhonnchaidh</g></li>
               </ul>
             </li>
@@ -417,7 +415,7 @@
             <li><g>Mairead NicNèill</g>
               <en>Margaret MacNeil</en>
               <ul>
-                <li>dative – le <g>Maireid NicNèill</g></li>
+                <li>dative – le <g>Mairead NicNèill</g></li>
                 <li>genitive – taigh <g>Maireid NicNèill</g></li>
               </ul>
             </li>
@@ -438,7 +436,7 @@
             <li><g>Sìleas Mairead</g>
               <en>Julia Margaret</en>
               <ul>
-                <li>dative – le <g>Sìleis Maireid</g></li>
+                <li>dative – le <g>Sìleas Mairead</g></li>
                 <li>genitive – taigh <g>Sìleis Maireid</g></li>
               </ul>
             </li>
@@ -730,7 +728,7 @@
           <li><g>cù Flòraidh</g> – <en>Flora’s dog</en></li>
         </ul>
       </p>
-      <p>However, it is common nowadays in some dialects (eg. Skye) to see/hear feminine anthroponymic proper nouns lenited in
+      <p>However, it is common nowadays in some dialects (e.g. Skye) to see/hear feminine anthroponymic proper nouns lenited in
         these contexts – <ul>
           <li><g>taigh Mhàiri</g></li>
           <li><g>cù Fhlòraidh</g></li>

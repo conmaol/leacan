@@ -17,15 +17,16 @@
     <section>
       <h>pre-specified</h>
       <p>Pre-specified – <ul>
-          <li>topoanthroponyms (the common noun is <a href="?xx=nouns/ethnonymic_common_nouns"
-              >ethnonymic</a>) – <g>am Moireach</g>
+          <li>topoanthroponyms (the common noun is <!--<a href="?xx=nouns/ethnonymic_common_nouns"
+              >ethnonymic</a>-->ethnonymic) – <g>am Moireach</g>
             <en>the Duke of Atholl</en>, <g>am Muileach</g>
             <en>Hector MacLachlain, the Man from Mull</en>, <g>an Bàideanach</g>
             <en>the Badenoch man</en> (Calder 1923: 105)</li>
           <li>military ranks – <g>an Caiptean</g>
             <en>the Captain</en>, <g>an Còirneal</g>
             <en>the Colonel</en></li>
-          <li>derived from <a href="?xx=nouns/ethnonymic_common_nouns">ethnonymic common nouns</a> –
+          <li>derived from <!--<a href="?xx=nouns/ethnonymic_common_nouns">ethnonymic common nouns</a>-->
+              ethnonymic common nouns –
               <g>am Frisealach</g>
             <en>Fraser</en>, <g>an Caimbeulach dubh</g>
             <en>black Campbell</en> (all from Calder 1923: 105)</li>
@@ -37,7 +38,7 @@
       <p>Post-specified – <ul>
           <li>topoanthroponyms – <g>Fear Chanaidh</g>
             <en>John Lorne Campbell of Canna</en>, <g>Fear Chìosmuil</g>
-            <en>MacNeil of Barra</en>, <g>Morair Ghalaibh</g>
+            <en>MacNeil of Barra</en>, <g>Morair Ghallaibh</g>
             <en>the Earl of Caithness</en>, <g>Siosalach Shrathghlais</g>
             <en>Chisholm of Chisholm</en>, <g>Triath Dhubhairt</g>
             <en>MacLean of Duart</en></li>
@@ -66,14 +67,14 @@
 
   <section id="lenition">
     <h>lenition</h>
-    <p>The head (ie. initial) noun in a (post-specified) anthroponymic name-description which is
+    <p>The head (i.e. initial) noun in a (post-specified) anthroponymic name-description which is
       itself the (genitive) (post-)specifier of another noun is generally not lenited – <ul>
         <li><g>taigh Fear Chìosmuil</g>
-          <en>MacNeil of Barra’s house</en>, cf. <bad>taigh Fhear Chìosmuil</bad></li>
+          <en>MacNeil of Barra’s house</en> [<emph>alt.</emph> taigh Fhir Chìosmuil]</li>
         <li><g>cù Bean Alastair</g>
-          <en>Alexander’s Wife’s dog</en>, cf. <bad>cù Bhean Alastair</bad></li>
+          <en>Alexander’s Wife’s dog</en></li>
         <li><g>peann Ceannard a’ Bhùird</g>
-          <en>the Chairman of the Board’s pen</en>, cf. <bad>peann Cheannard a’ Bhùird</bad></li>
+          <en>the Chairman of the Board’s pen</en></li>
       </ul>
     </p>
   </section>

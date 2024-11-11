@@ -4,25 +4,33 @@
   <p>Name-descriptions are <a href="?xx=nouns/names">names</a> which are not (single) <a
       href="?xx=nouns/nouns">nouns</a>. They consist of a specified <a href="?xx=nouns/common_nouns"
       >common noun</a> phrase which identifies and refers to a particular entity – a specific
-    person, place, group <etc/>. Examples of name-descriptions are <g>Bean Alasdair</g>
-    <en>Alexander’s Wife</en>, <g>Am Ploc</g>
-    <en>Plockton</en>, <g>Gàidhlig na h-Èireann</g>
-    <en>Irish Gaelic</en>.</p>
+    person, place, group <etc/>. Examples of name-descriptions are – <ul>
+      <li><g>Bean Alasdair</g>
+        <en>Alexander’s Wife</en></li>
+      <li><g>Am Ploc</g>
+        <en>Plockton</en></li>
+      <li><g>Gàidhlig na h-Èireann</g>
+        <en>Irish Gaelic</en></li>
+  </ul></p>
   <p>Name-descriptions contrast with <a href="?xx=nouns/proper_nouns">proper nouns</a> (names which
-    are also nouns – <g>Mairead</g>
-    <fem/>
-    <en>Margaret</en>, <g>Glaschu</g>
-    <masc/>
-    <en>Glasgow</en>, <g>Gairm</g>
-    <fem/> [literary periodical]). In addition, most specified common noun phrases (‘definite
-    descriptions’) are not names, <eg/> <g>am balach beag</g> <en>the little boy</en>, <g>cù a’ mhinisteir</g> <en>the minister’s dog</en>.</p>
-
+    are also nouns) – <ul>
+      <li><g>Mairead</g>
+        <fem/>
+        <en>Margaret</en></li>
+      <li><g>Glaschu</g>
+        <masc/>
+        <en>Glasgow</en></li>
+      <li><g>Gairm</g>
+        <fem/> [literary periodical]</li>
+    </ul></p> 
+  <p>In addition, most specified common noun phrases (‘definite descriptions’) are not names, e.g.
+    <g>am balach beag</g> <en>the little boy</en>, <g>cù a’ mhinisteir</g> <en>the minister’s dog</en>.</p>
   <section id="forms">
     <h>forms</h>
     <p>Name-descriptions can be classified into two grammatical types, based on the position of the
       specifier – <ul>
-        <li>pre-specified name-descriptions – the common noun element is specified by a <a
-            href="?xx=nouns/determiners">determiner</a> – <ul>
+        <li>pre-specified name-descriptions – the common noun element is specified by a <!--<a
+            href="?xx=nouns/determiners">determiner</a>-->determiner – <ul>
             <li><g><emph>Am</emph> Moireach</g>
               <en>The Duke of Atholl; lit. The Murray</en>
               <ul>
@@ -52,7 +60,7 @@
               <en>MacNeil of Barra; lit. The Man of Kisimul</en>
               <ul>
                 <li>dative – le <g>Fear Chìosmuil</g></li>
-                <li>genitive – taigh <g>Fear Chìosmuil</g>
+                <li>genitive – taigh <g>Fear Chìosmuil</g> [<emph>alt.</emph> taigh <g>Fhir Chìosmuil</g>]
                   <!-- <ed>taigh Fear Chìosmuil ?</ed> --></li>
               </ul>
             </li>
@@ -87,7 +95,7 @@
           <en>The Scottish Borders</en>
           <ul>
             <li>dative – ann an <g>Crìochan na h-Alba</g></li>
-            <li>genitive – comhairle <g>C[h]rìochan na h-Alba</g>
+            <li>genitive – comhairle <g>Crìochan na h-Alba</g>
               <!-- <ed>lenition here??</ed>--></li>
           </ul>
         </li>
@@ -107,7 +115,7 @@
     <p>Like all names, name-descriptions can also be classified into a number of semantic types,
       depending on the kind of entity named – <ul>
         <li><a href="?xx=nouns/anthroponymic_name_descriptions">Anthroponymic name-descriptions</a>
-          name individual persons (including personified entities) – <g>An Coirneal</g>
+          name individual persons (including personified entities) – <g>An Còirneal</g>
           <en>The Colonel</en>, <g>Fear Chanaigh</g>
           <en>The Man of Canna [John Lorne Campbell]</en>.</li>
         <li><a href="?xx=nouns/toponymic_name_descriptions">Toponymic name-descriptions</a> name
@@ -125,7 +133,7 @@
           <en>The Song of the Prince</en>, <g>Faclair na Gàidhlig</g>
           <en>The [Historical] Dictionary of Scottish Gaelic</en>.</li>
         <li><a href="?xx=nouns/glottonyms">Glottonymic</a> name-descriptions name languages and
-          dialects – <g>A’ Ghrèigis</g>
+          dialects – <g>A’ Ghreugais</g>
           <en>Greek</en>, <g>Gàidhlig na h-Èireann</g>
           <en>Irish Gaelic</en>.</li>
         <li><a href="?xx=nouns/chrononyms">Chrononymic</a> name-descriptions name events and
@@ -135,9 +143,9 @@
       </ul>
     </p>
     <p>Note that a few pre-specified name-descriptions are notable in that the nouns involved appear
-      to be more proper than common, in particular names of countries (<eg/>
+      to be more proper than common, in particular names of countries (e.g.
       <g>A’ Ghreug</g>
-      <en>Greece</en>) and languages (<eg/>
+      <en>Greece</en>) and languages (e.g.
       <g>A’ Ghreugais</g>
       <en>Greek</en>). For convenience, we can call these ‘uncommon’ nouns – syntactically common
       but semantically proper. <!--<ed>Think about Na Hearadh here.</ed>--></p>
@@ -145,8 +153,8 @@
 
   <section id="lenition">
     <h>lenition</h>
-    <p>The head (ie. initial) noun in a (post-specified) name-description <g>which is itself</g> the
-      (genitive) (post-)specifier of another noun is generally not lenited in Scottish Gaelic – <ul>
+    <p>The head (ie. initial) noun in a post-specified name-description <g>which is itself</g> the
+      genitive (post-)specifier of another noun is generally not lenited in Scottish Gaelic – <ul>
         <li>anthroponymic – <g>taigh <emph>F</emph>ear Chìosmuil</g>
           <en>MacNeil of Barra’s house</en></li>
         <li>toponymic – <g>mullach <emph>B</emph>einn Nibheis</g>

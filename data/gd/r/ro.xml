@@ -32,10 +32,11 @@
             </p>
             <!-- <p><ed>Add note on ‘ron a-màireach’, ‘ron a h-uile ...’, ‘ron a bheil ...’? Older forms
                     with apostrophes?</ed></p> -->
-            <p>Note that <g>ron an</g> and <g>ron a’</g> often reduce to just <g>ron</g> – <g>ron
+            <p>Note that <g>ron an</g> and <g>ron a’</g> often occur as just <g>ron</g> – <g>ron
                     taigh</g>, <g>ron bhaile</g>.</p>
-            <p>Fused forms are sometimes found when the immediately following word is a <a
-                    href="?xx=nouns/possessive_determiners">possessive determiner</a> – <ul>
+            <p>Fused forms are sometimes found when the immediately following word is a <!--<a
+                    href="?xx=nouns/possessive_determiners">possessive determiner</a>-->
+                    possessive determiner – <ul>
                     <li><m>ro mo</m> thaigh <en>before my house</en> ≈ <g>rom</g> thaigh</li>
                     <li><m>ro do</m> bhaile <en>before your town</en> ≈ <g>rod</g> bhaile</li>
                     <li><m>ro a h-</m>òran <en>before her song</en> ≈ <g>ro h-</g>òran</li>
@@ -93,7 +94,7 @@
                     <g>roimhe-san</g>.</p>
             <p>Finally, there are also reflexive forms (cf. <bad>ro mi fhìn</bad>, <bad>ro thu
                     fhèin</bad>, ... , <bad>ro iad fhèin</bad>) – <ul>
-                    <li><m>romham fhìn</m>
+                    <li><m>romham fhèin / fhìn</m>
                         <en>before myself</en></li>
                     <li><m>romhad fhèin</m>
                         <en>before yourself</en></li>
@@ -101,7 +102,7 @@
                         <en>before herself/itself</en></li>
                     <li><m>roimhe fhèin</m>
                         <en>before himself/itself</en></li>
-                    <li><m>romhainn fhìn</m>
+                    <li><m>romhainn fhèin / fhìn</m>
                         <en>before ourselves</en></li>
                     <li><m>romhaibh fhèin</m>
                         <en>before yourselves</en></li>

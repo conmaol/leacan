@@ -251,11 +251,11 @@
     <section>
       <h>notes</h>
       <p><ol>
-          <li>The conditional stem varies according to dialect – <g>deigh–</g>, <g>geobh-</g>,
-              <g>rach-</g>, <g>reigh-</g>, <g>reagh-</g>, <g>deidh-</g>.</li>
+          <li>The conditional stem varies according to dialect – <g>deigh-</g> / <g>deidh-</g>,
+              <g>rach-</g>, <g>reigh-</g>, <g>reagh-</g>.</li>
           <li>The future dependent forms in <g>tèid-</g> are pronounced as if they were spelled
               <g>dèid-</g>. </li>
-          <li>There is a dialectal alternative to past dependent <g>deach</g> ie.
+          <li>There is a dialectal alternative to past dependent <g>deach</g>, i.e.
             <g>deachaidh</g>.</li>
         </ol>
       </p>
@@ -562,9 +562,9 @@
               <li>intransitive – <ul>
                   <li>pedagogical examples – <xl id="passive-intr-pedag">
                       <li>
-                        <gd><m>Thèid innse</m> dhuinn a-nochd. | <m>Chaidh tòiseachadh</m> air an
+                        <gd><m>Chaidh tòiseachadh</m> air an
                           t-siostam ùr an t-seachdain seo chaidh.</gd>
-                        <tr>We’ll be told tonight. | The new system was begun last week.</tr>
+                        <tr>The new system was begun last week.</tr>
                         <ref text="601">td. 477</ref>
                         <note>Maybe not intransitive at all?</note>
                       </li>
@@ -842,7 +842,7 @@
                 </li>
               </ul>
             </p>
-            <p>A more emphatic variant is <g>rach gu <a href="?gd=math">math</a> le [duine]</g>
+            <p>A more emphatic variant is <g>rach gu <!--<a href="?gd=math">math</a>-->math le [duine]</g>
               <en>flourish, do well</en> – <ul>
                 <li>pedagogical examples – <xl id="rach_gu_math_le-pedag">
                     <li>
@@ -880,7 +880,7 @@
           <module id="rach_gu_math_do" status="bronze">
             <h>rach gu math do ...</h>
             <p>Yet another way of expressing the notion of success is with the impersonal
-              construction <g>rach gu <a href="?gd=math">math</a> do [dhuine]</g> – <ul>
+              construction <g>rach gu <!--<a href="?gd=math">math</a>-->math do [dhuine]</g> – <ul>
                 <li><m>Chaidh gu math do Raonaid.</m>
                   <en>It went well for Rachel.</en></li>
                 <li><m>An tèid gu math dhut?</m>
@@ -911,7 +911,7 @@
                     </li>
                   </ul>
                 </li>
-                <li>with <a href="?gd=ciamar"><g>ciamar?</g></a>
+                <li>with <!--<a href="?gd=ciamar"><g>ciamar?</g></a>--><g>ciamar?</g>
                   <en>how?</en> – <ul>
                     <li>pedagogical examples – <xl id="rach_ciamar-pedag">
                         <li>
@@ -971,7 +971,7 @@
             <h>prepositions</h>
             <p>There are a number of prepositions which can be used to introduce concrete path
               complements of <g>rach</g> – <ul>
-                <li><g>rach <a href="?gd=dha">dha</a> ...</g> [<g>do</g>, <g>a</g>]
+                <li><g>rach <a href="?gd=do^preposition">do</a> ...</g> [<g>dha</g>/<g>a</g>]
                     <en>go (in)to something</en> – <ul>
                     <li>proper nouns/names – <ul>
                         <li>pedagogical examples – <xl id="comps-do-proper-pedag">
@@ -1202,13 +1202,13 @@
                         <gd>Chaidh Iain <m>gan iarraidh</m>. | Chaidh Calum <m>ga coimhead</m>.</gd>
                         <tr>John went to get them. | Calum went to watch her.</tr>
                         <ref text="609">td. 156, 157 [199]</ref>
-                        <note>ie. dhan iarraidh, dha coimhead</note>
+                        <note>i.e. dhan iarraidh, dha coimhead</note>
                       </li>
                       <li>
                         <gd>Thuirt e gun robhas a’ dol ga mhort.</gd>
                         <tr>He said that he was going to be murdered.</tr>
                         <ref text="601">td. 477</ref>
-                        <note>ie. Thuirt e gun robh duine a’ dol dha mhort.</note>
+                        <note>i.e. Thuirt e gun robh duine a’ dol dha mhort.</note>
                       </li>
                     </xl>
                   </li>
@@ -1273,7 +1273,7 @@
             </p>
             <p>Note also examples with <a href="?gd=air"><g>air</g></a>
               <en>on</en> – <ul>
-                <li><g>rach <a href="?gd=lorg">air lorg</a> ...</g>
+                <li><g>rach <!--<a href="?gd=lorg">air lorg</a>-->air lorg ...</g>
                   <en>go looking for, track, trail</en></li>
                 <li><g>rach <a href="?gd=latha">air làithean saora</a></g>
                   <en>go on holiday/vacation</en>
@@ -1316,7 +1316,7 @@
           <section>
             <h>idioms</h>
             <p>Some quasi-idiomatic usages that seem to involve concrete senses of <g>rach</g> are – <ul>
-                <li><g>rach <a href="?gd=fo">fodha*</a></g>
+                <li><g>rach <a href="?gd=fo">fodha</a></g>
                   <en>go down, sink</en></li>
                 <li><g>rach <a href="?gd=caill">air chall</a></g>
                   <en>get/become lost</en></li>
@@ -1352,12 +1352,21 @@
                     </li>
                   </xl>
                 </li>
+                <li><g>rach am feabhas</g>
+                  <en>improve, get/become better</en> – <xl id="feabhas-pedag">
+                    <li>
+                      <gd>Chaidh an suidheachadh rudeigin am feabhas o chionn ghoirid.</gd>
+                      <tr>The situation (has) improved a bit recently.</tr>
+                      <ref text="601">td. 285</ref>
+                    </li>
+                  </xl>
+                </li>
               </ul>
             </p>
             <module status="bronze" id="rach_na_">
-              <h>rach na* ...</h>
+              <h>rach na ...</h>
               <p>A special implementation of this is the pseudo-reflexive <g>rach <a
-                    href="?gd=an^preposition">na*</a> ...</g>
+                    href="?gd=an^preposition">na</a> ...</g>
                 <en>become, turn into</en> – <ul>
                   <li>human subjects – <ul>
                       <li>pedagogical examples – <xl id="rach_na-human-pedag">
@@ -1390,7 +1399,7 @@
                 </ul>
               </p>
               <p>Some idioms – <ul>
-                  <li><g>rach na* teine</g>
+                  <li><g>rach na teine</g>
                     <en>catch fire, go on fire</en> – <ul>
                       <li>pedagogical examples – <xl id="teine-pedag">
                           <li>
@@ -1411,7 +1420,7 @@
             <p>The new state can be introduced by the preposition <a href="?gd=a^preposition"
                   ><g>à</g></a>
               <en>out of</en> – <ul>
-                <li><g>rach às a* chiall</g>
+                <li><g>rach às a chiall</g>
                   <en>go out of one’s mind</en> – <ul>
                     <li>pedagogical examples – <xl id="ciall-pedag">
                         <li>
@@ -1435,6 +1444,18 @@
                 <li><g>rach <a href="?gd=tàmh">gu tàmh</a></g>
                   <en>go to rest, die</en></li>
               </ul>
+            </p>
+          </module>
+          <module status="bronze" id="rach_do">
+            <h>rach do [a] ...</h>
+            <p>The new state can be introduced by the preposition <a href="?gd=do^preposition"><g>do</g></a>
+              <en>(in)to</en> – <ul>
+                <li><g>rach a dhìth</g>
+                  <en>perish, die out, go to ruin</en></li>
+                <li><g>rach a dholaidh</g>
+                  <en>go to waste</en></li>
+              </ul>
+              Note that the reduced form <g>a</g> of the preposition <g>do</g> is used in these expressions.
             </p>
           </module>
         </section>
@@ -1642,9 +1663,9 @@
     <section id="complement">
       <h>complement</h>
       <module status="bronze">
-        <h>... a chaidh/thèid/dheigheadh</h>
+        <h>... a chaidh/thèid/rachadh</h>
         <p>Relative forms of <g>rach</g> can be used as the complement of the positive relative
-          particle <a href="?gd=a^relative"><g>a</g></a>.</p>
+          particle <!--<a href="?gd=a^relative"><g>a</g></a>--><g>a</g>.</p>
         <module status="bronze">
           <h>... seo a chaidh</h>
           <p>Used with expressions of time to denote <en>last ..., this past ...</en></p>
@@ -1674,7 +1695,7 @@
             <h>complement</h>
             <module id="a_dol" status="bronze">
               <h>a’ dol</h>
-              <p>When used as the complement of the progressive particle <a href="?gd=aig"
+              <p>When used as the complement of the progressive particle <a href="?gd=ag"
                   ><g>ag</g></a>, as in <g>a’ dol</g>
                 <en>(in the process of) going</en> has progressive meaning, and usually occurs as
                 the predicate of the verb <a href="?gd=bi"><g>bi</g></a>.</p>

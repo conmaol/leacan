@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../module.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
 <module status="bronze" id="top">
     <h>aba</h>
-    <p><b>aba</b>
-        <en>abbot</en> is a masculine <a href="?xx=nouns/occupational_common_nouns">occupational</a>
+    <p><g>aba</g>
+        <en>abbot</en> is a masculine <!--<a href="?xx=nouns/occupational_common_nouns">occupational</a>-->occupational
         <a href="?xx=nouns/simple_common_nouns">simple common noun</a>.</p>
     <section>
         <h>forms</h>
@@ -117,7 +117,7 @@
             <section>
                 <h>prefixed</h>
                 <p>Compounds – <ul>
-                        <li><g><a href="?gd=bean^noun">ban</a>-aba</g>
+                        <li><g><!--<a href="?gd=bean^noun">ban</a>-->ban-aba</g>
                             <fem/>
                             <en>abbess</en> pl. <g>ban-abachan</g>.</li>
                     </ul>
@@ -126,7 +126,7 @@
             <section>
                 <h>suffixed</h>
                 <p>Derivatives – <ul>
-                        <li><a href="?gd=abaid"><g>abaid</g></a>
+                        <li><!--<a href="?gd=abaid"><g>abaid</g></a>--><g>abaid</g>
                             <fem/>
                             <en>abbey</en></li>
                     </ul>

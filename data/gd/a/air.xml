@@ -3,7 +3,7 @@
   <!-- G12W 1–6 done -->
   <h>air</h>
   <p><g>air</g>
-    <en>on, upon</en> is the (usually non-leniting) <!--superessive--> <a href="?xx=prepositions/prepositions"
+    <en>on, upon</en> is the (usually non-leniting) superessive <a href="?xx=prepositions/prepositions"
       >preposition</a>.</p>
   <!-- ROM – Note that air can lenite in some expressions which describe a state e.g. air chrith, air bhoil. Also involving parts of the body e.g. beir air chasan; cf also air bharr 'on top', etc. Worth adding a note. -->
   <section>
@@ -26,15 +26,16 @@
           <li><m>air na h-</m>itealain <en>on the airplanes</en></li>
         </ul>
       </p>
-      <p>Moreover, there are no fused forms with <g>air</g> and a <a
-          href="?xx=nouns/possessive_determiners">possessive determiner</a> – <ul>
+      <p>Moreover, there are no fused forms with <g>air</g> and a<!--<a
+          href="?xx=nouns/possessive_determiners">possessive determiner</a>-->
+          possessive determiner – <ul>
           <li><m>air mo</m> cheann <en>on my head</en></li>
           <li><m>air do</m> bhòrd <en>on your table</en></li>
             <!-- ROM – But we do get orra for air do < air dho -->
           <li><m>air a h-</m>ùbhlan <en>on her apples</en></li>
           <li><m>air a</m> chois <en>on his foot</en></li>
           <li><m>air ar</m> sgeilpean <en>on our shelves</en></li>
-          <li><m>air bhur</m> coin <en>on your dogs</en></li>
+          <li><m>air ur</m> coin <en>on your dogs</en></li>
           <li><m>air an</m> taighean <en>on their houses</en></li>
           <li><m>air am</m> fearann <en>on their land</en></li>
         </ul>
@@ -82,7 +83,7 @@
         rule, and hence is sometimes found written with a hyphen – <g>air-san</g>.</p>
       <p>Finally, there are also reflexive forms (cf. <bad>air mi fhìn</bad>, <bad>air thu
           fhèin</bad>, ... <bad>air iad fhèin</bad>) – <ul>
-          <li><m>orm fhìn</m>
+          <li><m>orm fhèin / fhìn</m>
             <en>on myself</en></li>
             <!-- ROM: Note that fhein (grace accent) is sound in some dialects with 1 sg and pl. -bh + fhein is often pronounced pein -->
             <!-- WL: Cox (2017: 219) notes fhìn is also sometimes used with i -->
@@ -92,7 +93,7 @@
             <en>on herself/itself</en></li>
           <li><m>air fhèin</m>
             <en>on himself/itself</en></li>
-          <li><m>oirnn fhìn</m>
+          <li><m>oirnn fhèin / fhìn</m>
             <en>on ourselves</en></li>
           <li><m>oirbh fhèin</m>
             <en>on yourself</en></li>
@@ -100,6 +101,7 @@
             <en>on themselves</en></li>
         </ul>
       </p>
+      <p>Note that <g>-bh</g> + <g>fhèin</g> is often pronounced <g>pèin</g> in <g>oirbh fhèin</g>.</p>
     </section>
   </section>
 
@@ -376,7 +378,7 @@
       <h>predicate</h>
       <p>One common use of the preposition <g>air</g> is to introduce the predicate of the verb <a
           href="?gd=bi"><g>bi</g></a> – <ul>
-          <li><m>Tha</m> Seònaid <m>air</m> an taigh-sholais. <en>Shona is on the
+          <li><m>Tha</m> Seònaid <m>air</m> an taigh-sholais. <en>Janet is on the
             lighthouse</en>.</li>
           <li><m>Tha</m> falt fada <m>orm</m>. <en>I have long hair.</en></li>
         </ul>
@@ -455,15 +457,15 @@
         <p>When the preposition <g>air</g> governs an infinitive (verbal noun), it generally
           indicates <a href="?q=verbal_aspect">retrospective aspect</a>, similar in some ways to the
           English ‘perfect tenses’ – <ul>
-            <li><m>Tha Raonaid air obair a dhèanamh.</m>
-              <en>Rachel has done work.</en></li>
+            <li><m>Tha Raonaid air taigh a cheannach.</m>
+              <en>Rachel has bought a house.</en></li>
           </ul>
         </p>
         <section>
           <h>intransitive</h>
           <p>Basic pattern – <ul>
-              <li><m>Tha Seumas air èirigh</m>
-                <en>James has risen</en></li>
+              <li><m>Tha Seumas air èirigh.</m>
+                <en>James has risen.</en></li>
             </ul>
           </p>
           <p>Examples from dictionaries and grammars – <xl id="retro-intrans-dictionary">
@@ -489,10 +491,12 @@
         <section>
           <h>transitive with inversion</h>
           <p>Basic pattern – <ul>
-              <li><m>Tha Raonaid air na balaich a phògadh</m>
-                <en>Rachel has kissed the boys</en></li>
+              <li><m>Tha Raonaid air na balaich a phògadh.</m>
+                <en>Rachel has kissed the boys.</en></li>
             </ul>
           </p>
+          <p>Note that the object noun is in the nominative case, rather than the dative, in this
+            context – Tha Raonaid air <m>am balach</m> a phògadh. <en>Rachel has kissed the boy.</en></p>
           <p>Examples from dictionaries and grammars – <xl id="retro-inversion-dictionary">
               <li>
                 <gd>Bha mi air an doras a dhùnadh.</gd>
@@ -600,8 +604,8 @@
             <p>When the possessive determiner agrees with the subject in person, number and gender,
               a passive-like sense is possible – <ul>
                 <li><m>Tha bròg air a dèanamh.</m>
-                  <en>A show has been made.</en></li>
-                <li><m>Tha brògan air an dèanamh</m>
+                  <en>A shoe has been made.</en></li>
+                <li><m>Tha brògan air an dèanamh.</m>
                   <en>Shoes have been made.</en></li>
               </ul>
             </p>
@@ -669,19 +673,6 @@
             
             <p>Examples from Gairm – <xl id="passive-gairm">
                 <li>
-                  <gd>Tha An Comunn Gaidhealach a’ bruidhinn air Seanaileir ùr a thaghadh a bhios os
-                    cionn obair a’ Chomuinn. [...] Cha b’ fhuilear do dhuine de ’n t-seòrsa so
-                    tomhas mhath de chumhachd a bhith aige. Cha dean math dha a <m>bhith air a
-                      shlaodadh</m> aig tòin Coimitidh, ach feumaidh an Coimitidh earbsa a bhith aca
-                    ás.</gd>
-                  <tr>The Highland Society is talking about choosing a new General who will oversee
-                    the Society’s work. [...] A person of this kind would have to have a good
-                    measure of power. It would do him no good to have been dragged at the bottom of a
-                    Committee, but the Committee must have trust in him.</tr>
-                  <ref text="400-46">td. 105, ‘Air an Spiris’</ref>
-                  <note>DM: I think this is not a perfect form (i.e. have been dragged) but it describes a state.</note>
-                </li>
-                <li>
                   <gd>Anns na ràithean ’s na bliadhnachan a tha air thoiseach oirnn, tha fhios gun
                     dig iomadh atharrachadh air Roinn na Gàidhlig sa’ Bh.B.C. [...] Mar a bhios
                     obair a’ Bh.B.C. a’ leudachadh anns a’ Ghaidhealtachd—agus tha fhios gun tachair
@@ -735,7 +726,7 @@
         </section>
         <section id="immediate">
           <h>immediately retrospective</h>
-          <p>cf. <a href="?gd=dìreach">dìreach</a></p>
+          <!--<p>cf. <a href="?gd=dìreach"><g>dìreach</g></a></p>-->
           <p>Examples from dictionaries and grammars – <xl id="immediate-dictionary">
               <li>
                 <gd>Tha Màiri dìreach air tighinn. / Tha iad dìreach air falbh. / Tha iad dìreach
